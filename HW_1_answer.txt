@@ -1,0 +1,111 @@
+# Homework: CAPM, Three-Factor Model, and Clustering using Python and Yahoo Finance API
+
+## Problem 1: CAPM Model
+**Objective:** Estimate the beta of a stock using the CAPM model and analyze its performance.
+
+### Code:
+```python
+import yfinance as yf
+import pandas as pd
+import numpy as np
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+
+# 1. Data Retrieval
+stock = yf.download('AAPL', start='2020-01-01', end='2023-01-01')['Adj Close']
+index = yf.download('^GSPC', start='2020-01-01', end='2023-01-01')['Adj Close']
+
+# 2. Excess Returns
+risk_free_rate = 0.02 / 252  # Annualized risk-free rate converted to daily
+stock_returns = stock.pct_change().dropna()
+index_returns = index.pct_change().dropna()
+excess_stock_returns = stock_returns - risk_free_rate
+excess_index_returns = index_returns - risk_free_rate
+
+# 3. CAPM Estimation
+X = sm.add_constant(excess_index_returns)
+y = excess_stock_returns
+model = sm.OLS(y, X).fit()
+
+# Regression results
+print(model.summary())
+
+# 4. Analysis
+plt.scatter(excess_index_returns, excess_stock_returns, alpha=0.5, label='Excess Returns')
+plt.plot(excess_index_returns, model.predict(X), color='red', label='CAPM Line')
+plt.xlabel('Excess Market Returns')
+plt.ylabel('Excess Stock Returns')
+plt.legend()
+plt.show()
+```
+
+---
+
+## Problem 2: Fama-French Three-Factor Model
+**Objective:** Extend the analysis to the Fama-French Three-Factor Model.
+
+### Code:
+```python
+# 1. Data Retrieval
+# Fama-French factors can be downloaded from: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+ff_factors = pd.read_csv('F-F_Research_Data_Factors_daily.CSV', skiprows=3, nrows=1000)  # Adjust the path and rows as needed
+ff_factors.columns = ['Date', 'Mkt-RF', 'SMB', 'HML', 'RF']
+ff_factors['Date'] = pd.to_datetime(ff_factors['Date'], format='%Y%m%d')
+ff_factors.set_index('Date', inplace=True)
+
+# Align data
+returns = pd.DataFrame({'Stock': stock_returns, 'RF': ff_factors['RF']})
+returns = returns.dropna()
+returns['Excess Stock'] = returns['Stock'] - returns['RF']
+ff_factors = ff_factors.loc[returns.index]
+
+# 2. Model Estimation
+X = ff_factors[['Mkt-RF', 'SMB', 'HML']]
+y = returns['Excess Stock']
+X = sm.add_constant(X)
+model_ff = sm.OLS(y, X).fit()
+
+# Regression results
+print(model_ff.summary())
+```
+
+---
+
+## Problem 3: Clustering Stocks
+**Objective:** Use clustering to group stocks based on their historical returns.
+
+### Code:
+```python
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+
+# 1. Data Retrieval
+stocks = ['AAPL', 'MSFT', 'AMZN', 'TSLA', 'JPM', 'PFE', 'KO', 'XOM', 'NVDA', 'META']
+data = yf.download(stocks, start='2020-01-01', end='2023-01-01')['Adj Close']
+
+# 2. Feature Engineering
+returns = data.pct_change().dropna()
+summary_stats = returns.describe().T[['mean', 'std']]
+
+# 3. Clustering
+scaler = StandardScaler()
+scaled_stats = scaler.fit_transform(summary_stats)
+kmeans = KMeans(n_clusters=3, random_state=42).fit(scaled_stats)
+summary_stats['Cluster'] = kmeans.labels_
+
+# 4. Visualization
+plt.scatter(summary_stats['mean'], summary_stats['std'], c=summary_stats['Cluster'], cmap='viridis')
+plt.xlabel('Mean Return')
+plt.ylabel('Standard Deviation')
+plt.title('Clustering of Stocks')
+plt.show()
+
+# Cluster interpretation
+print(summary_stats)
+```
+
+---
+
+**Submission Instructions:**
+- Submit a Jupyter Notebook with the complete code and analysis for all three problems.
+- Ensure that plots are labeled appropriately, and all assumptions and interpretations are clearly stated.
