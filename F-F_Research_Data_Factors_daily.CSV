@@ -1,8 +1,4 @@
-This file was created by CMPT_ME_BEME_RETS_DAILY using the 202411 CRSP database.
-The Tbill return is the simple daily rate that, over the number of trading days
-compounds to 1-month TBill rate. The 1-month TBill rate data until 202405 are from Ibbotson Associates. Starting from 202406, the 1-month TBill rate is from ICE BofA US 1-Month Treasury Bill Index.
-
-,Mkt-RF,SMB,HML,RF
+Date,Mkt-RF,SMB,HML,RF
 19260701,    0.10,   -0.25,   -0.27,   0.009
 19260702,    0.45,   -0.33,   -0.06,   0.009
 19260706,    0.17,    0.30,   -0.39,   0.009
@@ -25883,5 +25879,3 @@ compounds to 1-month TBill rate. The 1-month TBill rate data until 202405 are fr
 20241126,    0.42,   -0.92,   -0.71,   0.020
 20241127,   -0.39,    0.28,    0.47,   0.020
 20241129,    0.54,    0.14,   -0.64,   0.020
-
-Copyright 2024 Eugene F. Fama and Kenneth R. French
