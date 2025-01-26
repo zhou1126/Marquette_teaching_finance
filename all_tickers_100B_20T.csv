@@ -1,0 +1,385 @@
+,ticker,name,market_cap,sector,industry
+0,PHSP.L,WisdomTree Physical Silver,19237576860878,Financial Services,Asset Management
+1,CUS1.L,iShares VII PLC - iShares MSCI USA Small Cap ESG Enhanced UCITS ETF USD (Acc),18814904215716,Financial Services,Asset Management
+2,JERE.L,JPMorgan ETFs (Ireland) ICAV - Europe Research Enhanced Index Equity (ESG) UCITS ETF,15339936213852,Financial Services,Asset Management
+3,XOM.MX,Exxon Mobil Corporation,9691173450000,Energy,Oil & Gas Integrated
+4,CE71.L,iShares VII PLC - iShares € Govt Bond 3-7yr UCITS ETF EUR (Acc),7316778997028,Financial Services,Asset Management
+5,BRNG.L,WisdomTree Brent Crude Oil,6920375080575,Financial Services,Asset Management
+6,SEMG.L,Amundi MSCI Semiconductors ESG Screened UCITS ETF,6099608113365,Financial Services,Asset Management
+7,RIEG.L,L&G Europe Equity (Responsible Exclusions) UCITS ETF,5762806374014,Financial Services,Asset Management
+8,NVDA.NE,NVIDIA Corporation,5029306695821,Technology,Semiconductors
+9,AAPL.NE,Apple Inc.,4821035482185,Technology,Consumer Electronics
+10,MSFT.NE,Microsoft Corporation,4621540026089,Technology,Software - Infrastructure
+11,ICSU.L,iShares V PLC - iShares S&P 500 Consumer Staples Sector UCITS ETF,4121295199463,Financial Services,Asset Management
+12,AMZN.NE,"Amazon.com, Inc.",3554950536028,Consumer Cyclical,Specialty Retail
+13,GOOG.NE,Alphabet Inc.,3540254829821,Communication Services,Internet Content & Information
+14,NVDA,NVIDIA Corporation,3492763800000,Technology,Semiconductors
+15,NVD.DE,NVIDIA Corporation,3377171000000,Technology,Semiconductors
+16,AAPL,Apple Inc.,3350143362000,Technology,Consumer Electronics
+17,NVD.F,NVIDIA Corporation,3333089000000,Technology,Semiconductors
+18,MSFT,Microsoft Corporation,3301532812800,Technology,Software - Infrastructure
+19,APC.F,Apple Inc.,3192546170000,Technology,Consumer Electronics
+20,APC.DE,Apple Inc.,3185779115000,Technology,Consumer Electronics
+21,MSF.DE,Microsoft Corporation,3154619584000,Technology,Software - Infrastructure
+22,MSF.F,Microsoft Corporation,3137519360000,Technology,Software - Infrastructure
+23,MLPQ.L,Invesco Morningstar US Energy Infrastructure MLP UCITS ETF,2697429360109,Financial Services,Asset Management
+24,GGRG.L,WisdomTree Global Quality Dividend Growth UCITS ETF,2553828078648,Financial Services,Asset Management - Global
+25,CCL.L,Carnival Corporation & plc,2553819738118,Consumer Cyclical,Leisure
+26,RIOL.L,Lyxor MSCI Brazil UCITS ETF,2507821873913,Financial Services,Asset Management
+27,LMT.MX,Lockheed Martin Corporation,2472038015000,Industrials,Aerospace & Defense
+28,AMZN,"Amazon.com, Inc.",2469447825152,Consumer Cyclical,Specialty Retail
+29,GOOGL,Alphabet Inc.,2460123081194,Communication Services,Internet Content & Information
+30,GOOG,Alphabet Inc.,2459724724790,Communication Services,Internet Content & Information
+31,ABEA.F,Alphabet Inc.,2374039794987,Communication Services,Internet Content & Information
+32,ABEC.F,Alphabet Inc.,2371711916906,Communication Services,Internet Content & Information
+33,ABEA.DE,Alphabet Inc.,2362322912664,Communication Services,Internet Content & Information
+34,ABEC.DE,Alphabet Inc.,2362322912547,Communication Services,Internet Content & Information
+35,AMZ.DE,"Amazon.com, Inc.",2344319250000,Consumer Cyclical,Specialty Retail
+36,VSMPX,Vanguard Total Stock Mkt Idx Instl Pls,2330716536675,,
+37,UPS.MX,"United Parcel Service, Inc.",2314591488900,Industrials,Integrated Freight & Logistics
+38,META.NE,"Meta Platforms, Inc.",2312843558886,Communication Services,Internet Content & Information
+39,TSLA.NE,"Tesla, Inc.",1904971192898,Consumer Cyclical,Auto - Manufacturers
+40,AGAP.L,WisdomTree Agriculture,1725511792104,Financial Services,Asset Management
+41,AT1D.L,Invesco AT1 Capital Bond ETF,1682473222389,Financial Services,Asset Management - Bonds
+42,META,"Meta Platforms, Inc.",1634580965626,Communication Services,Internet Content & Information
+43,FB2A.F,"Meta Platforms, Inc.",1576256899968,Communication Services,Internet Content & Information
+44,FB2A.DE,"Meta Platforms, Inc.",1569599544640,Communication Services,Internet Content & Information
+45,UB17.L,UBS (Lux) Fund Solutions – MSCI EMU Value UCITS ETF,1539439239468,Financial Services,Asset Management
+46,CARP.L,WisdomTree Carbon,1499541564646,Financial Services,Asset Management
+47,AUCP.L,L&G Gold Mining UCITS ETF,1496190381630,Financial Services,Asset Management
+48,RIUG.L,L&G US Equity (Responsible Exclusions) UCITS ETF,1482739113745,Financial Services,Asset Management
+49,BRK.NE,Berkshire Hathaway Inc.,1437636501387,Financial Services,Insurance - Diversified
+50,ORA.TA,"Ormat Technologies, Inc.",1400635740000,Utilities,Renewable Utilities
+51,VFIAX,Vanguard 500 Index Fd Admiral Shs,1349436177877,,
+52,VOO,Vanguard 500 Index Fund,1349194823922,Financial Services,Asset Management
+53,TSLA,"Tesla, Inc.",1305146194800,Consumer Cyclical,Auto - Manufacturers
+54,TL0.DE,"Tesla, Inc.",1262837604000,Consumer Cyclical,Auto - Manufacturers
+55,VITSX,Vanguard Total Stock Market Index Fund,1242461634425,Financial Services,Asset Management
+56,VTSAX,Vanguard Total Stock Market Index Fund,1242292289523,Financial Services,Asset Management
+57,PHPP.L,WisdomTree Physical Precious Metals,1217109395216,Financial Services,Asset Management
+58,AVGO,Broadcom Inc.,1146996992000,Technology,Semiconductors
+59,ISF.L,iShares Core FTSE 100 UCITS ETF GBP (Dist),1144557092735,Financial Services,Asset Management
+60,0YXG.L,Broadcom Inc.,1136727454976,Technology,Semiconductors
+61,GLTA.L,Invesco UK Gilts UCITS ETF,1101322010118,Financial Services,Asset Management
+62,WMT.NE,Walmart Inc.,1095472292929,Consumer Defensive,Discount Stores
+63,1YD.DE,Broadcom Inc.,1093795456000,Technology,Semiconductors
+64,JPM.NE,JPMorgan Chase & Co.,1077478573310,Financial Services,Banks - Diversified
+65,PRIE.L,Amundi Index Solutions - Amundi Prime Europe,1021639422251,Financial Services,Asset Management
+66,BRK-B,Berkshire Hathaway Inc.,998727190375,Financial Services,Insurance - Diversified
+67,BRK-A,Berkshire Hathaway Inc.,998726515362,Financial Services,Insurance - Diversified
+68,NGSP.L,WisdomTree Natural Gas,969958165235,Financial Services,Asset Management
+69,BRKA.VI,Berkshire Hathaway Inc.,959023596000,Financial Services,Insurance - Diversified
+70,BRYN.DE,Berkshire Hathaway Inc.,951980488418,Financial Services,Insurance - Diversified
+71,VISA.NE,Visa Inc.,908121800932,Financial Services,Financial - Credit Services
+72,CNUA.L,UBS (Irl) Fund Solutions plc - MSCI China A SF UCITS ETF,873225358938,Financial Services,Asset Management
+73,JURE.L,JPMorgan ETFs (Ireland) ICAV - US Research Enhanced Index Equity (ESG) UCITS ETF,796551552036,Financial Services,Asset Management
+74,PSH.L,"Pershing Square Holdings, Ltd.",768025892380,Financial Services,Asset Management
+75,WMT,Walmart Inc.,761244036400,Consumer Defensive,Discount Stores
+76,JPM,JPMorgan Chase & Co.,745614645600,Financial Services,Banks - Diversified
+77,LLY,Eli Lilly and Company,745602279560,Healthcare,Drug Manufacturers - General
+78,WMT.DE,Walmart Inc.,723406769500,Consumer Defensive,Discount Stores
+79,CMC.DE,JPMorgan Chase & Co.,709465680000,Financial Services,Banks - Diversified
+80,LLY.DE,Eli Lilly and Company,709044120400,Healthcare,Drug Manufacturers - General
+81,MA.NE,Mastercard Incorporated,704639031517,Financial Services,Financial - Credit Services
+82,XOM.NE,Exxon Mobil Corporation,682456449007,Energy,Oil & Gas Integrated
+83,LLY.SW,Eli Lilly and Company,650281460000,Healthcare,Drug Manufacturers - General
+84,V,Visa Inc.,647533405997,Financial Services,Financial - Credit Services
+85,BULP.L,WisdomTree Gold,642224737393,Financial Services,Asset Management
+86,VTI,Vanguard Total Stock Market Index Fund,624811835096,Financial Services,Asset Management
+87,FXAIX,Fidelity 500 Index Fund,619447582681,Financial Services,Asset Management
+88,3V64.DE,Visa Inc.,618043923071,Financial Services,Financial - Credit Services
+89,FEUD.L,First Trust Eurozone AlphaDEX UCITS ETF,611128300088,Financial Services,Asset Management
+90,NFLX.NE,"Netflix, Inc.",605823006931,Communication Services,Entertainment
+91,IVV,iShares Core S&P 500 ETF,604925708659,Financial Services,Asset Management
+92,COST.NE,Costco Wholesale Corporation,602124407144,Consumer Defensive,Discount Stores
+93,HD.NE,"The Home Depot, Inc.",593930054014,Consumer Cyclical,Home Improvement
+94,SPY,SPDR S&P 500 ETF Trust,557983923756,Financial Services,Asset Management
+95,XSEN.L,Xtrackers MSCI USA Energy UCITS ETF,557832785890,Financial Services,Asset Management
+96,ORCL,Oracle Corporation,513521856000,Technology,Software - Infrastructure
+97,FASA.L,Invesco Markets II plc - Invesco FTSE All Share ESG Climate UCITS ETF,509050509870,Financial Services,Asset Management
+98,BOFA.NE,Bank of America Corporation,508084469230,Financial Services,Banks - Diversified
+99,ORC.DE,Oracle Corporation,491034297600,Technology,Software - Infrastructure
+100,UNH,UnitedHealth Group Incorporated,490060432840,Healthcare,Medical - Healthcare Plans
+101,MA,Mastercard Incorporated,485885620320,Financial Services,Financial - Credit Services
+102,XOM,Exxon Mobil Corporation,477570479400,Energy,Oil & Gas Integrated
+103,PQVG.L,Invesco S&P 500 QVM UCITS ETF,474950696145,Financial Services,Asset Management
+104,SBUY.L,Invesco Global Buyback Achievers UCITS ETF,470233938412,Financial Services,Asset Management - Global
+105,UNH.DE,UnitedHealth Group Incorporated,464651391600,Healthcare,Medical - Healthcare Plans
+106,M4I.DE,Mastercard Incorporated,463671988800,Financial Services,Financial - Credit Services
+107,CRM.NE,"Salesforce, Inc.",462279373710,Technology,Software - Application
+108,XONA.DE,Exxon Mobil Corporation,456298243800,Energy,Oil & Gas Integrated
+109,VXUS,Vanguard Total Intl Stock Idx Fund,432569404309,Financial Services,Asset Management
+110,VTIAX,Vanguard Total International Stock Index Fd Admiral,431861202917,,
+111,NFLX,"Netflix, Inc.",417878666220,Communication Services,Entertainment
+112,COST,Costco Wholesale Corporation,417123012320,Consumer Defensive,Discount Stores
+113,0I47.L,Costco Wholesale Corporation,414737055195,Consumer Defensive,Discount Stores
+114,HD,"The Home Depot, Inc.",411748963500,Consumer Cyclical,Home Improvement
+115,ESES.L,Invesco MSCI Emerging Markets ESG Universal Screened UCITS ETF,409220728195,Financial Services,Asset Management
+116,DKNG1.MX,DraftKings Inc.,405706496000,Technology,Media & Entertainment
+117,CTO.DE,Costco Wholesale Corporation,397999843400,Consumer Defensive,Discount Stores
+118,NFC.DE,"Netflix, Inc.",396894753000,Communication Services,Entertainment
+119,XMAW.L,Xtrackers MSCI AC World ESG Screened UCITS ETF,392281502823,Financial Services,Asset Management
+120,HDI.DE,"The Home Depot, Inc.",391583694600,Consumer Cyclical,Home Improvement
+121,PG,The Procter & Gamble Company,384836782000,Consumer Defensive,Household & Personal Products
+122,PRG.DE,The Procter & Gamble Company,365890394000,Consumer Defensive,Household & Personal Products
+123,OPK.TA,"OPKO Health, Inc.",355911200000,Healthcare,Medical - Diagnostics & Research
+124,BACRP,Bank of America Corporation PFD SER B 7%,354057317800,Financial Services,Banks - Diversified
+125,BAC,Bank of America Corporation,354057207200,Financial Services,Banks - Diversified
+126,JNJ,Johnson & Johnson,353486768400,Healthcare,Drug Manufacturers - General
+127,VMCPX,Vanguard Mid-Cap Index Fund Institutional Plus Shares,348525887125,Financial Services,Asset Management
+128,BND,Vanguard Total Bond Market Index Fund,342275940190,Financial Services,Asset Management - Bonds
+129,VBTLX,Vanguard Total Bond Market Index Fund Admiral Shares,342038380541,Financial Services,Asset Management - Bonds
+130,VBMFX,Vanguard Total Bond Market Index Fund Investor Shares,342038380541,Financial Services,Asset Management - Bonds
+131,ECRP.L,Amundi Index Solutions - Amundi Index Euro Corporate SRI UCITS ETF DR,340131470947,Financial Services,Asset Management
+132,NCB.DE,Bank of America Corporation,338569107100,Financial Services,Banks - Diversified
+133,JNJ.DE,Johnson & Johnson,336681580800,Healthcare,Drug Manufacturers - General
+134,M&MFIN.NS,Mahindra & Mahindra Financial Services Limited,330996168634,Financial Services,Financial - Credit Services
+135,CEU1.L,iShares VII PLC -iShares Core MSCI EMU UCITS ETF EUR (Acc),323989648717,Financial Services,Asset Management
+136,VIMAX,Vanguard Mid-Cap Index Fund Admiral Shares,319901990665,Financial Services,Asset Management
+137,CRM,"Salesforce, Inc.",319523160000,Technology,Software - Application
+138,TMO.NE,Thermo Fisher Scientific Inc.,316419997120,Healthcare,Medical - Diagnostics & Research
+139,VINIX,Vanguard Institutional Index Fund Institutional Shares,314898087924,Financial Services,Asset Management
+140,VIIIX,Vanguard Institutional Index Fund,314898087652,Financial Services,Asset Management
+141,RCIT,"Reelcause, Inc.",312973391203,Industrials,Industrial - Machinery
+142,FOO.F,"Salesforce, Inc.",307197000000,Technology,Software - Application
+143,FOO.DE,"Salesforce, Inc.",305617950000,Technology,Software - Application
+144,ABBV,AbbVie Inc.,300943942000,Healthcare,Drug Manufacturers - General
+145,IBM.NE,International Business Machines Corporation,299122507749,Technology,Information Technology Services
+146,EEI.L,WisdomTree Europe Equity Income UCITS ETF,297142466929,Financial Services,Asset Management - Income
+147,ESPS.L,Invesco Markets II plc - Invesco MSCI Pacific Ex Japan ESG Universal Screened UCITS ETF,294311922000,Financial Services,Asset Management
+148,DIS.NE,The Walt Disney Company,292293780838,Communication Services,Entertainment
+149,GS.NE,"The Goldman Sachs Group, Inc.",288883767799,Financial Services,Financial - Capital Markets
+150,AMD.NE,"Advanced Micro Devices, Inc.",287336624912,Technology,Semiconductors
+151,4AB.DU,AbbVie Inc.,286524079600,Healthcare,Medical - Pharmaceuticals
+152,4AB.DE,AbbVie Inc.,286418051200,Healthcare,Drug Manufacturers - General
+153,CVX,Chevron Corporation,279717058500,Energy,Oil & Gas Integrated
+154,RGAGX,American Funds The Growth Fund of America Class R-6,279395729357,Financial Services,Asset Management
+155,GAFFX,American Funds The Growth Fund of America Class F-3,279077126137,Financial Services,Asset Management
+156,AGTHX,American Funds The Growth Fund of America Class A,279006281694,Financial Services,Asset Management
+157,GFAFX,The Growth Fund of America Class F-1 Shares,276386512833,Financial Services,Asset Management
+158,CGFAX,American Funds Growth Fund of Amer 529A,274120769495,,
+159,CHV.DE,Chevron Corporation,267694526400,Energy,Oil & Gas Integrated
+160,KO,The Coca-Cola Company,266738976000,Consumer Defensive,Beverages - Non-Alcoholic
+161,WFC,Wells Fargo & Company,254297748000,Financial Services,Banks - Diversified
+162,TMUS,"T-Mobile US, Inc.",253648299300,Communication Services,Telecommunications Services
+163,CCC3.DE,The Coca-Cola Company,252781704000,Consumer Defensive,Beverages - Non-Alcoholic
+164,0R2L.L,"T-Mobile US, Inc.",252406575000,Communication Services,Telecommunications Services
+165,RGABX,American Funds The Growth Fund of America Class R-2,248737267670,Financial Services,Asset Management
+166,CSCO,"Cisco Systems, Inc.",247847154800,Technology,Communication Equipment
+167,NWT.DE,Wells Fargo & Company,245583182400,Financial Services,Banks - Diversified
+168,RGAAX,The Growth Fund of America Class R-1 Shares,244665974720,Financial Services,Asset Management
+169,MRK,"Merck & Co., Inc.",241707102000,Healthcare,Drug Manufacturers - General
+170,TM5.DE,"T-Mobile US, Inc.",239583160500,Communication Services,Telecommunications Services
+171,GFACX,American Funds The Growth Fund of America,238789165000,Financial Services,Asset Management
+172,ABALX,American Funds American Balanced Fund Class A,236071026687,Financial Services,Asset Management
+173,BALFX,"American Funds American Balanced Fund, Class F-1 Shs",236071026681,Financial Services,Asset Management
+174,CIS.DE,"Cisco Systems, Inc.",235620081600,Technology,Communication Equipment
+175,NOW,"ServiceNow, Inc.",231745880000,Technology,Software - Application
+176,0L5N.L,"ServiceNow, Inc.",230715880000,Technology,Software - Services
+177,6MK.DE,"Merck & Co., Inc.",230450204000,Healthcare,Drug Manufacturers - General
+178,VEMPX,Vanguard Extended Market Index InstlPlus,228390682433,,
+179,AXP,American Express Company,226366356300,Financial Services,Financial - Credit Services
+180,VB,Vanguard Small Cap Index Fund,222463311703,Financial Services,Asset Management
+181,0QYU.L,Morgan Stanley,222290493680,Financial Services,Financial - Diversified
+182,MS,Morgan Stanley,222033532800,Financial Services,Financial - Capital Markets
+183,TMO,Thermo Fisher Scientific Inc.,219868650000,Healthcare,Medical - Diagnostics & Research
+184,0R0H.L,Thermo Fisher Scientific Inc.,219868649934,Healthcare,Medical - Pharmaceuticals
+185,ABT,Abbott Laboratories,216859533800,Healthcare,Medical - Devices
+186,BLK.NE,"BlackRock, Inc.",215691823656,Financial Services,Asset Management
+187,BBN1.F,Blackstone Inc.,214805367525,Financial Services,Asset Management
+188,GE,General Electric Company,212940557500,Industrials,Aerospace & Defense
+189,PFE.NE,Pfizer Inc.,212766982404,Healthcare,Drug Manufacturers - General
+190,DWD.DE,Morgan Stanley,212270630400,Financial Services,Financial - Capital Markets
+191,AEC1.DE,American Express Company,211544833500,Financial Services,Financial - Credit Services
+192,TN8.DE,Thermo Fisher Scientific Inc.,209571750000,Healthcare,Medical - Diagnostics & Research
+193,QQQ,Invesco QQQ Trust,208197549822,Financial Services,Asset Management
+194,ISRG,"Intuitive Surgical, Inc.",208026344950,Healthcare,Medical - Instruments & Supplies
+195,IBM,International Business Machines Corporation,207860196000,Technology,Information Technology Services
+196,0R29.L,"Intuitive Surgical, Inc.",207616739100,Healthcare,Medical - Equipment & Services
+197,ABL.DE,Abbott Laboratories,205845712800,Healthcare,Medical - Devices
+198,PEP,"PepsiCo, Inc.",204591148800,Consumer Defensive,Beverages - Non-Alcoholic
+199,MCD,McDonald's Corporation,204566345200,Consumer Cyclical,Restaurants
+200,DIS,The Walt Disney Company,203115030400,Communication Services,Entertainment
+201,MER-PK,Merrill Lynch Capital Trust I GTD CAP 6.45%,202414274400,,
+202,GS,"The Goldman Sachs Group, Inc.",199929279000,Financial Services,Financial - Capital Markets
+203,VEMRX,Vanguard Emerging Mkts Stock Idx InsPlus,199618838453,,
+204,AMD,"Advanced Micro Devices, Inc.",199345980400,Technology,Semiconductors
+205,IBM.DE,International Business Machines Corporation,198844907250,Technology,Information Technology Services
+206,950130.KQ,"Access Bio, Inc.",198090668760,Healthcare,Medical - Diagnostics & Research
+207,PM,Philip Morris International Inc.,197898762400,Consumer Defensive,Tobacco
+208,CAT,Caterpillar Inc.,196804986890,Industrials,Agricultural - Machinery
+209,PEP.DE,"PepsiCo, Inc.",194795140200,Consumer Defensive,Beverages - Non-Alcoholic
+210,WDP.DE,The Walt Disney Company,194676050000,Communication Services,Entertainment
+211,MDO.DE,McDonald's Corporation,194419006000,Consumer Cyclical,Restaurants
+212,WDP.F,The Walt Disney Company,193698142400,Communication Services,Entertainment
+213,VEA,Vanguard Developed Markets Index Fund,192695833714,Financial Services,Asset Management
+214,AMD.DE,"Advanced Micro Devices, Inc.",192075791600,Technology,Semiconductors
+215,VTMGX,Vanguard Developed Markets Index Admiral,191386025980,,
+216,VTMNX,Vanguard Developed Markets Index Fund Institutional Shares,191386025975,Financial Services,Asset Management
+217,QCOM,QUALCOMM Incorporated,191214210000,Technology,Semiconductors
+218,GOS.DE,"The Goldman Sachs Group, Inc.",190480588000,Financial Services,Financial - Capital Markets
+219,0R2Y.L,Adobe Inc.,189951435240,Technology,Software - Services
+220,ADBE,Adobe Inc.,189524832420,Technology,Software - Infrastructure
+221,CAT1.DE,Caterpillar Inc.,187327564000,Industrials,Agricultural - Machinery
+222,4I1.DE,Philip Morris International Inc.,187263725200,Consumer Defensive,Tobacco
+223,RLI.VI,Reliance Industries Limited,187218027557,Energy,Oil & Gas Refining & Marketing
+224,VTV,Vanguard Value Index Fund,184025672826,Financial Services,Asset Management
+225,LDME.L,L&G Quality Equity Dividends ESG Exclusions Emerging Markets UCITS ETF,183304142698,Financial Services,Asset Management
+226,GCEX.L,Invesco Markets II plc - Invesco Global Clean Energy UCITS ETF,183202028416,Financial Services,Asset Management
+227,QCI.DE,QUALCOMM Incorporated,182698859200,Technology,Semiconductors
+228,ADB.DE,Adobe Inc.,182046223800,Technology,Software - Infrastructure
+229,PLTR,Palantir Technologies Inc.,179918028762,Technology,Software - Infrastructure
+230,VIGIX,Vanguard Growth Index Institutional,179558596540,,
+231,VIGAX,Vanguard Growth Index Fd Admiral Shs,179550371761,,
+232,0R2B.L,Danaher Corporation,177961337250,Healthcare,Medical - Equipment & Services
+233,DHR,Danaher Corporation,177535195000,Healthcare,Medical - Diagnostics & Research
+234,PANW.NE,"Palo Alto Networks, Inc.",177479116063,Technology,Software - Infrastructure
+235,VO,Vanguard Mid Cap Index Fund,176948956341,Financial Services,Asset Management
+236,WWH.L,Worldwide Healthcare Trust PLC,175890394671,Financial Services,Asset Management
+237,PONPX,PIMCO Income Fund,171206737911,Financial Services,Asset Management - Income
+238,PIMIX,PIMCO Income Fund Institutional Class,171206737911,Financial Services,Asset Management - Income
+239,DAP.DE,Danaher Corporation,169626285629,Healthcare,Medical - Diagnostics & Research
+240,0R2H.L,Texas Instruments Incorporated,169608506810,Technology,Semiconductors
+241,TXN,Texas Instruments Incorporated,169234497840,Technology,Semiconductors
+242,INTU,Intuit Inc.,167376370150,Technology,Software - Application
+243,0JCT.L,Intuit Inc.,167118846510,Technology,Software - Services
+244,RTX,RTX Corporation,166790116200,Industrials,Aerospace & Defense
+245,VZ,Verizon Communications Inc.,166448770200,Communication Services,Telecommunications Services
+246,PTX.F,Palantir Technologies Inc.,164290171000,Technology,Software - Infrastructure
+247,TII.DE,Texas Instruments Incorporated,163213865640,Technology,Semiconductors
+248,T,AT&T Inc.,163022588800,Communication Services,Telecommunications Services
+249,ANET,"Arista Networks, Inc.",162723199200,Technology,Computer Hardware
+250,0HHR.L,"Arista Networks, Inc.",161790976800,Technology,Computer Hardware
+251,TBB,AT&T Inc. 5.35% GLB NTS 66,161659267487,Communication Services,Telecommunications Services
+252,ITU.DE,Intuit Inc.,159944573800,Technology,Software - Application
+253,SPGI,S&P Global Inc.,159416625000,Financial Services,Financial - Data & Stock Exchanges
+254,0KYY.L,S&P Global Inc.,159416624763,Financial Services,Financial - Diversified
+255,TXGE,"Texas Gulf Energy, Incorporated",159352982300,Energy,Oil & Gas Equipment & Services
+256,5UR.DE,RTX Corporation,159269853200,Industrials,Aerospace & Defense
+257,BAC.DE,Verizon Communications Inc.,159145062150,Communication Services,Telecommunications Services
+258,BLK,"BlackRock, Inc.",158046275550,Financial Services,Asset Management
+259,0QZZ.L,"BlackRock, Inc.",157762846980,Financial Services,Financial - Diversified
+260,BKNG,Booking Holdings Inc.,157702134863,Consumer Cyclical,Travel Services
+261,SOBA.DE,AT&T Inc.,154663375950,Communication Services,Telecommunications Services
+262,AICFX,American Funds Investment Co of America Cl F-1 Shs,153466109902,Financial Services,Asset Management
+263,FCNTX,Fidelity Contrafund Fund,152996380659,Financial Services,Asset Management
+264,C,Citigroup Inc.,152946108000,Financial Services,Banks - Diversified
+265,AMAT,"Applied Materials, Inc.",151955673750,Technology,Semiconductors
+266,0R2E.L,Union Pacific Corporation,151752189670,Industrials,General Transportation
+267,PCE1.DE,Booking Holdings Inc.,151119532200,Consumer Cyclical,Travel Services
+268,UNP,Union Pacific Corporation,150824616460,Industrials,Railroads
+269,SYK,Stryker Corporation,150317280960,Healthcare,Medical - Devices
+270,BSX,Boston Scientific Corporation,150242230200,Healthcare,Medical - Devices
+271,0HOY.L,Boston Scientific Corporation,149947464200,Healthcare,Medical - Equipment & Services
+272,NEE,"NextEra Energy, Inc.",149767612000,Utilities,Regulated Electric
+273,0K80.L,"NextEra Energy, Inc.",149704891800,Utilities,General Utilities
+274,0R2S.L,Stryker Corporation,149463357120,Healthcare,Medical - Equipment & Services
+275,LOW,"Lowe's Companies, Inc.",148051230000,Consumer Cyclical,Home Improvement
+276,0JVQ.L,"Lowe's Companies, Inc.",148051229880,Consumer Cyclical,Specialty Retail
+277,AMGN,Amgen Inc.,148047338860,Healthcare,Drug Manufacturers - General
+278,PFE,Pfizer Inc.,147851769100,Healthcare,Drug Manufacturers - General
+279,KKR,KKR & Co. Inc.,147028546370,Financial Services,Asset Management
+280,TRVC.DE,Citigroup Inc.,146338716000,Financial Services,Banks - Diversified
+281,0L3I.L,The Charles Schwab Corporation,146216865600,Financial Services,Financial - Diversified
+282,0Z1W.L,KKR & Co. Inc.,146202493400,Financial Services,Financial - Diversified
+283,AP2.DE,"Applied Materials, Inc.",145863575480,Technology,Semiconductors
+284,SCHW,The Charles Schwab Corporation,145629577800,Financial Services,Financial - Capital Markets
+285,UBER,"Uber Technologies, Inc.",144367477600,Technology,Software - Application
+286,HON,Honeywell International Inc.,144036212970,Industrials,Conglomerates
+287,CMCSA,Comcast Corporation,143599302000,Communication Services,Telecommunications Services
+288,UNP.DE,Union Pacific Corporation,143561657600,Industrials,Railroads
+289,BX,Blackstone Inc.,143418453505,Financial Services,Asset Management
+290,NPFFX,"New Perspective Fund, Class F-1 Shares",142257766358,Financial Services,Asset Management
+291,ANWPX,American Funds New Perspective Fund Class A,142257766358,Financial Services,Asset Management
+292,BSX.F,Boston Scientific Corporation,142224595000,Healthcare,Medical - Devices
+293,AGGP.L,WisdomTree Grains,142176867530,Financial Services,Asset Management
+294,VGSLX,Vanguard Real Estate Index Fund Admiral Shares,141458145173,Real Estate,Real Estate - General
+295,AFIFX,"Fundamental Investors, Class F01 Shares",140811861985,Financial Services,Asset Management
+296,AMG.DE,Amgen Inc.,140806769350,Healthcare,Drug Manufacturers - General
+297,PFE.DE,Pfizer Inc.,140598021900,Healthcare,Drug Manufacturers - General
+298,PFE.F,Pfizer Inc.,140116327750,Healthcare,Drug Manufacturers - General
+299,PGR,The Progressive Corporation,139903621840,Financial Services,Insurance - Property & Casualty
+300,ALD.DE,Honeywell International Inc.,139900642050,Industrials,Conglomerates
+301,0KOC.L,The Progressive Corporation,139245637802,Financial Services,Insurance - Property & Casualty
+302,UT8.DE,"Uber Technologies, Inc.",138639946400,Industrials,General Transportation
+303,TJX,"The TJX Companies, Inc.",137968156800,Consumer Cyclical,Apparel - Retail
+304,0LCE.L,"The TJX Companies, Inc.",137968156730,Consumer Cyclical,Apparel - Retail
+305,MARA.MX,"Marathon Digital Holdings, Inc.",137928238620,Financial Services,Financial - Capital Markets
+306,CTP2.DE,Comcast Corporation,135678819500,Communication Services,Telecommunications Services
+307,BA,The Boeing Company,131723866560,Industrials,Aerospace & Defense
+308,COP,ConocoPhillips,131723214800,Energy,Oil & Gas Exploration & Production
+309,0QZA.L,ConocoPhillips,131723214776,Energy,Oil & Gas Energy
+310,DE,Deere & Company,130393488270,Industrials,Agricultural - Machinery
+311,KOS.L,Kosmos Energy Ltd.,130243020000,Energy,Oil & Gas Exploration & Production
+312,0R2P.L,Deere & Company,129835168720,Industrials,Industrial - Capital Goods
+313,PYPL.NE,"PayPal Holdings, Inc.",129454326573,Financial Services,Financial - Credit Services
+314,INTC.NE,Intel Corporation,129390457386,Technology,Semiconductors
+315,BCO.DE,The Boeing Company,126741014400,Industrials,Aerospace & Defense
+316,YCP.DE,ConocoPhillips,126393747600,Energy,Oil & Gas Exploration & Production
+317,AEGFX,American Funds EuroPacific Growth Cl F-1 Shs,125538746338,Financial Services,Asset Management
+318,RERGX,American Funds EuroPacific Growth Fund Class R-6,125538746322,Financial Services,Asset Management
+319,NOV.MX,NOV Inc.,125456244638,Energy,Oil & Gas Equipment & Services
+320,CWGFX,American Funds Capital World Growth & Income Fund Class F-1 Shs,124483624952,Financial Services,Asset Management - Income
+321,RWICX,American Funds Capital World Growth and Income Fund Class R-3,124483624904,Financial Services,Asset Management - Income
+322,AMECX,American Funds The Income Fund of America Class A,124343017455,Financial Services,Asset Management - Income
+323,IFAFX,"The Income Fund of America, Class F-1 Shares",124343017454,Financial Services,Asset Management - Income
+324,DCO.DE,Deere & Company,123443090750,Industrials,Agricultural - Machinery
+325,PANW,"Palo Alto Networks, Inc.",123168740000,Technology,Software - Infrastructure
+326,0KF5.L,"Palo Alto Networks, Inc.",123109682000,Technology,Software - Services
+327,APP,AppLovin Corporation,121853384396,Technology,Software - Application
+328,0HJI.L,"Automatic Data Processing, Inc.",121352918310,Technology,Software - Services
+329,ADP,"Automatic Data Processing, Inc.",121055474700,Industrials,Staffing & Employment Services
+330,BMY,Bristol-Myers Squibb Company,121021500600,Healthcare,Drug Manufacturers - General
+331,BMYMP,Bristol-Myers Squibb Company PFD CONV 2,121021295855,Healthcare,Drug Manufacturers - General
+332,AGG,iShares Core U.S. Aggregate Bond ETF,119917955563,Financial Services,Asset Management
+333,IBTL.L,iShares $ Treasury Bond 20+yr UCITS ETF USD (Dist),118944363233,Financial Services,Asset Management - Bonds
+334,FI,"Fiserv, Inc.",118813043960,Technology,Information Technology Services
+335,0IP9.L,"Fiserv, Inc.",118813043943,Technology,Software - Services
+336,IEFA,iShares Core MSCI EAFE ETF,118648064847,Financial Services,Asset Management
+337,INDV.L,Indivior PLC,118591320000,Healthcare,Drug Manufacturers - Specialty & Generic
+338,LMT,Lockheed Martin Corporation,117796913600,Industrials,Aerospace & Defense
+339,0R3E.L,Lockheed Martin Corporation,117687877500,Industrials,Industrial - Capital Goods
+340,IWF,iShares Russell 1000 Growth ETF,117666766754,Financial Services,Asset Management
+341,PAXG.L,Lyxor MSCI Pacific Ex Japan UCITS ETF,116402739600,Financial Services,Asset Management
+342,VSMAX,Vanguard Small Cap Index Fd Admiral Shs,116279803817,,
+343,VSCIX,Vanguard Small-Cap Index Fund Institutional Shares,116270161890,Financial Services,Asset Management
+344,GILD,"Gilead Sciences, Inc.",115990348900,Healthcare,Drug Manufacturers - General
+345,GEV,GE Vernova Inc.,115909321560,Utilities,Renewable Utilities
+346,MU,"Micron Technology, Inc.",114971202300,Technology,Semiconductors
+347,BRM.DE,Bristol-Myers Squibb Company,114876115200,Healthcare,Drug Manufacturers - General
+348,AMAP.L,Saturna Al-Kawthar Global Focused Equity UCITS ETF,114845040604,Financial Services,Asset Management
+349,0R08.L,"United Parcel Service, Inc.",113523772315,Industrials,General Transportation
+350,UPS,"United Parcel Service, Inc.",113523768796,Industrials,Integrated Freight & Logistics
+351,VRTX,Vertex Pharmaceuticals Incorporated,113214898980,Healthcare,Biotechnology
+352,0QZU.L,Vertex Pharmaceuticals Incorporated,113214898703,Healthcare,Medical - Pharmaceuticals
+353,VWENX,Vanguard Wellington Fund Admiral Shares,112270622710,Financial Services,Asset Management
+354,VWELX,Vanguard Wellington Fund,112270622692,Financial Services,Asset Management
+355,SBUX,Starbucks Corporation,112030778000,Consumer Cyclical,Restaurants
+356,LOM.DE,Lockheed Martin Corporation,111833113000,Industrials,Aerospace & Defense
+357,GIS.DE,"Gilead Sciences, Inc.",110967880800,Healthcare,Drug Manufacturers - General
+358,MTE.DE,"Micron Technology, Inc.",110224838100,Technology,Semiconductors
+359,PLD,"Prologis, Inc.",110149992750,Real Estate,REIT - Industrial
+360,0KOD.L,"Prologis, Inc.",110149992643,Real Estate,REIT - Industrial
+361,NKE,"NIKE, Inc.",108820045011,Consumer Cyclical,Apparel - Footwear & Accessories
+362,CEG,Constellation Energy Corporation,108667627504,Utilities,Renewable Utilities
+363,EP-PC,El Paso Energy Capital Trust I PFD CV TR SECS,108366940000,Energy,Oil & Gas Midstream
+364,VX1.DE,Vertex Pharmaceuticals Incorporated,107840268750,Healthcare,Biotechnology
+365,ADI,"Analog Devices, Inc.",107838778590,Technology,Semiconductors
+366,0HFN.L,"Analog Devices, Inc.",107838778462,Technology,Semiconductors
+367,MMC,"Marsh & McLennan Companies, Inc.",107536073120,Financial Services,Insurance - Brokers
+368,MRVL,"Marvell Technology, Inc.",107314506000,Technology,Semiconductors
+369,TFGS.L,Tetragon Financial Group Limited,107176080000,Financial Services,Asset Management
+370,SRB.DE,Starbucks Corporation,106089666000,Consumer Cyclical,Restaurants
+371,CIBFX,Capital  Income Builder Cl F-1 Shs,105612312564,Financial Services,Asset Management - Income
+372,FSKAX,Fidelity Total Market Index Fund,104683249598,Financial Services,Asset Management
+373,NKE.DE,"NIKE, Inc.",104493993679,Consumer Cyclical,Apparel - Footwear & Accessories
+374,SEEGX,JPMorgan Large Cap Growth Fund I Class,103792197590,Financial Services,Asset Management
+375,JLGRX,JPMorgan Large Cap Growth Fund,103792197590,Financial Services,Asset Management
+376,JLGMX,JPMorgan Large Cap Growth Fund Class R6,103792197588,Financial Services,Asset Management
+377,VDADX,Vanguard Dividend Appreciation Index Fund Admiral Shs,103017144277,Financial Services,Asset Management
+378,VIG,Vanguard Dividend Appreciation Index Fund,102950977026,Financial Services,Asset Management
+379,0HW4.L,"Charter Communications, Inc.",102730683081,Technology,Media & Entertainment
+380,VUG,Vanguard Growth Index Fund,102641245948,Financial Services,Asset Management
+381,LRCX,Lam Research Corporation,102522662400,Technology,Semiconductors
+382,0JT5.L,Lam Research Corporation,101647720000,Technology,Semiconductors
+383,KLAC,KLA Corporation,100295922450,Technology,Semiconductors
