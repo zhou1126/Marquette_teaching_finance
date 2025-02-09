@@ -1,0 +1,58 @@
+<h1>Assignment 2: Loan Data Analysis</h1>
+<h2>Objective</h2>
+<p>This assignment focuses on two key machine learning techniques: clustering analysis and classification using logistic regression. You will analyze the provided dataset (<code>credit_risk_dataset.csv</code>) and draw meaningful insights from your models.</p>
+<hr />
+<h2>Data Explanation</h2>
+<ol>
+<li>person_age: Age</li>
+<li>person_income: Annual Income</li>
+<li>person_home_ownership: Home ownership</li>
+<li>person_emp_length: Employment length (in years)</li>
+<li>loan_intent: Loan intent</li>
+<li>loan_grade: Loan grade</li>
+<li>loan_amnt: Loan amount</li>
+<li>loan_int_rate: Interest rate</li>
+<li>loan_status: Loan status (0 is non default 1 is default)</li>
+<li>loan_percent_income: Percent income</li>
+<li>cb_person_default_on_file: Historical default</li>
+<li>cb_preson_cred_hist_length: Credit history length</li>
+</ol>
+<hr />
+<h2>Problem 1: Clustering Analysis</h2>
+<h3>Task</h3>
+<p>Perform a clustering analysis on the dataset to identify groups of loan applicants based on numerical variables.</p>
+<h3>Steps</h3>
+<ol>
+<li>Load the dataset and preprocess it:</li>
+<li>Handle missing values appropriately.</li>
+<li>Standardize numerical variables.</li>
+<li>Select relevant numerical columns for clustering (for example, person_age, person_income, person_emp_length, cb_preson_cred_hist_length, etc.). </li>
+<li>Use the <strong>K-Means algorithm</strong> to perform clustering.</li>
+<li>Determine the optimal number of clusters using the <strong>Elbow Method</strong>.</li>
+<li>Fit the K-Means model and assign cluster labels.</li>
+<li>Interpret the clusters:</li>
+<li>What patterns do you observe in the clusters?</li>
+<li>How do different clusters compare in terms of loan characteristics (e.g., loan amount, income, loan status)?</li>
+</ol>
+<hr />
+<h2>Problem 2: Classification Using Logistic Regression</h2>
+<h3>Task</h3>
+<p>Choose one meaningful categorical variable from the dataset and build a logistic regression model to classify <strong>loan status</strong> (default or non-default).</p>
+<h3>Steps</h3>
+<ol>
+<li><strong>Select a categorical variable</strong> (e.g., <code>cb_person_default_on_file</code>, <code>loan_grade</code>, or <code>loan_intent</code>).</li>
+<li><strong>Preprocess data:</strong></li>
+<li>Convert categorical variables into numerical form (e.g., one-hot encoding or label encoding).</li>
+<li>Handle missing values if applicable.</li>
+<li>Split the data into training and testing sets.</li>
+<li><strong>Train a logistic regression model</strong> to predict <code>loan_status</code> (0 or 1).</li>
+<li><strong>Evaluate model performance</strong> using:</li>
+<li><strong>Confusion matrix</strong></li>
+<li><strong>Accuracy, Precision, Recall, and F1-score</strong></li>
+<li><strong>Interpret results:</strong></li>
+<li>What insights can you gain from the logistic regression model?</li>
+<li>What features are most important for predicting loan defaults?</li>
+<li>How reliable is the model for making predictions?</li>
+</ol>
+<hr />
+<p>Good luck!</p>
