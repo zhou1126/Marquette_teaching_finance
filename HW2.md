@@ -1,4 +1,4 @@
-# Assignment 2: Loan Data Analysis
+# Homework: Loan Data Analysis (95%)
 
 ## Objective
 This assignment focuses on two key machine learning techniques: clustering analysis and classification using logistic regression. You will analyze the provided dataset (`credit_risk_dataset.csv`) and draw meaningful insights from your models.
@@ -62,5 +62,26 @@ Choose one meaningful categorical variable from the dataset and build a logistic
 
 ---
 
+## Group Survey (5%)
 
-Good luck!
+Each group (2 or 4 students) will complete a short survey providing feedback on the course. The survey should cover the following aspects:
+1. **Course Rating (1-5 scale):** How would you rate this course overall?
+   - 1: Poor
+   - 2: Fair
+   - 3: Good
+   - 4: Very Good
+   - 5: Excellent
+2. **Difficulty Level (1-5 scale):** How difficult was this course?
+   - 1: Very Easy
+   - 2: Easy
+   - 3: Moderate
+   - 4: Hard
+   - 5: Very Hard
+3. **Pros:** What aspects of the course did you find beneficial?
+4. **Cons:** What challenges did you face in this course?
+5. **Suggestions:** How can this course be improved in future iterations?
+
+Each group should submit one collective response. The feedback will be considered confidential and used to improve the course in the future.
+
+---
+
