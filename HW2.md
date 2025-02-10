@@ -1,4 +1,4 @@
-# Homework: Loan Data Analysis (95%)
+# Assignment 2: Loan Data Analysis (95%)
 
 ## Objective
 This assignment focuses on two key machine learning techniques: clustering analysis and classification using logistic regression. You will analyze the provided dataset (`credit_risk_dataset.csv`) and draw meaningful insights from your models.
