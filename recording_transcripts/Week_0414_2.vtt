@@ -1,0 +1,5728 @@
+WEBVTT
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/24-0
+00:00:05.411 --> 00:00:07.331
+<v Hou, Eric>All right, let me share my scoring.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/26-0
+00:00:09.761 --> 00:00:10.321
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/36-0
+00:00:15.221 --> 00:00:19.370
+<v Hou, Eric>OK.
+In case you guys are using large lankare</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/36-1
+00:00:19.370 --> 00:00:20.661
+<v Hou, Eric>model in your.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/45-0
+00:00:22.091 --> 00:00:24.251
+<v Hou, Eric>Final projects I just wanna show you guys.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/50-0
+00:00:27.291 --> 00:00:29.451
+<v Hou, Eric>How do you actually call the?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/56-0
+00:00:31.331 --> 00:00:34.491
+<v Hou, Eric>Large language model.
+For example open AI API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/75-0
+00:00:39.051 --> 00:00:45.465
+<v Hou, Eric>Have you guys connect to open a IAPI
+before and then you do you know how to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/75-1
+00:00:45.465 --> 00:00:47.491
+<v Hou, Eric>connect to the chat GPI?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/78-0
+00:00:54.041 --> 00:00:54.601
+<v Hollenbach, Patrick>I have not.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/81-0
+00:00:55.121 --> 00:00:55.481
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/87-0
+00:00:55.481 --> 00:00:56.761
+<v Hou, Eric>So just so you can.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/89-0
+00:00:55.961 --> 00:00:58.001
+<v Mertens, Aidric>I do not, but it sounds cool.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/91-0
+00:00:58.241 --> 00:00:58.721
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/97-0
+00:00:58.721 --> 00:01:02.321
+<v Hou, Eric>So just in case you guys need to use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/106-0
+00:01:05.891 --> 00:01:09.371
+<v Hou, Eric>API is in your final project, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/111-0
+00:01:09.371 --> 00:01:11.811
+<v Hou, Eric>So then let me show you how to do it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/115-0
+00:01:12.131 --> 00:01:14.531
+<v Hou, Eric>So you go to open open AI.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/128-0
+00:01:16.481 --> 00:01:20.845
+<v Hou, Eric>Right.
+So that you need to log in and you click</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/128-1
+00:01:20.845 --> 00:01:22.481
+<v Hou, Eric>this API platform.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/137-0
+00:01:25.661 --> 00:01:27.661
+<v Hou, Eric>So you can just continue with Google.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/144-0
+00:01:27.661 --> 00:01:31.781
+<v Hou, Eric>I'm just going to use my own account,
+my personal account.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/148-0
+00:01:36.431 --> 00:01:38.071
+<v Hou, Eric>So then once you log in.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/156-0
+00:01:39.571 --> 00:01:45.851
+<v Hou, Eric>So then open AI provide quite detailed.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/177-0
+00:01:47.571 --> 00:01:52.638
+<v Hou, Eric>Introduction how how you guys are using
+API so then they give you different</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/177-1
+00:01:52.638 --> 00:01:53.571
+<v Hou, Eric>models, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/193-0
+00:01:53.571 --> 00:02:00.898
+<v Hou, Eric>So then you have a four point 103 mini 01.
+So then before you decide what model to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/193-1
+00:02:00.898 --> 00:02:01.251
+<v Hou, Eric>use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/199-0
+00:02:02.891 --> 00:02:04.731
+<v Hou, Eric>Make sure you check pricing.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/203-0
+00:02:05.401 --> 00:02:06.241
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/222-0
+00:02:06.481 --> 00:02:13.480
+<v Hou, Eric>So for example, like you,
+you can see this GPT 41 and based upon 1,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/222-1
+00:02:13.480 --> 00:02:14.921
+<v Hou, Eric>000,000 token.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/226-0
+00:02:15.601 --> 00:02:19.081
+<v Hou, Eric>So this input is 2 point. This is $2.00.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/248-0
+00:02:20.531 --> 00:02:24.595
+<v Hou, Eric>And output is $8,
+so then that means like you ask the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/248-1
+00:02:24.595 --> 00:02:29.411
+<v Hou, Eric>question to charge Apte and charge APD
+return an answer to you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/262-0
+00:02:31.321 --> 00:02:36.601
+<v Hou, Eric>They gonna charge you $2 per 1,000,
+000 token you sent to ChatGPT.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/280-0
+00:02:39.021 --> 00:02:44.781
+<v Hou, Eric>And they gonna charge you $8 when they
+send when ChatGPT or open.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/284-0
+00:02:44.781 --> 00:02:47.261
+<v Hou, Eric>I sent you the answer.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/291-0
+00:02:47.461 --> 00:02:50.901
+<v Hou, Eric>So in total it's $10, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/299-0
+00:02:50.901 --> 00:02:52.981
+<v Hou, Eric>So that you can check batch API price.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/303-0
+00:02:52.981 --> 00:02:53.661
+<v Hou, Eric>You can do this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/309-0
+00:02:53.661 --> 00:02:56.901
+<v Hou, Eric>It's $5. They gave you 50% discount.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/324-0
+00:02:58.411 --> 00:03:03.298
+<v Hou, Eric>But you know, if you, you,
+you you're not using batch you have to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/324-1
+00:03:03.298 --> 00:03:03.891
+<v Hou, Eric>pay $10.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/325-0
+00:03:04.131 --> 00:03:04.971
+<v Hou, Eric>So that's why.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/330-0
+00:03:06.971 --> 00:03:08.211
+<v Hou, Eric>Gpt 4.1.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/334-0
+00:03:08.561 --> 00:03:10.401
+<v Hou, Eric>Is quite expensive model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/369-0
+00:03:11.931 --> 00:03:17.709
+<v Hou, Eric>Unless you're just basically using,
+you send a a pile of pictures to to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/369-1
+00:03:17.709 --> 00:03:23.969
+<v Hou, Eric>ChatGPT to open the I API. Do not use 4.
+1 you you it gonna cost you a lot of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/369-2
+00:03:23.969 --> 00:03:24.451
+<v Hou, Eric>money.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/394-0
+00:03:24.531 --> 00:03:28.893
+<v Hou, Eric>A ton of money if if your goal is to
+analyze, for example,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/394-1
+00:03:28.893 --> 00:03:33.107
+<v Hou, Eric>10K10Q those kind of reports easily,
+you can send 1,000,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/394-2
+00:03:33.107 --> 00:03:35.251
+<v Hou, Eric>000 tokens to to ChatGPT. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/399-0
+00:03:37.011 --> 00:03:38.171
+<v Hou, Eric>So the model I will recommend.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/442-0
+00:03:38.481 --> 00:03:45.556
+<v Hou, Eric>Is you can definitely use a 4.1 mini.
+As you can see it is only $2.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/442-1
+00:03:45.556 --> 00:03:50.237
+<v Hou, Eric>00 point 4 for input and 1.6 for output.
+OK,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/442-2
+00:03:50.237 --> 00:03:59.081
+<v Hou, Eric>so also you can just basically use a 4.1.
+Also really $0.50 the model I usually use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/460-0
+00:03:59.081 --> 00:04:04.805
+<v Hou, Eric>Is a four oh, mini. So that's that's all.
+Be good enough model for anyone to use</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/460-1
+00:04:04.805 --> 00:04:05.441
+<v Hou, Eric>honestly.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/473-0
+00:04:06.211 --> 00:04:11.771
+<v Hou, Eric>And it only cost you 75 cents, $1 million,
+one million tokens sent to open AI.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/481-0
+00:04:12.561 --> 00:04:15.401
+<v Hou, Eric>And receiving answer from open AI OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/500-0
+00:04:16.891 --> 00:04:22.055
+<v Hou, Eric>Do not use 4.
+5 preview and do not use 01 Pro because</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/500-1
+00:04:22.055 --> 00:04:25.211
+<v Hou, Eric>it's just so costly not worth it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/501-0
+00:04:25.411 --> 00:04:25.891
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/520-0
+00:04:25.891 --> 00:04:28.901
+<v Hou, Eric>So then in a real time preview and audio
+preview,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/520-1
+00:04:28.901 --> 00:04:32.091
+<v Hou, Eric>unless you were just building some really
+fancy app.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/528-0
+00:04:32.451 --> 00:04:34.571
+<v Hou, Eric>But don't use it in this class.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/532-0
+00:04:34.571 --> 00:04:36.651
+<v Hou, Eric>It is just so expensive.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/549-0
+00:04:38.251 --> 00:04:42.330
+<v Hou, Eric>You use 40 mini like pretty much gonna
+give you the same output based upon the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/549-1
+00:04:42.330 --> 00:04:43.931
+<v Hou, Eric>data that we use in this class.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/563-0
+00:04:44.401 --> 00:04:50.481
+<v Hou, Eric>As you know, even 4.1 million or 4.
+1 is a good enough model, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/585-0
+00:04:50.481 --> 00:04:58.321
+<v Hou, Eric>So that as you can see there always give
+you like GPT 40 mini 2020, four 07/18.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/601-0
+00:04:58.361 --> 00:05:05.184
+<v Hou, Eric>So this is this is actually the model ID
+we will be using in the in the Python</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/601-1
+00:05:05.184 --> 00:05:05.961
+<v Hou, Eric>code, OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/605-0
+00:05:06.201 --> 00:05:08.281
+<v Hou, Eric>So then if you just type in GPT.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/620-0
+00:05:09.651 --> 00:05:14.691
+<v Hou, Eric>Dash 40 dash mini it won't able to tell
+what kind of model you are.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/652-0
+00:05:15.081 --> 00:05:22.596
+<v Hou, Eric>Actually using so that you have to
+provide these timestamp this 2020 4/07/18</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/652-1
+00:05:22.596 --> 00:05:29.721
+<v Hou, Eric>or 20250414 is the latest model or
+20250414 those kind of models, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/667-0
+00:05:31.251 --> 00:05:35.731
+<v Hou, Eric>So then you can definitely track those
+core concepts here, for example text.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/671-0
+00:05:36.011 --> 00:05:38.251
+<v Hou, Eric>So it just directly give you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/683-0
+00:05:40.131 --> 00:05:42.675
+<v Hou, Eric>For example,
+there is a JavaScript and then since we</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/683-1
+00:05:42.675 --> 00:05:45.171
+<v Hou, Eric>are coding in Python,
+you can click the JavaScript.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/695-0
+00:05:45.481 --> 00:05:49.005
+<v Hou, Eric>And then click Python.
+So this gonna give you the latest</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/695-1
+00:05:49.005 --> 00:05:49.561
+<v Hou, Eric>greatest.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/697-0
+00:05:51.451 --> 00:05:51.571
+<v Hou, Eric>API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/719-0
+00:05:53.851 --> 00:06:00.585
+<v Hou, Eric>Code that you can use your local machine
+connect to the API or you can use a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/719-1
+00:06:00.585 --> 00:06:02.771
+<v Hou, Eric>collab. Contact with API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/721-0
+00:06:02.971 --> 00:06:04.091
+<v Hou, Eric>Or you can use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/732-0
+00:06:06.451 --> 00:06:09.211
+<v Hou, Eric>A GitHub code space to connect to the
+APIs.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/737-0
+00:06:09.211 --> 00:06:11.091
+<v Hou, Eric>So this is the easiest way to do that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/741-0
+00:06:12.241 --> 00:06:14.241
+<v Hou, Eric>Right, so use a Python, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/755-0
+00:06:14.241 --> 00:06:21.927
+<v Hou, Eric>So this is the this is the code we can do
+something you need to do before is in</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/755-1
+00:06:21.927 --> 00:06:24.041
+<v Hou, Eric>your profile now here.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/773-0
+00:06:25.611 --> 00:06:33.251
+<v Hou, Eric>If you click your profile right so then
+you need to generate your own API keys.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/795-0
+00:06:33.571 --> 00:06:37.672
+<v Hou, Eric>So I do have one for this class,
+so this is going to be the secret key.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/795-1
+00:06:37.672 --> 00:06:40.405
+<v Hou, Eric>I will show you.
+But you know after this cloud,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/795-2
+00:06:40.405 --> 00:06:42.171
+<v Hou, Eric>I'm going to delete it so that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/807-0
+00:06:42.681 --> 00:06:45.561
+<v Hou, Eric>You know you're not allow other people to
+use your own.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/808-0
+00:06:45.601 --> 00:06:48.361
+<v Hou, Eric>Your own API, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/820-0
+00:06:48.361 --> 00:06:53.841
+<v Hou, Eric>So then when you do have your API here is,
+here's a usage.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/835-0
+00:06:55.201 --> 00:06:59.573
+<v Hou, Eric>Uh, portal.
+You can actually check how much money you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/835-1
+00:06:59.573 --> 00:07:01.921
+<v Hou, Eric>actually spend on on ChatGPT.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/838-0
+00:07:03.081 --> 00:07:04.481
+<v Hou, Eric>So then you can give them.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/843-0
+00:07:06.131 --> 00:07:07.011
+<v Hou, Eric>A monthly budget.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/863-0
+00:07:08.651 --> 00:07:15.051
+<v Hou, Eric>For ChatGPT to track your your usage of
+the tokens, which is the money, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/885-0
+00:07:15.051 --> 00:07:21.121
+<v Hou, Eric>So then as you can see, I test the call,
+then I I spend less than one cent today I</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/885-1
+00:07:21.121 --> 00:07:24.851
+<v Hou, Eric>I did two requests a day based upon my
+new my new.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/891-0
+00:07:26.981 --> 00:07:28.421
+<v Hou, Eric>API key right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/895-0
+00:07:28.421 --> 00:07:30.741
+<v Hou, Eric>So then you can definitely see the
+historical.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/919-0
+00:07:32.171 --> 00:07:39.037
+<v Hou, Eric>Historical usage I believe if I do this I
+can definitely see some usage from open</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/919-1
+00:07:39.037 --> 00:07:41.131
+<v Hou, Eric>AI. As you can see I use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/930-0
+00:07:41.571 --> 00:07:47.491
+<v Hou, Eric>On this day I use a total like 50,
+000 tokens over there so.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/935-0
+00:07:49.451 --> 00:07:51.131
+<v Hou, Eric>So this is how you track.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/947-0
+00:07:51.331 --> 00:07:55.677
+<v Hou, Eric>So just put $20 here.
+If it hits upper bound it gonna send you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/947-1
+00:07:55.677 --> 00:07:56.091
+<v Hou, Eric>alarm.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/969-0
+00:07:57.121 --> 00:08:00.491
+<v Hou, Eric>You know,
+at at Brady we we do see some folks</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/969-1
+00:08:00.491 --> 00:08:04.961
+<v Hou, Eric>mistakenly spend like thousands of
+dollars by using the API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/971-0
+00:08:05.201 --> 00:08:06.601
+<v Hou, Eric>So Haroon any question?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/985-0
+00:08:08.601 --> 00:08:12.721
+<v Haroon, Sufyan>So since we're doing this similar thing
+for our graduate homework as well.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/987-0
+00:08:13.171 --> 00:08:13.571
+<v Hou, Eric>Yep.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1003-0
+00:08:14.251 --> 00:08:17.571
+<v Haroon, Sufyan>We also use the mini model for the
+homework and how much?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1007-0
+00:08:17.201 --> 00:08:19.201
+<v Hou, Eric>It should be, yeah, it should be OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1025-0
+00:08:19.201 --> 00:08:24.452
+<v Hou, Eric>It should be OK so then and also as you
+can see the model right now accept like 1,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1025-1
+00:08:24.452 --> 00:08:25.401
+<v Hou, Eric>000,000 tokens.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1032-0
+00:08:25.401 --> 00:08:27.961
+<v Hou, Eric>It's good enough for for for that 10K.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1034-0
+00:08:27.961 --> 00:08:29.081
+<v Hou, Eric>Thank you analysis.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1052-0
+00:08:29.561 --> 00:08:34.028
+<v Haroon, Sufyan>Alright, how much would it do?
+You have an approximate budget that we</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1038-0
+00:08:30.641 --> 00:08:30.801
+<v Hou, Eric>Yeah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1052-1
+00:08:34.028 --> 00:08:34.921
+<v Haroon, Sufyan>should assign.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1060-0
+00:08:34.961 --> 00:08:38.041
+<v Haroon, Sufyan>Is it gonna cost like 5-10 dollars to
+complete the entire?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1059-0
+00:08:38.771 --> 00:08:38.811
+<v Hou, Eric>I.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1061-0
+00:08:38.811 --> 00:08:38.821
+<v Hou, Eric>I.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1064-0
+00:08:38.821 --> 00:08:39.171
+<v Hou, Eric>I don't.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1077-0
+00:08:39.211 --> 00:08:43.331
+<v Hou, Eric>I don't expect you spend any any dollar
+more than five.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1079-0
+00:08:43.411 --> 00:08:45.771
+<v Hou, Eric>I mean,
+likely you're just like one or two.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1073-0
+00:08:43.591 --> 00:08:43.831
+<v Haroon, Sufyan>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1081-0
+00:08:46.141 --> 00:08:46.301
+<v Haroon, Sufyan>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1083-0
+00:08:46.661 --> 00:08:47.141
+<v Haroon, Sufyan>Thank you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1088-0
+00:08:47.481 --> 00:08:48.561
+<v Hou, Eric>Yeah, you you should.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1093-0
+00:08:48.561 --> 00:08:49.921
+<v Hou, Eric>I mean, it's thinking this way, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1101-0
+00:08:49.921 --> 00:08:56.761
+<v Hou, Eric>So then if you go to API reference,
+if you see the price.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1121-0
+00:09:11.741 --> 00:09:20.101
+<v Hou, Eric>You see the price if you use like 40 mini
+so 1,000,000 token in and out it's really.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1149-0
+00:09:23.251 --> 00:09:27.898
+<v Hou, Eric>Really,
+like even using these numbers is like 1.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1149-1
+00:09:27.898 --> 00:09:32.545
+<v Hou, Eric>5 dollars 1,000,000 token,
+so you can multiply .</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1149-2
+00:09:32.545 --> 00:09:35.011
+<v Hou, Eric>75 into the English words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1159-0
+00:09:35.011 --> 00:09:40.371
+<v Hou, Eric>So that's really 750,
+000 words then that's a lot.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1165-0
+00:09:41.001 --> 00:09:41.881
+<v Hou, Eric>That's a lot.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1192-0
+00:09:42.081 --> 00:09:45.572
+<v Hou, Eric>So then.
+So that's why I do not expect you guys to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1192-1
+00:09:45.572 --> 00:09:49.954
+<v Hou, Eric>spend like more than $5 one or two likely
+going to be the case.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1192-2
+00:09:49.954 --> 00:09:52.761
+<v Hou, Eric>And if you manage to clean the data well.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1224-0
+00:09:52.761 --> 00:09:58.477
+<v Hou, Eric>So I don't think you even spend like more
+than $1.00 like the example I show you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1224-1
+00:09:58.477 --> 00:10:02.033
+<v Hou, Eric>I send 50,
+000 tokens to open AI only cost me less</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1224-2
+00:10:02.033 --> 00:10:05.728
+<v Hou, Eric>than one cent,
+so that's pretty much going to be the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1224-3
+00:10:05.728 --> 00:10:07.401
+<v Hou, Eric>money you spend on this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1228-0
+00:10:07.471 --> 00:10:09.591
+<v Hou, Eric>But you do have to provide.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1264-0
+00:10:09.671 --> 00:10:14.806
+<v Hou, Eric>You do have to provide some, you know,
+credit card for, for chargeback,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1264-1
+00:10:14.806 --> 00:10:20.583
+<v Hou, Eric>for open I to track to, to, to charge.
+But just delete that credit card from the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1264-2
+00:10:20.583 --> 00:10:25.362
+<v Hou, Eric>opening I that would be the best way to
+manage your privacy. Your,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1264-3
+00:10:25.362 --> 00:10:28.001
+<v Hou, Eric>your your account. Right. So so here.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1270-0
+00:10:28.001 --> 00:10:28.991
+<v Hou, Eric>Is the code right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1281-0
+00:10:28.991 --> 00:10:34.431
+<v Hou, Eric>So then you just call from open AI import
+open AI, OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1286-0
+00:10:34.431 --> 00:10:37.471
+<v Hou, Eric>So then just for your own homework,
+you can just provide.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1300-0
+00:10:37.871 --> 00:10:43.071
+<v Hou, Eric>It once you finish this notebook,
+you can just delete it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1326-0
+00:10:43.071 --> 00:10:46.742
+<v Hou, Eric>You can just delete it.
+This API key you don't have don't show me</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1326-1
+00:10:46.742 --> 00:10:50.414
+<v Hou, Eric>or anyone your API key.
+I know this class is recorded so then I/O</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1326-2
+00:10:50.414 --> 00:10:51.471
+<v Hou, Eric>delete the API key.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1334-0
+00:10:51.711 --> 00:10:55.151
+<v Hou, Eric>So then this API key won't be stolen,
+right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1340-0
+00:10:55.151 --> 00:10:59.111
+<v Hou, Eric>So then you have to create one thing here.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1344-0
+00:10:59.391 --> 00:11:02.551
+<v Hou, Eric>Is called, it's called client.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1351-0
+00:11:03.241 --> 00:11:06.361
+<v Hou, Eric>Client is one definition of this API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1362-0
+00:11:06.831 --> 00:11:11.551
+<v Hou, Eric>So you're just using these clients to
+come back to open AI, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1379-0
+00:11:11.551 --> 00:11:14.592
+<v Hou, Eric>So then you have to provide this model.
+Remember,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1379-1
+00:11:14.592 --> 00:11:17.511
+<v Hou, Eric>I told you you are going to provide a
+model ID.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1385-0
+00:11:19.441 --> 00:11:20.921
+<v Hou, Eric>Which is let me just show you again.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1406-0
+00:11:28.961 --> 00:11:33.177
+<v Hou, Eric>Which is going to be this kind of ID
+under each main model,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1406-1
+00:11:33.177 --> 00:11:36.761
+<v Hou, Eric>so they open AI will keep changing their
+model ID.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1417-0
+00:11:37.401 --> 00:11:42.161
+<v Hou, Eric>So then the the ID you see today won't be
+the one you see.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1421-0
+00:11:42.161 --> 00:11:43.281
+<v Hou, Eric>Maybe in one week.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1445-0
+00:11:43.361 --> 00:11:47.707
+<v Hou, Eric>So then they they kept updating those
+model IDs,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1445-1
+00:11:47.707 --> 00:11:53.561
+<v Hou, Eric>the one I chose to use is this one,
+the GPT 40 mini 2020 4/07/18.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1449-0
+00:11:54.241 --> 00:11:55.201
+<v Hou, Eric>It's a really cheap one.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1452-0
+00:11:57.561 --> 00:11:57.601
+<v Hou, Eric>I.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1457-0
+00:11:57.601 --> 00:11:59.761
+<v Hou, Eric>I believe we can just handle all the work.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1472-0
+00:12:00.071 --> 00:12:03.991
+<v Hou, Eric>You know, tax summarization kind of work.
+I sent to ChatGPT open AI.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1478-0
+00:12:03.991 --> 00:12:05.751
+<v Hou, Eric>So that's why I use that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1483-0
+00:12:05.751 --> 00:12:08.311
+<v Hou, Eric>So then this is the value you can change.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1519-0
+00:12:09.191 --> 00:12:13.598
+<v Hou, Eric>Based upon your preference,
+but you know if you choose some really</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1519-1
+00:12:13.598 --> 00:12:17.479
+<v Hou, Eric>expensive model,
+the input output will charge you a lot of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1519-2
+00:12:17.479 --> 00:12:20.505
+<v Hou, Eric>money.
+Then this kind of a mini model that is</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1519-3
+00:12:20.505 --> 00:12:23.991
+<v Hou, Eric>really powerful and can can do the work
+for you. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1523-0
+00:12:24.151 --> 00:12:25.431
+<v Hou, Eric>So then the input.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1524-0
+00:12:25.911 --> 00:12:26.791
+<v Hou, Eric>What is this?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1535-0
+00:12:26.791 --> 00:12:32.751
+<v Hou, Eric>Input this input is really like this,
+just like can you write.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1537-0
+00:12:33.841 --> 00:12:34.761
+<v Hou, Eric>Explain.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1541-0
+00:12:36.601 --> 00:12:38.161
+<v Hou, Eric>What is an?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1543-0
+00:12:38.941 --> 00:12:39.061
+<v Hou, Eric>API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1560-0
+00:12:41.241 --> 00:12:45.699
+<v Hou, Eric>Right. Yeah. So,
+so basically you send a question here so</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1560-1
+00:12:45.699 --> 00:12:49.081
+<v Hou, Eric>that this ChatGPT gonna return your
+answer.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1564-0
+00:12:49.671 --> 00:12:51.311
+<v Hou, Eric>Like this?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1571-0
+00:12:51.471 --> 00:12:56.031
+<v Hou, Eric>So then if you copy this question to this
+Python code.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1574-0
+00:13:01.181 --> 00:13:02.101
+<v Hou, Eric>Right. So.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1584-0
+00:13:03.761 --> 00:13:05.121
+<v Hou, Eric>This is the this is your input.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1587-0
+00:13:05.161 --> 00:13:07.841
+<v Hou, Eric>Can you explain what what an API is?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1605-0
+00:13:11.171 --> 00:13:15.831
+<v Hou, Eric>Right.
+So that you gonna you gonna define this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1605-1
+00:13:15.831 --> 00:13:20.491
+<v Hou, Eric>response as you send this input to this
+model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1617-0
+00:13:21.921 --> 00:13:26.921
+<v Hou, Eric>Through this client and this gonna create
+some response from.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1636-0
+00:13:28.721 --> 00:13:34.145
+<v Hou, Eric>This model and saved in the open AI
+server and I'll show you right so that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1636-1
+00:13:34.145 --> 00:13:37.761
+<v Hou, Eric>you send images code comment is just
+sending out.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1639-0
+00:13:41.321 --> 00:13:41.521
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1653-0
+00:13:41.521 --> 00:13:46.818
+<v Hou, Eric>You could just take some time to send
+this input and receive output from open</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1653-1
+00:13:46.818 --> 00:13:48.041
+<v Hou, Eric>AI just like this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1656-0
+00:13:49.801 --> 00:13:50.281
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1668-0
+00:13:50.521 --> 00:13:55.001
+<v Hou, Eric>So now you can just check what this
+response actually look like.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1680-0
+00:13:55.041 --> 00:13:57.961
+<v Hou, Eric>So this go to be the look like so then
+you gonna give you ID.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1707-0
+00:13:58.801 --> 00:14:02.733
+<v Hou, Eric>So this ID is when open and I received
+your input,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1707-1
+00:14:02.733 --> 00:14:07.743
+<v Hou, Eric>you're gonna generate the ID and create
+it at whatever location,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1707-2
+00:14:07.743 --> 00:14:11.521
+<v Hou, Eric>and then you're gonna give a lot of
+information.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1709-0
+00:14:11.831 --> 00:14:12.711
+<v Hou, Eric>Right. So then.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1713-0
+00:14:16.481 --> 00:14:17.361
+<v Hou, Eric>Copy this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1717-0
+00:14:17.361 --> 00:14:18.921
+<v Hou, Eric>I'm just showing you the note.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1719-0
+00:14:21.001 --> 00:14:21.201
+<v Hou, Eric>Right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1759-0
+00:14:24.281 --> 00:14:30.462
+<v Hou, Eric>So this kind of the output from open AI
+as a raw output so that I I I understand</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1759-1
+00:14:30.462 --> 00:14:36.491
+<v Hou, Eric>right so that this is not this is too
+much information but as you can see this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1759-2
+00:14:36.491 --> 00:14:40.841
+<v Hou, Eric>content and the text is something that
+you we gonna see.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1783-0
+00:14:40.991 --> 00:14:44.659
+<v Hou, Eric>In the UI is like.
+Sure an API where application programming</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1783-1
+00:14:44.659 --> 00:14:48.927
+<v Hou, Eric>interface is set of rules and protocols
+that allows different software</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1783-2
+00:14:48.927 --> 00:14:50.551
+<v Hou, Eric>application blah blah blah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1811-0
+00:14:50.551 --> 00:14:55.635
+<v Hou, Eric>So this is a really the output you
+usually see from the UI,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1811-1
+00:14:55.635 --> 00:15:02.668
+<v Hou, Eric>but you do not want to show your user or
+or your homework that entire this kind of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1811-2
+00:15:02.668 --> 00:15:03.431
+<v Hou, Eric>response.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1815-0
+00:15:03.711 --> 00:15:07.151
+<v Hou, Eric>Raw output. What you need to do is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1821-0
+00:15:07.881 --> 00:15:08.881
+<v Hou, Eric>You just need to.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1827-0
+00:15:09.201 --> 00:15:12.601
+<v Hou, Eric>You just need to show this response
+output tag.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1844-0
+00:15:22.221 --> 00:15:26.325
+<v Hou, Eric>So you can just define this response
+output passed as output,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1844-1
+00:15:26.325 --> 00:15:29.701
+<v Hou, Eric>show this and if I print it can check
+your output.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1846-0
+00:15:30.951 --> 00:15:31.231
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1885-0
+00:15:31.231 --> 00:15:36.125
+<v Hou, Eric>So this is going to be the one you
+actually see from the UI,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1885-1
+00:15:36.125 --> 00:15:42.704
+<v Hou, Eric>but in this way just show you in in sort
+of like coding kind of style so that you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1885-2
+00:15:42.704 --> 00:15:46.154
+<v Hou, Eric>you,
+you you sort of can get rid of any UI</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1885-3
+00:15:46.154 --> 00:15:48.561
+<v Hou, Eric>that open I provides and then.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1905-0
+00:15:48.561 --> 00:15:53.450
+<v Hou, Eric>This is going to be a really fancy way
+and then it's going to be a function</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1905-1
+00:15:53.450 --> 00:15:55.831
+<v Hou, Eric>embedded in your product in your app.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1908-0
+00:15:56.151 --> 00:15:58.071
+<v Hou, Eric>So I'm working in that way. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1939-0
+00:15:58.681 --> 00:16:04.183
+<v Hou, Eric>So this is really the easiest way to call
+API to do your analysis,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1939-1
+00:16:04.183 --> 00:16:09.521
+<v Hou, Eric>either for the final project or for the
+graduate level homework.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1949-0
+00:16:11.001 --> 00:16:14.041
+<v Hou, Eric>I'll upload this code to D2L so you can
+take a look.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1953-0
+00:16:14.161 --> 00:16:15.121
+<v Hou, Eric>You can decide.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1962-0
+00:16:15.121 --> 00:16:18.241
+<v Hou, Eric>You can just at least give a shot and
+then try it, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1974-0
+00:16:18.241 --> 00:16:21.201
+<v Hou, Eric>So this is a lot of fun to to call your
+open API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/1986-0
+00:16:23.481 --> 00:16:26.801
+<v Hou, Eric>It's it's definitely different experience.
+And then if you do need these API.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2004-0
+00:16:28.031 --> 00:16:33.151
+<v Hou, Eric>According API in your project any project
+and then you know the way how to do it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2012-0
+00:16:33.231 --> 00:16:36.671
+<v Hou, Eric>OK.
+And and that's just wanted to give you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2012-1
+00:16:36.671 --> 00:16:38.031
+<v Hou, Eric>guys one example.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2036-0
+00:16:39.401 --> 00:16:45.749
+<v Hou, Eric>And if you if you really want to call,
+for example anthropic or or Gemini models,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2036-1
+00:16:45.749 --> 00:16:50.161
+<v Hou, Eric>they follow similar ways but not
+necessary the same way.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2050-0
+00:16:50.241 --> 00:16:56.170
+<v Hou, Eric>So you need to find you know the Google
+or anthropic their their technical API</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2050-1
+00:16:56.170 --> 00:16:56.921
+<v Hou, Eric>documents.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2082-0
+00:16:57.351 --> 00:17:00.619
+<v Hou, Eric>To find out a better way to call their
+API,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2082-1
+00:17:00.619 --> 00:17:06.637
+<v Hou, Eric>if you choose to use open AI and this is
+the way and open line does offer really</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2082-2
+00:17:06.637 --> 00:17:10.871
+<v Hou, Eric>detailed document of how do you build a
+text on proming.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2092-0
+00:17:10.871 --> 00:17:13.951
+<v Hou, Eric>So then make sure you choose Python right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2103-0
+00:17:13.951 --> 00:17:18.084
+<v Hou, Eric>So then there's a lot of information they
+provide in here and then you can just</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2103-1
+00:17:18.084 --> 00:17:18.911
+<v Hou, Eric>directly follow.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2105-0
+00:17:20.481 --> 00:17:20.681
+<v Hou, Eric>Their.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2118-0
+00:17:22.281 --> 00:17:26.726
+<v Hou, Eric>Their their explanation or find trying to
+follow their example prompt to do this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2118-1
+00:17:26.726 --> 00:17:27.001
+<v Hou, Eric>work.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2129-0
+00:17:27.651 --> 00:17:30.131
+<v Hou, Eric>And you can, if you do have some time,
+you can you can.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2158-0
+00:17:30.331 --> 00:17:36.287
+<v Hou, Eric>You can also try the images of vision,
+those kind of different uh functions that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2158-1
+00:17:36.287 --> 00:17:41.508
+<v Hou, Eric>uh, open eye offers and streaming.
+This is really like you just stream</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2158-2
+00:17:41.508 --> 00:17:42.611
+<v Hou, Eric>equals to true.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2162-0
+00:17:42.691 --> 00:17:44.171
+<v Hou, Eric>So what does it work?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2171-0
+00:17:44.211 --> 00:17:50.011
+<v Hou, Eric>So if you choose like stream equal true,
+what it shows is really like.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2176-0
+00:17:51.521 --> 00:17:52.241
+<v Hou, Eric>For example in the UI.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2190-0
+00:17:58.201 --> 00:18:03.401
+<v Hou, Eric>In the UI it won't show you the entire
+output. It show you kind of a stream.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2194-0
+00:18:03.481 --> 00:18:04.361
+<v Hou, Eric>So it's like this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2219-0
+00:18:04.361 --> 00:18:09.725
+<v Hou, Eric>So this kind of effort,
+if you if you change this argument stream</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2219-1
+00:18:09.725 --> 00:18:14.358
+<v Hou, Eric>equal to true,
+this is something that you can achieve on</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2219-2
+00:18:14.358 --> 00:18:17.121
+<v Hou, Eric>your own in in your own codes. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2226-0
+00:18:19.271 --> 00:18:22.271
+<v Hou, Eric>Any question about calling Open Air API?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2229-0
+00:18:27.201 --> 00:18:27.641
+<v Hou, Eric>All right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2237-0
+00:18:27.641 --> 00:18:29.881
+<v Hou, Eric>No question which is awesome.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2248-0
+00:18:29.881 --> 00:18:34.434
+<v Hou, Eric>So then today,
+I think we finally just moved to this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2248-1
+00:18:34.434 --> 00:18:35.121
+<v Hou, Eric>open AI.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2252-0
+00:18:35.721 --> 00:18:37.801
+<v Hou, Eric>Sorry, large language models, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2255-0
+00:18:37.801 --> 00:18:38.761
+<v Hou, Eric>So then let's talk about that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2283-0
+00:18:41.041 --> 00:18:46.765
+<v Hou, Eric>So we will spend the rest of the hour
+talking about the large Roku models and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2283-1
+00:18:46.765 --> 00:18:51.241
+<v Hou, Eric>then mainly what we are going to talk
+about is this article.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2295-0
+00:18:51.281 --> 00:18:56.578
+<v Hou, Eric>It's called attention is all you need,
+so I will highly recommend you guys to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2295-1
+00:18:56.578 --> 00:18:57.801
+<v Hou, Eric>read this article.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2300-0
+00:18:58.071 --> 00:19:00.271
+<v Hou, Eric>On your own, you know this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2313-0
+00:19:00.271 --> 00:19:06.759
+<v Hou, Eric>This one perhaps going to be the most
+important article in in this century,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2313-1
+00:19:06.759 --> 00:19:07.271
+<v Hou, Eric>maybe.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2321-0
+00:19:08.721 --> 00:19:10.121
+<v Hou, Eric>Just this article, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2347-0
+00:19:10.121 --> 00:19:15.433
+<v Hou, Eric>So that this one has been written by
+those kind of folks,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2347-1
+00:19:15.433 --> 00:19:22.944
+<v Hou, Eric>they used to work for Google at the time
+and then after they sort of publish this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2347-2
+00:19:22.944 --> 00:19:26.241
+<v Hou, Eric>article, they all laughed at Google.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2360-0
+00:19:27.571 --> 00:19:30.491
+<v Hou, Eric>They all went somewhere,
+start their own company.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2405-0
+00:19:30.491 --> 00:19:36.417
+<v Hou, Eric>They became very successful millionaires,
+but it's it's it's definitely true that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2405-1
+00:19:36.417 --> 00:19:39.886
+<v Hou, Eric>they,
+they they definitely love to Google after</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2405-2
+00:19:39.886 --> 00:19:44.872
+<v Hou, Eric>that after publishing this,
+this this article and this article turns</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2405-3
+00:19:44.872 --> 00:19:50.653
+<v Hou, Eric>to be really fundamental article for all
+the models you're seeing right now and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2405-4
+00:19:50.653 --> 00:19:52.171
+<v Hou, Eric>call themselves like.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2411-0
+00:19:52.881 --> 00:19:53.761
+<v Hou, Eric>The AI models this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2413-0
+00:19:53.761 --> 00:19:56.321
+<v Hou, Eric>Everything is based upon these very
+articles.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2427-0
+00:19:57.351 --> 00:20:02.191
+<v Hou, Eric>And this going to be our fundamental
+content for today's slides. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2429-0
+00:20:04.001 --> 00:20:04.081
+<v Hou, Eric>So.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2446-0
+00:20:07.161 --> 00:20:10.974
+<v Hou, Eric>Let me just present it in teams,
+so then you can just focus on,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2446-1
+00:20:10.974 --> 00:20:12.881
+<v Hou, Eric>we can just focus on the slides.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2449-0
+00:20:14.911 --> 00:20:15.791
+<v Hou, Eric>Nice. OK, present.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2451-0
+00:20:21.941 --> 00:20:22.541
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2469-0
+00:20:24.521 --> 00:20:29.066
+<v Hou, Eric>So this all about this article.
+So this article is actually oh,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2469-1
+00:20:29.066 --> 00:20:31.481
+<v Hou, Eric>by the way, can you see my screen?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2471-0
+00:20:34.011 --> 00:20:34.411
+<v Mertens, Aidric>Yep.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2474-0
+00:20:34.831 --> 00:20:35.071
+<v Severin, Noah>Yep.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2476-0
+00:20:34.981 --> 00:20:35.821
+<v Hou, Eric>Yeah. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2482-0
+00:20:35.491 --> 00:20:35.891
+<v Hollenbach, Patrick>Yep.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2514-0
+00:20:35.981 --> 00:20:41.946
+<v Hou, Eric>So what we are going to talk about is
+this complex chart to the right, right,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2514-1
+00:20:41.946 --> 00:20:46.763
+<v Hou, Eric>so that it has two pieces,
+one piece highlight in this slide I</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2514-2
+00:20:46.763 --> 00:20:51.581
+<v Hou, Eric>highlight in in sort of like light blue
+that's called encoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2528-0
+00:20:53.081 --> 00:20:57.841
+<v Hou, Eric>The another piece I highlight in blue in
+this slide is called decoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2533-0
+00:20:57.841 --> 00:21:00.041
+<v Hou, Eric>So it's a typical encoder decoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2542-0
+00:21:01.721 --> 00:21:03.881
+<v Hou, Eric>Typical decoder decoder structure.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2561-0
+00:21:04.681 --> 00:21:10.549
+<v Hou, Eric>But you know, with that being said,
+it's a really classical encoder decoder</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2561-1
+00:21:10.549 --> 00:21:11.321
+<v Hou, Eric>structure.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2576-0
+00:21:11.361 --> 00:21:18.121
+<v Hou, Eric>The reason of that structure is to solve
+is to solve the translation problem.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2580-0
+00:21:18.361 --> 00:21:19.881
+<v Hou, Eric>I have English sentence.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2590-0
+00:21:19.881 --> 00:21:24.321
+<v Hou, Eric>I want to translate into Spanish or
+French or other languages.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2604-0
+00:21:24.561 --> 00:21:31.041
+<v Hou, Eric>I have to use encoder decoder structure
+in this. Attention is all you need.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2607-0
+00:21:31.041 --> 00:21:32.841
+<v Hou, Eric>Article this is really classic.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2630-0
+00:21:33.631 --> 00:21:39.931
+<v Hou, Eric>Model. However, as you may know,
+or you may not know, open AI.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2630-1
+00:21:39.931 --> 00:21:45.031
+<v Hou, Eric>The open AI model is a decoder decoder
+only model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2654-0
+00:21:45.151 --> 00:21:49.126
+<v Hou, Eric>In the open,
+AI does not even have the encoder piece,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2654-1
+00:21:49.126 --> 00:21:55.090
+<v Hou, Eric>but in this class I just want you guys to
+understand entire classic structure of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2654-2
+00:21:55.090 --> 00:21:57.151
+<v Hou, Eric>all the AI models right now.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2669-0
+00:21:57.151 --> 00:22:00.924
+<v Hou, Eric>So that's why I'm still going through the
+encoder and decoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2669-1
+00:22:00.924 --> 00:22:02.961
+<v Hou, Eric>The encoder 1st and decoder later.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2700-0
+00:22:03.231 --> 00:22:07.115
+<v Hou, Eric>But just so you aware,
+this structure was originally designed</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2700-1
+00:22:07.115 --> 00:22:10.874
+<v Hou, Eric>for translation and open AI does not even
+have the encoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2700-2
+00:22:10.874 --> 00:22:15.822
+<v Hou, Eric>Some of the models decide to choose only
+decoder and some the model decides to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2700-3
+00:22:15.822 --> 00:22:18.391
+<v Hou, Eric>choose encoder and decoder, so hopefully.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2729-0
+00:22:19.921 --> 00:22:25.911
+<v Hou, Eric>After this class you sort of understand
+this kind of this classic AI structure</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2729-1
+00:22:25.911 --> 00:22:32.281
+<v Hou, Eric>and then you know the pros and cons of it
+and you know, eventually can explain why.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2747-0
+00:22:33.511 --> 00:22:39.711
+<v Hou, Eric>Open AI or any large language model so
+bad at mathematics or arithmetics.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2754-0
+00:22:40.551 --> 00:22:43.551
+<v Hou, Eric>So then hopefully you you can explain
+that, OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2761-0
+00:22:44.071 --> 00:22:47.231
+<v Hou, Eric>So that's that's the goal of of today's
+class.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2764-0
+00:22:48.721 --> 00:22:48.881
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2776-0
+00:22:48.881 --> 00:22:52.395
+<v Hou, Eric>So first one,
+let's just going through the very first</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2776-1
+00:22:52.395 --> 00:22:52.721
+<v Hou, Eric>step.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2780-0
+00:22:52.961 --> 00:22:54.921
+<v Hou, Eric>It's called input embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2783-0
+00:22:54.961 --> 00:22:56.521
+<v Hou, Eric>It's very first step.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2799-0
+00:22:56.521 --> 00:23:02.406
+<v Hou, Eric>So we have input just thinking this way.
+I'm for the entire class I'm going to use</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2799-1
+00:23:02.406 --> 00:23:04.321
+<v Hou, Eric>this. The cat sat on a mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2806-0
+00:23:05.171 --> 00:23:07.371
+<v Hou, Eric>Kind of example sentence, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2814-0
+00:23:07.371 --> 00:23:09.091
+<v Hou, Eric>So then we're gonna explain this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2818-0
+00:23:09.091 --> 00:23:10.451
+<v Hou, Eric>We're gonna explain attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2824-0
+00:23:10.451 --> 00:23:12.011
+<v Hou, Eric>We're gonna explain a lot of things,
+right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2831-0
+00:23:12.011 --> 00:23:17.651
+<v Hou, Eric>The first thing is the cat sat on that.
+This is an English sentence.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2847-0
+00:23:19.201 --> 00:23:23.288
+<v Hou, Eric>However, unfortunately,
+the machine the computer does not</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2847-1
+00:23:23.288 --> 00:23:25.121
+<v Hou, Eric>understand English, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2862-0
+00:23:25.121 --> 00:23:28.243
+<v Hou, Eric>So that the machine only understand the
+numbers or type,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2862-1
+00:23:28.243 --> 00:23:32.241
+<v Hou, Eric>typically 01 numbers and then eventually
+we generate it to flow numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2868-0
+00:23:32.241 --> 00:23:33.801
+<v Hou, Eric>But it's OK, but only understand numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2872-0
+00:23:34.551 --> 00:23:36.231
+<v Hou, Eric>We need to convert.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2880-0
+00:23:37.721 --> 00:23:40.521
+<v Hou, Eric>Those word English words, French words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2886-0
+00:23:40.521 --> 00:23:42.321
+<v Hou, Eric>German words Chinese correctors.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2898-0
+00:23:42.321 --> 00:23:48.681
+<v Hou, Eric>Japanese correctors into numbers,
+and that is called input embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2899-0
+00:23:49.041 --> 00:23:50.601
+<v Hou, Eric>Input embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2901-0
+00:23:50.721 --> 00:23:51.961
+<v Hou, Eric>What does that mean?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2907-0
+00:23:51.961 --> 00:23:55.881
+<v Hou, Eric>Is it just convert word to numbers?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2918-0
+00:23:56.161 --> 00:24:01.080
+<v Hou, Eric>You have the word hello.
+You have another word world through this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2918-1
+00:24:01.080 --> 00:24:03.241
+<v Hou, Eric>model gonna return 2 numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2949-0
+00:24:03.841 --> 00:24:08.763
+<v Hou, Eric>Why is this number 3.
+242 a number number is another number 1.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2949-1
+00:24:08.763 --> 00:24:12.513
+<v Hou, Eric>242. OK,
+so this is really typically high level</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2949-2
+00:24:12.513 --> 00:24:18.841
+<v Hou, Eric>converting virtual numbers and then what
+do you think is a good embedding model?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2955-0
+00:24:20.441 --> 00:24:21.841
+<v Hou, Eric>And how does it look like?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2961-0
+00:24:21.881 --> 00:24:23.923
+<v Hou, Eric>What?
+What's your definition of a good</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2961-1
+00:24:23.923 --> 00:24:24.761
+<v Hou, Eric>embedding model?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2963-0
+00:24:27.451 --> 00:24:28.251
+<v Hou, Eric>Any thought?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2974-0
+00:24:30.291 --> 00:24:33.691
+<v Hou, Eric>Or if I give you a random embedding model,
+why do you call?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2980-0
+00:24:33.691 --> 00:24:35.291
+<v Hou, Eric>Why do you think this is good?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2984-0
+00:24:35.331 --> 00:24:36.961
+<v Hou, Eric>Or why do you think this is not good?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/2989-0
+00:24:48.811 --> 00:24:49.131
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3004-0
+00:24:49.171 --> 00:24:55.283
+<v Hou, Eric>I I will give you some examples and then
+you can tell me whether or not this is</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3004-1
+00:24:55.283 --> 00:24:55.971
+<v Hou, Eric>good. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3040-0
+00:24:55.971 --> 00:25:02.063
+<v Hou, Eric>So the first one is I have English words.
+I have hello world.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3040-1
+00:25:02.063 --> 00:25:07.368
+<v Hou, Eric>I can give hello like this one 3.
+242 in the world 1.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3040-2
+00:25:07.368 --> 00:25:10.611
+<v Hou, Eric>2422 different #2 random numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3043-0
+00:25:12.081 --> 00:25:13.281
+<v Hou, Eric>Why do you think?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3054-0
+00:25:14.961 --> 00:25:17.841
+<v Hou, Eric>Do you think this is a good model?
+And why do you think this is a good model?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3056-0
+00:25:23.661 --> 00:25:24.341
+<v Hou, Eric>By the way.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3066-0
+00:25:25.801 --> 00:25:28.561
+<v Hou, Eric>Any any of you believe this is a good
+embedding model?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3073-0
+00:25:34.191 --> 00:25:36.818
+<v Hollenbach, Patrick>I'm not sure,
+but if it works then I would say it's</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3073-1
+00:25:36.818 --> 00:25:37.071
+<v Hollenbach, Patrick>good.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3077-0
+00:25:38.531 --> 00:25:39.011
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3094-0
+00:25:39.011 --> 00:25:43.980
+<v Hou, Eric>So #1 it's good because it really convert
+the words to numbers,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3094-1
+00:25:43.980 --> 00:25:49.571
+<v Hou, Eric>it finish the work so that I will call it
+a successful embedding model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3095-0
+00:25:49.611 --> 00:25:51.011
+<v Hou, Eric>It didn't work.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3105-0
+00:25:51.171 --> 00:25:56.091
+<v Hou, Eric>The definition of embedding model it just
+convert words to numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3110-0
+00:25:56.091 --> 00:25:57.531
+<v Hou, Eric>It's it's, it is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3114-0
+00:25:58.011 --> 00:25:59.091
+<v Hou, Eric>It is legit.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3118-0
+00:25:59.331 --> 00:26:01.731
+<v Hou, Eric>It is a legit embedding model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3129-0
+00:26:03.281 --> 00:26:07.361
+<v Hou, Eric>And and and it does the work anything you
+feel?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3133-0
+00:26:09.081 --> 00:26:10.001
+<v Hou, Eric>This model cannot handle.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3137-0
+00:26:14.721 --> 00:26:16.881
+<v Hou, Eric>It's a good model, not perfect.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3140-0
+00:26:16.881 --> 00:26:17.401
+<v Hou, Eric>Yeah, go ahead.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3142-0
+00:26:17.291 --> 00:26:18.331
+<v Mertens, Aidric>Professor. Yeah, yeah, yeah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3151-0
+00:26:20.241 --> 00:26:23.361
+<v Mertens, Aidric>Would like modern day swing be hard for
+it at all.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3167-0
+00:26:25.121 --> 00:26:28.961
+<v Mertens, Aidric>You know, like there's new words that are,
+like, made every so often.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3183-0
+00:26:29.241 --> 00:26:32.689
+<v Mertens, Aidric>I I know that it keeps getting trained
+all the time,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3179-0
+00:26:31.711 --> 00:26:33.471
+<v Hou, Eric>Yeah, yeah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3183-1
+00:26:32.689 --> 00:26:34.641
+<v Mertens, Aidric>but yeah wondering about that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3191-0
+00:26:35.251 --> 00:26:38.171
+<v Hou, Eric>Yeah, that certainly is an issue, right?
+So then how?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3197-0
+00:26:38.171 --> 00:26:41.251
+<v Hou, Eric>Where do you for example like you have?
+Hello world, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3216-0
+00:26:41.251 --> 00:26:47.519
+<v Hou, Eric>So then you you may want to sometimes :)
+kind of emoji and then where do you want</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3216-1
+00:26:47.519 --> 00:26:48.971
+<v Hou, Eric>to put that one in?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3222-0
+00:26:48.971 --> 00:26:51.171
+<v Hou, Eric>So do you call it two or do you call it 3?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3231-0
+00:26:51.171 --> 00:26:54.916
+<v Hou, Eric>Do you call it four?
+Maybe because like you map all the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3231-1
+00:26:54.916 --> 00:26:55.451
+<v Hou, Eric>numbers?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3236-0
+00:26:56.841 --> 00:26:57.881
+<v Hou, Eric>Into the real numbers, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3246-0
+00:26:57.881 --> 00:27:02.201
+<v Hou, Eric>So then you call it like 1345, right?
+So then?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3249-0
+00:27:03.961 --> 00:27:04.521
+<v Hou, Eric>Sometimes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3258-0
+00:27:05.301 --> 00:27:08.061
+<v Hou, Eric>You know,
+how do you call negative numbers in here?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3296-0
+00:27:09.181 --> 00:27:12.259
+<v Hou, Eric>Like I understand,
+there are some words are positive,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3296-1
+00:27:12.259 --> 00:27:15.338
+<v Hou, Eric>for example,
+like you're you're doing that great is a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3296-2
+00:27:15.338 --> 00:27:17.847
+<v Hou, Eric>great presentation or something that
+great.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3296-3
+00:27:17.847 --> 00:27:21.267
+<v Hou, Eric>It definitely has some positive sense or
+meaning around it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3296-4
+00:27:21.267 --> 00:27:24.061
+<v Hou, Eric>So that you like to say as a human being,
+right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3323-0
+00:27:24.061 --> 00:27:28.760
+<v Hou, Eric>I would like to assign a positive number
+associated, but sometimes like really.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3323-1
+00:27:28.760 --> 00:27:33.107
+<v Hou, Eric>For example bad could be a really an
+active number or even negative is an</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3323-2
+00:27:33.107 --> 00:27:34.341
+<v Hou, Eric>active number, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3326-0
+00:27:34.341 --> 00:27:35.261
+<v Hou, Eric>I believe so.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3330-0
+00:27:35.261 --> 00:27:37.061
+<v Hou, Eric>Then you want to associate with some.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3332-0
+00:27:37.721 --> 00:27:38.001
+<v Hou, Eric>Negative numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3339-0
+00:27:38.831 --> 00:27:41.511
+<v Hou, Eric>To to that number to that word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3340-0
+00:27:41.551 --> 00:27:42.871
+<v Hou, Eric>But is this sometimes like?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3348-0
+00:27:44.441 --> 00:27:46.601
+<v Hou, Eric>Some words can be inactive in one sense.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3354-0
+00:27:46.601 --> 00:27:48.921
+<v Hou, Eric>And then the words can be positive in
+another sense.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3357-0
+00:27:48.961 --> 00:27:50.401
+<v Hou, Eric>And how do you change the values?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3373-0
+00:27:52.041 --> 00:27:55.560
+<v Hou, Eric>Right.
+So then this could be one drawback of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3373-1
+00:27:55.560 --> 00:27:59.001
+<v Hou, Eric>this,
+this this kind of tokenizer approach.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3389-0
+00:28:00.721 --> 00:28:05.739
+<v Hou, Eric>Map all the English words to just one
+dimension of of of string.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3389-1
+00:28:05.739 --> 00:28:07.361
+<v Hou, Eric>All the real numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3404-0
+00:28:07.591 --> 00:28:10.765
+<v Hou, Eric>Right.
+So then another approach will be called</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3404-1
+00:28:10.765 --> 00:28:11.711
+<v Hou, Eric>code and call.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3405-0
+00:28:11.711 --> 00:28:12.951
+<v Hou, Eric>One hard approach.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3444-0
+00:28:13.071 --> 00:28:20.966
+<v Hou, Eric>So one hard approach is hello IS1000
+world is 01000 and if you have another</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3444-1
+00:28:20.966 --> 00:28:29.485
+<v Hou, Eric>word I have I can make another long and
+then in that is the only one of those not</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3444-2
+00:28:29.485 --> 00:28:33.641
+<v Hou, Eric>components is one. All the others are 0.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3446-0
+00:28:34.151 --> 00:28:34.391
+<v Hou, Eric>So.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3450-0
+00:28:35.121 --> 00:28:36.321
+<v Hou, Eric>That I can uniquely define.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3475-0
+00:28:37.911 --> 00:28:45.194
+<v Hou, Eric>All the words in that 01 vector where I
+have only one component being one and all</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3475-1
+00:28:45.194 --> 00:28:49.191
+<v Hou, Eric>the other components in that vector being
+0.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3481-0
+00:28:49.871 --> 00:28:52.391
+<v Hou, Eric>And why #1?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3482-0
+00:28:52.391 --> 00:28:52.951
+<v Hou, Eric>It is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3493-0
+00:28:53.071 --> 00:28:58.431
+<v Hou, Eric>It is a good embedding model because it
+successfully convert words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3510-0
+00:28:59.881 --> 00:29:05.318
+<v Hou, Eric>Two vectors and.
+Then you do not have the issue that you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3510-1
+00:29:05.318 --> 00:29:07.321
+<v Hou, Eric>know we previous met.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3512-0
+00:29:07.521 --> 00:29:08.841
+<v Hou, Eric>So is it good?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3516-0
+00:29:08.841 --> 00:29:11.241
+<v Hou, Eric>And even better, embedding model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3529-0
+00:29:11.641 --> 00:29:17.801
+<v Hou, Eric>What kind of issue do you think this one
+hard approach may may may face?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3539-0
+00:29:17.801 --> 00:29:21.561
+<v Hou, Eric>What kind of issue we have if we we
+choose to use this one hot?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3541-0
+00:29:21.951 --> 00:29:22.831
+<v Hou, Eric>Approach.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3543-0
+00:29:29.651 --> 00:29:30.291
+<v Hou, Eric>Any thought?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3552-0
+00:29:31.761 --> 00:29:33.681
+<v Hou, Eric>Why this this one HUD approach is not so
+great.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3560-0
+00:29:35.701 --> 00:29:38.701
+<v Mertens, Aidric>Well, would it still be the same topic of?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3569-0
+00:29:40.401 --> 00:29:42.561
+<v Mertens, Aidric>Words can mean different things like.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3570-0
+00:29:42.631 --> 00:29:43.551
+<v Hou, Eric>Correct, correct.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3582-0
+00:29:45.041 --> 00:29:47.696
+<v Hou, Eric>So yeah, for example,
+like you definitely see this example</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3582-1
+00:29:47.696 --> 00:29:48.281
+<v Hou, Eric>Apple, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3604-0
+00:29:48.281 --> 00:29:52.365
+<v Hou, Eric>So then if you choose Apple so you choose
+Apple as a fruit,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3604-1
+00:29:52.365 --> 00:29:56.721
+<v Hou, Eric>or do you choose apple as as a brand of
+of of computers, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3605-0
+00:29:56.761 --> 00:29:59.041
+<v Hou, Eric>And there's another issue is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3621-0
+00:30:00.721 --> 00:30:05.441
+<v Hou, Eric>If you guys may guess how many English
+words do we have in the English language?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3626-0
+00:30:11.471 --> 00:30:12.671
+<v Hou, Eric>Obviously I do.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3631-0
+00:30:12.571 --> 00:30:14.491
+<v Mertens, Aidric>Probably 100 new every day.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3644-0
+00:30:15.161 --> 00:30:24.081
+<v Hou, Eric>I know how many unique I need to chat,
+ChatGPT words in English.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3646-0
+00:30:32.181 --> 00:30:32.621
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3650-0
+00:30:32.621 --> 00:30:34.701
+<v Hou, Eric>So this is ChatGPT answer.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3678-0
+00:30:36.171 --> 00:30:44.715
+<v Hou, Eric>Words in current use IS170K to 200 two
+100K and there are some obsolete and and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3678-1
+00:30:44.715 --> 00:30:46.851
+<v Hou, Eric>or historical words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3700-0
+00:30:46.851 --> 00:30:52.142
+<v Hou, Eric>That's 45 K and then there are some
+technical terms and jargons.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3700-1
+00:30:52.142 --> 00:30:57.270
+<v Hou, Eric>There are millions. OK,
+let's say we have millions of words in</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3700-2
+00:30:57.270 --> 00:30:58.491
+<v Hou, Eric>English, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3711-0
+00:30:58.801 --> 00:31:01.521
+<v Hou, Eric>So then we have millions of words in
+English.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3716-0
+00:31:02.201 --> 00:31:04.001
+<v Hou, Eric>What kind of issue do we have?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3720-0
+00:31:04.201 --> 00:31:06.321
+<v Hou, Eric>We will have this vector.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3733-0
+00:31:06.481 --> 00:31:15.121
+<v Hou, Eric>You know you have a million numbers and
+only one of those million numbers is 0.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3737-0
+00:31:15.121 --> 00:31:19.841
+<v Hou, Eric>All the other 1,000,000 -, 1 numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3752-0
+00:31:21.571 --> 00:31:24.130
+<v Hou, Eric>Are are zero,
+so only one number is 1 and all the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3752-1
+00:31:24.130 --> 00:31:25.051
+<v Hou, Eric>others are zeroes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3758-0
+00:31:25.051 --> 00:31:29.531
+<v Hou, Eric>So we have not a million by million
+matrix.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3766-0
+00:31:30.161 --> 00:31:33.961
+<v Hou, Eric>That matrix is representing entire
+English language.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3786-0
+00:31:36.451 --> 00:31:44.232
+<v Hou, Eric>And and the the information in that
+matrix is so little. We have only 1 / 1,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3786-1
+00:31:44.232 --> 00:31:47.971
+<v Hou, Eric>000,000 numbers are real information.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3800-0
+00:31:48.251 --> 00:31:54.051
+<v Hou, Eric>So that matrix is so big to to calculate
+and so few information in.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3806-0
+00:31:54.771 --> 00:31:59.091
+<v Hou, Eric>So that's a really bad choose to create a
+matrix.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3818-0
+00:31:59.771 --> 00:32:06.451
+<v Hou, Eric>So that matrix if you if we decide to
+create a matrix almost really.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3823-0
+00:32:07.971 --> 00:32:10.371
+<v Hou, Eric>Kill the the computational.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3831-0
+00:32:11.971 --> 00:32:13.291
+<v Hou, Eric>Probability possibility, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3845-0
+00:32:13.291 --> 00:32:17.971
+<v Hou, Eric>So there's no way we can calculate such
+big matrix and also right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3861-0
+00:32:17.971 --> 00:32:25.253
+<v Hou, Eric>So then there's a lot of ways that it's
+really not word to word is it's a phrase</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3861-1
+00:32:25.253 --> 00:32:26.691
+<v Hou, Eric>to phrase right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3867-0
+00:32:26.691 --> 00:32:29.491
+<v Hou, Eric>So then for example,
+like you wouldn't consider.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3886-0
+00:32:29.921 --> 00:32:34.693
+<v Hou, Eric>You will consider for example,
+like a long time no see as a as a phrase</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3886-1
+00:32:34.693 --> 00:32:36.881
+<v Hou, Eric>of meeting and put them together.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3893-0
+00:32:37.731 --> 00:32:39.611
+<v Hou, Eric>Right. Or would love to.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3913-0
+00:32:39.651 --> 00:32:45.451
+<v Hou, Eric>You wanna put them together as as a sort
+of a single word away instead of separ</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3913-1
+00:32:45.451 --> 00:32:47.771
+<v Hou, Eric>together, because would love to.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3942-0
+00:32:47.771 --> 00:32:52.981
+<v Hou, Eric>You definitely wanna contact them
+together for a long time. No. See,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3942-1
+00:32:52.981 --> 00:32:59.098
+<v Hou, Eric>so that even increase the number of of
+that matrix make that matrix is even more</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3942-2
+00:32:59.098 --> 00:33:03.931
+<v Hou, Eric>gigantic and so even harder to to to
+accomplish. So that's why.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3947-0
+00:33:04.651 --> 00:33:06.811
+<v Hou, Eric>The the actual way.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3959-0
+00:33:07.241 --> 00:33:13.801
+<v Hou, Eric>To or convert words numbers is called
+word to word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3969-0
+00:33:13.961 --> 00:33:19.961
+<v Hou, Eric>Basically word to kind of approach so
+that we will describe.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3971-0
+00:33:21.451 --> 00:33:21.771
+<v Hou, Eric>A word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3988-0
+00:33:23.331 --> 00:33:28.527
+<v Hou, Eric>In actual word to whack,
+you will have at least 1000 of numbers so</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3988-1
+00:33:28.527 --> 00:33:30.931
+<v Hou, Eric>that we are trying to describe.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/3996-0
+00:33:32.611 --> 00:33:37.011
+<v Hou, Eric>Different words into 1000 or more than
+1000 aspects.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4003-0
+00:33:37.441 --> 00:33:40.081
+<v Hou, Eric>For example, for Apple, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4016-0
+00:33:40.081 --> 00:33:47.481
+<v Hou, Eric>So that we will say, OK,
+Apple is 33% of chance, use it as a fruit.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4026-0
+00:33:49.011 --> 00:33:51.091
+<v Hou, Eric>Sometimes we use it as a smell.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4059-0
+00:33:51.211 --> 00:33:58.488
+<v Hou, Eric>Sometimes we use it as part of a chemical
+related topics and sometimes if use Apple</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4059-1
+00:33:58.488 --> 00:34:04.639
+<v Hou, Eric>as part of a cell phone. OK,
+but for peer it's more more likely we use</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4059-2
+00:34:04.639 --> 00:34:08.451
+<v Hou, Eric>it as a fruit,
+then we use it as a part of.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4065-0
+00:34:08.761 --> 00:34:11.121
+<v Hou, Eric>Cell phone or or a banana.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4082-0
+00:34:11.121 --> 00:34:14.873
+<v Hou, Eric>It's more likely we use it as a smell or
+fruit,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4082-1
+00:34:14.873 --> 00:34:17.921
+<v Hou, Eric>not necessarily chemical or cell phone.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4094-0
+00:34:17.961 --> 00:34:25.601
+<v Hou, Eric>So in this way we create a matrix to
+describe each English word or word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4097-0
+00:34:27.011 --> 00:34:27.651
+<v Hou, Eric>In so many aspects.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4107-0
+00:34:29.371 --> 00:34:32.811
+<v Hou, Eric>The good piece of it is we can certainly
+see.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4115-0
+00:34:34.451 --> 00:34:38.531
+<v Hou, Eric>The the biggest or or big amount of cases.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4154-0
+00:34:38.841 --> 00:34:44.023
+<v Hou, Eric>That we use apple,
+pear and banana is we consider them as</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4154-1
+00:34:44.023 --> 00:34:48.580
+<v Hou, Eric>fruit. However,
+we don't usually use Apple only to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4154-2
+00:34:48.580 --> 00:34:54.030
+<v Hou, Eric>represent one fruit.
+We can also use it as one brand of cell</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4154-3
+00:34:54.030 --> 00:34:57.961
+<v Hou, Eric>phone or one brand of a technology
+company.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4163-0
+00:34:59.451 --> 00:35:01.931
+<v Hou, Eric>But also we can see rarely we use Apple.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4176-0
+00:35:03.611 --> 00:35:08.011
+<v Hou, Eric>Pear or or or banana as a part of a
+chemical related topic.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4192-0
+00:35:08.921 --> 00:35:14.821
+<v Hou, Eric>So then we can compare the similarity of
+different words and the differences of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4192-1
+00:35:14.821 --> 00:35:16.001
+<v Hou, Eric>different words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4196-0
+00:35:16.001 --> 00:35:19.121
+<v Hou, Eric>So that's the way how we decide.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4225-0
+00:35:19.611 --> 00:35:25.218
+<v Hou, Eric>To code and code,
+quantify those English words and then</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4225-1
+00:35:25.218 --> 00:35:33.229
+<v Hou, Eric>basically that's the way we quantify or
+or or digitalize different languages in</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4225-2
+00:35:33.229 --> 00:35:34.531
+<v Hou, Eric>that way. OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4233-0
+00:35:34.771 --> 00:35:36.251
+<v Hou, Eric>So maybe you wanna guess.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4243-0
+00:35:36.451 --> 00:35:42.611
+<v Hou, Eric>Maybe if I give you how did you figure
+out those ways.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4252-0
+00:35:42.651 --> 00:35:46.771
+<v Hou, Eric>Can can you guys give me one guess how we
+figure out those weights?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4262-0
+00:35:50.831 --> 00:35:53.991
+<v Hou, Eric>I told you it is a word to whack model
+but.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4268-0
+00:35:55.791 --> 00:35:58.231
+<v Hou, Eric>Any other any guess what is?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4274-0
+00:35:58.271 --> 00:36:01.751
+<v Hou, Eric>What is the base model this virtual VAC
+based upon?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4293-0
+00:36:06.251 --> 00:36:10.557
+<v Haroon, Sufyan>I think it's based on the you described,
+the Internet and whatever comes up,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4293-1
+00:36:10.557 --> 00:36:12.011
+<v Haroon, Sufyan>you train the model on it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4328-0
+00:36:14.011 --> 00:36:18.379
+<v Hou, Eric>So honestly,
+the way if you still remember the weights,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4328-1
+00:36:18.379 --> 00:36:24.619
+<v Hou, Eric>there's a one thing that we talk about,
+a weights a lot of time that is through</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4328-2
+00:36:24.619 --> 00:36:26.491
+<v Hou, Eric>the neural networks, OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4351-0
+00:36:26.771 --> 00:36:31.006
+<v Hou, Eric>So in neural networks,
+we always talk about we need to determine</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4351-1
+00:36:31.006 --> 00:36:34.460
+<v Hou, Eric>the ways we use a back propagation to
+find a weight.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4351-2
+00:36:34.460 --> 00:36:38.891
+<v Hou, Eric>Those weights were actually coming from a
+dedicated neural network.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4358-0
+00:36:39.611 --> 00:36:42.091
+<v Hou, Eric>So neural network is behind the scene as.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4364-0
+00:36:42.521 --> 00:36:44.881
+<v Hou, Eric>As a building break to.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4374-0
+00:36:46.891 --> 00:36:49.571
+<v Hou, Eric>Those weights associate with each English
+words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4382-0
+00:36:49.571 --> 00:36:53.491
+<v Hou, Eric>There are actually two ways to determine
+those weights.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4384-0
+00:36:53.491 --> 00:36:55.531
+<v Hou, Eric>One way is for example.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4399-0
+00:36:56.971 --> 00:37:01.458
+<v Hou, Eric>Apple is a fruit as a sentence of input
+to that neural network,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4399-1
+00:37:01.458 --> 00:37:02.931
+<v Hou, Eric>I will gather it out.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4415-0
+00:37:02.931 --> 00:37:07.243
+<v Hou, Eric>Fruit.
+I will use Apple and ease to guess the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4415-1
+00:37:07.243 --> 00:37:11.931
+<v Hou, Eric>fruit as a word and also I will get rid
+of Apple.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4429-0
+00:37:12.281 --> 00:37:19.081
+<v Hou, Eric>And use ease fruit to guess what is that
+word apple.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4452-0
+00:37:19.081 --> 00:37:24.232
+<v Hou, Eric>So in those two ways I can,
+I can eventually I run a large model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4452-1
+00:37:24.232 --> 00:37:28.681
+<v Hou, Eric>I can I I increase accuracy through
+different processes?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4472-0
+00:37:28.881 --> 00:37:34.053
+<v Hou, Eric>I can eventually have a weight associated
+with Apple. I can have a weight,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4472-1
+00:37:34.053 --> 00:37:38.121
+<v Hou, Eric>a vector of weights associated with fruit,
+so it's really.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4479-0
+00:37:38.851 --> 00:37:41.651
+<v Hou, Eric>The neural network behind the scene and
+doing the magic for us.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4497-0
+00:37:42.371 --> 00:37:46.173
+<v Hou, Eric>And right now,
+we're just used as is and use it as we</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4497-1
+00:37:46.173 --> 00:37:49.131
+<v Hou, Eric>know sort of how those ways are generated.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4533-0
+00:37:49.531 --> 00:37:56.485
+<v Hou, Eric>But those ways is from neural network and
+it's really thousand of numbers</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4533-1
+00:37:56.485 --> 00:38:01.841
+<v Hou, Eric>representing a word.
+Now after this step we successfully</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4533-2
+00:38:01.841 --> 00:38:07.291
+<v Hou, Eric>convert each English word to a vector of
+1000 of numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4537-0
+00:38:08.011 --> 00:38:09.531
+<v Hou, Eric>From 1000 of aspects.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4540-0
+00:38:10.601 --> 00:38:11.121
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4545-0
+00:38:11.201 --> 00:38:13.401
+<v Hou, Eric>So this is what this embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4547-0
+00:38:14.931 --> 00:38:15.491
+<v Hou, Eric>Step is doing.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4557-0
+00:38:17.131 --> 00:38:19.964
+<v Hou, Eric>OK.
+The second step we have this input</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4557-1
+00:38:19.964 --> 00:38:20.691
+<v Hou, Eric>embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4595-0
+00:38:20.691 --> 00:38:25.168
+<v Hou, Eric>Now we have the positional encoding or
+positional embedding,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4595-1
+00:38:25.168 --> 00:38:29.719
+<v Hou, Eric>and why we are doing that easy,
+because in the real language,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4595-2
+00:38:29.719 --> 00:38:35.370
+<v Hou, Eric>for example in real language I can say
+Eric eats pizza so that I like eating</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4595-3
+00:38:35.370 --> 00:38:35.811
+<v Hou, Eric>pizza.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4599-0
+00:38:35.851 --> 00:38:38.811
+<v Hou, Eric>So then it's really natural to say Eric
+is pizza.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4601-0
+00:38:39.411 --> 00:38:40.491
+<v Hou, Eric>However.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4603-0
+00:38:41.361 --> 00:38:42.601
+<v Hou, Eric>Pizza eats Eric.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4612-0
+00:38:44.091 --> 00:38:49.411
+<v Hou, Eric>Those two sentences,
+they have the same 3 words, Eric.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4615-0
+00:38:51.451 --> 00:38:52.251
+<v Hou, Eric>Eats and pizza.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4631-0
+00:38:53.931 --> 00:38:58.028
+<v Hou, Eric>However,
+the way how you organize those 3 words</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4631-1
+00:38:58.028 --> 00:39:00.931
+<v Hou, Eric>give you totally opposite meaning.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4639-0
+00:39:00.931 --> 00:39:03.571
+<v Hou, Eric>Because Eric is really myself.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4645-0
+00:39:03.571 --> 00:39:06.851
+<v Hou, Eric>Enjoy my dinner. However, pizza is Eric.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4651-0
+00:39:07.091 --> 00:39:09.051
+<v Hou, Eric>It's a really total nightmare.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4652-0
+00:39:09.371 --> 00:39:09.411
+<v Hou, Eric>I.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4659-0
+00:39:09.491 --> 00:39:12.731
+<v Hou, Eric>I don't want to dream of so then this is
+a really.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4663-0
+00:39:13.121 --> 00:39:13.841
+<v Hou, Eric>Different meanings.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4680-0
+00:39:13.841 --> 00:39:20.052
+<v Hou, Eric>So now it's showing you guys why the
+position of a word in a sentence is so</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4680-1
+00:39:20.052 --> 00:39:21.441
+<v Hou, Eric>important, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4688-0
+00:39:21.441 --> 00:39:23.481
+<v Hou, Eric>So then that's that's the why.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4710-0
+00:39:23.641 --> 00:39:30.528
+<v Hou, Eric>That's answers to why question why we
+need to do that and another question is</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4710-1
+00:39:30.528 --> 00:39:37.239
+<v Hou, Eric>how we gonna determine the positional
+encoding so that we will be using the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4710-2
+00:39:37.239 --> 00:39:37.681
+<v Hou, Eric>sign?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4719-0
+00:39:38.371 --> 00:39:41.171
+<v Hou, Eric>And cosine function as you can imagine,
+right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4727-0
+00:39:41.521 --> 00:39:43.721
+<v Hou, Eric>So sine cosine function.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4738-0
+00:39:43.721 --> 00:39:49.561
+<v Hou, Eric>So this is the formula provided by.
+All you need is is attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4742-0
+00:39:49.561 --> 00:39:50.841
+<v Hou, Eric>Attention is all you need.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4745-0
+00:39:50.841 --> 00:39:53.401
+<v Hou, Eric>Article and and this is a formula.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4767-0
+00:39:54.931 --> 00:40:01.718
+<v Hou, Eric>And I provide you a way how to calculate
+this and for example using this CAD stat</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4767-1
+00:40:01.718 --> 00:40:03.291
+<v Hou, Eric>map example, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4772-0
+00:40:03.291 --> 00:40:05.211
+<v Hou, Eric>So then sign 0 is a 0.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4785-0
+00:40:05.291 --> 00:40:09.240
+<v Hou, Eric>You know, if you recall this kind of,
+I don't know was,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4785-1
+00:40:09.240 --> 00:40:12.131
+<v Hou, Eric>is it even high school math or just like?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4787-0
+00:40:12.811 --> 00:40:13.731
+<v Hou, Eric>Middle school math.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4791-0
+00:40:14.971 --> 00:40:16.331
+<v Hou, Eric>Like how?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4793-0
+00:40:16.331 --> 00:40:17.491
+<v Hou, Eric>How soon did you guys?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4798-0
+00:40:19.491 --> 00:40:20.891
+<v Hou, Eric>There are assign cosm function.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4805-0
+00:40:20.891 --> 00:40:22.651
+<v Hou, Eric>When did you guys learn cosm function?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4807-0
+00:40:22.651 --> 00:40:24.171
+<v Hou, Eric>Middle School high school.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4811-0
+00:40:25.361 --> 00:40:27.081
+<v Mertens, Aidric>Maybe freshman year.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4813-0
+00:40:27.341 --> 00:40:27.861
+<v Hou, Eric>Oh really?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4818-0
+00:40:27.861 --> 00:40:28.221
+<v Hou, Eric>Oh wow.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4823-0
+00:40:28.221 --> 00:40:29.381
+<v Hou, Eric>OK, freshman year.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4831-0
+00:40:29.381 --> 00:40:32.461
+<v Hou, Eric>You definitely need to learn this sign
+cosine function.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4836-0
+00:40:32.661 --> 00:40:35.141
+<v Hou, Eric>Here's a formula. Here's a position.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4842-0
+00:40:35.141 --> 00:40:37.301
+<v Hou, Eric>Is it the first word? OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4846-0
+00:40:37.381 --> 00:40:39.421
+<v Hou, Eric>We're we're computer scientists, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4851-0
+00:40:39.421 --> 00:40:41.421
+<v Hou, Eric>So then we go from zero.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4855-0
+00:40:41.501 --> 00:40:42.941
+<v Hou, Eric>We never go from 1:00, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4857-0
+00:40:42.941 --> 00:40:44.341
+<v Hou, Eric>The first ever word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4865-0
+00:40:45.811 --> 00:40:48.651
+<v Hou, Eric>Is in position zero. You plug in zero.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4870-0
+00:40:48.731 --> 00:40:50.291
+<v Hou, Eric>You do this calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4875-0
+00:40:50.451 --> 00:40:52.611
+<v Hou, Eric>You you. This is a first word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4879-0
+00:40:52.611 --> 00:40:53.971
+<v Hou, Eric>You do this calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4882-0
+00:40:53.971 --> 00:40:55.971
+<v Hou, Eric>The second word you do this calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4888-0
+00:40:56.561 --> 00:41:00.681
+<v Hou, Eric>So eventually, for Cat sat mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4913-0
+00:41:01.841 --> 00:41:07.715
+<v Hou, Eric>This is position zero position one,
+position two, first word, second word,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4913-1
+00:41:07.715 --> 00:41:11.239
+<v Hou, Eric>third word.
+You have their positional vector</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4913-2
+00:41:11.239 --> 00:41:13.041
+<v Hou, Eric>calculated in this way.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4922-0
+00:41:13.321 --> 00:41:16.681
+<v Hou, Eric>Just plug in this sine cosine function.
+You have those.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4927-0
+00:41:17.481 --> 00:41:21.201
+<v Hou, Eric>So next step is you have the original.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4940-0
+00:41:22.691 --> 00:41:26.291
+<v Hou, Eric>Embedding result. To simplify it,
+I just call it 10.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4954-0
+00:41:26.291 --> 00:41:30.495
+<v Hou, Eric>Those kind of things,
+those are not real numbers in in the real</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4954-1
+00:41:30.495 --> 00:41:32.531
+<v Hou, Eric>model you have all the kind of.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4964-0
+00:41:32.841 --> 00:41:35.030
+<v Hou, Eric>Different numbers look like random
+numbers,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4964-1
+00:41:35.030 --> 00:41:36.721
+<v Hou, Eric>but I'm just on the demo straight.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4979-0
+00:41:36.841 --> 00:41:42.681
+<v Hou, Eric>I just call them as output from embedding
+and I use those two formula.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/4988-0
+00:41:43.081 --> 00:41:48.601
+<v Hou, Eric>I calculate those positional vector and
+I'm just adding them together.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5003-0
+00:41:48.641 --> 00:41:54.851
+<v Hou, Eric>It's really 1 + 0,
+zero plus one and 1 + 0 and 0 + 1 where</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5003-1
+00:41:54.851 --> 00:41:56.641
+<v Hou, Eric>zero plus this 8.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5015-0
+00:41:57.971 --> 00:42:02.611
+<v Hou, Eric>41 and stop we just per each position we
+add them together.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5019-0
+00:42:03.601 --> 00:42:04.241
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5024-0
+00:42:04.361 --> 00:42:07.841
+<v Hou, Eric>So after this tab, So what do we have?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5034-0
+00:42:09.491 --> 00:42:14.411
+<v Hou, Eric>We successfully convert those words into
+into numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5066-0
+00:42:16.051 --> 00:42:22.094
+<v Hou, Eric>And then by adding those positional
+vector the end of this step,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5066-1
+00:42:22.094 --> 00:42:26.836
+<v Hou, Eric>that vector has the original meaning of
+the words,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5066-2
+00:42:26.836 --> 00:42:33.251
+<v Hou, Eric>and then it also consists of the position.
+We usually use that word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5072-0
+00:42:34.271 --> 00:42:36.231
+<v Hou, Eric>For example, we usually use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5087-0
+00:42:36.511 --> 00:42:42.871
+<v Hou, Eric>Like we're using the OR and or a before
+Anon.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5098-0
+00:42:43.231 --> 00:42:48.855
+<v Hou, Eric>So then this kind of information's
+already embedded into this kind of vector,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5098-1
+00:42:48.855 --> 00:42:49.071
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5099-0
+00:42:50.031 --> 00:42:50.871
+<v Hou, Eric>Any question?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5101-0
+00:42:56.591 --> 00:42:56.951
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5128-0
+00:42:58.411 --> 00:43:05.326
+<v Hou, Eric>So after this step the the vector knows
+sort of the meaning of those English</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5128-1
+00:43:05.326 --> 00:43:09.098
+<v Hou, Eric>words,
+and usually where do we pull those</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5128-2
+00:43:09.098 --> 00:43:12.331
+<v Hou, Eric>English words in one given sentence?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5144-0
+00:43:12.371 --> 00:43:16.549
+<v Hou, Eric>So this kind of information we're telling
+the model,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5144-1
+00:43:16.549 --> 00:43:20.411
+<v Hou, Eric>so now we're going to talk about this
+attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5152-0
+00:43:21.091 --> 00:43:25.531
+<v Hou, Eric>So that's why you know that paper is
+about, you know, attention's all you need.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5163-0
+00:43:26.161 --> 00:43:28.961
+<v Hou, Eric>It has to talk about attention, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5185-0
+00:43:28.961 --> 00:43:36.334
+<v Hou, Eric>So attention is the key concept from this
+article and then I I gonna go slow and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5185-1
+00:43:36.334 --> 00:43:40.521
+<v Hou, Eric>then talk about what this attention mean,
+OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5189-0
+00:43:41.201 --> 00:43:44.321
+<v Hou, Eric>So attention means it's sort of like.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5205-0
+00:43:45.811 --> 00:43:51.430
+<v Hou, Eric>It has three values,
+a value called ka value called that is a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5205-1
+00:43:51.430 --> 00:43:52.971
+<v Hou, Eric>key value called.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5208-0
+00:43:52.971 --> 00:43:55.331
+<v Hou, Eric>A query is where you call queue.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5215-0
+00:43:55.831 --> 00:43:58.711
+<v Hou, Eric>And and value called value that's av.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5229-0
+00:43:59.401 --> 00:44:02.628
+<v Hou, Eric>Right.
+So that it's really like you go to a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5229-1
+00:44:02.628 --> 00:44:03.361
+<v Hou, Eric>bookstore?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5235-0
+00:44:05.131 --> 00:44:06.411
+<v Hou, Eric>So you have a.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5240-0
+00:44:06.411 --> 00:44:07.571
+<v Hou, Eric>You have a query.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5243-0
+00:44:07.571 --> 00:44:09.731
+<v Hou, Eric>The query is you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5260-0
+00:44:09.731 --> 00:44:15.091
+<v Hou, Eric>In your mind,
+you're going to find a specific book that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5260-1
+00:44:15.091 --> 00:44:17.771
+<v Hou, Eric>you're interested in, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5267-0
+00:44:17.771 --> 00:44:22.371
+<v Hou, Eric>Something from your end,
+but the from the bookstore's end.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5272-0
+00:44:22.571 --> 00:44:25.571
+<v Hou, Eric>The bookstore has so many books.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5277-0
+00:44:27.211 --> 00:44:28.731
+<v Hou, Eric>Each book on the shelf.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5287-0
+00:44:30.031 --> 00:44:35.311
+<v Hou, Eric>The position of that book is the key of
+that book.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5299-0
+00:44:36.811 --> 00:44:41.531
+<v Hou, Eric>And if you can use one sentence to
+summarize that book.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5315-0
+00:44:43.171 --> 00:44:49.227
+<v Hou, Eric>And your summary of that book is the
+value of that book. OK,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5315-1
+00:44:49.227 --> 00:44:51.411
+<v Hou, Eric>you are going to find.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5325-0
+00:44:53.051 --> 00:44:58.091
+<v Hou, Eric>The book you're interested in,
+if you're in a virtual library.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5348-0
+00:44:58.481 --> 00:45:05.952
+<v Hou, Eric>You gonna see what you like by through
+all different positions on the shelf.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5348-1
+00:45:05.952 --> 00:45:08.281
+<v Hou, Eric>Eventually you like one.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5359-0
+00:45:08.361 --> 00:45:15.001
+<v Hou, Eric>You're gonna pick that key and read the
+value of that book, OK?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5386-0
+00:45:16.491 --> 00:45:23.786
+<v Hou, Eric>Key is telling you the position of the
+book and the value is the content of the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5386-1
+00:45:23.786 --> 00:45:29.531
+<v Hou, Eric>book and is from your perspective,
+what are you interested in.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5389-0
+00:45:30.841 --> 00:45:31.281
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5422-0
+00:45:31.281 --> 00:45:37.731
+<v Hou, Eric>So this is really coming from two end one
+end you can consider is a key,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5422-1
+00:45:37.731 --> 00:45:44.975
+<v Hou, Eric>another end is the location of the lock
+and the lock hole is you gonna go and use</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5422-2
+00:45:44.975 --> 00:45:47.361
+<v Hou, Eric>your key to open that lock.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5429-0
+00:45:48.891 --> 00:45:51.011
+<v Hou, Eric>That's the relationship between the key.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5436-0
+00:45:52.691 --> 00:45:54.491
+<v Hou, Eric>And the value OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5439-0
+00:45:54.931 --> 00:45:57.331
+<v Hou, Eric>So now we have this sentence.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5444-0
+00:45:58.091 --> 00:46:00.291
+<v Hou, Eric>So we need to go 1 by 1.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5455-0
+00:46:00.601 --> 00:46:05.641
+<v Hou, Eric>And to do one thing is called self
+attention for the word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5461-0
+00:46:07.171 --> 00:46:08.451
+<v Hou, Eric>Cat, what does that mean?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5470-0
+00:46:08.531 --> 00:46:12.631
+<v Hou, Eric>Is a cat sat mat?
+This is only three word sentence.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5470-1
+00:46:12.631 --> 00:46:13.971
+<v Hou, Eric>You want to know.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5480-0
+00:46:15.771 --> 00:46:19.851
+<v Hou, Eric>Which word has the closest relationship
+with cat?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5482-0
+00:46:21.611 --> 00:46:21.771
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5498-0
+00:46:23.331 --> 00:46:28.964
+<v Hou, Eric>So you will be doing is you do have the
+embedding and then that's to pretend this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5498-1
+00:46:28.964 --> 00:46:29.651
+<v Hou, Eric>embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5508-0
+00:46:30.321 --> 00:46:33.601
+<v Hou, Eric>In this way, just some whole numbers,
+right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5519-0
+00:46:33.601 --> 00:46:37.909
+<v Hou, Eric>So then they already passed the original
+embedding already passed the positional</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5519-1
+00:46:37.909 --> 00:46:38.441
+<v Hou, Eric>embedding.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5524-0
+00:46:38.441 --> 00:46:40.161
+<v Hou, Eric>So they has a lot of information here.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5527-0
+00:46:40.161 --> 00:46:40.961
+<v Hou, Eric>This is pretend.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5539-0
+00:46:40.961 --> 00:46:45.991
+<v Hou, Eric>This is a result of a previous two steps
+and then you will be creating some</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5539-1
+00:46:45.991 --> 00:46:46.521
+<v Hou, Eric>weights.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5551-0
+00:46:46.521 --> 00:46:48.801
+<v Hou, Eric>It's called the weights associated with.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5561-0
+00:46:48.801 --> 00:46:53.961
+<v Hou, Eric>Query the weights associated with the key
+and the weights associated with value.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5565-0
+00:46:55.091 --> 00:46:55.971
+<v Hou, Eric>You will be doing.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5575-0
+00:46:57.691 --> 00:47:01.091
+<v Hou, Eric>This very calculation,
+the embedding multiply the West of Q.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5606-0
+00:47:02.001 --> 00:47:07.885
+<v Hou, Eric>Embedding multiply the West of K by West
+of V to calculate this kind of a matrix</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5606-1
+00:47:07.885 --> 00:47:13.406
+<v Hou, Eric>multiplication. I will just skip.
+You can definitely see the see the slides</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5606-2
+00:47:13.406 --> 00:47:14.641
+<v Hou, Eric>and can see that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5607-0
+00:47:14.641 --> 00:47:15.761
+<v Hou, Eric>So eventually.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5628-0
+00:47:17.251 --> 00:47:26.691
+<v Hou, Eric>I calculate this K from the word cat and
+I have this one and one and two and 0.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5631-0
+00:47:26.691 --> 00:47:28.971
+<v Hou, Eric>So this is my K&amp;V.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5634-0
+00:47:29.691 --> 00:47:31.251
+<v Hou, Eric>Kind of vector coming from.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5653-0
+00:47:32.601 --> 00:47:38.912
+<v Hou, Eric>Post this matrix multiplication,
+you do the same thing for set and for mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5653-1
+00:47:38.912 --> 00:47:39.161
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5669-0
+00:47:39.161 --> 00:47:44.526
+<v Hou, Eric>You have this K&amp;V,
+so they define a formula like you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5669-1
+00:47:44.526 --> 00:47:47.161
+<v Hou, Eric>calculate is self attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5681-0
+00:47:47.321 --> 00:47:52.321
+<v Hou, Eric>So then you do this formula you you
+eventually find this very vector.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5689-0
+00:47:52.361 --> 00:47:54.161
+<v Hou, Eric>So just go through this formula.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5694-0
+00:47:54.201 --> 00:47:55.961
+<v Hou, Eric>It's already like your Q.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5696-0
+00:47:56.441 --> 00:47:59.081
+<v Hou, Eric>Multiply each of those K's.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5702-0
+00:48:00.021 --> 00:48:01.101
+<v Hou, Eric>For example my.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5707-0
+00:48:01.101 --> 00:48:04.181
+<v Hou, Eric>I'm coming from my my first word cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5710-0
+00:48:04.661 --> 00:48:07.661
+<v Hou, Eric>I want to know what is the closest.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5740-0
+00:48:09.171 --> 00:48:14.801
+<v Hou, Eric>Relation which is a word with the closest
+relationship with my word cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5740-1
+00:48:14.801 --> 00:48:20.123
+<v Hou, Eric>OK I will define the relation later,
+but let me just go through this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5740-2
+00:48:20.123 --> 00:48:22.051
+<v Hou, Eric>calculation for a second.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5741-0
+00:48:22.051 --> 00:48:23.491
+<v Hou, Eric>You just bear with me.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5751-0
+00:48:25.131 --> 00:48:27.651
+<v Hou, Eric>My queue of cat is A2 of 0.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5753-0
+00:48:27.651 --> 00:48:28.851
+<v Hou, Eric>This is sort of.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5758-0
+00:48:29.561 --> 00:48:32.721
+<v Hou, Eric>Coming from a cat, I want to know.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5772-0
+00:48:34.211 --> 00:48:39.213
+<v Hou, Eric>What which,
+which sort of a book that I am interested</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5772-1
+00:48:39.213 --> 00:48:39.491
+<v Hou, Eric>in.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5779-0
+00:48:39.491 --> 00:48:41.811
+<v Hou, Eric>I have a 2A0 as my interest.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5821-0
+00:48:42.331 --> 00:48:47.998
+<v Hou, Eric>I gonna compare this two and 0 versus all
+the keys which is a position of those</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5821-1
+00:48:47.998 --> 00:48:51.328
+<v Hou, Eric>books.
+I gonna do 2 of 0 multiply this one and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5821-2
+00:48:51.328 --> 00:48:56.995
+<v Hou, Eric>one I gonna do 2 of 0 multiply this one
+and one I will do the two of 0 multiply</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5821-3
+00:48:56.995 --> 00:48:57.491
+<v Hou, Eric>this 2.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5823-0
+00:48:57.491 --> 00:48:57.811
+<v Hou, Eric>And two.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5830-0
+00:48:59.121 --> 00:49:01.201
+<v Hou, Eric>I do this calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5841-0
+00:49:01.801 --> 00:49:10.161
+<v Hou, Eric>I eventually have this numerator as two
+and two and four as as a vector.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5861-0
+00:49:11.771 --> 00:49:19.167
+<v Hou, Eric>This first two this first number two
+represent the relationship between my cat</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5861-1
+00:49:19.167 --> 00:49:20.571
+<v Hou, Eric>and itself cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5873-0
+00:49:20.971 --> 00:49:26.576
+<v Hou, Eric>The second number two represent the
+relationship between my first word,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5873-1
+00:49:26.576 --> 00:49:28.211
+<v Hou, Eric>cat versus my second.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5916-0
+00:49:28.481 --> 00:49:35.089
+<v Hou, Eric>Convert set this third word,
+the third number four represent my the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5916-1
+00:49:35.089 --> 00:49:42.668
+<v Hou, Eric>relationship between my first word cat
+and last word mat and the dimension of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5916-2
+00:49:42.668 --> 00:49:47.721
+<v Hou, Eric>this is as you can see it's a 2
+dimensional vector.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5928-0
+00:49:47.721 --> 00:49:51.035
+<v Hou, Eric>So then as a sqrt 2.
+So I have those 3 numbers,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5928-1
+00:49:51.035 --> 00:49:52.761
+<v Hou, Eric>I divide the square of 2.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5930-0
+00:49:52.761 --> 00:49:53.681
+<v Hou, Eric>I have this number.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5937-0
+00:49:54.411 --> 00:49:57.531
+<v Hou, Eric>As you know, the soft Max is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5952-0
+00:49:58.321 --> 00:50:02.801
+<v Hou, Eric>Sort of normalize all the numbers.
+That's why I do this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5953-0
+00:50:02.801 --> 00:50:04.161
+<v Hou, Eric>A softmax function.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5955-0
+00:50:04.321 --> 00:50:05.241
+<v Hou, Eric>I have this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5959-0
+00:50:05.971 --> 00:50:07.491
+<v Hou, Eric>So turns out.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5965-0
+00:50:08.761 --> 00:50:12.321
+<v Hou, Eric>Looking at the word cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5981-0
+00:50:14.411 --> 00:50:21.797
+<v Hou, Eric>Based upon the weight I'm providing,
+I really want to know the location of the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/5981-1
+00:50:21.797 --> 00:50:22.171
+<v Hou, Eric>cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6018-0
+00:50:22.961 --> 00:50:32.175
+<v Hou, Eric>So that's why I say based upon the
+current wait you provided, the eventual,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6018-1
+00:50:32.175 --> 00:50:42.116
+<v Hou, Eric>eventually the output of this cat is 16%
+of itself and 16% of these words SAT and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6018-2
+00:50:42.116 --> 00:50:46.481
+<v Hou, Eric>67% of these word of mouth. So then.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6026-0
+00:50:47.451 --> 00:50:49.731
+<v Hou, Eric>This very one-on-one has a lot of
+meanings.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6030-0
+00:50:49.851 --> 00:50:52.171
+<v Hou, Eric>It has the original meaning of cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6051-0
+00:50:52.951 --> 00:51:00.200
+<v Hou, Eric>It has the original position of where we
+should put the world cat and also it has</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6051-1
+00:51:00.200 --> 00:51:03.471
+<v Hou, Eric>the relevant context of SAT and Matt.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6053-0
+00:51:04.891 --> 00:51:05.051
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6069-0
+00:51:05.051 --> 00:51:08.611
+<v Hou, Eric>So this is a key point in the end of this
+step,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6069-1
+00:51:08.611 --> 00:51:12.171
+<v Hou, Eric>we already tell the model based upon the
+given.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6076-0
+00:51:13.811 --> 00:51:15.771
+<v Hou, Eric>Weights the meaning of the original word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6081-0
+00:51:17.721 --> 00:51:19.681
+<v Hou, Eric>The position of the original word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6092-0
+00:51:21.411 --> 00:51:25.931
+<v Hou, Eric>And the relationship relationship of the
+original word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6096-0
+00:51:27.611 --> 00:51:28.811
+<v Hou, Eric>To the nearby word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6137-0
+00:51:30.491 --> 00:51:37.287
+<v Hou, Eric>In that sentence or in that paragraph.
+So we tell the model a lot of information</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6137-1
+00:51:37.287 --> 00:51:43.747
+<v Hou, Eric>through this. The reason I said, OK,
+we need to define that kind of code and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6137-2
+00:51:43.747 --> 00:51:47.691
+<v Hou, Eric>Co relationship later is you may need so
+many.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6140-0
+00:51:47.921 --> 00:51:49.641
+<v Hou, Eric>Different relationships.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6179-0
+00:51:50.841 --> 00:51:58.144
+<v Hou, Eric>To tell model because in this sentence
+you want to tell models a cat sat mat and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6179-1
+00:51:58.144 --> 00:52:03.193
+<v Hou, Eric>given that three matrix that we use in
+the calculation,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6179-2
+00:52:03.193 --> 00:52:09.415
+<v Hou, Eric>we really tell the model that there is a
+mat that cat is sitting on.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6179-3
+00:52:09.415 --> 00:52:12.841
+<v Hou, Eric>So that why your your talent model is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6185-0
+00:52:12.841 --> 00:52:15.041
+<v Hou, Eric>Really Cat is sitting on a mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6197-0
+00:52:15.851 --> 00:52:19.931
+<v Hou, Eric>But in some of the ways you're really
+trying to tell the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6228-0
+00:52:20.281 --> 00:52:24.335
+<v Hou, Eric>That the information that the cat love to
+sit.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6228-1
+00:52:24.335 --> 00:52:30.545
+<v Hou, Eric>So maybe in some perspective set really
+gonna have a high clinical high</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6228-2
+00:52:30.545 --> 00:52:34.081
+<v Hou, Eric>relationship with them with the word cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6241-0
+00:52:34.521 --> 00:52:40.761
+<v Hou, Eric>So that's why we have this multi had self
+attention calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6245-0
+00:52:41.361 --> 00:52:44.521
+<v Hou, Eric>So this is really telling you that what?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6258-0
+00:52:45.331 --> 00:52:47.731
+<v Hou, Eric>This this new vector of Cal really has.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6260-0
+00:52:47.851 --> 00:52:50.051
+<v Hou, Eric>So it has the blends information.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6265-0
+00:52:50.401 --> 00:52:51.521
+<v Hou, Eric>And it has an original meaning.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6282-0
+00:52:51.521 --> 00:52:57.678
+<v Hou, Eric>It has the positional meaning and it has
+the influence of sadden Matt and in this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6282-1
+00:52:57.678 --> 00:53:00.081
+<v Hou, Eric>way Matt has a higher influence.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6302-0
+00:53:02.001 --> 00:53:05.648
+<v Hou, Eric>Uncut.
+And then if you know there's a mat and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6302-1
+00:53:05.648 --> 00:53:10.801
+<v Hou, Eric>usually model can guess,
+either it's a cat or either it's a dog.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6322-0
+00:53:12.251 --> 00:53:18.736
+<v Hou, Eric>And it's multi hard attention is you're
+doing this calculation in so many</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6322-1
+00:53:18.736 --> 00:53:20.051
+<v Hou, Eric>different ways.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6335-0
+00:53:20.451 --> 00:53:25.819
+<v Hou, Eric>Why so many different ways?
+Is some of those is focused on position</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6335-1
+00:53:25.819 --> 00:53:29.451
+<v Hou, Eric>like what we had done like one minute
+before.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6348-0
+00:53:30.081 --> 00:53:34.721
+<v Hou, Eric>And sometimes it's really about the
+grammar, because we do have a set.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6376-0
+00:53:34.961 --> 00:53:40.588
+<v Hou, Eric>Over there and it's a past attends and
+and and sometimes you really want to have</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6376-1
+00:53:40.588 --> 00:53:44.201
+<v Hou, Eric>some feelings or semantics similarities
+over there.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6386-0
+00:53:44.201 --> 00:53:47.998
+<v Hou, Eric>So.
+So that's why you have so many different</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6386-1
+00:53:47.998 --> 00:53:51.121
+<v Hou, Eric>aspects to analyze the same sentence.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6402-0
+00:53:51.321 --> 00:53:56.878
+<v Hou, Eric>You just want to provide all those
+information to the model to the large</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6402-1
+00:53:56.878 --> 00:53:58.401
+<v Hou, Eric>ranker model, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6406-0
+00:53:58.401 --> 00:54:01.441
+<v Hou, Eric>So that's why we have that multi had.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6411-0
+00:54:02.171 --> 00:54:03.371
+<v Hou, Eric>Attention calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6423-0
+00:54:04.791 --> 00:54:07.922
+<v Hou, Eric>So for example,
+one thing is semantic similarity,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6423-1
+00:54:07.922 --> 00:54:09.551
+<v Hou, Eric>another one is a position.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6464-0
+00:54:11.051 --> 00:54:14.680
+<v Hou, Eric>Patterns.
+So those are just two halves and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6464-1
+00:54:14.680 --> 00:54:21.431
+<v Hou, Eric>definitely you can have multip has so
+that going to provide a model all kind of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6464-2
+00:54:21.431 --> 00:54:27.001
+<v Hou, Eric>different information or you can think
+this way Apple has a word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6464-3
+00:54:27.001 --> 00:54:33.331
+<v Hou, Eric>It definitely has two meanings.
+At least one is a fruit apple another one.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6467-0
+00:54:33.611 --> 00:54:34.611
+<v Hou, Eric>Is a brand Apple.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6474-0
+00:54:35.001 --> 00:54:39.961
+<v Hou, Eric>Ale for a tech company for the same
+sentence. A word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6489-0
+00:54:41.491 --> 00:54:47.811
+<v Hou, Eric>The relation between one word in the in
+in to all the all the nearby words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6515-0
+00:54:49.571 --> 00:54:54.311
+<v Hou, Eric>You must have different ways to
+understand how that word is either</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6515-1
+00:54:54.311 --> 00:54:59.971
+<v Hou, Eric>influencing other word or how that word
+is being influenced by the other words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6520-0
+00:55:00.771 --> 00:55:03.771
+<v Hou, Eric>So that's why a single had attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6544-0
+00:55:04.681 --> 00:55:09.875
+<v Hou, Eric>Which is a sort of a similar way of
+calculating or of digitalize those</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6544-1
+00:55:09.875 --> 00:55:13.241
+<v Hou, Eric>meanings of a word is not going to be
+enough.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6590-0
+00:55:13.321 --> 00:55:19.444
+<v Hou, Eric>So that means you need to consider the
+same sentence in different aspects and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6590-1
+00:55:19.444 --> 00:55:25.724
+<v Hou, Eric>you need to send or we need to send all
+different aspects meetings to the model</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6590-2
+00:55:25.724 --> 00:55:31.925
+<v Hou, Eric>and the model can decide in this kind of
+in this very scenario which one gonna</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6590-3
+00:55:31.925 --> 00:55:33.731
+<v Hou, Eric>play an important role.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6602-0
+00:55:34.161 --> 00:55:39.521
+<v Hou, Eric>And why we are choosing one word versus
+the other in that various sentence?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6606-0
+00:55:41.131 --> 00:55:41.291
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6643-0
+00:55:41.291 --> 00:55:46.429
+<v Hou, Eric>So that's why we are doing this multihad
+a good news of this multihad is you can</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6643-1
+00:55:46.429 --> 00:55:51.566
+<v Hou, Eric>see they are analyzing the same sentence
+or same program from different meanings</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6643-2
+00:55:51.566 --> 00:55:54.611
+<v Hou, Eric>or different aspects or different
+perspectives.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6657-0
+00:55:54.811 --> 00:55:59.411
+<v Hou, Eric>So then you can really parallelize
+parallelize these multi head attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6671-0
+00:55:59.411 --> 00:56:03.515
+<v Hou, Eric>This is the only one thing that this is
+complex calculation,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6671-1
+00:56:03.515 --> 00:56:05.331
+<v Hou, Eric>but you can parallelize it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6695-0
+00:56:05.841 --> 00:56:12.111
+<v Hou, Eric>That means like if you build like 10,
+000 GPUs and then you gonna run much</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6695-1
+00:56:12.111 --> 00:56:16.041
+<v Hou, Eric>faster than one GPU in this in this very
+step.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6699-0
+00:56:17.211 --> 00:56:18.931
+<v Hou, Eric>Give a pause any question.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6716-0
+00:56:30.241 --> 00:56:33.681
+<v Hou, Eric>So,
+so far what we send to the model is we</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6716-1
+00:56:33.681 --> 00:56:35.441
+<v Hou, Eric>send the model, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6725-0
+00:56:35.441 --> 00:56:40.401
+<v Hou, Eric>So then we send the model multi ways of
+meanings of a word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6733-0
+00:56:41.001 --> 00:56:45.241
+<v Hou, Eric>We send a model if we we build a model on
+big data, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6759-0
+00:56:45.241 --> 00:56:50.437
+<v Hou, Eric>So then we send the models all possible
+positions of one single word in different</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6759-1
+00:56:50.437 --> 00:56:53.606
+<v Hou, Eric>sentences,
+and then we gonna send that positional</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6759-2
+00:56:53.606 --> 00:56:56.521
+<v Hou, Eric>vector through all the all the English
+words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6767-0
+00:56:57.251 --> 00:57:00.691
+<v Hou, Eric>So we we send the model a a dictionary,
+right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6801-0
+00:57:01.201 --> 00:57:06.481
+<v Hou, Eric>So all the possible positions of that
+word in different sentences were all sent</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6801-1
+00:57:06.481 --> 00:57:09.781
+<v Hou, Eric>to the models,
+and those are we send those sample</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6801-2
+00:57:09.781 --> 00:57:15.259
+<v Hou, Eric>sentences to the model that how we should
+understand one word versus all the words</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6801-3
+00:57:15.259 --> 00:57:15.721
+<v Hou, Eric>around.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6813-0
+00:57:16.161 --> 00:57:20.041
+<v Hou, Eric>So we we send from a single word person
+of active.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6821-0
+00:57:20.041 --> 00:57:23.721
+<v Hou, Eric>We send from a grammar sentence structure
+perspective.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6831-0
+00:57:23.881 --> 00:57:29.123
+<v Hou, Eric>We even also send the meanings how we
+interpret those words in different</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6831-1
+00:57:29.123 --> 00:57:29.841
+<v Hou, Eric>sentences.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6838-0
+00:57:30.571 --> 00:57:32.091
+<v Hou, Eric>We send all three kind of information.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6840-0
+00:57:32.521 --> 00:57:33.041
+<v Hou, Eric>To the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6852-0
+00:57:34.851 --> 00:57:38.392
+<v Hou, Eric>Right.
+So now the next step is a typical neural</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6852-1
+00:57:38.392 --> 00:57:40.531
+<v Hou, Eric>network. It's a feed forward.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6900-0
+00:57:42.251 --> 00:57:46.958
+<v Hou, Eric>The feed forward is redoing the neural
+network is doing this by by by assigning</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6900-1
+00:57:46.958 --> 00:57:51.312
+<v Hou, Eric>different weights and then eventually
+you're going to do a neural network</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6900-2
+00:57:51.312 --> 00:57:53.960
+<v Hou, Eric>training and that that's the number one
+way.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6900-3
+00:57:53.960 --> 00:57:58.491
+<v Hou, Eric>The number two way that you'll be you'll
+be calculating the the way you may.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6915-0
+00:57:58.491 --> 00:58:02.651
+<v Hou, Eric>Guess how we determine those weights and
+biases in in this feedforward step?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6924-0
+00:58:03.571 --> 00:58:05.851
+<v Hou, Eric>You know, we know the magic word is back.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6939-0
+00:58:05.851 --> 00:58:09.320
+<v Hou, Eric>Propagation. OK,
+so the all the stuff you learn from</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6939-1
+00:58:09.320 --> 00:58:12.724
+<v Hou, Eric>neural network,
+we're gonna repeat here in a larger</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6939-2
+00:58:12.724 --> 00:58:13.771
+<v Hou, Eric>language models.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6954-0
+00:58:14.851 --> 00:58:19.074
+<v Hou, Eric>The large,
+longer model from a model perspective is</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/6954-1
+00:58:19.074 --> 00:58:20.211
+<v Hou, Eric>not that hard.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7000-0
+00:58:20.571 --> 00:58:26.644
+<v Hou, Eric>The hard piece is we have a million of
+sort of English words, jargons,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7000-1
+00:58:26.644 --> 00:58:33.486
+<v Hou, Eric>terms and then there's so many so much
+data and then we just need to have a big</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7000-2
+00:58:33.486 --> 00:58:40.073
+<v Hou, Eric>machine to run those models to able to
+run those backup propaggation because</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7000-3
+00:58:40.073 --> 00:58:42.211
+<v Hou, Eric>remember we have to pull.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7003-0
+00:58:42.211 --> 00:58:43.051
+<v Hou, Eric>Those numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7008-0
+00:58:43.731 --> 00:58:45.051
+<v Hou, Eric>Into the RAM and the RAM.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7011-0
+00:58:45.051 --> 00:58:46.211
+<v Hou, Eric>Ram has to be big.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7019-0
+00:58:46.481 --> 00:58:48.561
+<v Hou, Eric>That GPU has to be powerful.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7027-0
+00:58:48.561 --> 00:58:50.841
+<v Hou, Eric>So then we had OK have those.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7040-0
+00:58:50.841 --> 00:58:54.047
+<v Hou, Eric>Uh, you know,
+partial derivatives to calculate at the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7040-1
+00:58:54.047 --> 00:58:54.641
+<v Hou, Eric>same time.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7072-0
+00:58:54.641 --> 00:58:58.160
+<v Hou, Eric>That is the most difficult part in terms
+of model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7072-1
+00:58:58.160 --> 00:59:01.542
+<v Hou, Eric>As you can see we just sending so many,
+so much,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7072-2
+00:59:01.542 --> 00:59:05.820
+<v Hou, Eric>so many different so much information
+from different aspects.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7072-3
+00:59:05.820 --> 00:59:09.961
+<v Hou, Eric>The model that's really the the,
+the feature creation step.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7077-0
+00:59:11.411 --> 00:59:14.851
+<v Hou, Eric>It sounds fancy, but is a typical.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7081-0
+00:59:16.571 --> 00:59:17.531
+<v Hou, Eric>Neural network use case.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7084-0
+00:59:17.761 --> 00:59:19.881
+<v Hou, Eric>It's not as fun, see.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7114-0
+00:59:21.451 --> 00:59:25.000
+<v Hou, Eric>The really engineer room work we're doing
+from, you know,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7114-1
+00:59:25.000 --> 00:59:29.896
+<v Hou, Eric>opening eyes and they were able to pull
+those information together and then and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7114-2
+00:59:29.896 --> 00:59:33.691
+<v Hou, Eric>then run a neural network to find out all
+the proper weights.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7147-0
+00:59:34.291 --> 00:59:38.287
+<v Hou, Eric>And by the way,
+if you guys may know what's what's</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7147-1
+00:59:38.287 --> 00:59:42.440
+<v Hou, Eric>important for opening eye or actually
+those weights,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7147-2
+00:59:42.440 --> 00:59:47.611
+<v Hou, Eric>that's why this call open call on call
+open AI models are closed.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7165-0
+00:59:49.881 --> 00:59:55.617
+<v Hou, Eric>Close the source model because they will
+never tell you the weights associated</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7165-1
+00:59:55.617 --> 00:59:56.561
+<v Hou, Eric>those tokens.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7174-0
+00:59:56.601 --> 00:59:59.801
+<v Hou, Eric>By the way,
+the tokens are sort of digitalized.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7179-0
+00:59:59.801 --> 01:00:02.081
+<v Hou, Eric>Or worse,
+they're not going to tell you that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7183-0
+01:00:02.081 --> 01:00:04.121
+<v Hou, Eric>Thus, their secret sauce.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7205-0
+01:00:04.361 --> 01:00:11.146
+<v Hou, Eric>But that's why those open AI models or
+anthropic models or or Gemini models are</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7205-1
+01:00:11.146 --> 01:00:15.641
+<v Hou, Eric>closed source models.
+The only thing they closed is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7208-0
+01:00:16.331 --> 01:00:16.651
+<v Hou, Eric>The weights.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7219-0
+01:00:17.081 --> 01:00:21.281
+<v Hou, Eric>In this feeds forward in this multi multi
+head attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7240-0
+01:00:21.441 --> 01:00:24.142
+<v Hou, Eric>Uh.
+In this positional encoding in the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7240-1
+01:00:24.142 --> 01:00:27.397
+<v Hou, Eric>encoder and also the similar stuff in
+decoder,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7240-2
+01:00:27.397 --> 01:00:30.721
+<v Hou, Eric>they just keep those ways away from the
+public.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7247-0
+01:00:32.431 --> 01:00:34.991
+<v Hou, Eric>The metal Lama model or deep sick model?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7261-0
+01:00:34.991 --> 01:00:40.722
+<v Hou, Eric>Those are the models that gonna tell you
+the weights of whatever input output</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7261-1
+01:00:40.722 --> 01:00:41.751
+<v Hou, Eric>you're having.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7267-0
+01:00:41.791 --> 01:00:44.991
+<v Hou, Eric>You're you're you're getting or you're
+sending to the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7275-0
+01:00:44.991 --> 01:00:46.991
+<v Hou, Eric>So then they give you those weights.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7304-0
+01:00:47.191 --> 01:00:51.427
+<v Hou, Eric>So then you can use the weights to do
+whatever you want,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7304-1
+01:00:51.427 --> 01:00:57.299
+<v Hou, Eric>or change and be use your way to build
+another model instead of calling API so</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7304-2
+01:00:57.299 --> 01:00:59.231
+<v Hou, Eric>that you by analyzing the.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7309-0
+01:00:59.881 --> 01:01:02.041
+<v Hou, Eric>In theory you can, you can.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7346-0
+01:01:02.471 --> 01:01:06.769
+<v Hou, Eric>You can, you know,
+you can change the ways by fine tune the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7346-1
+01:01:06.769 --> 01:01:12.786
+<v Hou, Eric>ways by adding your specific data so that
+the weights is there is for you to change</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7346-2
+01:01:12.786 --> 01:01:18.516
+<v Hou, Eric>and this is really give you the first
+version of the draft and then you can add</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7346-3
+01:01:18.516 --> 01:01:19.591
+<v Hou, Eric>your own local.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7367-0
+01:01:19.791 --> 01:01:22.654
+<v Hou, Eric>Data to make the best model fit your
+needs,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7367-1
+01:01:22.654 --> 01:01:27.209
+<v Hou, Eric>and then that initial weights they
+already provided to handle all the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7367-2
+01:01:27.209 --> 01:01:28.511
+<v Hou, Eric>language daily work.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7373-0
+01:01:29.241 --> 01:01:31.121
+<v Hou, Eric>And that's why they are called open
+source models.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7376-0
+01:01:32.471 --> 01:01:32.791
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7386-0
+01:01:33.391 --> 01:01:36.378
+<v Hou, Eric>It's really neural network.
+They don't have to give you all the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7386-1
+01:01:36.378 --> 01:01:36.751
+<v Hou, Eric>details.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7395-0
+01:01:36.751 --> 01:01:39.431
+<v Hou, Eric>They just give you the weights. You, you,
+you have all the information.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7398-0
+01:01:41.431 --> 01:01:42.671
+<v Hou, Eric>OK so.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7411-0
+01:01:44.241 --> 01:01:47.881
+<v Hou, Eric>These really are the three steps 3-4
+steps in the encoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7424-0
+01:01:48.441 --> 01:01:51.663
+<v Hou, Eric>Right now,
+we're sort of already send those</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7424-1
+01:01:51.663 --> 01:01:53.641
+<v Hou, Eric>information to the decoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7437-0
+01:01:53.641 --> 01:02:00.142
+<v Hou, Eric>So it's thinking this way if we are doing
+a translation in English, the cat sat mat,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7437-1
+01:02:00.142 --> 01:02:00.601
+<v Hou, Eric>right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7453-0
+01:02:00.601 --> 01:02:05.393
+<v Hou, Eric>So that we already have the meanings of
+those 3 English words,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7453-1
+01:02:05.393 --> 01:02:09.121
+<v Hou, Eric>we we we know we digitalize them in two
+numbers.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7456-0
+01:02:10.121 --> 01:02:10.561
+<v Hou, Eric>We plus.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7458-0
+01:02:11.191 --> 01:02:11.271
+<v Hou, Eric>Us.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7492-0
+01:02:12.031 --> 01:02:16.645
+<v Hou, Eric>Where the cat as the word should be,
+where the sad as the word should be,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7492-1
+01:02:16.645 --> 01:02:21.383
+<v Hou, Eric>where the mad as the word should be.
+We add that information to that vector</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7492-2
+01:02:21.383 --> 01:02:26.184
+<v Hou, Eric>and then we also add another vector of
+how we should understand this in this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7492-3
+01:02:26.184 --> 01:02:27.681
+<v Hou, Eric>this this sentence from.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7510-0
+01:02:27.681 --> 01:02:32.178
+<v Hou, Eric>A grammar perspective or how we should
+understand this sentence from a cat or</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7510-1
+01:02:32.178 --> 01:02:36.271
+<v Hou, Eric>animal perspective or different
+perspective. We add those information.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7523-0
+01:02:37.201 --> 01:02:42.441
+<v Hou, Eric>To that sentence we we package all the
+information together as a single.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7539-0
+01:02:42.791 --> 01:02:51.991
+<v Hou, Eric>Go backter and that vector we're gonna
+send to the decoder where decoder is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7550-0
+01:02:53.441 --> 01:02:56.521
+<v Hou, Eric>A universe of a foreign language, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7558-0
+01:02:56.641 --> 01:03:01.441
+<v Hou, Eric>So then we go from English sets,
+cat sat mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7576-0
+01:03:01.481 --> 01:03:09.926
+<v Hou, Eric>Now we need to find a corresponding words
+from a different language and eventually</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7576-1
+01:03:09.926 --> 01:03:13.081
+<v Hou, Eric>translate this set cat sat mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7588-0
+01:03:13.551 --> 01:03:18.351
+<v Hou, Eric>Into the sentence in a foreign language,
+#1.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7594-0
+01:03:18.431 --> 01:03:20.671
+<v Hou, Eric>Match the meaning of each word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7625-0
+01:03:20.951 --> 01:03:27.282
+<v Hou, Eric>Cat sat mat matches the position or
+position means like in in proper position</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7625-1
+01:03:27.282 --> 01:03:33.370
+<v Hou, Eric>in the foreign language and also match
+the the ways how we understand that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7625-2
+01:03:33.370 --> 01:03:39.539
+<v Hou, Eric>English sentence in the perspectives in
+the in the attention the multi head</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7625-3
+01:03:39.539 --> 01:03:40.351
+<v Hou, Eric>attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7644-0
+01:03:41.171 --> 01:03:44.287
+<v Hou, Eric>Right.
+So then that's we need to have all three</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7644-1
+01:03:44.287 --> 01:03:49.091
+<v Hou, Eric>factors check in the decoder and that is
+actually what we're going to do.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7656-0
+01:03:51.081 --> 01:03:56.281
+<v Hou, Eric>So in the decoder, the entire step.
+So what we to do is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7663-0
+01:03:57.721 --> 01:03:59.321
+<v Hou, Eric>So we do have.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7670-0
+01:03:59.361 --> 01:04:01.801
+<v Hou, Eric>We still have the multi head attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7678-0
+01:04:01.921 --> 01:04:05.761
+<v Hou, Eric>We have another thing called masked multi
+head attention.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7696-0
+01:04:05.761 --> 01:04:09.239
+<v Hou, Eric>Those are two, three,
+two different things.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7696-1
+01:04:09.239 --> 01:04:12.401
+<v Hou, Eric>The multi head attention is going to do.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7706-0
+01:04:12.841 --> 01:04:22.961
+<v Hou, Eric>I gonna go from each English word cat sat
+mat as my query I'm looking for.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7708-0
+01:04:23.681 --> 01:04:24.241
+<v Hou, Eric>A appropriate.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7713-0
+01:04:26.041 --> 01:04:27.161
+<v Hou, Eric>Foreign word for cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7723-0
+01:04:28.151 --> 01:04:32.511
+<v Hou, Eric>That means my cat word in English is
+going to be my.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7764-0
+01:04:34.161 --> 01:04:40.626
+<v Hou, Eric>And my position of that foreign word is
+going to be my key and the meaning of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7764-1
+01:04:40.626 --> 01:04:46.759
+<v Hou, Eric>that foreign word is going to be the
+value I need to find a corresponding</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7764-2
+01:04:46.759 --> 01:04:51.815
+<v Hou, Eric>foreign word for cat.
+I need to find a corresponding foreign</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7764-3
+01:04:51.815 --> 01:04:52.561
+<v Hou, Eric>word for.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7766-0
+01:04:54.241 --> 01:04:54.361
+<v Hou, Eric>Sat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7771-0
+01:04:54.361 --> 01:04:56.721
+<v Hou, Eric>I need to find a corresponding foreign
+word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7795-0
+01:04:57.191 --> 01:05:02.435
+<v Hou, Eric>For matte O,
+that is the multihad attention is doing</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7795-1
+01:05:02.435 --> 01:05:08.471
+<v Hou, Eric>in the decoder what masks of Multihat
+detention is doing is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7803-0
+01:05:10.001 --> 01:05:12.801
+<v Hou, Eric>I will go from the beginning without
+knowing.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7837-0
+01:05:14.481 --> 01:05:18.860
+<v Hou, Eric>Cat sat and mad,
+knowing I have a corresponding word for</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7837-1
+01:05:18.860 --> 01:05:25.083
+<v Hou, Eric>cat knowing I have a corresponding word
+for set knowing there is a corresponding</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7837-2
+01:05:25.083 --> 01:05:27.081
+<v Hou, Eric>word for mat I gonna pass.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7858-0
+01:05:27.431 --> 01:05:32.364
+<v Hou, Eric>A special token to the model is called
+the beginning of the sentence or the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7858-1
+01:05:32.364 --> 01:05:34.311
+<v Hou, Eric>start. I gonna start sentence?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7873-0
+01:05:34.431 --> 01:05:40.112
+<v Hou, Eric>You need to tell me what is the first
+word in English that's going to be the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7873-1
+01:05:40.112 --> 01:05:42.031
+<v Hou, Eric>cat in different language.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7874-0
+01:05:42.271 --> 01:05:43.231
+<v Hou, Eric>For example, if.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7888-0
+01:05:45.041 --> 01:05:47.095
+<v Hou, Eric>Chinese.
+And then you gonna tell me the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7888-1
+01:05:47.095 --> 01:05:48.481
+<v Hou, Eric>corresponding word for cat?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7903-0
+01:05:48.641 --> 01:05:52.974
+<v Hou, Eric>However, if this is in Japanese,
+you're gonna tell me. Umm,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7903-1
+01:05:52.974 --> 01:05:56.801
+<v Hou, Eric>you're gonna tell me the corresponding
+word for set?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7915-0
+01:05:57.271 --> 01:06:00.391
+<v Hou, Eric>Because they have different languages
+have a different grammar.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7938-0
+01:06:00.391 --> 01:06:05.670
+<v Hou, Eric>So then I gotta start,
+and then you gonna give me the Chris the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7938-1
+01:06:05.670 --> 01:06:12.351
+<v Hou, Eric>the the correct corporate word as the
+first word of the sentence. So that's why.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7949-0
+01:06:12.551 --> 01:06:16.111
+<v Hou, Eric>That's how this must multi head attention
+is working.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7960-0
+01:06:16.271 --> 01:06:23.031
+<v Hou, Eric>I gotta go from start to every single
+word, so I'm gonna do this one.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7961-0
+01:06:23.031 --> 01:06:23.711
+<v Hou, Eric>So this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7966-0
+01:06:24.481 --> 01:06:26.321
+<v Hou, Eric>I know I have cat sat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7979-0
+01:06:27.031 --> 01:06:32.280
+<v Hou, Eric>Madison,
+I found those 3 corresponding words for</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7979-1
+01:06:32.280 --> 01:06:33.351
+<v Hou, Eric>cat right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7986-0
+01:06:33.471 --> 01:06:35.871
+<v Hou, Eric>So then I wanna choose this one.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/7999-0
+01:06:36.431 --> 01:06:39.751
+<v Hou, Eric>I do not know how fluent you guys are in
+in Chinese.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8002-0
+01:06:40.111 --> 01:06:41.031
+<v Hou, Eric>Just bear with me.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8018-0
+01:06:41.031 --> 01:06:43.758
+<v Hou, Eric>This word means cat. OK,
+this word means cat,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8018-1
+01:06:43.758 --> 01:06:47.671
+<v Hou, Eric>and this word means sat. And this word,
+this character means mad.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8032-0
+01:06:47.671 --> 01:06:53.231
+<v Hou, Eric>I know for for cat I need to choose this
+one and the model chose this one.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8038-0
+01:06:53.271 --> 01:06:57.031
+<v Hou, Eric>Just pretend all the calculations have to
+be done from behind.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8053-0
+01:06:57.151 --> 01:07:01.034
+<v Hou, Eric>Seeing so,
+I will be choosing this cat character in</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8053-1
+01:07:01.034 --> 01:07:01.631
+<v Hou, Eric>Chinese.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8064-0
+01:07:01.911 --> 01:07:09.169
+<v Hou, Eric>So then I'm passing the model start.
+The model should return this character</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8064-1
+01:07:09.169 --> 01:07:09.551
+<v Hou, Eric>cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8090-0
+01:07:11.281 --> 01:07:19.283
+<v Hou, Eric>And then I will send start and cat in the
+masked attention step to the model and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8090-1
+01:07:19.283 --> 01:07:26.001
+<v Hou, Eric>the model gonna tell me the set by
+through this attention analysis.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8097-0
+01:07:26.121 --> 01:07:29.161
+<v Hou, Eric>So then I just go from start and cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8113-0
+01:07:29.821 --> 01:07:36.341
+<v Hou, Eric>And we are hoping the model gonna give me
+set and then I send a start cat and set.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8116-0
+01:07:36.701 --> 01:07:39.381
+<v Hou, Eric>I'm hoping the model gonna give me the
+mat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8128-0
+01:07:40.801 --> 01:07:45.761
+<v Hou, Eric>The hoping piece is actually the purpose
+of large language model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8155-0
+01:07:46.001 --> 01:07:51.904
+<v Hou, Eric>The large language model is we're giving
+so many data to the model and the model</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8155-1
+01:07:51.904 --> 01:07:56.933
+<v Hou, Eric>gonna predict the next word,
+knowing whatever happened before I tell</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8155-2
+01:07:56.933 --> 01:07:59.921
+<v Hou, Eric>the model I already have a start and cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8166-0
+01:08:00.631 --> 01:08:03.831
+<v Hou, Eric>Through your data I send you to train
+your model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8172-0
+01:08:03.831 --> 01:08:07.671
+<v Hou, Eric>You should send me set but you didn't.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8180-0
+01:08:07.751 --> 01:08:10.591
+<v Hou, Eric>That means my weights are not accurate.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8210-0
+01:08:10.631 --> 01:08:17.225
+<v Hou, Eric>So then I need to train the model again
+for you to send me the set and eventually</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8210-1
+01:08:17.225 --> 01:08:23.899
+<v Hou, Eric>after runs and runs of training you gonna
+send me set you and after I send you cat</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8210-2
+01:08:23.899 --> 01:08:26.151
+<v Hou, Eric>and set you need to send me.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8215-0
+01:08:27.321 --> 01:08:30.041
+<v Hou, Eric>Matt, that is really how this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8220-0
+01:08:30.591 --> 01:08:33.231
+<v Hou, Eric>Work how this decoder is working?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8223-0
+01:08:35.531 --> 01:08:35.851
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8224-0
+01:08:36.771 --> 01:08:36.811
+<v Hou, Eric>I.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8233-0
+01:08:36.811 --> 01:08:38.611
+<v Hou, Eric>I I talk about a lot of sad and mad.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8236-0
+01:08:38.731 --> 01:08:40.171
+<v Hou, Eric>I mean any questions for now?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8239-0
+01:08:50.511 --> 01:08:51.191
+<v Hou, Eric>Are you?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8242-0
+01:08:51.231 --> 01:08:51.951
+<v Hou, Eric>Are you still?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8244-0
+01:08:51.951 --> 01:08:53.071
+<v Hou, Eric>Are you still there?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8246-0
+01:08:58.171 --> 01:08:58.291
+<v Teske, Benjamin>Yes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8250-0
+01:08:59.591 --> 01:09:00.471
+<v Hou, Eric>OK so.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8251-0
+01:08:59.991 --> 01:09:01.071
+<v Benbenek, MATT>Yeah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8254-0
+01:09:03.711 --> 01:09:04.191
+<v Hou, Eric>Yep.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8256-0
+01:09:04.361 --> 01:09:04.801
+<v Hollenbach, Patrick>Yep.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8259-0
+01:09:04.831 --> 01:09:06.151
+<v Benbenek, MATT>Just just a lot to take in.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8267-0
+01:09:06.721 --> 01:09:08.561
+<v Hou, Eric>Yeah, I understood. I understood.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8265-0
+01:09:07.841 --> 01:09:08.441
+<v Mertens, Aidric>Yeah, I agree.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8271-0
+01:09:09.041 --> 01:09:10.201
+<v Hou, Eric>Yeah, I understood.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8276-0
+01:09:10.201 --> 01:09:13.081
+<v Hou, Eric>So this is how it works in the larger
+language model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8278-0
+01:09:16.341 --> 01:09:17.621
+<v Hou, Eric>OK so.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8294-0
+01:09:19.121 --> 01:09:23.201
+<v Hou, Eric>The the difficult part of teaching large
+ranking model is is this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8301-0
+01:09:23.321 --> 01:09:26.401
+<v Hou, Eric>It's just so hard to train a model in
+front of you guys.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8313-0
+01:09:28.321 --> 01:09:32.041
+<v Hou, Eric>If you see how I train a model,
+it'll be much easier to see this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8320-0
+01:09:35.151 --> 01:09:37.231
+<v Hou, Eric>But you know, you just send this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8331-0
+01:09:37.991 --> 01:09:43.937
+<v Hou, Eric>Just remember the larger model the the
+goal of this larger model is to predict</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8331-1
+01:09:43.937 --> 01:09:44.991
+<v Hou, Eric>the next word.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8335-0
+01:09:45.521 --> 01:09:47.361
+<v Hou, Eric>Giving all the previous words.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8345-0
+01:09:48.881 --> 01:09:50.401
+<v Hou, Eric>Umm, so that's the that's the goal.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8369-0
+01:09:50.761 --> 01:09:56.800
+<v Hou, Eric>And then and then eventually by running
+different runs of neural network,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8369-1
+01:09:56.800 --> 01:10:02.186
+<v Hou, Eric>the weights are training,
+are trained to give you the correct and</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8369-2
+01:10:02.186 --> 01:10:02.921
+<v Hou, Eric>accurate.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8375-0
+01:10:02.921 --> 01:10:08.281
+<v Hou, Eric>Accurate based upon the historical
+patterns that a model has seen.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8413-0
+01:10:09.791 --> 01:10:14.476
+<v Hou, Eric>The information to the model is actually
+the matrix that the vector of,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8413-1
+01:10:14.476 --> 01:10:18.250
+<v Hou, Eric>meaning the vector of position and the
+vector of grammar,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8413-2
+01:10:18.250 --> 01:10:22.545
+<v Hou, Eric>a vector of a sentiment,
+a vector of different act backs that you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8413-3
+01:10:22.545 --> 01:10:27.685
+<v Hou, Eric>would expect from different sentences,
+and those are the information the model</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8413-4
+01:10:27.685 --> 01:10:28.401
+<v Hou, Eric>will learn.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8426-0
+01:10:28.401 --> 01:10:32.970
+<v Hou, Eric>From and eventually give you the
+corresponding words after the input words</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8426-1
+01:10:32.970 --> 01:10:34.311
+<v Hou, Eric>you give to the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8432-0
+01:10:35.301 --> 01:10:37.701
+<v Hou, Eric>Right, so that is essential.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8442-0
+01:10:37.701 --> 01:10:41.701
+<v Hou, Eric>How the larger one model,
+how the large language models are working?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8452-0
+01:10:42.661 --> 01:10:46.421
+<v Hou, Eric>So then that's why this encoder is not
+usually necessary.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8454-0
+01:10:47.951 --> 01:10:48.151
+<v Hou, Eric>Because.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8471-0
+01:10:49.711 --> 01:10:55.268
+<v Hou, Eric>In in ChatGPT,
+we usually ask a question that's called a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8471-1
+01:10:55.268 --> 01:10:55.951
+<v Hou, Eric>prompt.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8487-0
+01:10:56.471 --> 01:11:01.265
+<v Hou, Eric>The prompt is actually going to be the
+input of, and then the and and.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8487-1
+01:11:01.265 --> 01:11:02.751
+<v Hou, Eric>We're not usually ask.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8495-0
+01:11:02.791 --> 01:11:06.271
+<v Hou, Eric>You know,
+sometimes we ask the ChatGPT to translate.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8506-0
+01:11:06.311 --> 01:11:11.072
+<v Hou, Eric>But sometimes we just ask some question
+in English and we're expecting the answer</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8506-1
+01:11:11.072 --> 01:11:11.711
+<v Hou, Eric>in English.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8526-0
+01:11:12.221 --> 01:11:15.012
+<v Hou, Eric>Or you ask the question in different
+languages.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8526-1
+01:11:15.012 --> 01:11:18.501
+<v Hou, Eric>You're expecting the answer from that
+very single language.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8535-0
+01:11:18.501 --> 01:11:20.941
+<v Hou, Eric>And there is no translation is involved.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8560-0
+01:11:21.261 --> 01:11:28.821
+<v Hou, Eric>So then the the ChatGPT will be using the
+inputs as the starting piece,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8560-1
+01:11:28.821 --> 01:11:36.381
+<v Hou, Eric>just like this your, your your timing,
+you're timing the prompt as cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8569-0
+01:11:37.911 --> 01:11:42.351
+<v Hou, Eric>And the model received the cat as an
+input.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8590-0
+01:11:42.821 --> 01:11:51.270
+<v Hou, Eric>In the decoder that the model will will
+be guessing what you mean by cat and it</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8590-1
+01:11:51.270 --> 01:11:52.221
+<v Hou, Eric>will run.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8616-0
+01:11:52.541 --> 01:11:59.141
+<v Hou, Eric>You will check different patterns from
+the model from the data you train the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8616-1
+01:11:59.141 --> 01:12:06.084
+<v Hou, Eric>model and then they then the the large
+model model who could see or could detect</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8616-2
+01:12:06.084 --> 01:12:07.541
+<v Hou, Eric>similar patterns.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8624-0
+01:12:08.431 --> 01:12:11.471
+<v Hou, Eric>It has received before,
+so then you go continue.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8637-0
+01:12:11.701 --> 01:12:18.261
+<v Hou, Eric>From the cat word you input as a prompt
+and then the model will predict cat.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8643-0
+01:12:19.951 --> 01:12:20.911
+<v Hou, Eric>Sat and Matt.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8682-0
+01:12:21.311 --> 01:12:27.438
+<v Hou, Eric>So that's going to be the output from the
+model so that all the questions or the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8682-1
+01:12:27.438 --> 01:12:33.036
+<v Hou, Eric>prompt that we provided to the ChatGPT
+and ChatGPT will consider that the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8682-2
+01:12:33.036 --> 01:12:36.591
+<v Hou, Eric>starting point and we next work based
+upon it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8696-0
+01:12:36.591 --> 01:12:41.431
+<v Hou, Eric>So that is how the ChatGPT or GPT model
+is working. So that's why.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8723-0
+01:12:41.901 --> 01:12:46.596
+<v Hou, Eric>The GPD model does not really need
+encoder because the encoder piece entire</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8723-1
+01:12:46.596 --> 01:12:51.661
+<v Hou, Eric>encoder pieces is redundant for the GPD
+model in terms of communication purposes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8729-0
+01:12:53.151 --> 01:12:53.951
+<v Hou, Eric>It just doesn't need it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8743-0
+01:12:54.391 --> 01:12:57.026
+<v Hou, Eric>But if you are really talking about
+translation,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8743-1
+01:12:57.026 --> 01:12:59.231
+<v Hou, Eric>it definitely needs that kind of encoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8753-0
+01:12:59.271 --> 01:13:02.711
+<v Hou, Eric>So that's why there are still some
+encoder decoder kind of.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8758-0
+01:13:04.631 --> 01:13:06.151
+<v Hou, Eric>Structured model still available.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8760-0
+01:13:09.121 --> 01:13:09.241
+<v Hou, Eric>Umm.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8767-0
+01:13:10.701 --> 01:13:11.901
+<v Hou, Eric>Does that's why?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8785-0
+01:13:11.941 --> 01:13:17.201
+<v Hou, Eric>And then why the Lem are so bad at
+arithmetic? As you can see,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8785-1
+01:13:17.201 --> 01:13:20.541
+<v Hou, Eric>we're sending the meetings to the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8792-0
+01:13:20.541 --> 01:13:22.421
+<v Hou, Eric>We're sending the positions to the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8797-0
+01:13:22.661 --> 01:13:25.381
+<v Hou, Eric>We're sending how to interpret a sentence
+to the model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8800-0
+01:13:26.911 --> 01:13:27.351
+<v Hou, Eric>Math formula.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8802-0
+01:13:29.071 --> 01:13:29.711
+<v Hou, Eric>The calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8826-0
+01:13:31.351 --> 01:13:35.718
+<v Hou, Eric>It does not have a fixed pattern,
+for example 1 + 2,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8826-1
+01:13:35.718 --> 01:13:39.591
+<v Hou, Eric>you know 1 + 2 is 2 + 1 and and you know
+that.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8837-0
+01:13:40.181 --> 01:13:43.621
+<v Hou, Eric>You you change your position doesn't
+really mean anything in mathematics.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8852-0
+01:13:44.311 --> 01:13:47.829
+<v Hou, Eric>But the the,
+the the large random model actually</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8852-1
+01:13:47.829 --> 01:13:50.271
+<v Hou, Eric>depend on the position to do this.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8855-0
+01:13:50.511 --> 01:13:52.271
+<v Hou, Eric>This next word prediction kind of thing.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8862-0
+01:13:53.791 --> 01:13:54.511
+<v Hou, Eric>1 + 2 you say.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8871-0
+01:13:54.511 --> 01:13:59.151
+<v Hou, Eric>1 + 2 it may sometimes predict the next
+corrector should be equals.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8904-0
+01:14:00.951 --> 01:14:04.105
+<v Hou, Eric>But if one but it only learns 2 + 1,
+not 1 + 2,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8904-1
+01:14:04.105 --> 01:14:09.428
+<v Hou, Eric>it cannot give you the answer 3 because
+this is because large number is really a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8904-2
+01:14:09.428 --> 01:14:13.831
+<v Hou, Eric>pattern recognition kind of tool instead
+of like calculation tool.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8920-0
+01:14:14.971 --> 01:14:21.016
+<v Hou, Eric>1 + 2 does not have any meaning in terms
+of grammar in terms of sentence,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8920-1
+01:14:21.016 --> 01:14:22.731
+<v Hou, Eric>in terms of anything.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8937-0
+01:14:23.821 --> 01:14:29.381
+<v Hou, Eric>So then those are those are not,
+those are not in in terms of a language.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8941-0
+01:14:29.381 --> 01:14:32.701
+<v Hou, Eric>So so is so bad at arithmetic.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8977-0
+01:14:33.541 --> 01:14:39.785
+<v Hou, Eric>The Y the large number is so great at
+coding language because the coding</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8977-1
+01:14:39.785 --> 01:14:45.601
+<v Hou, Eric>language compared to arithmetic or
+mathematics is still a language,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8977-2
+01:14:45.601 --> 01:14:52.701
+<v Hou, Eric>it can still learn some patterns around
+those. Those programming codes or scripts.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/8990-0
+01:14:52.901 --> 01:14:55.821
+<v Hou, Eric>So they can still see some clear patterns
+around it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9002-0
+01:14:55.821 --> 01:15:00.781
+<v Hou, Eric>So that's why the large language model
+can handle coding, but not mathematics.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9020-0
+01:15:01.651 --> 01:15:07.881
+<v Hou, Eric>Was not being sad and why mathematics can
+do some reasoning and and math proof.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9020-1
+01:15:07.881 --> 01:15:08.971
+<v Hou, Eric>The reason is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9039-0
+01:15:10.471 --> 01:15:14.902
+<v Hou, Eric>In that high end mathematics,
+we're now we're not using those kind of</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9039-1
+01:15:14.902 --> 01:15:17.751
+<v Hou, Eric>calculation like 1 + 2 is always like
+logic.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9068-0
+01:15:19.431 --> 01:15:25.063
+<v Hou, Eric>Versus logic that kind of approves is a
+really reasoning kind of process that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9068-1
+01:15:25.063 --> 01:15:30.551
+<v Hou, Eric>piece the large language model can learn
+a bit, but usually it it be wrong.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9117-0
+01:15:31.271 --> 01:15:36.385
+<v Hou, Eric>So then so then.
+So that's why usually the large number</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9117-1
+01:15:36.385 --> 01:15:42.778
+<v Hou, Eric>models are so bad at arithmetic,
+because the model is not designed to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9117-2
+01:15:42.778 --> 01:15:49.263
+<v Hou, Eric>solve arithmetic problems. OK,
+the models are designed to identify the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9117-3
+01:15:49.263 --> 01:15:55.290
+<v Hou, Eric>patterns in human languages,
+and then we design entire process to</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9117-4
+01:15:55.290 --> 01:15:57.391
+<v Hou, Eric>provide as much inform.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9126-0
+01:15:57.711 --> 01:16:00.991
+<v Hou, Eric>As possible for the model to identify the
+patterns.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9144-0
+01:16:01.711 --> 01:16:06.092
+<v Hou, Eric>But we did not provide as much
+information as possible to for the model</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9144-1
+01:16:06.092 --> 01:16:07.431
+<v Hou, Eric>to do the calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9147-0
+01:16:09.511 --> 01:16:11.551
+<v Hou, Eric>So that's why it's not so great.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9158-0
+01:16:13.041 --> 01:16:15.361
+<v Hou, Eric>So you shouldn't, yeah, any question.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9152-0
+01:16:13.241 --> 01:16:13.401
+<v Teske, Benjamin>Good.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9172-0
+01:16:36.811 --> 01:16:39.465
+<v Hou, Eric>Oh, Ben,
+I I I think you have some background</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9172-1
+01:16:39.465 --> 01:16:39.811
+<v Hou, Eric>noise.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9181-0
+01:16:39.811 --> 01:16:43.531
+<v Hou, Eric>I do not know if this is only me or or
+other folks here the same.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9183-0
+01:16:45.191 --> 01:16:45.311
+<v Hou, Eric>Are.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9185-0
+01:16:49.101 --> 01:16:49.581
+<v Hou, Eric>Oh gosh.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9190-0
+01:16:50.121 --> 01:16:51.601
+<v Benbenek, MATT>I can't really hear him either.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9192-0
+01:16:52.761 --> 01:16:53.281
+<v Hou, Eric>OK.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9205-0
+01:16:56.111 --> 01:16:58.951
+<v Hou, Eric>Are you saying that is there any?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9204-0
+01:16:58.241 --> 01:16:59.201
+<v Teske, Benjamin>Can you hear me better now?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9210-0
+01:16:59.231 --> 01:17:01.231
+<v Hou, Eric>Oh, yeah, yeah, yeah, much better.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9215-0
+01:17:00.711 --> 01:17:02.311
+<v Teske, Benjamin>Right, sorry. My microphone was messed up.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9221-0
+01:17:02.831 --> 01:17:05.151
+<v Hou, Eric>Oh, it's OK. I mean, yeah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9261-0
+01:17:04.731 --> 01:17:09.091
+<v Teske, Benjamin>So my question was like,
+is are all of the large language models</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9261-1
+01:17:09.091 --> 01:17:13.989
+<v Teske, Benjamin>bad at this or is like certain ones
+better than other like Gemini versus</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9261-2
+01:17:13.989 --> 01:17:18.550
+<v Teske, Benjamin>ChatGPT versus other ones or since they
+all have similar like base,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9261-3
+01:17:18.550 --> 01:17:19.691
+<v Teske, Benjamin>are they all bad?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9269-0
+01:17:20.331 --> 01:17:23.651
+<v Hou, Eric>Sure.
+To answer that question at an early stage.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9297-0
+01:17:23.651 --> 01:17:28.864
+<v Hou, Eric>All the large ranged models are so bad
+arithmetic because they're based upon the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9297-1
+01:17:28.864 --> 01:17:33.691
+<v Hou, Eric>same paper they're based upon the same
+same code and code, same structure.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9305-0
+01:17:33.731 --> 01:17:36.331
+<v Hou, Eric>So they can choose whether or not to have
+the encoder.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9306-0
+01:17:36.371 --> 01:17:37.211
+<v Hou, Eric>They can choose.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9336-0
+01:17:37.291 --> 01:17:40.349
+<v Hou, Eric>You know only use decoder but the same
+paper,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9336-1
+01:17:40.349 --> 01:17:44.338
+<v Hou, Eric>so that's why all the models are not so
+bad and arithmetic.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9336-2
+01:17:44.338 --> 01:17:49.391
+<v Hou, Eric>The reason you have seen that some models
+are getting better in arithmetic.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9384-0
+01:17:49.741 --> 01:17:53.099
+<v Hou, Eric>Just because there's one thing called
+agentic approach,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9384-1
+01:17:53.099 --> 01:17:57.656
+<v Hou, Eric>the agentic approach is that they can
+just do some agent to understand your</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9384-2
+01:17:57.656 --> 01:18:02.094
+<v Hou, Eric>request so that they can call the
+corresponding function to help you with</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9384-3
+01:18:02.094 --> 01:18:06.411
+<v Hou, Eric>that purpose. For example, like.
+If you tell me you're going to do some</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9384-4
+01:18:06.411 --> 01:18:06.711
+<v Hou, Eric>math.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9418-0
+01:18:06.781 --> 01:18:10.888
+<v Hou, Eric>And then do some arithmetic and you're
+going to do some calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9418-1
+01:18:10.888 --> 01:18:15.591
+<v Hou, Eric>I understand your purpose. You know,
+from a from a language model perspective,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9418-2
+01:18:15.591 --> 01:18:18.032
+<v Hou, Eric>I can.
+I can do my way is I gonna call a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9418-3
+01:18:18.032 --> 01:18:19.461
+<v Hou, Eric>calculator and then use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9435-0
+01:18:19.621 --> 01:18:22.412
+<v Hou, Eric>Later,
+to do to to to calculate the number you</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9435-1
+01:18:22.412 --> 01:18:25.501
+<v Hou, Eric>want to calculate and that result will be
+accurate.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9447-0
+01:18:25.541 --> 01:18:29.179
+<v Hou, Eric>So that's the way that you know,
+there's agentic approach is quite a a</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9447-1
+01:18:29.179 --> 01:18:30.101
+<v Hou, Eric>popular right now.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9456-0
+01:18:30.101 --> 01:18:34.581
+<v Hou, Eric>So then just calling different functions
+to do to fulfill different purposes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9480-0
+01:18:36.111 --> 01:18:38.691
+<v Hou, Eric>So from a large language model
+perspective,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9480-1
+01:18:38.691 --> 01:18:43.031
+<v Hou, Eric>it's always going to be bad at arithmetic,
+but they have a way to fix it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9488-0
+01:18:46.571 --> 01:18:48.171
+<v Hou, Eric>I hope I answered your question, Ben.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9491-0
+01:18:48.581 --> 01:18:49.501
+<v Teske, Benjamin>Thank you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9493-0
+01:18:50.231 --> 01:18:50.831
+<v Hou, Eric>Yeah, yeah.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9518-0
+01:18:50.831 --> 01:18:56.644
+<v Hou, Eric>So it's it's going to be a lot of fun. OK,
+the homework I got to do give to you that</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9518-1
+01:18:56.644 --> 01:18:59.311
+<v Hou, Eric>you guys reading is there is one paper.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9529-0
+01:19:00.791 --> 01:19:04.511
+<v Hou, Eric>From Harvard and in that paper,
+they gonna actually.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9539-0
+01:19:06.141 --> 01:19:10.941
+<v Hou, Eric>Give you all the calls that you can train
+your own.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9545-0
+01:19:13.231 --> 01:19:15.751
+<v Hou, Eric>Large language model which is really cool.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9549-0
+01:19:18.431 --> 01:19:19.951
+<v Hou, Eric>Let me show you that paper.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9555-0
+01:19:23.191 --> 01:19:25.711
+<v Hou, Eric>The issue of that paper is.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9567-0
+01:19:27.351 --> 01:19:32.671
+<v Hou, Eric>It it just the paper is pretty old,
+is five years old, so then.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9575-0
+01:19:34.431 --> 01:19:37.511
+<v Hou, Eric>Some of the code,
+some of the packages you use.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9579-0
+01:19:39.191 --> 01:19:41.991
+<v Hou, Eric>Already already old?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9589-0
+01:19:42.941 --> 01:19:45.741
+<v Hou, Eric>So let me share my screen so that you
+know what I mean.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9594-0
+01:19:50.561 --> 01:19:52.081
+<v Hou, Eric>Can you guys see my screen?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9599-0
+01:19:55.181 --> 01:19:55.581
+<v Hollenbach, Patrick>Yes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9603-0
+01:19:55.361 --> 01:19:56.561
+<v Hou, Eric>So the yes.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9612-0
+01:19:56.561 --> 01:20:00.761
+<v Hou, Eric>So this is the paper from Harvard
+University, right?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9618-0
+01:20:00.761 --> 01:20:04.921
+<v Hou, Eric>So then this paper is so popular just
+because.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9637-0
+01:20:06.311 --> 01:20:09.771
+<v Hou, Eric>Number one,
+it give you all the codes here.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9637-1
+01:20:09.771 --> 01:20:15.511
+<v Hou, Eric>If I click here there is a GitHub they
+created this one three years ago.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9652-0
+01:20:17.271 --> 01:20:22.747
+<v Hou, Eric>So I'm gonna give you all the codes and
+then in fact if you click this one this</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9652-1
+01:20:22.747 --> 01:20:23.911
+<v Hou, Eric>Jupiter notebook.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9655-0
+01:20:25.081 --> 01:20:26.721
+<v Hou, Eric>You can actually see.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9660-0
+01:20:28.251 --> 01:20:30.171
+<v Hou, Eric>All the calls behind the scene.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9664-0
+01:20:31.631 --> 01:20:33.231
+<v Hou, Eric>So technically.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9672-0
+01:20:34.831 --> 01:20:38.951
+<v Hou, Eric>If you wanna,
+if you wanna train a vanilla.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9679-0
+01:20:40.821 --> 01:20:45.701
+<v Hou, Eric>Cheaper, smaller,
+large language model yourself.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9689-0
+01:20:47.471 --> 01:20:50.151
+<v Hou, Eric>You can basically follow all the steps
+here.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9708-0
+01:20:51.911 --> 01:20:55.449
+<v Hou, Eric>And eventually,
+you're gonna have your own model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9708-1
+01:20:55.449 --> 01:20:58.351
+<v Hou, Eric>If you have a good enough hardware right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9716-0
+01:20:58.631 --> 01:21:00.415
+<v Hou, Eric>So then,
+eventually you're gonna do the</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9716-1
+01:21:00.415 --> 01:21:00.951
+<v Hou, Eric>calculation.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9729-0
+01:21:00.951 --> 01:21:04.601
+<v Hou, Eric>Eventually you're gonna do the
+translation for you,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9729-1
+01:21:04.601 --> 01:21:08.391
+<v Hou, Eric>like German to English.
+You will have your own model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9739-0
+01:21:08.821 --> 01:21:13.541
+<v Hou, Eric>You can train it based upon this paper
+and they give you the code.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9753-0
+01:21:15.031 --> 01:21:22.151
+<v Hou, Eric>The issue is the codes are old,
+three years old, three years old.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9764-0
+01:21:22.791 --> 01:21:26.071
+<v Hou, Eric>So the homework is I will send you the
+paper.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9780-0
+01:21:26.511 --> 01:21:33.146
+<v Hou, Eric>Try your best to rerun this code to
+modify those codes to make it your own</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9780-1
+01:21:33.146 --> 01:21:38.631
+<v Hou, Eric>tool in case you want to train your own
+large language model.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9791-0
+01:21:40.211 --> 01:21:44.571
+<v Hou, Eric>And this is all the secret sauce behind
+the scene.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9804-0
+01:21:44.971 --> 01:21:50.211
+<v Hou, Eric>And you can definitely create something
+on your own and that'll be fun, you know.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9843-0
+01:21:50.211 --> 01:21:54.598
+<v Hou, Eric>Do as much as you can with your group and
+and this is something that you can</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9843-1
+01:21:54.598 --> 01:21:59.157
+<v Hou, Eric>definitely learn in addition to tell
+people how the large language model works,</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9843-2
+01:21:59.157 --> 01:22:01.892
+<v Hou, Eric>and then you can tell them, hey,
+you know what?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9843-3
+01:22:01.892 --> 01:22:04.171
+<v Hou, Eric>I can even train a smaller model myself.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9851-0
+01:22:05.741 --> 01:22:08.501
+<v Hou, Eric>So that's going to be the homework, OK?</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9860-0
+01:22:09.101 --> 01:22:14.381
+<v Hou, Eric>You gonna be fun and enjoyed it and
+that's going to be our class.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9871-0
+01:22:14.621 --> 01:22:19.581
+<v Hou, Eric>Thank you for attending and next week's
+gonna be last class.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9879-0
+01:22:19.781 --> 01:22:23.461
+<v Hou, Eric>I'm teaching and the next one is going to
+be you guys teaching me something.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9889-0
+01:22:25.711 --> 01:22:26.671
+<v Mertens, Aidric>Thanks professor.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9888-0
+01:22:26.671 --> 01:22:27.591
+<v Carone, Matt>Thank you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9885-0
+01:22:26.711 --> 01:22:27.031
+<v Hollenbach, Patrick>All right.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9893-0
+01:22:27.031 --> 01:22:27.391
+<v Hollenbach, Patrick>Thank you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9913-0
+01:22:27.061 --> 01:22:30.775
+<v Hou, Eric>Yep, Yep,
+I'll share with with you guys the paper</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9900-0
+01:22:27.671 --> 01:22:28.191
+<v Weidner, Declan>Thank you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9904-0
+01:22:28.231 --> 01:22:28.791
+<v Schembari, John>Thank you.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9908-0
+01:22:29.231 --> 01:22:29.471
+<v Teske, Benjamin>Thanks.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9913-1
+01:22:30.775 --> 01:22:31.741
+<v Hou, Eric>and enjoy it.</v>
+
+c2731e5d-ca38-49f9-a5fc-c7c5bcf57db1/9916-0
+01:22:31.741 --> 01:22:32.461
+<v Hou, Eric>Gonna be fun.</v>

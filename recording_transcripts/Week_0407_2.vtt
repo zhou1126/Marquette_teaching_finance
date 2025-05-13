@@ -1,0 +1,5477 @@
+WEBVTT
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/46-0
+00:00:03.239 --> 00:00:11.286
+<v Hou, Eric>Let me start recording. OK,
+so RNN and LSTM are the building Briggs</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/46-1
+00:00:11.286 --> 00:00:17.439
+<v Hou, Eric>for another model.
+We gonna cover in the next week.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/47-0
+00:00:17.439 --> 00:00:19.359
+<v Hou, Eric>It's called transformer. OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/65-0
+00:00:19.359 --> 00:00:22.786
+<v Hou, Eric>This is not the transformer you've seen
+in in in the movie,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/65-1
+00:00:22.786 --> 00:00:27.639
+<v Hou, Eric>but now this transformer is a fundamental
+model of any large language models, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/78-0
+00:00:28.409 --> 00:00:33.449
+<v Hou, Eric>So that if you know how you know the
+transformer model, you know how to code.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/90-0
+00:00:34.439 --> 00:00:38.439
+<v Hou, Eric>It and then you know, you know,
+we go through the transformer model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/107-0
+00:00:38.439 --> 00:00:44.392
+<v Hou, Eric>You know the the strength and weakness of
+the transformer slash large language</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/107-1
+00:00:44.392 --> 00:00:44.919
+<v Hou, Eric>models.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/140-0
+00:00:44.919 --> 00:00:50.814
+<v Hou, Eric>You know why the large language model can
+do something and cannot do something and</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/140-1
+00:00:50.814 --> 00:00:55.713
+<v Hou, Eric>and if you do have some HR100 ships at
+your home or at your company,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/140-2
+00:00:55.713 --> 00:01:01.039
+<v Hou, Eric>you know transformer is not super hard to
+code and you can actually train.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/144-0
+00:01:01.809 --> 00:01:03.969
+<v Hou, Eric>From scratch your your.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/154-0
+00:01:04.359 --> 00:01:07.519
+<v Hou, Eric>On larger rangester model so that you can
+definitely do that.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/180-0
+00:01:08.159 --> 00:01:13.079
+<v Hou, Eric>So then we we gonna go through the the
+transformer model next week and I'm gonna</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/180-1
+00:01:13.079 --> 00:01:17.756
+<v Hou, Eric>show you guys how you can connect to the
+APIs of different larger models and</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/180-2
+00:01:17.756 --> 00:01:19.639
+<v Hou, Eric>prepare for your final project.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/192-0
+00:01:21.129 --> 00:01:26.169
+<v Hou, Eric>So then after next time it will be one
+last class. So we talk about.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/198-0
+00:01:27.809 --> 00:01:29.329
+<v Hou, Eric>Really building the model and then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/211-0
+00:01:31.529 --> 00:01:35.449
+<v Hou, Eric>The the opportunities and the risks of
+using AI as you know.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/221-0
+00:01:36.609 --> 00:01:40.449
+<v Hou, Eric>And what people are thinking of AI going
+forward?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/236-0
+00:01:40.449 --> 00:01:44.026
+<v Hou, Eric>So then,
+so then really like we have two classes</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/236-1
+00:01:44.026 --> 00:01:48.769
+<v Hou, Eric>in the future and after that is really
+your presentation, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/240-0
+00:01:48.769 --> 00:01:50.329
+<v Hou, Eric>So then after that we're we're done.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/254-0
+00:01:50.519 --> 00:01:56.356
+<v Hou, Eric>So then we're pretty close to the end of
+end of this semester, OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/254-1
+00:01:56.356 --> 00:01:58.359
+<v Hou, Eric>So let me just present.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/260-0
+00:01:59.769 --> 00:02:00.889
+<v Hou, Eric>My slides about RNN.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/262-0
+00:02:05.689 --> 00:02:06.009
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/264-0
+00:02:11.409 --> 00:02:12.609
+<v Hou, Eric>Oh so.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/267-0
+00:02:14.369 --> 00:02:15.849
+<v Hou, Eric>As usual it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/285-0
+00:02:17.449 --> 00:02:22.009
+<v Hou, Eric>Just bumped to the starting point,
+so I'm keep updating these stats.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/292-0
+00:02:22.009 --> 00:02:24.649
+<v Hou, Eric>So right now I have 120 slides.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/305-0
+00:02:24.769 --> 00:02:29.169
+<v Hou, Eric>So then I'll eventually upload this one
+to the D2L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/310-0
+00:02:29.209 --> 00:02:32.249
+<v Hou, Eric>So then you have pretty comprehensive.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/323-0
+00:02:34.089 --> 00:02:38.009
+<v Hou, Eric>Understanding of the different neural
+networks, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/335-0
+00:02:38.079 --> 00:02:41.203
+<v Hou, Eric>Right.
+So then today we talk about recurrent</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/335-1
+00:02:41.203 --> 00:02:42.799
+<v Hou, Eric>neural networks, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/337-0
+00:02:47.399 --> 00:02:47.719
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/341-0
+00:02:49.439 --> 00:02:51.199
+<v Hou, Eric>So first of all.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/352-0
+00:02:52.999 --> 00:02:54.999
+<v Hou, Eric>Oh, by the way,
+can you guys see the slides?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/354-0
+00:02:58.579 --> 00:02:59.019
+<v Severin, Noah>Yeah.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/356-0
+00:02:58.889 --> 00:02:59.329
+<v Mertens, Aidric>Yep.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/359-0
+00:02:59.539 --> 00:03:00.499
+<v Hou, Eric>Yeah. Perfect. OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/369-0
+00:03:02.559 --> 00:03:07.359
+<v Hou, Eric>So you know we if we use one chart to
+represent.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/376-0
+00:03:08.959 --> 00:03:11.119
+<v Hou, Eric>To represent what we have learned.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/384-0
+00:03:12.759 --> 00:03:13.879
+<v Hou, Eric>About neural network.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/401-0
+00:03:14.119 --> 00:03:19.862
+<v Hou, Eric>So any neural network,
+including the CNN can be described in</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/401-1
+00:03:19.862 --> 00:03:21.839
+<v Hou, Eric>this very small Brig.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/404-0
+00:03:22.319 --> 00:03:24.039
+<v Hou, Eric>Small boxes, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/408-0
+00:03:24.039 --> 00:03:25.039
+<v Hou, Eric>And with some arrows.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/414-0
+00:03:25.039 --> 00:03:27.719
+<v Hou, Eric>So this is really a one to one, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/420-0
+00:03:27.719 --> 00:03:28.999
+<v Hou, Eric>So then we.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/436-0
+00:03:29.389 --> 00:03:35.493
+<v Hou, Eric>Have some input a color in blue and then
+we have some output color in green and</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/436-1
+00:03:35.493 --> 00:03:37.629
+<v Hou, Eric>then we do have some hidden.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/444-0
+00:03:39.159 --> 00:03:41.039
+<v Hou, Eric>Layers color in orange.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/467-0
+00:03:41.039 --> 00:03:44.683
+<v Hou, Eric>So then,
+although I just use one single box,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/467-1
+00:03:44.683 --> 00:03:51.079
+<v Hou, Eric>it could be like a several different
+layers of hidden hidden functions, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/484-0
+00:03:51.159 --> 00:03:57.269
+<v Hou, Eric>So then the the vanilla neural network
+could be whatever neural network we have</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/484-1
+00:03:57.269 --> 00:03:59.559
+<v Hou, Eric>covered before, including CNN.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/488-0
+00:03:59.829 --> 00:04:01.669
+<v Hou, Eric>Are you have one input?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/499-0
+00:04:03.159 --> 00:04:06.039
+<v Hou, Eric>You're you're anticipating 1 output and
+that's it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/539-0
+00:04:06.639 --> 00:04:12.093
+<v Hou, Eric>So then that is how we design those
+neural networks so that you have and then</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/539-1
+00:04:12.093 --> 00:04:16.568
+<v Hou, Eric>we we can describe it as you have a fixed
+size vector as input,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/539-2
+00:04:16.568 --> 00:04:21.952
+<v Hou, Eric>you have a fixed size vector as output,
+although the the things of those two</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/539-3
+00:04:21.952 --> 00:04:23.839
+<v Hou, Eric>vectors may may be differe.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/550-0
+00:04:24.119 --> 00:04:28.039
+<v Hou, Eric>But eventually you have a oneetomone
+relationship, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/573-0
+00:04:28.389 --> 00:04:34.398
+<v Hou, Eric>So then the weights and the biases and
+and the hidden function are are, are,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/573-1
+00:04:34.398 --> 00:04:39.469
+<v Hou, Eric>are calculated or optimized towards your
+input in that blue box.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/592-0
+00:04:40.959 --> 00:04:46.479
+<v Hou, Eric>But that's not really like how humans are
+are are thinking of the problems, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/601-0
+00:04:46.719 --> 00:04:50.759
+<v Hou, Eric>So then for a very easy example, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/612-0
+00:04:50.759 --> 00:04:56.799
+<v Hou, Eric>People are predicting Monday morning
+stock market going to be really bad.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/618-0
+00:04:57.239 --> 00:05:00.719
+<v Hou, Eric>The reason is they know what happened
+during the weekend.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/626-0
+00:05:01.029 --> 00:05:03.758
+<v Hou, Eric>Right.
+So then they know what happened during</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/626-1
+00:05:03.758 --> 00:05:04.469
+<v Hou, Eric>the weekend.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/633-0
+00:05:04.469 --> 00:05:06.269
+<v Hou, Eric>They know what happened on Friday.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/636-0
+00:05:06.269 --> 00:05:08.549
+<v Hou, Eric>They know what happened in history.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/642-0
+00:05:08.549 --> 00:05:13.069
+<v Hou, Eric>So then the humans really consider this
+is not.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/668-0
+00:05:14.919 --> 00:05:18.759
+<v Hou, Eric>You know, in, in,
+in a mathematic mathematical,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/668-1
+00:05:18.759 --> 00:05:23.319
+<v Hou, Eric>the description is the humans do not
+believe this chain.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/668-2
+00:05:23.319 --> 00:05:27.319
+<v Hou, Eric>Meaning yesterday has no relationship
+with today.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/674-0
+00:05:27.319 --> 00:05:31.439
+<v Hou, Eric>The humans are believing in that and
+there is definitely.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/686-0
+00:05:31.749 --> 00:05:34.789
+<v Hou, Eric>Me some influence from yesterday to today.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/694-0
+00:05:34.989 --> 00:05:40.229
+<v Hou, Eric>So that's why you think about whatever
+happened tomorrow.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/701-0
+00:05:40.229 --> 00:05:42.869
+<v Hou, Eric>You need to take into account of what
+happened today.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/705-0
+00:05:42.869 --> 00:05:43.989
+<v Hou, Eric>What happened to yesterday?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/712-0
+00:05:43.989 --> 00:05:46.189
+<v Hou, Eric>What happened to the day before yesterday?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/720-0
+00:05:46.189 --> 00:05:48.109
+<v Hou, Eric>A lot of information happened in history.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/742-0
+00:05:48.109 --> 00:05:53.713
+<v Hou, Eric>So then all the information in your brain,
+you have done some selection.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/742-1
+00:05:53.713 --> 00:05:58.549
+<v Hou, Eric>You have done some processing,
+you have done some calculation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/750-0
+00:05:59.239 --> 00:06:01.719
+<v Hou, Eric>And you mix those signal together.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/776-0
+00:06:01.869 --> 00:06:07.605
+<v Hou, Eric>And that's how you make your your your
+own judgment and whether or not tomorrow</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/776-1
+00:06:07.605 --> 00:06:13.269
+<v Hou, Eric>stock market going to be great or or or
+tomorrow stock market going to be bad.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/788-0
+00:06:14.469 --> 00:06:16.789
+<v Hou, Eric>This is what happened to in your spring.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/824-0
+00:06:16.989 --> 00:06:23.907
+<v Hou, Eric>So then that's why this current vanilla
+neural network structure 121 will not</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/824-1
+00:06:23.907 --> 00:06:28.873
+<v Hou, Eric>work for for these kind of problems and
+and also right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/824-2
+00:06:28.873 --> 00:06:34.549
+<v Hou, Eric>So then in in humans communication when I
+was talking about OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/829-0
+00:06:34.549 --> 00:06:35.149
+<v Hou, Eric>Hey, guys.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/830-0
+00:06:35.149 --> 00:06:36.069
+<v Hou, Eric>What's your comment?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/849-0
+00:06:36.869 --> 00:06:41.078
+<v Hou, Eric>What's your feedback on Sam's
+presentation and and Ben, you,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/849-1
+00:06:41.078 --> 00:06:44.389
+<v Hou, Eric>you gave me your your feedback, right,
+so then?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/857-0
+00:06:44.549 --> 00:06:45.709
+<v Hou, Eric>Gave me your feedback.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/865-0
+00:06:45.709 --> 00:06:50.589
+<v Hou, Eric>You're not only taking into account my
+question, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/877-0
+00:06:50.589 --> 00:06:55.549
+<v Hou, Eric>So then you you didn't only answer my
+question. You're also taking into account.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/904-0
+00:06:57.119 --> 00:07:04.046
+<v Hou, Eric>Sam's presentation,
+all 25 slides of his presentation and how</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/904-1
+00:07:04.046 --> 00:07:10.079
+<v Hou, Eric>Sam presented and and you already made
+your judgment.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/909-0
+00:07:10.119 --> 00:07:13.679
+<v Hou, Eric>You know,
+sentiment judgment of Sam is really.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/938-0
+00:07:14.069 --> 00:07:18.469
+<v Hou, Eric>Loving his work.
+And then you take into account of perhaps,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/938-1
+00:07:18.469 --> 00:07:24.556
+<v Hou, Eric>right Eric's introduction and who said it
+and then you may also take into account,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/938-2
+00:07:24.556 --> 00:07:25.949
+<v Hou, Eric>you know, his role.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/960-0
+00:07:25.949 --> 00:07:28.954
+<v Hou, Eric>He's acao and also he's a managing
+partner.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/960-1
+00:07:28.954 --> 00:07:34.417
+<v Hou, Eric>And then also you may take into account
+of that Parker Avery Company is doing a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/960-2
+00:07:34.417 --> 00:07:35.509
+<v Hou, Eric>consulting work.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/970-0
+00:07:35.629 --> 00:07:40.509
+<v Hou, Eric>So then you you actually makes a lot of
+historical information.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/977-0
+00:07:41.159 --> 00:07:43.319
+<v Hou, Eric>To gather and then you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/988-0
+00:07:43.509 --> 00:07:46.149
+<v Hou, Eric>You make whatever your feedback your
+comment right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1031-0
+00:07:46.149 --> 00:07:52.534
+<v Hou, Eric>So then this is really how human process
+information a lot of information gonna be</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1031-1
+00:07:52.534 --> 00:07:58.688
+<v Hou, Eric>running into your brain sequentially and
+you process those information and then</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1031-2
+00:07:58.688 --> 00:08:04.688
+<v Hou, Eric>you you eventually have your your your
+output from your model running in your</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1031-3
+00:08:04.688 --> 00:08:08.149
+<v Hou, Eric>brain and and and and and that output
+could.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1039-0
+00:08:08.149 --> 00:08:10.029
+<v Hou, Eric>Be I like this presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1042-0
+00:08:10.029 --> 00:08:11.589
+<v Hou, Eric>I do not like this presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1046-0
+00:08:12.319 --> 00:08:13.279
+<v Hou, Eric>That's a classification result.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1055-0
+00:08:13.909 --> 00:08:15.909
+<v Hou, Eric>And that output could be.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1059-0
+00:08:16.149 --> 00:08:18.029
+<v Hou, Eric>I like this presentation because.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1066-0
+00:08:20.319 --> 00:08:21.959
+<v Hou, Eric>3-4 sentences.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1081-0
+00:08:22.079 --> 00:08:29.279
+<v Hou, Eric>So those are not only one results,
+it's a list of following results.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1099-0
+00:08:29.559 --> 00:08:35.597
+<v Hou, Eric>So so that is what is lacking from or
+missing from all current models.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1099-1
+00:08:35.597 --> 00:08:40.359
+<v Hou, Eric>Say we have tree models and tree models
+cannot do that.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1103-0
+00:08:40.479 --> 00:08:42.639
+<v Hou, Eric>Cannot do what I just described.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1110-0
+00:08:43.129 --> 00:08:44.329
+<v Hou, Eric>We have neural network.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1114-0
+00:08:44.329 --> 00:08:45.489
+<v Hou, Eric>For now, we have CNN.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1120-0
+00:08:45.489 --> 00:08:47.969
+<v Hou, Eric>It cannot do whatever I just said.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1123-0
+00:08:47.969 --> 00:08:49.289
+<v Hou, Eric>We have time series.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1154-0
+00:08:49.289 --> 00:08:53.855
+<v Hou, Eric>Time series can help with the stock price
+example. However,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1154-1
+00:08:53.855 --> 00:08:58.801
+<v Hou, Eric>the the time series model cannot take
+into account of, you know,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1154-2
+00:08:58.801 --> 00:09:02.833
+<v Hou, Eric>the policy changes.
+You know the different different</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1154-3
+00:09:02.833 --> 00:09:06.409
+<v Hou, Eric>sentiment rating of the those policies,
+right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1164-0
+00:09:06.409 --> 00:09:09.209
+<v Hou, Eric>So that so they can now take into account
+those.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1169-0
+00:09:09.249 --> 00:09:12.609
+<v Hou, Eric>So there is no model can really take into
+account of.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1177-0
+00:09:12.989 --> 00:09:16.749
+<v Hou, Eric>Different kind of historical information.
+So that's why.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1187-0
+00:09:18.359 --> 00:09:21.199
+<v Hou, Eric>The RNN is designed to solve those
+problems, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1215-0
+00:09:21.199 --> 00:09:24.668
+<v Hou, Eric>So then so then,
+RNN definitely offered a lot of</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1215-1
+00:09:24.668 --> 00:09:30.473
+<v Hou, Eric>possibilities and that is why RN is the
+fundamental model of all the larger large</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1215-2
+00:09:30.473 --> 00:09:32.879
+<v Hou, Eric>language models that we are using.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1218-0
+00:09:34.679 --> 00:09:34.839
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1221-0
+00:09:35.239 --> 00:09:35.919
+<v Hou, Eric>So what?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1228-0
+00:09:36.239 --> 00:09:40.599
+<v Hou, Eric>What can RN do so RN can do oneetom many
+right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1236-0
+00:09:40.599 --> 00:09:43.159
+<v Hou, Eric>So then you have a you you gave me a
+picture.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1250-0
+00:09:43.819 --> 00:09:48.619
+<v Hou, Eric>And then RN can detect not only one
+target but you name it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1251-0
+00:09:48.619 --> 00:09:49.259
+<v Hou, Eric>You can.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1265-0
+00:09:49.259 --> 00:09:52.201
+<v Hou, Eric>I can detect all different target in that
+picture.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1265-1
+00:09:52.201 --> 00:09:54.739
+<v Hou, Eric>Say you know you see my I presenting
+right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1308-0
+00:09:54.739 --> 00:09:59.235
+<v Hou, Eric>So then you seeing this slide.
+So then if you run this slides through</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1308-1
+00:09:59.235 --> 00:10:01.932
+<v Hou, Eric>RNN,
+so RNN can identify there's a market</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1308-2
+00:10:01.932 --> 00:10:06.299
+<v Hou, Eric>university logo and there's there's a one
+chart for for one to one,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1308-3
+00:10:06.299 --> 00:10:08.739
+<v Hou, Eric>there's another chart for one to many.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1334-0
+00:10:09.209 --> 00:10:13.482
+<v Hou, Eric>So then sometimes it's never going to be
+1 to one relationship,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1334-1
+00:10:13.482 --> 00:10:18.289
+<v Hou, Eric>and you can definitely do one too many
+and you can also do many to one.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1359-0
+00:10:18.289 --> 00:10:22.747
+<v Hou, Eric>So one example of for for many to one
+case it will be, hey,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1359-1
+00:10:22.747 --> 00:10:28.689
+<v Hou, Eric>I talk about whatever I just said about
+you heard about Sam Sam's presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1369-0
+00:10:28.729 --> 00:10:33.049
+<v Hou, Eric>So then eventually you you can have one
+answer, right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1370-0
+00:10:33.089 --> 00:10:33.969
+<v Hou, Eric>Do I like it?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1376-0
+00:10:33.969 --> 00:10:35.609
+<v Hou, Eric>Do I not like it?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1377-0
+00:10:35.649 --> 00:10:36.689
+<v Hou, Eric>So then that's already.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1380-0
+00:10:37.379 --> 00:10:38.579
+<v Hou, Eric>Manu to one sentiment.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1387-0
+00:10:38.849 --> 00:10:41.049
+<v Hou, Eric>Analysis Answer right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1426-0
+00:10:41.049 --> 00:10:47.209
+<v Hou, Eric>So then all the input the blue boxes,
+the inputs could be send slide what is</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1426-1
+00:10:47.209 --> 00:10:51.529
+<v Hou, Eric>sent role and how send present and and
+Sam's company.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1426-2
+00:10:51.529 --> 00:10:57.609
+<v Hou, Eric>So those are the input through those
+boxes you know they just prod you your</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1426-3
+00:10:57.609 --> 00:11:00.729
+<v Hou, Eric>brain process and or RN can process it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1432-0
+00:11:00.729 --> 00:11:03.369
+<v Hou, Eric>Eventually give you one final answer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1436-0
+00:11:04.099 --> 00:11:04.779
+<v Hou, Eric>I like it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1437-0
+00:11:04.779 --> 00:11:05.299
+<v Hou, Eric>I do not like it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1439-0
+00:11:07.219 --> 00:11:07.379
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1450-0
+00:11:07.939 --> 00:11:10.939
+<v Hou, Eric>And then can deal with many to many,
+right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1461-0
+00:11:10.939 --> 00:11:14.564
+<v Hou, Eric>So then,
+is it really a sequence to sequence</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1461-1
+00:11:14.564 --> 00:11:16.739
+<v Hou, Eric>translation problem, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1501-0
+00:11:16.739 --> 00:11:22.355
+<v Hou, Eric>So then say if I want to translate Sam's
+presentation to different languages,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1501-1
+00:11:22.355 --> 00:11:27.107
+<v Hou, Eric>for example to, to to Spanish,
+so that will be English to Spanish</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1501-2
+00:11:27.107 --> 00:11:31.427
+<v Hou, Eric>translation and then and then to have a
+better translation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1501-3
+00:11:31.427 --> 00:11:35.099
+<v Hou, Eric>You wouldn't really do a word to word
+translation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1513-0
+00:11:35.819 --> 00:11:39.259
+<v Hou, Eric>You want to do a sequence or sentence to
+sentence translation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1553-0
+00:11:39.689 --> 00:11:45.394
+<v Hou, Eric>Because, you know, sometimes you know,
+because of a grammar difference because</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1553-1
+00:11:45.394 --> 00:11:50.448
+<v Hou, Eric>of the way how they express are so,
+so different and also the grammar</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1553-2
+00:11:50.448 --> 00:11:53.770
+<v Hou, Eric>difference could be like in English.
+You you,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1553-3
+00:11:53.770 --> 00:11:59.185
+<v Hou, Eric>we we usually say I do something right.
+So then in different languages for</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1553-4
+00:11:59.185 --> 00:11:59.979
+<v Hou, Eric>example in.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1561-0
+00:11:59.979 --> 00:12:02.129
+<v Hou, Eric>Japanese It will be something I do.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1565-0
+00:12:02.289 --> 00:12:03.649
+<v Hou, Eric>So then you really do.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1566-0
+00:12:03.649 --> 00:12:04.569
+<v Hou, Eric>Cannot do.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1570-0
+00:12:05.259 --> 00:12:05.899
+<v Hou, Eric>A word to word.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1574-0
+00:12:07.619 --> 00:12:09.059
+<v Hou, Eric>Preserving location.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1584-0
+00:12:10.129 --> 00:12:12.809
+<v Hou, Eric>Position of that word kind of translation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1605-0
+00:12:12.969 --> 00:12:16.894
+<v Hou, Eric>You really need to convert those English
+words into Japanese words,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1605-1
+00:12:16.894 --> 00:12:21.569
+<v Hou, Eric>and then you have to rearrange it to make
+sure they follow the Japanese grammar.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1650-0
+00:12:22.109 --> 00:12:25.142
+<v Hou, Eric>Right.
+So then that is a really a sequence to</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1650-1
+00:12:25.142 --> 00:12:28.769
+<v Hou, Eric>sequence translation,
+but for the sequence or sequence</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1650-2
+00:12:28.769 --> 00:12:33.055
+<v Hou, Eric>translation you still have to have I do
+something as your input.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1650-3
+00:12:33.055 --> 00:12:37.209
+<v Hou, Eric>It will be this blue box will be I.
+This blue box will be two.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1650-4
+00:12:37.209 --> 00:12:38.659
+<v Hou, Eric>This blue box will be.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1671-0
+00:12:38.659 --> 00:12:42.877
+<v Hou, Eric>Something and then you have to have those
+translated into the corresponding</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1671-1
+00:12:42.877 --> 00:12:43.709
+<v Hou, Eric>Japanese words.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1675-0
+00:12:43.989 --> 00:12:47.149
+<v Hou, Eric>So it could be like 3 words.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1683-0
+00:12:47.859 --> 00:12:49.219
+<v Hou, Eric>But it also could be two words.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1691-0
+00:12:49.619 --> 00:12:53.219
+<v Hou, Eric>So then and also you have to adjust the
+position or the position.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1704-0
+00:12:53.929 --> 00:12:56.809
+<v Hou, Eric>Of the words to follow the Japanese
+grammar.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1714-0
+00:12:56.849 --> 00:13:01.769
+<v Hou, Eric>So that is something that RA can offer
+and can definitely do for you, K.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1744-0
+00:13:03.509 --> 00:13:06.472
+<v Hou, Eric>Another one is is many too many
+indifferent,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1744-1
+00:13:06.472 --> 00:13:11.936
+<v Hou, Eric>you know sequence to sequence translation.
+At least I'm following what my input is</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1744-2
+00:13:11.936 --> 00:13:16.149
+<v Hou, Eric>because I do something.
+The Japanese version of I do something.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1761-0
+00:13:16.149 --> 00:13:19.222
+<v Hou, Eric>This is definitely corresponding to my
+input,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1761-1
+00:13:19.222 --> 00:13:23.029
+<v Hou, Eric>but RN can do another thing is I can ask
+you a question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1771-0
+00:13:23.389 --> 00:13:28.149
+<v Hou, Eric>Did you do that?
+And then your answer will be yes, I did.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1773-0
+00:13:28.149 --> 00:13:29.709
+<v Hou, Eric>Or no, I didn't.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1789-0
+00:13:30.579 --> 00:13:35.257
+<v Hou, Eric>So so this is really my output.
+Has nothing to do with translating my</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1789-1
+00:13:35.257 --> 00:13:36.459
+<v Hou, Eric>original question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1805-0
+00:13:37.329 --> 00:13:41.969
+<v Hou, Eric>My my my output will be really following
+my original question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1817-0
+00:13:41.969 --> 00:13:48.142
+<v Hou, Eric>I'm doing the next word prediction so
+that will be another thing that RNN can</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1817-1
+00:13:48.142 --> 00:13:49.249
+<v Hou, Eric>offer as well.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1827-0
+00:13:49.249 --> 00:13:52.809
+<v Hou, Eric>And then we I'm gonna show you one
+example and how to build that model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1833-0
+00:13:54.259 --> 00:13:55.259
+<v Hou, Eric>In Excel, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1840-0
+00:13:55.259 --> 00:13:59.299
+<v Hou, Eric>So then,
+so then offer a lot of opportunities.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1856-0
+00:14:01.099 --> 00:14:06.195
+<v Hou, Eric>So that's why RNN is so popular and
+powerful now,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1856-1
+00:14:06.195 --> 00:14:09.659
+<v Hou, Eric>but is ran really a perfect model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1858-0
+00:14:09.659 --> 00:14:10.539
+<v Hou, Eric>Of course not.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1890-0
+00:14:10.809 --> 00:14:16.262
+<v Hou, Eric>Because if it were a perfect model,
+we do not have our LSTM,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1890-1
+00:14:16.262 --> 00:14:22.608
+<v Hou, Eric>we do not have the transformer,
+but at least our an opened the real AI</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1890-2
+00:14:22.608 --> 00:14:25.289
+<v Hou, Eric>door for all human beings, OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1923-0
+00:14:25.289 --> 00:14:30.452
+<v Hou, Eric>So typically those are the cases RN can
+offer can do already,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1923-1
+00:14:30.452 --> 00:14:37.031
+<v Hou, Eric>but a lot of optimization and structure
+optimization structure change work has</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1923-2
+00:14:37.031 --> 00:14:39.529
+<v Hou, Eric>done in LSTM and in transform.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1925-0
+00:14:41.119 --> 00:14:41.479
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1929-0
+00:14:41.549 --> 00:14:43.709
+<v Hou, Eric>So here is a math formula.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1936-0
+00:14:44.299 --> 00:14:45.179
+<v Hou, Eric>So you have X.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1941-0
+00:14:45.659 --> 00:14:47.419
+<v Hou, Eric>Eventually you have ay OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1955-0
+00:14:47.419 --> 00:14:53.099
+<v Hou, Eric>So this is really like simplify those
+cases you have seen in these slides.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1963-0
+00:14:53.219 --> 00:14:56.459
+<v Hou, Eric>I just say, hey,
+I just combine all the green together.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1967-0
+00:14:56.459 --> 00:14:57.179
+<v Hou, Eric>I call it Y.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1977-0
+00:14:57.179 --> 00:15:00.419
+<v Hou, Eric>I combine all the hidden layers together.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1988-0
+00:15:00.419 --> 00:15:05.179
+<v Hou, Eric>I call it hidden layer and then I combine
+all the blue boxes together.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1991-0
+00:15:05.179 --> 00:15:05.699
+<v Hou, Eric>I call it X.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1993-0
+00:15:05.739 --> 00:15:08.019
+<v Hou, Eric>So that's why you do have.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/1997-0
+00:15:09.119 --> 00:15:09.599
+<v Hou, Eric>A curl.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2000-0
+00:15:10.039 --> 00:15:11.559
+<v Hou, Eric>Kind of error here.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2002-0
+00:15:11.559 --> 00:15:12.559
+<v Hou, Eric>So then I have.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2011-0
+00:15:14.479 --> 00:15:17.039
+<v Hou, Eric>X are you gonna replace this hidden layer?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2018-0
+00:15:17.039 --> 00:15:20.599
+<v Hou, Eric>A lot of refresh this hidden layer a lot
+of times.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2028-0
+00:15:21.229 --> 00:15:26.949
+<v Hou, Eric>Like this I will reuse of the hidden
+layers for example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2045-0
+00:15:28.359 --> 00:15:35.439
+<v Hou, Eric>The the example will be you heard a lot
+of words from Sam's presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2046-0
+00:15:35.799 --> 00:15:35.839
+<v Hou, Eric>I.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2049-0
+00:15:36.159 --> 00:15:37.799
+<v Hou, Eric>I we we build a product.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2052-0
+00:15:37.799 --> 00:15:38.519
+<v Hou, Eric>We do this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2072-0
+00:15:38.519 --> 00:15:42.480
+<v Hou, Eric>We build that when you when you heard we
+build a product,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2072-1
+00:15:42.480 --> 00:15:46.305
+<v Hou, Eric>you definitely have a feeling store in
+this. I'm sorry,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2072-2
+00:15:46.305 --> 00:15:49.719
+<v Hou, Eric>store in this first orange box and then
+you also.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2088-0
+00:15:50.069 --> 00:15:54.765
+<v Hou, Eric>Heard. OK, I I did.
+I apply this algorithm on one company you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2088-1
+00:15:54.765 --> 00:15:55.749
+<v Hou, Eric>have another.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2104-0
+00:15:57.239 --> 00:16:02.533
+<v Hou, Eric>Refresh of feeling of how you like or not
+like his presentation. And then you heard,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2104-1
+00:16:02.533 --> 00:16:02.719
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2113-0
+00:16:02.799 --> 00:16:05.639
+<v Hou, Eric>I did this for a company wide and then
+you know what?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2139-0
+00:16:05.639 --> 00:16:10.835
+<v Hou, Eric>That improved RI by whatever percent,
+and then you keep refreshing your memory</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2139-1
+00:16:10.835 --> 00:16:15.439
+<v Hou, Eric>of whatever you heard using this
+sentimental analysis example, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2146-0
+00:16:15.439 --> 00:16:19.239
+<v Hou, Eric>So then every time you receive new
+information sequentially.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2152-0
+00:16:19.549 --> 00:16:21.709
+<v Hou, Eric>Come to your brain, you refresh.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2170-0
+00:16:23.199 --> 00:16:27.699
+<v Hou, Eric>Your your feeling, your your,
+your impression of of that information</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2170-1
+00:16:27.699 --> 00:16:29.199
+<v Hou, Eric>coming into your brain.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2174-0
+00:16:29.479 --> 00:16:33.199
+<v Hou, Eric>So that is what those those H of T.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2196-0
+00:16:35.359 --> 00:16:40.166
+<v Hou, Eric>H of TS are are storing so then H of T is
+sort of like you're feeling.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2196-1
+00:16:40.166 --> 00:16:43.279
+<v Hou, Eric>The information you received, right?
+So then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2222-0
+00:16:44.959 --> 00:16:48.854
+<v Hou, Eric>You're refreshing your, your,
+your your mind,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2222-1
+00:16:48.854 --> 00:16:55.629
+<v Hou, Eric>and then eventually you use the latest
+and greatest or most complete impression</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2222-2
+00:16:55.629 --> 00:16:57.999
+<v Hou, Eric>to to do the final judgment.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2245-0
+00:16:58.839 --> 00:17:02.661
+<v Hou, Eric>The final judgment will be I like the
+presentation or not.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2245-1
+00:17:02.661 --> 00:17:06.159
+<v Hou, Eric>The final judgment will be you heard
+entire question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2248-0
+00:17:06.159 --> 00:17:07.159
+<v Hou, Eric>Did you do that?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2262-0
+00:17:07.199 --> 00:17:13.522
+<v Hou, Eric>And you heard a question as did and then
+you have a feeling of what that person is</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2262-1
+00:17:13.522 --> 00:17:14.359
+<v Hou, Eric>asking you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2272-0
+00:17:14.359 --> 00:17:18.274
+<v Hou, Eric>You have another strong feeling of what
+that person asking because you is</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2272-1
+00:17:18.274 --> 00:17:19.279
+<v Hou, Eric>targeting yourself.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2287-0
+00:17:20.759 --> 00:17:23.879
+<v Hou, Eric>Do he didn't know he or she didn't know
+what I did.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2295-0
+00:17:23.879 --> 00:17:28.679
+<v Hou, Eric>And he's kind of confirming you may have
+a lower alarming sense in your mind.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2324-0
+00:17:28.989 --> 00:17:32.968
+<v Hou, Eric>Find that that means,
+like he didn't mention a specific thing,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2324-1
+00:17:32.968 --> 00:17:38.210
+<v Hou, Eric>he just basically confirming so that you
+you're refreshing your impression of here</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2324-2
+00:17:38.210 --> 00:17:40.989
+<v Hou, Eric>in in the process of hearing that
+question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2343-0
+00:17:40.989 --> 00:17:46.540
+<v Hou, Eric>So then in your mind,
+you're actually preparing for your answer</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2343-1
+00:17:46.540 --> 00:17:50.789
+<v Hou, Eric>to that to that question,
+so that H of T is H 0.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2346-0
+00:17:50.789 --> 00:17:53.229
+<v Hou, Eric>Is that person one person come to you?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2352-0
+00:17:54.039 --> 00:17:54.999
+<v Hou, Eric>You may know that person.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2358-0
+00:17:54.999 --> 00:17:56.559
+<v Hou, Eric>You may not know that person.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2360-0
+00:17:56.559 --> 00:17:58.399
+<v Hou, Eric>Let's say you know it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2377-0
+00:17:58.789 --> 00:18:01.365
+<v Hou, Eric>Know the person he that person is a
+teacher.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2377-1
+00:18:01.365 --> 00:18:05.829
+<v Hou, Eric>You already have some memory about this
+teacher, either positive or negative.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2416-0
+00:18:05.949 --> 00:18:12.340
+<v Hou, Eric>So now that your starting point so then
+you her you have some feeling he or she</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2416-1
+00:18:12.340 --> 00:18:18.971
+<v Hou, Eric>asks your first word did you refresh the
+feeling based upon that did word and then</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2416-2
+00:18:18.971 --> 00:18:25.122
+<v Hou, Eric>the question the second word coming in
+you you refresh your impression about</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2416-3
+00:18:25.122 --> 00:18:27.119
+<v Hou, Eric>this question based upon.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2419-0
+00:18:27.879 --> 00:18:28.199
+<v Hou, Eric>Your general feeling.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2438-0
+00:18:28.549 --> 00:18:34.174
+<v Hou, Eric>Of that person and the first word deed
+and second word you the third word.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2438-1
+00:18:34.174 --> 00:18:38.749
+<v Hou, Eric>Do the first word.
+That and the 5th character question Mark.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2472-0
+00:18:38.789 --> 00:18:44.081
+<v Hou, Eric>So you keep refreshing this H of T that
+is your impression of the question based</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2472-1
+00:18:44.081 --> 00:18:48.850
+<v Hou, Eric>upon your impression of the person and
+the question and each word of the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2472-2
+00:18:48.850 --> 00:18:51.986
+<v Hou, Eric>question.
+You keep refreshing your feeling your</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2472-3
+00:18:51.986 --> 00:18:53.749
+<v Hou, Eric>impression, and eventually.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2484-0
+00:18:54.439 --> 00:18:59.479
+<v Hou, Eric>Your mind based upon the information you
+received will generate 1 answer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2495-0
+00:18:59.909 --> 00:19:03.749
+<v Hou, Eric>He was saying yes, I did that. No,
+I didn't.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2502-0
+00:19:04.109 --> 00:19:05.749
+<v Hou, Eric>Or maybe a following question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2506-0
+00:19:05.789 --> 00:19:08.869
+<v Hou, Eric>Did you mean another specific thing?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2528-0
+00:19:08.949 --> 00:19:15.527
+<v Hou, Eric>So this is really a mimicking of your
+your thought process and H of T is really</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2528-1
+00:19:15.527 --> 00:19:19.309
+<v Hou, Eric>some memory feeding impression those kind
+of.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2538-0
+00:19:22.039 --> 00:19:23.639
+<v Hou, Eric>Quote UN quote memory in your mind.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2546-0
+00:19:23.759 --> 00:19:26.279
+<v Hou, Eric>This is a really mimicking that kind of
+concept.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2549-0
+00:19:26.399 --> 00:19:29.159
+<v Hou, Eric>Input is input and then H of T is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2553-0
+00:19:31.079 --> 00:19:31.719
+<v Hou, Eric>Representing or mimicking.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2575-0
+00:19:32.469 --> 00:19:36.297
+<v Hou, Eric>Those kind of unknown like feeling or you
+know you,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2575-1
+00:19:36.297 --> 00:19:41.669
+<v Hou, Eric>you definitely feel like you have a
+different heartbeat and that kind of</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2575-2
+00:19:41.669 --> 00:19:43.509
+<v Hou, Eric>nervousness in your mind.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2597-0
+00:19:43.509 --> 00:19:47.160
+<v Hou, Eric>This is really how we design how the
+scientist design this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2597-1
+00:19:47.160 --> 00:19:51.419
+<v Hou, Eric>HFT just really mimic that and then
+eventually you receive the entire</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2597-2
+00:19:51.419 --> 00:19:52.149
+<v Hou, Eric>information.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2601-0
+00:19:52.149 --> 00:19:55.909
+<v Hou, Eric>You do have your feeling you can have a
+feedback answer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2608-0
+00:19:57.039 --> 00:19:58.639
+<v Hou, Eric>Clarification whatever.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2611-0
+00:19:58.799 --> 00:19:59.839
+<v Hou, Eric>So that is your why?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2615-0
+00:20:00.189 --> 00:20:02.029
+<v Hou, Eric>The Y can be anything, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2632-0
+00:20:05.629 --> 00:20:10.027
+<v Hou, Eric>So so here is really the computational
+graph I sort of mentioned this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2632-1
+00:20:10.027 --> 00:20:11.389
+<v Hou, Eric>Let me just repeat it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2647-0
+00:20:11.459 --> 00:20:15.667
+<v Hou, Eric>Right.
+So then H of 0 you can just think of H of</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2647-1
+00:20:15.667 --> 00:20:17.899
+<v Hou, Eric>0 is a person come to you?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2688-0
+00:20:17.939 --> 00:20:21.443
+<v Hou, Eric>You know that person if you know that
+person,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2688-1
+00:20:21.443 --> 00:20:27.460
+<v Hou, Eric>you do have some feeling of that person.
+If you do not know that person H of 0</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2688-2
+00:20:27.460 --> 00:20:33.782
+<v Hou, Eric>could be absolutely zero because you have
+no engagement with that person before X1</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2688-3
+00:20:33.782 --> 00:20:36.219
+<v Hou, Eric>could be the could be the first.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2693-0
+00:20:36.989 --> 00:20:38.269
+<v Hou, Eric>Word coming from that person's mouth.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2698-0
+00:20:39.789 --> 00:20:41.629
+<v Hou, Eric>Did and you don't know that person?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2701-0
+00:20:41.979 --> 00:20:43.179
+<v Hou, Eric>Now you do.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2724-0
+00:20:44.669 --> 00:20:47.923
+<v Hou, Eric>Based upon the first word coming from
+that person's mouth,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2724-1
+00:20:47.923 --> 00:20:51.949
+<v Hou, Eric>you definitely gonna have this H1.
+Your impression of that person non 0.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2745-0
+00:20:53.629 --> 00:20:56.992
+<v Hou, Eric>But if you do not,
+if you do know that person,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2745-1
+00:20:56.992 --> 00:21:01.069
+<v Hou, Eric>you use that first word.
+Did to refresh that impression.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2753-0
+00:21:01.229 --> 00:21:05.389
+<v Hou, Eric>Maybe that impression will still remain
+the same.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2766-0
+00:21:05.389 --> 00:21:12.034
+<v Hou, Eric>There's no change or there's some change,
+but there some new stage of impression we</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2766-1
+00:21:12.034 --> 00:21:12.429
+<v Hou, Eric>just.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2770-0
+00:21:13.019 --> 00:21:14.579
+<v Hou, Eric>Recorded as H1.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2788-0
+00:21:16.109 --> 00:21:20.427
+<v Hou, Eric>Now his second word coming from his mouth
+or her mouth.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2788-1
+00:21:20.427 --> 00:21:24.589
+<v Hou, Eric>You so now it definitely you do not know
+that person.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2794-0
+00:21:24.589 --> 00:21:27.149
+<v Hou, Eric>Now you know that person is targeting you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2830-0
+00:21:27.149 --> 00:21:31.101
+<v Hou, Eric>You definitely gonna refresh HH1 to H2
+more significantly,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2830-1
+00:21:31.101 --> 00:21:36.391
+<v Hou, Eric>but if you do know that person now,
+that person said you, you definitely will.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2830-2
+00:21:36.391 --> 00:21:40.141
+<v Hou, Eric>If I were you,
+I'll feel like this H2 will be different</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2830-3
+00:21:40.141 --> 00:21:41.949
+<v Hou, Eric>to H1, but definitely your.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2856-0
+00:21:42.219 --> 00:21:49.085
+<v Hou, Eric>Using H2 to record another newer or
+latest impression of that question based</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2856-1
+00:21:49.085 --> 00:21:53.899
+<v Hou, Eric>upon whether or not you know or not know
+that person.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2871-0
+00:21:54.659 --> 00:21:59.699
+<v Hou, Eric>Now the third word and in the end,
+no matter how many words you heard.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2880-0
+00:21:59.699 --> 00:22:05.019
+<v Hou, Eric>So in the end you have a final impression,
+OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2893-0
+00:22:05.419 --> 00:22:11.979
+<v Hou, Eric>So then we will assign the weight just
+for calculation perspective to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2920-0
+00:22:12.299 --> 00:22:16.861
+<v Hou, Eric>Different functions and you can just
+ignore those different functions as long</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2920-1
+00:22:16.861 --> 00:22:21.422
+<v Hou, Eric>as you understand the concept is every
+time you heard a word from one person,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2920-2
+00:22:21.422 --> 00:22:23.059
+<v Hou, Eric>you're refreshing your mind.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2921-0
+00:22:23.059 --> 00:22:24.579
+<v Hou, Eric>You're refreshing your brain.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2935-0
+00:22:24.739 --> 00:22:28.646
+<v Hou, Eric>How you think,
+how you think of that question coming</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2935-1
+00:22:28.646 --> 00:22:29.899
+<v Hou, Eric>from that person?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2948-0
+00:22:30.299 --> 00:22:36.663
+<v Hou, Eric>So in the end you have the final
+impression so that every single time you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2948-1
+00:22:36.663 --> 00:22:37.179
+<v Hou, Eric>heard.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2957-0
+00:22:37.749 --> 00:22:41.509
+<v Hou, Eric>Did you will have your preparation to
+answer that question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2962-0
+00:22:42.939 --> 00:22:43.779
+<v Hou, Eric>You heard it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2966-0
+00:22:43.779 --> 00:22:45.259
+<v Hou, Eric>Did you already make that OK?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2970-0
+00:22:45.259 --> 00:22:46.779
+<v Hou, Eric>I'll automatically say no.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2974-0
+00:22:46.819 --> 00:22:47.819
+<v Hou, Eric>And that's my answer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2987-0
+00:22:48.459 --> 00:22:53.652
+<v Hou, Eric>You heard a second question.
+You heard a second word you that you you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2987-1
+00:22:53.652 --> 00:22:56.099
+<v Hou, Eric>already heard two words, did you?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/2992-0
+00:22:56.299 --> 00:22:58.979
+<v Hou, Eric>You will have another answer to call it.
+Why 2?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3007-0
+00:23:00.469 --> 00:23:02.789
+<v Hou, Eric>And you receive the third word you heard
+a third word.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3010-0
+00:23:02.789 --> 00:23:05.749
+<v Hou, Eric>Do you have your third answer?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3022-0
+00:23:05.749 --> 00:23:09.612
+<v Hou, Eric>So then virtually you have a different
+answer based upon the moment you heard</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3022-1
+00:23:09.612 --> 00:23:10.949
+<v Hou, Eric>each word from that person.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3029-0
+00:23:13.149 --> 00:23:14.863
+<v Hou, Eric>Right.
+So then so then you have different</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3029-1
+00:23:14.863 --> 00:23:15.189
+<v Hou, Eric>answers.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3037-0
+00:23:15.189 --> 00:23:19.509
+<v Hou, Eric>So then if you backtrack right,
+you have a time machine.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3059-0
+00:23:19.749 --> 00:23:23.613
+<v Hou, Eric>You know,
+people always regret I should have said</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3059-1
+00:23:23.613 --> 00:23:26.859
+<v Hou, Eric>no,
+or I should have said yes or I should</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3059-2
+00:23:26.859 --> 00:23:29.949
+<v Hou, Eric>have answered a question in another way.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3079-0
+00:23:30.109 --> 00:23:35.685
+<v Hou, Eric>Just say the way you should have answered
+as the correct answer to that question,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3079-1
+00:23:35.685 --> 00:23:40.309
+<v Hou, Eric>and then the the way how you come out
+with a not so perfect answer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3086-0
+00:23:41.069 --> 00:23:43.229
+<v Hou, Eric>At that time.
+So then you will have a loss function.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3101-0
+00:23:43.899 --> 00:23:49.236
+<v Hou, Eric>Meaning the difference between the answer
+you should have provided versus the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3101-1
+00:23:49.236 --> 00:23:51.219
+<v Hou, Eric>answer you actually provided.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3132-0
+00:23:52.109 --> 00:23:57.886
+<v Hou, Eric>So that difference is something we gonna
+use in the training because you want to</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3132-1
+00:23:57.886 --> 00:24:02.664
+<v Hou, Eric>give him or her a perfect answer.
+If you do have The Time Machine,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3132-2
+00:24:02.664 --> 00:24:06.229
+<v Hou, Eric>you learn all your mistakes in the future,
+right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3166-0
+00:24:06.229 --> 00:24:10.141
+<v Hou, Eric>So then you you want to do that,
+so you'll learn all that happens in</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3166-1
+00:24:10.141 --> 00:24:14.335
+<v Hou, Eric>history, and then you, you, you,
+you optimize this process in the future,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3166-2
+00:24:14.335 --> 00:24:18.189
+<v Hou, Eric>you're gonna have a much better answer to
+answer similar questions.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3171-0
+00:24:18.269 --> 00:24:20.869
+<v Hou, Eric>So that's how we train the model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3182-0
+00:24:21.059 --> 00:24:27.299
+<v Hou, Eric>The same idea how humans are learning
+from the historical mistakes, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3193-0
+00:24:28.789 --> 00:24:30.994
+<v Hou, Eric>You know,
+I hope you know this is how we learn,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3193-1
+00:24:30.994 --> 00:24:31.269
+<v Hou, Eric>right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3203-0
+00:24:31.269 --> 00:24:34.588
+<v Hou, Eric>So then. But you know,
+people still make the same mistake all</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3203-1
+00:24:34.588 --> 00:24:35.069
+<v Hou, Eric>the time.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3221-0
+00:24:35.469 --> 00:24:40.320
+<v Hou, Eric>So that's why you know you you need to
+spend some time to think of, you know,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3221-1
+00:24:40.320 --> 00:24:43.429
+<v Hou, Eric>the historical historical issues, right?
+So then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3227-0
+00:24:45.109 --> 00:24:46.829
+<v Hou, Eric>Learn from the mistakes, OK?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3230-0
+00:24:46.829 --> 00:24:49.549
+<v Hou, Eric>So this is the process of.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3250-0
+00:24:51.299 --> 00:24:57.817
+<v Hou, Eric>You can just consider this this,
+this L as the difference between the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3250-1
+00:24:57.817 --> 00:25:02.379
+<v Hou, Eric>actual answer you provided at the moment
+versus.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3262-0
+00:25:03.749 --> 00:25:08.009
+<v Hou, Eric>The answer you should have provided in
+the in the ideal case,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3262-1
+00:25:08.009 --> 00:25:09.589
+<v Hou, Eric>they could be the same.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3290-0
+00:25:09.629 --> 00:25:14.651
+<v Hou, Eric>They could be different in case they are,
+they are different and you really want to</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3290-1
+00:25:14.651 --> 00:25:19.494
+<v Hou, Eric>improve yourself the way how you answer
+similar questions and that is the L that</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3290-2
+00:25:19.494 --> 00:25:20.629
+<v Hou, Eric>we use to quantify.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3305-0
+00:25:21.019 --> 00:25:25.541
+<v Hou, Eric>By the difference. That is, al.
+You're gonna help them out of the real</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3305-1
+00:25:25.541 --> 00:25:25.859
+<v Hou, Eric>life.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3314-0
+00:25:25.859 --> 00:25:29.739
+<v Hou, Eric>There's a difference and eventually
+optimizes model OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3316-0
+00:25:30.259 --> 00:25:33.499
+<v Hou, Eric>Any questions for now? Does it make sense?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3320-0
+00:25:41.819 --> 00:25:42.139
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3325-0
+00:25:42.139 --> 00:25:46.579
+<v Hou, Eric>I'll consider silence as a yes.
+Makes sense. OK, so.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3336-0
+00:25:48.069 --> 00:25:52.229
+<v Hou, Eric>One is to one is easier,
+easier example to explain.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3374-0
+00:25:52.229 --> 00:26:00.654
+<v Hou, Eric>So then X1 will be the first sentence
+from Sam's presentation X2 and X3 so that</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3374-1
+00:26:00.654 --> 00:26:08.762
+<v Hou, Eric>you refresh whether or not you like that
+presentation in H0H1H2H3. Hth zero.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3374-2
+00:26:08.762 --> 00:26:12.869
+<v Hou, Eric>You do not know Sam, so H Zero will be.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3377-0
+00:26:12.869 --> 00:26:13.909
+<v Hou, Eric>Absolute 0.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3389-0
+00:26:14.179 --> 00:26:17.339
+<v Hou, Eric>Vector each one is your heard first
+sentence.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3423-0
+00:26:17.409 --> 00:26:22.630
+<v Hou, Eric>You have your sort of feeling of how this
+person, what kind of this person is,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3423-1
+00:26:22.630 --> 00:26:27.520
+<v Hou, Eric>and you just refresh that feeling and
+eventually you have a final feeling</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3423-2
+00:26:27.520 --> 00:26:32.409
+<v Hou, Eric>whether or not you should like it,
+whether or not you you do not like it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3426-0
+00:26:32.729 --> 00:26:34.289
+<v Hou, Eric>So your judgment of.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3432-0
+00:26:36.699 --> 00:26:38.219
+<v Hou, Eric>Yes or no, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3449-0
+00:26:38.219 --> 00:26:41.493
+<v Hou, Eric>So then,
+but if you do have a time machine,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3449-1
+00:26:41.493 --> 00:26:46.179
+<v Hou, Eric>you you know whether or not that
+presentation is so important.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3451-0
+00:26:46.219 --> 00:26:47.499
+<v Hou, Eric>So for example like.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3462-0
+00:26:47.929 --> 00:26:51.329
+<v Hou, Eric>You, you, you.
+You heard Sammy's Sam's presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3499-0
+00:26:51.329 --> 00:26:55.553
+<v Hou, Eric>You happen to, you know,
+interview at the Park of Avery sometime</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3499-1
+00:26:55.553 --> 00:26:59.582
+<v Hou, Eric>in the future. And you,
+you you may want to code whatever Sam</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3499-2
+00:26:59.582 --> 00:27:03.546
+<v Hou, Eric>mentioned in the presentation and then
+you find, Oh my gosh,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3499-3
+00:27:03.546 --> 00:27:08.419
+<v Hou, Eric>I I feel so bad about that presentation
+because I don't like this present.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3526-0
+00:27:08.489 --> 00:27:12.634
+<v Hou, Eric>I didn't pay too much attention,
+so maybe you think maybe I should have</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3526-1
+00:27:12.634 --> 00:27:16.318
+<v Hou, Eric>feeling I should have paid more attention
+to that presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3526-2
+00:27:16.318 --> 00:27:17.929
+<v Hou, Eric>So now I can call something.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3547-0
+00:27:18.049 --> 00:27:21.736
+<v Hou, Eric>In my interview,
+so this is a moment that there could be</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3547-1
+00:27:21.736 --> 00:27:26.652
+<v Hou, Eric>some difference in terms of sentiment or
+judgment that you have done in the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3547-2
+00:27:26.652 --> 00:27:27.169
+<v Hou, Eric>history.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3554-0
+00:27:27.289 --> 00:27:30.849
+<v Hou, Eric>So this e-mail to one is mimicking that
+right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3564-0
+00:27:30.849 --> 00:27:36.249
+<v Hou, Eric>So then there's a -, 2,
+one example is a oneet mining example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3571-0
+00:27:36.249 --> 00:27:38.609
+<v Hou, Eric>This is an easier case as well.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3581-0
+00:27:38.609 --> 00:27:41.501
+<v Hou, Eric>So then so one example is you have a
+picture,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3581-1
+00:27:41.501 --> 00:27:43.889
+<v Hou, Eric>so you put a picture here you say hey.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3586-0
+00:27:44.939 --> 00:27:45.019
+<v Hou, Eric>AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3592-0
+00:27:45.539 --> 00:27:49.019
+<v Hou, Eric>Just detect whatever items that you or
+whatever.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3596-0
+00:27:49.449 --> 00:27:50.249
+<v Hou, Eric>How many?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3605-0
+00:27:50.289 --> 00:27:53.529
+<v Hou, Eric>No matter how many people you can detect
+in the picture.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3609-0
+00:27:53.899 --> 00:27:55.459
+<v Hou, Eric>Right. Just do. Do it for me.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3639-0
+00:27:55.729 --> 00:28:01.124
+<v Hou, Eric>And then the RN gonna run through the
+entire picture to detect all the human</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3639-1
+00:28:01.124 --> 00:28:05.538
+<v Hou, Eric>beings based upon you know,
+the facial recognition for you and</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3639-2
+00:28:05.538 --> 00:28:07.009
+<v Hou, Eric>eventually those are.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3650-0
+00:28:07.419 --> 00:28:10.779
+<v Hou, Eric>The people, definitely AI,
+can make some mistakes.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3656-0
+00:28:11.539 --> 00:28:15.499
+<v Hou, Eric>Maybe just identify a picture as a as a
+human.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3668-0
+00:28:15.699 --> 00:28:20.539
+<v Hou, Eric>Maybe it identify some other things as
+look like a human face as a human.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3675-0
+00:28:20.619 --> 00:28:23.379
+<v Hou, Eric>So then it's not perfect at first run.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3682-0
+00:28:23.419 --> 00:28:26.299
+<v Hou, Eric>So then you have some some loss, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3685-0
+00:28:26.299 --> 00:28:28.179
+<v Hou, Eric>So that is one too many.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3699-0
+00:28:29.659 --> 00:28:35.118
+<v Hou, Eric>So sequence to sequence.
+Now we relatively more difficult</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3699-1
+00:28:35.118 --> 00:28:36.059
+<v Hou, Eric>structure.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3707-0
+00:28:36.139 --> 00:28:38.259
+<v Hou, Eric>So the sequence to sequence is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3715-0
+00:28:39.099 --> 00:28:44.819
+<v Hou, Eric>I do have so for example like I ask you a
+question, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3719-0
+00:28:44.819 --> 00:28:47.179
+<v Hou, Eric>So then you want to answer my question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3729-0
+00:28:48.139 --> 00:28:51.461
+<v Hou, Eric>Right.
+So then it's really like a conversation,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3729-1
+00:28:51.461 --> 00:28:52.499
+<v Hou, Eric>right? So then?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3735-0
+00:28:54.099 --> 00:28:55.739
+<v Hou, Eric>For example, like how like you're.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3744-0
+00:28:55.739 --> 00:28:58.659
+<v Hou, Eric>I'm asking this question and then
+eventually they receive.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3766-0
+00:28:58.659 --> 00:29:03.685
+<v Hou, Eric>You want to definitely receive this this
+or or is really like hey you,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3766-1
+00:29:03.685 --> 00:29:08.357
+<v Hou, Eric>you want to hear the entire presentation.
+I ask you for feedback.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3766-2
+00:29:08.357 --> 00:29:10.339
+<v Hou, Eric>So then through this entire.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3781-0
+00:29:12.539 --> 00:29:17.204
+<v Hou, Eric>One process you the only thing you have
+done is you just listen. Listen, listen,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3781-1
+00:29:17.204 --> 00:29:19.219
+<v Hou, Eric>listen, listen, Clark. Information.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3801-0
+00:29:19.889 --> 00:29:24.421
+<v Hou, Eric>All the information coming through and
+you have the final impression of what</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3801-1
+00:29:24.421 --> 00:29:29.364
+<v Hou, Eric>this person is talking about and how this
+person is presenting and how he likes his</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3801-2
+00:29:29.364 --> 00:29:30.129
+<v Hou, Eric>presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3814-0
+00:29:30.999 --> 00:29:36.119
+<v Hou, Eric>And eventually you use that as an input
+to generate your feedback.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3820-0
+00:29:36.199 --> 00:29:39.119
+<v Hou, Eric>You're saying, hey,
+I heard everything you're saying.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3824-0
+00:29:39.199 --> 00:29:41.959
+<v Hou, Eric>I do like this personation because.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3838-0
+00:29:43.409 --> 00:29:50.089
+<v Hou, Eric>So this is the -1 and -1 to many
+structure coming together as.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3855-0
+00:29:51.539 --> 00:29:55.775
+<v Hou, Eric>The fundamental structure for the
+communicational tool.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3855-1
+00:29:55.775 --> 00:29:59.179
+<v Hou, Eric>This is sort of like open AI already,
+right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3862-0
+00:29:59.179 --> 00:30:03.259
+<v Hou, Eric>So then open AI is already like you ask.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3866-0
+00:30:03.259 --> 00:30:04.779
+<v Hou, Eric>You start talking.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3868-0
+00:30:04.819 --> 00:30:05.619
+<v Hou, Eric>Hey, open it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3877-0
+00:30:05.619 --> 00:30:10.019
+<v Hou, Eric>Like can you do this for me to create a
+formula and and generate some something?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3903-0
+00:30:11.199 --> 00:30:16.784
+<v Hou, Eric>So now it's really your running man to
+one you send all the information to open</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3903-1
+00:30:16.784 --> 00:30:18.599
+<v Hou, Eric>AI to ChatGPT and ChatGPT.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3920-0
+00:30:18.669 --> 00:30:26.162
+<v Hou, Eric>Receive that information in this Gray box
+and then it start generating as Y1Y2Y3</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3920-1
+00:30:26.162 --> 00:30:27.549
+<v Hou, Eric>and Y whatever.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3933-0
+00:30:27.589 --> 00:30:31.629
+<v Hou, Eric>So they gonna give you the answer
+sometime you feel this answer is right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3968-0
+00:30:31.629 --> 00:30:36.653
+<v Hou, Eric>Sometimes you feel this answer is wrong
+because the hallucination and then you're</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3968-1
+00:30:36.653 --> 00:30:41.739
+<v Hou, Eric>you're really you use a sum up a sum down
+function in the chat GBD to help to open</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3968-2
+00:30:41.739 --> 00:30:44.189
+<v Hou, Eric>AI to find fine tune their model to get.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3976-0
+00:30:44.919 --> 00:30:45.919
+<v Hou, Eric>Model more and more accurate.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3981-0
+00:30:45.919 --> 00:30:48.359
+<v Hou, Eric>So this is really like sequence to
+sequence structure.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/3992-0
+00:30:51.559 --> 00:30:55.679
+<v Hou, Eric>That people are using in in,
+in large language models, OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4000-0
+00:30:56.399 --> 00:30:58.519
+<v Hou, Eric>So now let me give you one example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4004-0
+00:30:58.519 --> 00:31:00.999
+<v Hou, Eric>So. So in this example, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4009-0
+00:31:00.999 --> 00:31:04.719
+<v Hou, Eric>So then we have let me show you the the
+Excel.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4011-0
+00:31:06.839 --> 00:31:06.959
+<v Hou, Eric>MMM.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4021-0
+00:31:09.559 --> 00:31:12.520
+<v Hou, Eric>OK,
+instead of sharing this I mean sharing</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4021-1
+00:31:12.520 --> 00:31:13.759
+<v Hou, Eric>the entire window.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4024-0
+00:31:25.669 --> 00:31:26.269
+<v Hou, Eric>Gosh.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4026-0
+00:31:33.239 --> 00:31:33.639
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4032-0
+00:31:35.029 --> 00:31:36.429
+<v Hou, Eric>OK. Can you see my screen?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4035-0
+00:31:41.609 --> 00:31:42.009
+<v Teske, Benjamin>What's up?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4042-0
+00:31:41.809 --> 00:31:43.649
+<v Hou, Eric>OK, OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4040-0
+00:31:42.089 --> 00:31:43.049
+<v Teske, Benjamin>Yeah, we can.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4039-0
+00:31:42.859 --> 00:31:43.059
+<v Mertens, Aidric>Yep.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4056-0
+00:31:43.769 --> 00:31:49.390
+<v Hou, Eric>So now let's see.
+We want to train the model for the model</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4056-1
+00:31:49.390 --> 00:31:53.009
+<v Hou, Eric>to understand English, right? So then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4072-0
+00:31:54.719 --> 00:32:04.119
+<v Hou, Eric>The first word I learn in English as a
+nonnative speaker is hello, OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4083-0
+00:32:04.119 --> 00:32:07.959
+<v Hou, Eric>So that's why we we we teach AI how to
+say hello as as well, right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4087-0
+00:32:07.959 --> 00:32:09.239
+<v Hou, Eric>You know hello world.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4089-0
+00:32:09.999 --> 00:32:11.279
+<v Hou, Eric>So then that that's see.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4099-0
+00:32:12.119 --> 00:32:15.239
+<v Hou, Eric>So then hello as a word, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4102-0
+00:32:15.239 --> 00:32:17.919
+<v Hou, Eric>So then HELL right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4105-0
+00:32:17.919 --> 00:32:20.359
+<v Hou, Eric>It has this word has.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4109-0
+00:32:22.199 --> 00:32:24.319
+<v Hou, Eric>4 letters it's.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4113-0
+00:32:26.279 --> 00:32:27.479
+<v Hou, Eric>HELNO OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4124-0
+00:32:31.049 --> 00:32:35.009
+<v Hou, Eric>So then we need to vectorize those
+letters, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4130-0
+00:32:35.009 --> 00:32:39.609
+<v Hou, Eric>So then we can say hey H as 1E as two.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4141-0
+00:32:41.279 --> 00:32:44.559
+<v Hou, Eric>L as three and O as 4.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4153-0
+00:32:44.719 --> 00:32:49.691
+<v Hou, Eric>You can definitely do that,
+but that is not usually how computers are</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4153-1
+00:32:49.691 --> 00:32:51.679
+<v Hou, Eric>seeing those things because.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4161-0
+00:32:53.999 --> 00:32:58.759
+<v Hou, Eric>What is 1 + 2 for example H + E?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4168-0
+00:33:00.959 --> 00:33:03.719
+<v Hou, Eric>Should it be 3 which is L?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4175-0
+00:33:04.749 --> 00:33:07.069
+<v Hou, Eric>It's certain isn't right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4187-0
+00:33:07.149 --> 00:33:12.109
+<v Hou, Eric>So then, because you know you, you, you,
+you do not allow that relationship, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4189-0
+00:33:12.109 --> 00:33:13.949
+<v Hou, Eric>So then so then that's why.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4196-0
+00:33:14.069 --> 00:33:17.509
+<v Hou, Eric>We're using this kind of way to verify.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4209-0
+00:33:19.959 --> 00:33:25.639
+<v Hou, Eric>The the the letters is really one hot
+code in in coding, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4217-0
+00:33:25.639 --> 00:33:29.759
+<v Hou, Eric>So then I say, OK H IS1000.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4225-0
+00:33:31.439 --> 00:33:34.239
+<v Hou, Eric>East is is 0100.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4238-0
+00:33:35.879 --> 00:33:42.199
+<v Hou, Eric>L is 0010 and O IS0001OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4244-0
+00:33:43.209 --> 00:33:44.569
+<v Hou, Eric>What is my goal?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4255-0
+00:33:44.889 --> 00:33:51.889
+<v Hou, Eric>My goal is I help the machine to learn
+the pattern that coming from this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4260-0
+00:33:51.929 --> 00:33:57.329
+<v Hou, Eric>Hello I want the machine to learn. OK,
+a lot of cases.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4269-0
+00:33:58.759 --> 00:34:01.879
+<v Hou, Eric>E as a as a letter is coming after H.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4291-0
+00:34:03.219 --> 00:34:11.439
+<v Hou, Eric>And L usually come come usually is coming
+after E and if I do see an Li may see</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4291-1
+00:34:11.439 --> 00:34:13.699
+<v Hou, Eric>another L after right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4298-0
+00:34:13.699 --> 00:34:17.659
+<v Hou, Eric>So then if I see hell,
+I'm still typing another letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4322-0
+00:34:19.079 --> 00:34:22.455
+<v Hou, Eric>Likely now be. Oh, you know, you, you you.
+You know,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4322-1
+00:34:22.455 --> 00:34:27.549
+<v Hou, Eric>there's some out of out of feel out of
+feel kind of function in your cell phone</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4322-2
+00:34:27.549 --> 00:34:28.759
+<v Hou, Eric>in your smartphone.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4326-0
+00:34:28.879 --> 00:34:32.119
+<v Hou, Eric>You you start typing,
+you're just guessing the next letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4332-0
+00:34:32.469 --> 00:34:35.229
+<v Hou, Eric>And they're definitely using RNN. OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4340-0
+00:34:36.719 --> 00:34:40.319
+<v Hou, Eric>So what I'm doing is go back to this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4371-0
+00:34:45.359 --> 00:34:53.493
+<v Hou, Eric>I want to use my letter H eventually
+going through those kind of super complex</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4371-1
+00:34:53.493 --> 00:35:02.037
+<v Hou, Eric>layers eventually to tell the machine the
+AI that you know the letter after should</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4371-2
+00:35:02.037 --> 00:35:04.199
+<v Hou, Eric>be E, right? So then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4379-0
+00:35:05.679 --> 00:35:08.159
+<v Hou, Eric>Then I'm using E as an input.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4386-0
+00:35:09.799 --> 00:35:12.919
+<v Hou, Eric>I will teach AI to learn going forward.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4391-0
+00:35:14.679 --> 00:35:15.799
+<v Hou, Eric>The next letter should be L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4394-0
+00:35:17.439 --> 00:35:18.799
+<v Hou, Eric>And going there.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4397-0
+00:35:19.549 --> 00:35:20.589
+<v Hou, Eric>Not working.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4408-0
+00:35:20.869 --> 00:35:24.269
+<v Hou, Eric>Go on there. I wanna tell AI. OK.
+You see another?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4409-0
+00:35:24.269 --> 00:35:25.949
+<v Hou, Eric>You see.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4412-0
+00:35:25.989 --> 00:35:26.189
+<v Hou, Eric>HEL.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4418-0
+00:35:26.709 --> 00:35:29.069
+<v Hou, Eric>Maybe you should guess the next letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4428-0
+00:35:30.599 --> 00:35:34.119
+<v Hou, Eric>Next letter also L and then you use.
+You ready?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4440-0
+00:35:34.119 --> 00:35:38.119
+<v Hou, Eric>See, you ready. Seeing he,
+LL you should guess 0.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4441-0
+00:35:39.199 --> 00:35:40.759
+<v Hou, Eric>That is the goal.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4451-0
+00:35:42.399 --> 00:35:44.719
+<v Hou, Eric>That, you know, you teach hello to AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4460-0
+00:35:45.559 --> 00:35:50.479
+<v Hou, Eric>You can teach different words to AI.
+You can teach sentences to AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4471-0
+00:35:51.309 --> 00:35:53.389
+<v Hou, Eric>And you can teach paragraphs through AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4474-0
+00:35:53.709 --> 00:35:55.949
+<v Hou, Eric>And actually this is how it worked.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4478-0
+00:35:56.349 --> 00:35:59.669
+<v Hou, Eric>How people are building those those.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4486-0
+00:36:01.879 --> 00:36:02.959
+<v Hou, Eric>AI models, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4499-0
+00:36:02.959 --> 00:36:09.947
+<v Hou, Eric>So then what we were doing is we just use
+this structure to teach AI how to spell,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4499-1
+00:36:09.947 --> 00:36:10.199
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4516-0
+00:36:10.479 --> 00:36:19.746
+<v Hou, Eric>And then every single time we save those
+all different rules of spelling in each</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4516-1
+00:36:19.746 --> 00:36:21.919
+<v Hou, Eric>hidden layer HT so.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4529-0
+00:36:22.429 --> 00:36:28.393
+<v Hou, Eric>So, so, so,
+so the AI will will start remembering</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4529-1
+00:36:28.393 --> 00:36:28.989
+<v Hou, Eric>like.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4539-0
+00:36:30.559 --> 00:36:33.159
+<v Hou, Eric>You see, he. Maybe I should guess. L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4540-0
+00:36:33.439 --> 00:36:34.839
+<v Hou, Eric>You see hel?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4546-0
+00:36:34.839 --> 00:36:36.079
+<v Hou, Eric>I should guess another L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4567-0
+00:36:36.079 --> 00:36:41.766
+<v Hou, Eric>Those kind of rules of spelling and then
+this is how we we we save those</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4567-1
+00:36:41.766 --> 00:36:44.959
+<v Hou, Eric>information in H of T or H under score T.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4575-0
+00:36:46.119 --> 00:36:49.199
+<v Hou, Eric>What does this under score T mean?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4579-0
+00:36:49.199 --> 00:36:52.479
+<v Hou, Eric>Because before you teach AI how to spell.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4592-0
+00:36:54.259 --> 00:37:01.299
+<v Hou, Eric>AI does not know how to spell,
+so the original H 0 meaning.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4602-0
+00:37:02.759 --> 00:37:06.319
+<v Hou, Eric>At the beginning,
+AI does not know how to spell.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4620-0
+00:37:06.319 --> 00:37:13.333
+<v Hou, Eric>So then H of 0 should be a 0 vector
+because AI does not have any preliminary</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4620-1
+00:37:13.333 --> 00:37:15.519
+<v Hou, Eric>or any knowledge before.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4632-0
+00:37:15.559 --> 00:37:20.599
+<v Hou, Eric>And then you are starting teaching AI Hel
+what different kind of way.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4636-0
+00:37:20.599 --> 00:37:22.759
+<v Hou, Eric>Apple,
+those different kind of words to AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4666-0
+00:37:23.709 --> 00:37:28.929
+<v Hou, Eric>This H of T or H under score T getting
+more and more powerful and then getting</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4666-1
+00:37:28.929 --> 00:37:34.347
+<v Hou, Eric>more and more knowledge and more and more
+can recognize more and more patterns in</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4666-2
+00:37:34.347 --> 00:37:36.989
+<v Hou, Eric>English language or different languages.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4678-0
+00:37:36.989 --> 00:37:42.549
+<v Hou, Eric>So later on you you move this T to 1,000,
+000 or one trillion.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4698-0
+00:37:42.669 --> 00:37:46.008
+<v Hou, Eric>You you the AI is really an expert.
+How to spell.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4698-1
+00:37:46.008 --> 00:37:51.549
+<v Hou, Eric>Now we are just going from zero to four.
+This is a really early stage, right? But.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4700-0
+00:37:52.279 --> 00:37:52.919
+<v Hou, Eric>The concept is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4704-0
+00:37:53.269 --> 00:37:53.749
+<v Hou, Eric>You can.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4708-0
+00:37:53.789 --> 00:37:54.229
+<v Hou, Eric>You can.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4717-0
+00:37:54.229 --> 00:37:57.709
+<v Hou, Eric>You can consider this H of T as the rule
+of spelling.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4728-0
+00:37:57.749 --> 00:38:05.069
+<v Hou, Eric>The more words Withrow, the AI to learn,
+each by by adding one letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4742-0
+00:38:05.069 --> 00:38:09.583
+<v Hou, Eric>So the AI can recognize different
+patterns, can learn more and more,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4742-1
+00:38:09.583 --> 00:38:12.069
+<v Hou, Eric>so that is H of T just spelling rules.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4757-0
+00:38:13.559 --> 00:38:18.919
+<v Hou, Eric>There are some calculation and their
+calculations are there's a W HH.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4764-0
+00:38:19.279 --> 00:38:22.119
+<v Hou, Eric>So this is a. This is a matrix of weights.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4775-0
+00:38:22.469 --> 00:38:24.909
+<v Hou, Eric>Right,
+so the matrix always is saying that OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4778-0
+00:38:24.949 --> 00:38:26.349
+<v Hou, Eric>I learned some of.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4790-0
+00:38:27.109 --> 00:38:31.829
+<v Hou, Eric>I learned some of the rules before I I I
+I have a letter H.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4797-0
+00:38:32.779 --> 00:38:33.659
+<v Hou, Eric>I have a letter E.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4809-0
+00:38:34.379 --> 00:38:39.939
+<v Hou, Eric>So then this is the this is the the
+current knowledge base I have.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4823-0
+00:38:40.099 --> 00:38:45.445
+<v Hou, Eric>So then,
+how should I emphasize my historically</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4823-1
+00:38:45.445 --> 00:38:49.899
+<v Hou, Eric>learned roles versus the some new rules?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4835-0
+00:38:49.899 --> 00:38:55.733
+<v Hou, Eric>I will be learning in the next second and
+this age needs W gonna tell us for</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4835-1
+00:38:55.733 --> 00:38:56.339
+<v Hou, Eric>example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4842-0
+00:38:57.439 --> 00:39:01.879
+<v Hou, Eric>In in,
+in in American English you we spell like.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4846-0
+00:39:03.679 --> 00:39:06.839
+<v Hou, Eric>We Seville Center as center.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4858-0
+00:39:07.109 --> 00:39:10.997
+<v Hou, Eric>In this way,
+but in the in the British English,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4858-1
+00:39:10.997 --> 00:39:13.589
+<v Hou, Eric>they spell center as this right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4864-0
+00:39:13.629 --> 00:39:18.389
+<v Hou, Eric>So then if you train the AI based upon
+American English.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4873-0
+00:39:19.879 --> 00:39:23.319
+<v Hou, Eric>This Tre kind of pattern should be
+deprioritized.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4893-0
+00:39:25.039 --> 00:39:32.112
+<v Hou, Eric>The TER pattern should be should be
+prioritized because a lot of times we</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4893-1
+00:39:32.112 --> 00:39:35.839
+<v Hou, Eric>change this Tre to in American English.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4902-0
+00:39:36.729 --> 00:39:41.729
+<v Hou, Eric>So that is how this WHA is controlling.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4907-0
+00:39:41.969 --> 00:39:44.169
+<v Hou, Eric>Are we dealing with a British English?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4921-0
+00:39:44.169 --> 00:39:49.736
+<v Hou, Eric>Are we dealing with with the the American
+English or Canadian English or different</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4921-1
+00:39:49.736 --> 00:39:50.809
+<v Hou, Eric>kind of English?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4940-0
+00:39:50.849 --> 00:39:58.463
+<v Hou, Eric>How much weight should I put on Tre
+versus tur since this is how you adjust</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4940-1
+00:39:58.463 --> 00:40:01.969
+<v Hou, Eric>the weight of this whh as a matrix?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4948-0
+00:40:02.679 --> 00:40:06.725
+<v Hou, Eric>It's controlling,
+it's controlling the weight of historical</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4948-1
+00:40:06.725 --> 00:40:07.399
+<v Hou, Eric>knowledge.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4956-0
+00:40:08.229 --> 00:40:12.189
+<v Hou, Eric>Based upon what kind of knowledge you're
+learning and.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4965-0
+00:40:13.919 --> 00:40:16.359
+<v Hou, Eric>Really, the knowledge base you have right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4990-0
+00:40:16.439 --> 00:40:21.326
+<v Hou, Eric>Even the same English language,
+you have different weights for WH.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4990-1
+00:40:21.326 --> 00:40:24.901
+<v Hou, Eric>The XT is OK.
+Is this a new pattern or just some</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/4990-2
+00:40:24.901 --> 00:40:27.599
+<v Hou, Eric>existing pattern that everybody know?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5003-0
+00:40:27.789 --> 00:40:33.248
+<v Hou, Eric>No. So then you you, you change that, OK?
+And they definitely have a different,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5003-1
+00:40:33.248 --> 00:40:34.749
+<v Hou, Eric>a different dimension.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5014-0
+00:40:34.749 --> 00:40:37.229
+<v Hou, Eric>So then you you can ignore that, I said.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5023-0
+00:40:37.229 --> 00:40:40.525
+<v Hou, Eric>OK, you can cast a dimension,
+so this is something that you definitely</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5023-1
+00:40:40.525 --> 00:40:40.989
+<v Hou, Eric>gonna use.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5033-0
+00:40:41.029 --> 00:40:44.909
+<v Hou, Eric>You're definitely gonna use a matrix
+multiplication, OK?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5044-0
+00:40:45.229 --> 00:40:52.549
+<v Hou, Eric>So let's just go to that process in that
+XLS example. OK, so now.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5055-0
+00:40:53.279 --> 00:40:59.279
+<v Hou, Eric>I already have this H1000 as my input.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5066-0
+00:40:59.989 --> 00:41:05.229
+<v Hou, Eric>I'm going to teach AI the 1st letter that
+is H.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5092-0
+00:41:06.999 --> 00:41:13.804
+<v Hou, Eric>Before I teach AI, English,
+or how to spell AI has no knowledge of</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5092-1
+00:41:13.804 --> 00:41:18.679
+<v Hou, Eric>English,
+so that's why I say H 0 is a 0 vector.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5096-0
+00:41:18.919 --> 00:41:20.679
+<v Hou, Eric>I know nothing about English.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5112-0
+00:41:22.399 --> 00:41:28.425
+<v Hou, Eric>I gave some random numbers as weight of
+the whh as a random number is a random</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5112-1
+00:41:28.425 --> 00:41:28.959
+<v Hou, Eric>matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5124-0
+00:41:29.629 --> 00:41:32.269
+<v Hou, Eric>I gave Whx as a random matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5129-0
+00:41:32.269 --> 00:41:34.749
+<v Hou, Eric>I gave this weight as a random matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5136-0
+00:41:35.149 --> 00:41:39.829
+<v Hou, Eric>Those numbers have no meaning,
+but just some random numbers.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5148-0
+00:41:39.869 --> 00:41:44.536
+<v Hou, Eric>The reason I gave some random numbers
+here is I don't want to show you guys A0</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5148-1
+00:41:44.536 --> 00:41:44.949
+<v Hou, Eric>matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5154-0
+00:41:45.229 --> 00:41:47.029
+<v Hou, Eric>It turns out all the numbers are 0.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5158-0
+00:41:47.029 --> 00:41:48.309
+<v Hou, Eric>It does not make any sense.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5164-0
+00:41:48.309 --> 00:41:50.309
+<v Hou, Eric>So then I just give you some random
+numbers.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5176-0
+00:41:51.799 --> 00:41:58.439
+<v Hou, Eric>So because AI does not even know any
+letter in English so then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5196-0
+00:41:58.909 --> 00:42:02.221
+<v Hou, Eric>The weight,
+although I have some random numbers,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5196-1
+00:42:02.221 --> 00:42:06.749
+<v Hou, Eric>the historical knowledge will be 0 even
+if you put the weights on,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5196-2
+00:42:06.749 --> 00:42:08.709
+<v Hou, Eric>this is still nothing, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5208-0
+00:42:08.949 --> 00:42:12.909
+<v Hou, Eric>So then I ask some current knowledge to
+AI, OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5215-0
+00:42:12.909 --> 00:42:15.869
+<v Hou, Eric>I said OK,
+here is your historical knowledge.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5223-0
+00:42:16.029 --> 00:42:20.429
+<v Hou, Eric>Here is your new knowledge based upon the
+1st letter I teach you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5235-0
+00:42:22.319 --> 00:42:28.599
+<v Hou, Eric>H This summation of those two is going to
+be your knowledge base.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5267-0
+00:42:28.829 --> 00:42:35.332
+<v Hou, Eric>Now this is your knowledge base and then
+I will apply a hyperbolic tangent</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5267-1
+00:42:35.332 --> 00:42:42.095
+<v Hou, Eric>function to normalize this summation
+because later on this summation could be</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5267-2
+00:42:42.095 --> 00:42:44.869
+<v Hou, Eric>some big number or small number.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5281-0
+00:42:44.989 --> 00:42:50.029
+<v Hou, Eric>I want all the numbers is within some
+same area between 91 and one.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5293-0
+00:42:50.229 --> 00:42:55.381
+<v Hou, Eric>That's why I apply this tangent
+hyperbolic tangent function on top of</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5293-1
+00:42:55.381 --> 00:42:55.749
+<v Hou, Eric>this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5295-0
+00:42:56.029 --> 00:42:57.549
+<v Hou, Eric>So then you see those numbers?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5308-0
+00:42:58.589 --> 00:43:04.109
+<v Hou, Eric>What do those four numbers mean?
+That means this number is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5314-0
+00:43:04.109 --> 00:43:07.589
+<v Hou, Eric>First of all,
+this is not a zero vector anymore.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5319-0
+00:43:07.589 --> 00:43:11.469
+<v Hou, Eric>You do see some non 0 numbers here.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5334-0
+00:43:12.309 --> 00:43:21.149
+<v Hou, Eric>So that is sort of the current knowledge
+base of AI. So AI knew something.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5367-0
+00:43:22.679 --> 00:43:26.265
+<v Hou, Eric>So that's why you have some knowledge
+base.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5367-1
+00:43:26.265 --> 00:43:32.704
+<v Hou, Eric>So AI will use that knowledge base and
+apply this knowledge base on the weight</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5367-2
+00:43:32.704 --> 00:43:37.919
+<v Hou, Eric>here so that you can do some prediction
+of what next ladder is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5372-0
+00:43:38.319 --> 00:43:42.759
+<v Hou, Eric>But you know,
+this is the moment I just teach.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5379-0
+00:43:43.149 --> 00:43:45.349
+<v Hou, Eric>AI the first ever letter H.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5393-0
+00:43:48.119 --> 00:43:53.479
+<v Hou, Eric>So and also this weight,
+AI didn't even know any pattern before.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5418-0
+00:43:53.679 --> 00:43:57.543
+<v Hou, Eric>So that's why this weights are random
+numbers,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5418-1
+00:43:57.543 --> 00:44:03.791
+<v Hou, Eric>so these predictions will be really non
+accurate and you can just call it a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5418-2
+00:44:03.791 --> 00:44:07.079
+<v Hou, Eric>nonsense because nothing AI has learned.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5432-0
+00:44:07.799 --> 00:44:11.159
+<v Hou, Eric>So then you applying softmax function.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5434-0
+00:44:11.439 --> 00:44:13.319
+<v Hou, Eric>A soft Max function is basically.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5441-0
+00:44:13.429 --> 00:44:18.469
+<v Hou, Eric>Transferring those numbers, arguably well,
+in fact those.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5479-0
+00:44:18.589 --> 00:44:23.559
+<v Hou, Eric>Those are random numbers into
+probabilities. As you can see,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5479-1
+00:44:23.559 --> 00:44:29.913
+<v Hou, Eric>just because those are random numbers,
+they sort of have the same probability</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5479-2
+00:44:29.913 --> 00:44:36.674
+<v Hou, Eric>and I just pick the biggest probability 1
+and so you can count is 1234 and then we</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5479-3
+00:44:36.674 --> 00:44:39.199
+<v Hou, Eric>have only four letters the 1st.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5489-0
+00:44:39.199 --> 00:44:42.949
+<v Hou, Eric>Letter is H, 2nd letter is E,
+3rd letter IS L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5494-0
+00:44:43.069 --> 00:44:45.389
+<v Hou, Eric>So that my prediction of next.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5499-0
+00:44:46.079 --> 00:44:48.239
+<v Hou, Eric>Letter coming after H will be.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5512-0
+00:44:48.669 --> 00:44:56.949
+<v Hou, Eric>L but you know this is extremely
+inaccurate prediction because.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5531-0
+00:44:58.679 --> 00:45:04.332
+<v Hou, Eric>AI just learned one letter,
+so you know it's not going to be accurate,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5531-1
+00:45:04.332 --> 00:45:06.959
+<v Hou, Eric>but let's just build a structure.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5536-0
+00:45:08.679 --> 00:45:10.199
+<v Hou, Eric>Let's just put the 2nd letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5548-0
+00:45:12.199 --> 00:45:18.559
+<v Hou, Eric>E as the input to AI. So right now,
+AI learned one letter now.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5556-0
+00:45:19.469 --> 00:45:22.629
+<v Hou, Eric>It never going to be nothing.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5566-0
+00:45:22.629 --> 00:45:28.029
+<v Hou, Eric>Zero knowledge base AI.
+At least it learn one letter H.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5574-0
+00:45:28.189 --> 00:45:32.189
+<v Hou, Eric>So that's why I'm using this new H in
+here.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5578-0
+00:45:33.719 --> 00:45:34.079
+<v Hou, Eric>AI learned.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5585-0
+00:45:34.079 --> 00:45:36.079
+<v Hou, Eric>One learner. Now I'm telling AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5598-0
+00:45:36.799 --> 00:45:43.999
+<v Hou, Eric>You know what you are going to learn a
+new letter that is E and you know what?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5605-0
+00:45:44.079 --> 00:45:47.119
+<v Hou, Eric>And you're learning a new pattern,
+that is HE.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5622-0
+00:45:48.319 --> 00:45:54.639
+<v Hou, Eric>O then I'm adding this information E and
+notice on this pattern to tell AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5624-0
+00:45:55.479 --> 00:45:57.359
+<v Hou, Eric>So then there's a new sum.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5637-0
+00:45:59.799 --> 00:46:02.479
+<v Hou, Eric>And then I still apply this hyperbolic
+tangent function on top of this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5645-0
+00:46:02.479 --> 00:46:06.959
+<v Hou, Eric>So this going to be the new knowledge
+base for that AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5658-0
+00:46:08.229 --> 00:46:10.629
+<v Hou, Eric>AI refresh the model, refresh your memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5664-0
+00:46:10.739 --> 00:46:12.219
+<v Hou, Eric>I have a new knowledge base.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5675-0
+00:46:12.839 --> 00:46:17.679
+<v Hou, Eric>So then I can predict the the 3rd letter
+coming after H of E.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5683-0
+00:46:18.479 --> 00:46:19.319
+<v Hou, Eric>H&amp;E.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5716-0
+00:46:19.879 --> 00:46:25.709
+<v Hou, Eric>So that is my next prediction and then
+and then this case is L and you gotta</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5716-1
+00:46:25.709 --> 00:46:30.328
+<v Hou, Eric>write prediction. However,
+you know it's a pure guess from a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5716-2
+00:46:30.328 --> 00:46:32.599
+<v Hou, Eric>probability. You'll know this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5724-0
+00:46:32.599 --> 00:46:35.159
+<v Hou, Eric>Those four numbers are around 25%.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5728-0
+00:46:35.159 --> 00:46:36.599
+<v Hou, Eric>This is evenly distributed.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5730-0
+00:46:36.879 --> 00:46:39.239
+<v Hou, Eric>We're lucky, it predicts L here.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5740-0
+00:46:40.739 --> 00:46:47.379
+<v Hou, Eric>So that you can build this Hel L for.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5743-0
+00:46:48.979 --> 00:46:49.299
+<v Hou, Eric>In this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5764-0
+00:46:49.729 --> 00:46:54.046
+<v Hou, Eric>Excel spreadsheet and keep going.
+You can have L&amp;L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5764-1
+00:46:54.046 --> 00:46:59.209
+<v Hou, Eric>You can have all based upon all those
+random weights you can have.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5798-0
+00:47:00.779 --> 00:47:06.628
+<v Hou, Eric>Entire structure set up,
+but you know I told you all the weights I</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5798-1
+00:47:06.628 --> 00:47:13.437
+<v Hou, Eric>did was I just chose random numbers
+because I don't want you want to show you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5798-2
+00:47:13.437 --> 00:47:15.619
+<v Hou, Eric>guys 0 vectors 0 results.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5801-0
+00:47:15.979 --> 00:47:17.659
+<v Hou, Eric>So that's why I chose random numbers.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5814-0
+00:47:18.469 --> 00:47:22.309
+<v Hou, Eric>So you may want to ask me, OK,
+those are random numbers.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5816-0
+00:47:22.309 --> 00:47:25.429
+<v Hou, Eric>How do I get those?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5845-0
+00:47:26.859 --> 00:47:33.505
+<v Hou, Eric>More accurate weight matrix or more
+accurate or optimize the process when I</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5845-1
+00:47:33.505 --> 00:47:40.499
+<v Hou, Eric>type L learn from all the information the
+AI can guess E as the letter after L.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5868-0
+00:47:41.779 --> 00:47:46.913
+<v Hou, Eric>So this is something we have learned
+before and can you guys tell me what is</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5868-1
+00:47:46.913 --> 00:47:49.979
+<v Hou, Eric>that process now we can optimize those
+waits?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5870-0
+00:47:50.099 --> 00:47:51.339
+<v Hou, Eric>There's a weight matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5872-0
+00:47:52.819 --> 00:47:53.459
+<v Hou, Eric>Weight matrices.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5875-0
+00:48:00.389 --> 00:48:00.949
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5899-0
+00:48:01.109 --> 00:48:07.349
+<v Hou, Eric>So the process we can do to optimize
+those on those weight matrices is called</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5899-1
+00:48:07.349 --> 00:48:11.109
+<v Hou, Eric>something we did last time a back
+propagation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5928-0
+00:48:11.149 --> 00:48:16.224
+<v Hou, Eric>I'm not going to do the back propagation
+in this case because this is very</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5928-1
+00:48:16.224 --> 00:48:21.231
+<v Hou, Eric>complicated, but eventually after you do,
+you apply the back propagation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5928-2
+00:48:21.231 --> 00:48:25.629
+<v Hou, Eric>In this example you will have this H of
+those 3 weight matrices.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5935-0
+00:48:26.379 --> 00:48:29.499
+<v Hou, Eric>Optimized so then with all different.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5950-0
+00:48:30.169 --> 00:48:34.649
+<v Hou, Eric>You you teach AI10 letters or teach AI100
+letters and AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5958-0
+00:48:34.649 --> 00:48:38.769
+<v Hou, Eric>Gotta getting this those matrices more
+and more accurate to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5973-0
+00:48:38.889 --> 00:48:45.569
+<v Hou, Eric>The human knowledge base by refreshing
+this H hidden function hidden layer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5995-0
+00:48:45.569 --> 00:48:51.100
+<v Hou, Eric>So then you got no AI got no the
+different patterns and different letters</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/5995-1
+00:48:51.100 --> 00:48:56.929
+<v Hou, Eric>and in their knowledge base based upon
+those those those those weight matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6007-0
+00:48:57.409 --> 00:49:03.769
+<v Hou, Eric>So that is how we trained the large
+language model based upon this RNN model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6011-0
+00:49:04.819 --> 00:49:04.979
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6016-0
+00:49:05.419 --> 00:49:07.939
+<v Hou, Eric>So one thing we have noticed that is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6032-0
+00:49:11.009 --> 00:49:17.009
+<v Hou, Eric>We have done this weight matrix multiply
+this one hard encoded vector.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6045-0
+00:49:17.409 --> 00:49:22.446
+<v Hou, Eric>What is one hard encoded vector?
+I told you guys. I say hey,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6045-1
+00:49:22.446 --> 00:49:23.849
+<v Hou, Eric>each is a vector.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6048-0
+00:49:23.849 --> 00:49:26.649
+<v Hou, Eric>There's only one one in that vector.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6056-0
+00:49:28.139 --> 00:49:29.099
+<v Hou, Eric>And E is another vector.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6073-0
+00:49:29.099 --> 00:49:33.562
+<v Hou, Eric>There's only one one in that vector,
+and then you know,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6073-1
+00:49:33.562 --> 00:49:39.219
+<v Hou, Eric>this is like identity matrix.
+If you still remember, you know algebra.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6090-0
+00:49:39.769 --> 00:49:44.729
+<v Hou, Eric>So then this is called one hot encoded or
+one hot encoding.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6099-0
+00:49:45.329 --> 00:49:50.689
+<v Hou, Eric>You see one thing we got this matrix as a
+weight matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6137-0
+00:49:52.179 --> 00:49:58.276
+<v Hou, Eric>Multiply this one hot encoded vector.
+I'm using H as example letter H as</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6137-1
+00:49:58.276 --> 00:50:02.535
+<v Hou, Eric>example. OK,
+so then this matrix multiply and this</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6137-2
+00:50:02.535 --> 00:50:06.209
+<v Hou, Eric>matrix.
+So if you still remember the matrix</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6137-3
+00:50:06.209 --> 00:50:09.299
+<v Hou, Eric>multiplication, now be the first row.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6165-0
+00:50:10.789 --> 00:50:16.877
+<v Hou, Eric>Multiplying this column and that will be .
+1331 multiplied one and all the three</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6165-1
+00:50:16.877 --> 00:50:22.589
+<v Hou, Eric>numbers multiply zeros and then you add
+them together. That's why you have.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6196-0
+00:50:24.099 --> 00:50:28.984
+<v Hou, Eric>1331 here.
+And then you move to the second row,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6196-1
+00:50:28.984 --> 00:50:34.581
+<v Hou, Eric>you have a -, .
+09 and those numbers multiply 1000 and</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6196-2
+00:50:34.581 --> 00:50:36.819
+<v Hou, Eric>then you have the 1st.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6220-0
+00:50:38.579 --> 00:50:46.422
+<v Hou, Eric>First number -.0906 and you keep going.
+You pretty much you have the one at the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6220-1
+00:50:46.422 --> 00:50:52.499
+<v Hou, Eric>leading number. You have the 1st row.
+If you are multiplying.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6246-0
+00:50:54.019 --> 00:50:58.987
+<v Hou, Eric>0100 for example,
+the 2nd letter E You will end up having</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6246-1
+00:50:58.987 --> 00:51:05.667
+<v Hou, Eric>the second column of this weight matrix.
+If you multiply the 3rd letter 0010,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6246-2
+00:51:05.667 --> 00:51:07.379
+<v Hou, Eric>which is the letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6257-0
+00:51:07.729 --> 00:51:11.494
+<v Hou, Eric>No,
+you end up with the the third column from</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6257-1
+00:51:11.494 --> 00:51:13.049
+<v Hou, Eric>this weight matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6285-0
+00:51:14.579 --> 00:51:19.122
+<v Hou, Eric>So we multiply the matrix to the one hard
+encoded vector here,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6285-1
+00:51:19.122 --> 00:51:23.664
+<v Hou, Eric>and then we will just basically have the
+first, second, third,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6285-2
+00:51:23.664 --> 00:51:25.899
+<v Hou, Eric>fourth column from this matrix.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6305-0
+00:51:27.819 --> 00:51:30.995
+<v Hou, Eric>So this,
+weigh the matrix and then those columns</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6305-1
+00:51:30.995 --> 00:51:35.919
+<v Hou, Eric>of numbers is actually something we
+called in the large langu career model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6305-2
+00:51:35.919 --> 00:51:37.539
+<v Hou, Eric>That is something called.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6308-0
+00:51:37.969 --> 00:51:38.969
+<v Hou, Eric>Embody.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6310-0
+00:51:39.929 --> 00:51:40.449
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6364-0
+00:51:41.939 --> 00:51:48.076
+<v Hou, Eric>The embedding is coming from the weights
+from RNN model or different models,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6364-1
+00:51:48.076 --> 00:51:53.018
+<v Hou, Eric>but definitely newer network models that
+is called embedding.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6364-2
+00:51:53.018 --> 00:51:58.836
+<v Hou, Eric>So that is why in in in the large
+language model we we do not use A1 hub</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6364-3
+00:51:58.836 --> 00:52:03.299
+<v Hou, Eric>encoding vectors.
+We use the embedding from the weight.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6373-0
+00:52:03.379 --> 00:52:06.499
+<v Hou, Eric>Like this we use for weights so.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6380-0
+00:52:07.979 --> 00:52:10.939
+<v Hou, Eric>What does this embedding vector mean?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6392-0
+00:52:11.609 --> 00:52:14.209
+<v Hou, Eric>What kind of information does it include?
+OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6400-0
+00:52:14.209 --> 00:52:18.540
+<v Hou, Eric>Remember,
+it does include information about what</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6400-1
+00:52:18.540 --> 00:52:19.689
+<v Hou, Eric>letter it is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6406-0
+00:52:20.009 --> 00:52:22.889
+<v Hou, Eric>It does include a pattern.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6410-0
+00:52:22.889 --> 00:52:24.929
+<v Hou, Eric>For example, I have AE.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6420-0
+00:52:24.929 --> 00:52:30.209
+<v Hou, Eric>Eventually,
+I teach the AI to learn the pattern of he.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6426-0
+00:52:30.609 --> 00:52:33.329
+<v Hou, Eric>So then this matrix will be totally
+different.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6435-0
+00:52:33.369 --> 00:52:37.641
+<v Hou, Eric>Then this matrix will be a really
+optimized matrix with all different</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6435-1
+00:52:37.641 --> 00:52:38.129
+<v Hou, Eric>pattern.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6440-0
+00:52:38.779 --> 00:52:40.619
+<v Hou, Eric>Recognized so then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6485-0
+00:52:40.849 --> 00:52:48.172
+<v Hou, Eric>Associate with each letter E in this
+matrix multiplication I already have that</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6485-1
+00:52:48.172 --> 00:52:55.587
+<v Hou, Eric>pattern being being considered and also I
+do have something if I can generalize</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6485-2
+00:52:55.587 --> 00:53:00.684
+<v Hou, Eric>this function to not only letters but
+different words,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6485-3
+00:53:00.684 --> 00:53:05.689
+<v Hou, Eric>so that I am really gonna have similar
+meanings here.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6494-0
+00:53:06.459 --> 00:53:10.859
+<v Hou, Eric>For example, I'm teaching AI how to spell.
+Eventually you can.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6504-0
+00:53:11.369 --> 00:53:14.929
+<v Hou, Eric>You know how to spell. You can have you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6520-0
+00:53:14.929 --> 00:53:22.009
+<v Hou, Eric>You can also do the similar thing to
+words you teach AI how to read.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6524-0
+00:53:22.089 --> 00:53:22.929
+<v Hou, Eric>You teach AI.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6525-0
+00:53:23.129 --> 00:53:25.409
+<v Hou, Eric>How to tell?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6531-0
+00:53:25.529 --> 00:53:27.769
+<v Hou, Eric>So then you still can use this one.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6538-0
+00:53:27.769 --> 00:53:31.649
+<v Hou, Eric>How embedding kind of way to start with
+you can say.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6548-0
+00:53:33.099 --> 00:53:34.459
+<v Hou, Eric>A as a as a letter I.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6558-0
+00:53:34.819 --> 00:53:39.619
+<v Hou, Eric>I call it A-1000 or a as a word.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6562-0
+00:53:39.819 --> 00:53:41.979
+<v Hou, Eric>I still give it 100.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6569-0
+00:53:42.409 --> 00:53:44.769
+<v Hou, Eric>Zero as A1 hard encoded vector.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6576-0
+00:53:46.299 --> 00:53:48.139
+<v Hou, Eric>And a banana or N.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6584-0
+00:53:48.859 --> 00:53:52.699
+<v Hou, Eric>Banana or an apple so that I can call
+Apple.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6600-0
+00:53:52.779 --> 00:53:59.059
+<v Hou, Eric>I give Apple 11 hot encoding vector as a
+0100 and banana.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6605-0
+00:53:59.059 --> 00:54:03.139
+<v Hou, Eric>I gave a banana as a 0010.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6626-0
+00:54:03.139 --> 00:54:09.603
+<v Hou, Eric>I just could do this one Hal encoding to
+to different words and in fact what I did</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6626-1
+00:54:09.603 --> 00:54:13.419
+<v Hou, Eric>and different words I still can run this
+entire.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6630-0
+00:54:13.689 --> 00:54:13.809
+<v Hou, Eric>RNN.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6642-0
+00:54:13.809 --> 00:54:18.809
+<v Hou, Eric>Kind of function to predict the network
+word instead of next letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6655-0
+00:54:18.809 --> 00:54:23.569
+<v Hou, Eric>So then my matrix will be associated with
+every single word.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6685-0
+00:54:23.889 --> 00:54:30.335
+<v Hou, Eric>So then I will eventually from the weight
+I will learn the patterns of how humans</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6685-1
+00:54:30.335 --> 00:54:36.938
+<v Hou, Eric>are creating different sentences and then
+why people are using Apple here and Apple</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6685-2
+00:54:36.938 --> 00:54:37.409
+<v Hou, Eric>there.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6690-0
+00:54:37.409 --> 00:54:39.849
+<v Hou, Eric>So then why Apple can represent a fruit?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6698-0
+00:54:40.619 --> 00:54:43.099
+<v Hou, Eric>And Apple can represent a brand so so.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6703-0
+00:54:43.489 --> 00:54:44.569
+<v Hou, Eric>Different kind of things.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6724-0
+00:54:44.729 --> 00:54:50.202
+<v Hou, Eric>You will see Apple will have some similar
+ways to Banana and Apple also have a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6724-1
+00:54:50.202 --> 00:54:53.874
+<v Hou, Eric>similar way to,
+for example Dell as another computer</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6724-2
+00:54:53.874 --> 00:54:54.289
+<v Hou, Eric>brand.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6727-0
+00:54:55.859 --> 00:54:56.259
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6766-0
+00:54:56.259 --> 00:55:02.422
+<v Hou, Eric>So this is this is a really the the
+embedding concept we talk in the in the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6766-1
+00:55:02.422 --> 00:55:08.504
+<v Hou, Eric>AI and then this and you know the
+embedding is is 1000 is a vector of 1000</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6766-2
+00:55:08.504 --> 00:55:11.099
+<v Hou, Eric>input and this is really a four.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6772-0
+00:55:11.099 --> 00:55:13.619
+<v Hou, Eric>That's because we have only 26 letter.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6792-0
+00:55:13.929 --> 00:55:16.775
+<v Hou, Eric>And then and then in this example we just
+use 4 letters,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6792-1
+00:55:16.775 --> 00:55:19.969
+<v Hou, Eric>but for words that you have so many words
+in English languages.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6837-0
+00:55:19.969 --> 00:55:25.057
+<v Hou, Eric>So that's why this matrix and can be huge
+and that's why another computation</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6837-1
+00:55:25.057 --> 00:55:30.607
+<v Hou, Eric>computational limitation here in training
+large anchor model is you know you have a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6837-2
+00:55:30.607 --> 00:55:35.430
+<v Hou, Eric>huge matrix you are dealing with a matrix
+multiplication and that's how.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6837-3
+00:55:35.430 --> 00:55:39.129
+<v Hou, Eric>That's just basically really
+computationally expensive.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6840-0
+00:55:39.519 --> 00:55:39.919
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6857-0
+00:55:41.159 --> 00:55:45.505
+<v Hou, Eric>This is really the embedding,
+and we're gonna review this next week.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6857-1
+00:55:45.505 --> 00:55:49.032
+<v Hou, Eric>But you know,
+this is really where those embeddings are</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6857-2
+00:55:49.032 --> 00:55:50.039
+<v Hou, Eric>coming from, OK?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6864-0
+00:55:52.789 --> 00:55:55.949
+<v Hou, Eric>So everything I just covered is
+conceptually.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6884-0
+00:55:57.459 --> 00:56:03.571
+<v Hou, Eric>About RNN, if you wanna remember RN,
+what RN is doing is it's really the early</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6884-1
+00:56:03.571 --> 00:56:05.659
+<v Hou, Eric>stage large language model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6888-0
+00:56:05.659 --> 00:56:06.379
+<v Hou, Eric>You can do a lot of things.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6900-0
+00:56:06.459 --> 00:56:13.114
+<v Hou, Eric>You can solve a lot of problems when
+information is coming in as sequentially,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6900-1
+00:56:13.114 --> 00:56:13.619
+<v Hou, Eric>right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6919-0
+00:56:13.619 --> 00:56:18.470
+<v Hou, Eric>So then you can take it into account
+historical information from a sentence</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6919-1
+00:56:18.470 --> 00:56:21.979
+<v Hou, Eric>from a time series,
+from information how you captured.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6943-0
+00:56:22.289 --> 00:56:28.929
+<v Hou, Eric>And to conclude something that you gonna
+you gonna use as outcome or you gonna use</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6943-1
+00:56:28.929 --> 00:56:31.969
+<v Hou, Eric>as output or feedback to the use case.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6952-0
+00:56:31.969 --> 00:56:34.409
+<v Hou, Eric>So that is what already is solving.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6977-0
+00:56:34.409 --> 00:56:38.034
+<v Hou, Eric>And now RA definitely is not a perfect
+example,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6977-1
+00:56:38.034 --> 00:56:44.074
+<v Hou, Eric>because the real drawback of RNN is is
+here I can tell you is all the different</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6977-2
+00:56:44.074 --> 00:56:47.169
+<v Hou, Eric>steps are using the same weight. So then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6984-0
+00:56:47.899 --> 00:56:49.459
+<v Hou, Eric>You gonna call issue?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6986-0
+00:56:49.459 --> 00:56:51.339
+<v Hou, Eric>Call that vanishing gradient.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/6996-0
+00:56:51.769 --> 00:56:54.129
+<v Hou, Eric>Issue in fact propagation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7034-0
+00:56:54.329 --> 00:57:00.235
+<v Hou, Eric>That's something we will not cover in
+this class. Just so you aware,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7034-1
+00:57:00.235 --> 00:57:04.429
+<v Hou, Eric>RNN is definitely not the perfect perfect
+model,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7034-2
+00:57:04.429 --> 00:57:10.248
+<v Hou, Eric>but our in definitely open doors AI doors
+for for, for human being.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7034-3
+00:57:10.248 --> 00:57:13.329
+<v Hou, Eric>That's why we make so much progress.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7038-0
+00:57:14.899 --> 00:57:15.739
+<v Hou, Eric>Up on top of RNN.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7050-0
+00:57:16.689 --> 00:57:23.689
+<v Hou, Eric>The next one we we learn is the long
+short term memory LSTM.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7065-0
+00:57:24.929 --> 00:57:31.777
+<v Hou, Eric>So this is another one more step.
+We build AI for machine learning,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7065-1
+00:57:31.777 --> 00:57:33.489
+<v Hou, Eric>more human alike.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7072-0
+00:57:33.809 --> 00:57:36.129
+<v Hou, Eric>OK, let me give you an example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7073-0
+00:57:36.889 --> 00:57:37.809
+<v Hou, Eric>We just built.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7080-0
+00:57:37.849 --> 00:57:40.369
+<v Hou, Eric>We just we just learning through this
+example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7088-0
+00:57:41.859 --> 00:57:45.259
+<v Hou, Eric>Say you are in a math class.
+You're learning algebra.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7106-0
+00:57:46.459 --> 00:57:49.373
+<v Hou, Eric>Right,
+so now your teacher is giving you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7106-1
+00:57:49.373 --> 00:57:53.779
+<v Hou, Eric>different problems every single week
+because you're learning.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7107-0
+00:57:53.819 --> 00:57:54.939
+<v Hou, Eric>You're learning, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7109-0
+00:57:54.939 --> 00:57:56.019
+<v Hou, Eric>So then you're learning from.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7127-0
+00:57:57.779 --> 00:58:04.739
+<v Hou, Eric>Where basic algebra rules to even more
+and more difficult algebra rules, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7145-0
+00:58:04.739 --> 00:58:11.697
+<v Hou, Eric>So then let's say the first week one you
+learn how to solve basic equation like X</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7145-1
+00:58:11.697 --> 00:58:13.139
+<v Hou, Eric>+ 3 = 7 and then.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7152-0
+00:58:14.779 --> 00:58:16.939
+<v Hou, Eric>You, you, you, you definitely learn that.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7165-0
+00:58:17.249 --> 00:58:21.329
+<v Hou, Eric>Maybe your first week is actually
+learning what equation looks like, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7177-0
+00:58:21.449 --> 00:58:25.973
+<v Hou, Eric>So then you you learn how to solve
+equation with variables on two sides for</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7177-1
+00:58:25.973 --> 00:58:26.449
+<v Hou, Eric>example.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7188-0
+00:58:26.529 --> 00:58:30.649
+<v Hou, Eric>Xbox 3 = 7 -, 2 X, right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7206-0
+00:58:30.649 --> 00:58:34.639
+<v Hou, Eric>So you learn that and then and then the
+six on week six,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7206-1
+00:58:34.639 --> 00:58:38.489
+<v Hou, Eric>you may be learning like a system of
+equations, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7213-0
+00:58:38.489 --> 00:58:40.849
+<v Hou, Eric>So then you want to solve a system of
+equations.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7226-0
+00:58:41.329 --> 00:58:47.889
+<v Hou, Eric>So then every single time moving forward,
+you need to remember like all the rules.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7236-0
+00:58:49.379 --> 00:58:52.259
+<v Hou, Eric>But you do not need to remember all the
+examples.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7246-0
+00:58:52.419 --> 00:58:56.486
+<v Hou, Eric>Maybe. Well, you know,
+technically you can remember maybe one or</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7246-1
+00:58:56.486 --> 00:58:57.299
+<v Hou, Eric>two examples.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7271-0
+00:58:58.089 --> 00:59:03.510
+<v Hou, Eric>But teacher gonna gonna give you
+definitely more than one or two examples</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7271-1
+00:59:03.510 --> 00:59:07.831
+<v Hou, Eric>including homework.
+And then for every single rule you may</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7271-2
+00:59:07.831 --> 00:59:09.369
+<v Hou, Eric>end up with 12 or 10.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7296-0
+00:59:10.859 --> 00:59:17.526
+<v Hou, Eric>Examples you just need to remember 1
+representing 1 and you definitely need to</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7296-1
+00:59:17.526 --> 00:59:23.179
+<v Hou, Eric>remember all the rules so that is how we
+memorize a lot of things.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7304-0
+00:59:23.299 --> 00:59:25.685
+<v Hou, Eric>So for example,
+like in the very last week,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7304-1
+00:59:25.685 --> 00:59:27.419
+<v Hou, Eric>you prepare for your final exam.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7315-0
+00:59:28.099 --> 00:59:31.179
+<v Hou, Eric>You need to recall what you have learned
+from Week 1.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7322-0
+00:59:32.289 --> 00:59:33.689
+<v Hou, Eric>You you, you do.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7325-0
+00:59:33.689 --> 00:59:37.049
+<v Hou, Eric>You reread your your slides again.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7328-0
+00:59:37.049 --> 00:59:38.209
+<v Hou, Eric>Reread your note.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7354-0
+00:59:38.329 --> 00:59:43.947
+<v Hou, Eric>You catch, you catch up your, your memory,
+you you will do something like this is</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7354-1
+00:59:43.947 --> 00:59:48.879
+<v Hou, Eric>something I need to remember.
+And this is something that's not going to</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7354-2
+00:59:48.879 --> 00:59:49.769
+<v Hou, Eric>be important.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7367-0
+00:59:49.969 --> 00:59:55.649
+<v Hou, Eric>I decide to forget and there's definitely
+something that happened to in in Week 1.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7369-0
+00:59:55.649 --> 00:59:57.489
+<v Hou, Eric>For example, which restaurant you went to?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7380-0
+00:59:58.259 --> 00:59:59.819
+<v Hou, Eric>And and which place you went to?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7385-0
+00:59:59.819 --> 01:00:02.339
+<v Hou, Eric>What kind of movie you did and you you
+watched.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7399-0
+01:00:02.769 --> 01:00:07.179
+<v Hou, Eric>But those are the information has no
+relationship to your final exam,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7399-1
+01:00:07.179 --> 01:00:07.809
+<v Hou, Eric>hopefully.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7407-0
+01:00:08.369 --> 01:00:10.889
+<v Hou, Eric>So now you decide to forgot, I understand.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7423-0
+01:00:10.929 --> 01:00:15.194
+<v Hou, Eric>You decide to forgive strong because
+usually human cannot decide to remember</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7423-1
+01:00:15.194 --> 01:00:16.689
+<v Hou, Eric>or forgets a lot of things.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7430-0
+01:00:16.689 --> 01:00:20.889
+<v Hou, Eric>But let's say you're you're.
+I'm just mimicking like we are we're.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7440-0
+01:00:22.339 --> 01:00:23.979
+<v Hou, Eric>Our brains are working ideally, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7444-0
+01:00:23.979 --> 01:00:25.379
+<v Hou, Eric>So then you decide to forgot.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7457-0
+01:00:27.089 --> 01:00:31.689
+<v Hou, Eric>You decide to remember something,
+and then you, you, you, you move to umm.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7469-0
+01:00:31.929 --> 01:00:38.209
+<v Hou, Eric>You moved to week two or notes you decide
+to add something to the memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7477-0
+01:00:38.279 --> 01:00:43.319
+<v Hou, Eric>You catch up from week one.
+You want to add something.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7497-0
+01:00:44.889 --> 01:00:50.531
+<v Hou, Eric>Something new in week two to that memory,
+and then you want to forget something</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7497-1
+01:00:50.531 --> 01:00:51.729
+<v Hou, Eric>happen in Week 2.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7508-0
+01:00:52.169 --> 01:00:55.929
+<v Hou, Eric>This is how you keep going from week one,
+week two, week three-week 4.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7514-0
+01:00:55.929 --> 01:00:56.849
+<v Hou, Eric>Blah blah blah.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7525-0
+01:00:57.209 --> 01:01:01.729
+<v Hou, Eric>The most recent week you get yourself
+prepared for your final exam.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7530-0
+01:01:03.329 --> 01:01:04.969
+<v Hou, Eric>That's exactly what humans are doing.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7536-0
+01:01:06.479 --> 01:01:08.199
+<v Hou, Eric>I decide what to remember.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7539-0
+01:01:08.439 --> 01:01:10.759
+<v Hou, Eric>I decide what to forget.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7540-0
+01:01:11.119 --> 01:01:12.159
+<v Hou, Eric>I decide.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7560-0
+01:01:13.569 --> 01:01:18.252
+<v Hou, Eric>What's new?
+I need to remember every single time you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7560-1
+01:01:18.252 --> 01:01:23.729
+<v Hou, Eric>just do all those three tasks and that is
+what LSTM is doing.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7569-0
+01:01:25.529 --> 01:01:28.649
+<v Hou, Eric>It's going to be really complex structure.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7574-0
+01:01:28.889 --> 01:01:31.849
+<v Hou, Eric>You don't have to remember it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7578-0
+01:01:31.849 --> 01:01:34.729
+<v Hou, Eric>I can just tell you this C.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7580-0
+01:01:35.699 --> 01:01:37.259
+<v Hou, Eric>It's long term memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7596-0
+01:01:38.849 --> 01:01:44.232
+<v Hou, Eric>Meaning something you when you review for
+your final exam,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7596-1
+01:01:44.232 --> 01:01:46.969
+<v Hou, Eric>you need to keep in your mind.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7611-0
+01:01:48.729 --> 01:01:51.635
+<v Hou, Eric>OK.
+And then whenever there's a problem about</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7611-1
+01:01:51.635 --> 01:01:54.224
+<v Hou, Eric>that,
+you need to know how to solve that</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7611-2
+01:01:54.224 --> 01:01:54.729
+<v Hou, Eric>problem.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7627-0
+01:01:54.769 --> 01:01:59.399
+<v Hou, Eric>It's a long term memory, OK,
+and every single you once you review</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7627-1
+01:01:59.399 --> 01:02:04.169
+<v Hou, Eric>every single week you have that weak
+slide, you have something new.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7638-0
+01:02:05.119 --> 01:02:07.119
+<v Hou, Eric>You have something new coming to your
+mind.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7641-0
+01:02:07.639 --> 01:02:10.959
+<v Hou, Eric>You need to decide whether or not.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7651-0
+01:02:12.449 --> 01:02:16.529
+<v Hou, Eric>You want to forgot,
+so this is a forgott gate meaning.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7659-0
+01:02:18.129 --> 01:02:21.849
+<v Hou, Eric>For that week's note or whatever happened
+to the Week 2.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7667-0
+01:02:24.209 --> 01:02:27.089
+<v Hou, Eric>I decide not to remember which restaurant
+I went to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7684-0
+01:02:28.809 --> 01:02:34.689
+<v Hou, Eric>I decide this piece of those examples has
+no relationship, is really useless.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7686-0
+01:02:34.729 --> 01:02:36.089
+<v Hou, Eric>I decide to forgot.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7704-0
+01:02:36.799 --> 01:02:41.319
+<v Hou, Eric>So you made those decision to forget a
+lot of things happened in Week 2.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7718-0
+01:02:41.919 --> 01:02:47.994
+<v Hou, Eric>That means you're not adding those piece
+of memory to your long term memory in</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7718-1
+01:02:47.994 --> 01:02:50.839
+<v Hou, Eric>order to prepare for your final exam.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7730-0
+01:02:52.329 --> 01:02:56.729
+<v Hou, Eric>You made that decision 1st and that is
+what called for GAT Gate.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7735-0
+01:02:58.919 --> 01:03:00.519
+<v Hou, Eric>And input data is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7738-0
+01:03:02.889 --> 01:03:03.329
+<v Hou, Eric>In Week 2.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7754-0
+01:03:04.969 --> 01:03:12.489
+<v Hou, Eric>I learned something that is new compared
+to week one. I needed to decide.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7764-0
+01:03:14.409 --> 01:03:15.969
+<v Hou, Eric>What is a portion of that new?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7767-0
+01:03:15.969 --> 01:03:18.689
+<v Hou, Eric>I need to keep memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7785-0
+01:03:19.289 --> 01:03:23.495
+<v Hou, Eric>For example,
+you learn the role that if you have two</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7785-1
+01:03:23.495 --> 01:03:29.049
+<v Hou, Eric>X&amp;X on both sides of equation,
+you need to move one of those two.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7821-0
+01:03:29.639 --> 01:03:34.754
+<v Hou, Eric>To the same sign,
+and you need to change the sign of that</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7821-1
+01:03:34.754 --> 01:03:40.399
+<v Hou, Eric>of that component and moving one from one
+side to another side.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7821-2
+01:03:40.399 --> 01:03:45.337
+<v Hou, Eric>That is a rule you want to memorize that
+rule. However,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7821-3
+01:03:45.337 --> 01:03:48.159
+<v Hou, Eric>there is going to be 5 examples.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7833-0
+01:03:48.159 --> 01:03:54.506
+<v Hou, Eric>You tried moving one variable from one
+side to another side and those five</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7833-1
+01:03:54.506 --> 01:03:56.959
+<v Hou, Eric>examples you may not want to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7835-0
+01:03:57.729 --> 01:03:57.889
+<v Hou, Eric>Keep.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7843-0
+01:03:58.739 --> 01:04:01.259
+<v Hou, Eric>So then you say, OK, I keep.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7853-0
+01:04:02.729 --> 01:04:06.489
+<v Hou, Eric>50% of the new things I learn OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7855-0
+01:04:08.129 --> 01:04:08.689
+<v Hou, Eric>That is the input.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7862-0
+01:04:10.199 --> 01:04:13.639
+<v Hou, Eric>An output is OK, there's something that.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7898-0
+01:04:16.089 --> 01:04:20.576
+<v Hou, Eric>There was something that I'm doing some
+of the exercise and then I just wanna say,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7898-1
+01:04:20.576 --> 01:04:22.954
+<v Hou, Eric>hey,
+there's a short term memory and then I</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7898-2
+01:04:22.954 --> 01:04:26.792
+<v Hou, Eric>just don't want to keep it going.
+But I just wanna keep in pending and</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7898-3
+01:04:26.792 --> 01:04:30.089
+<v Hou, Eric>whether or not there's something that I
+will immediately do.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7917-0
+01:04:30.089 --> 01:04:34.592
+<v Hou, Eric>It immediately use it and then for
+example, I'm just.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7917-1
+01:04:34.592 --> 01:04:37.009
+<v Hou, Eric>I'm just doing some exercise.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7924-0
+01:04:37.049 --> 01:04:40.431
+<v Hou, Eric>That,
+and the teacher assigned to me in the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7924-1
+01:04:40.431 --> 01:04:40.969
+<v Hou, Eric>Week 2.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7928-0
+01:04:40.969 --> 01:04:42.129
+<v Hou, Eric>I'm just warming up.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7936-0
+01:04:42.129 --> 01:04:45.929
+<v Hou, Eric>So then I just wanna use that kind of
+immediate knowledge.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7947-0
+01:04:46.039 --> 01:04:48.599
+<v Hou, Eric>So then I just wanna keep that kind of
+information.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7972-0
+01:04:48.599 --> 01:04:53.955
+<v Hou, Eric>So then this is some like a short term
+memory you wanna keep and then just</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7972-1
+01:04:53.955 --> 01:04:58.239
+<v Hou, Eric>specifically for that for those.
+Umm uh practice questions.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7981-0
+01:04:58.479 --> 01:05:02.519
+<v Hou, Eric>So then you can keep refreshing that
+short term memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7989-0
+01:05:02.599 --> 01:05:04.119
+<v Hou, Eric>Maybe you move to 3rd week.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7990-0
+01:05:04.119 --> 01:05:05.199
+<v Hou, Eric>You wanna warm up?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/7995-0
+01:05:05.199 --> 01:05:07.679
+<v Hou, Eric>You can throw out you can you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8005-0
+01:05:07.679 --> 01:05:12.199
+<v Hou, Eric>Can you can delete all the short memory
+you had for the second week?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8014-0
+01:05:12.969 --> 01:05:16.089
+<v Hou, Eric>Practice problems, but keep adding.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8030-0
+01:05:16.479 --> 01:05:20.768
+<v Hou, Eric>The long term memory for your final exam
+because you're you're trying to warm up</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8030-1
+01:05:20.768 --> 01:05:21.879
+<v Hou, Eric>through week by week.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8046-0
+01:05:21.879 --> 01:05:27.853
+<v Hou, Eric>So this is really like the long short
+term memory kind of structure. OK,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8046-1
+01:05:27.853 --> 01:05:30.799
+<v Hou, Eric>so back to the large language model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8065-0
+01:05:32.289 --> 01:05:37.518
+<v Hou, Eric>So you know,
+people tell you a long presentation like</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8065-1
+01:05:37.518 --> 01:05:40.809
+<v Hou, Eric>you guys heard Sam's presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8074-0
+01:05:42.489 --> 01:05:45.929
+<v Hou, Eric>Every single time he present sentence by
+sentence.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8087-0
+01:05:46.399 --> 01:05:51.159
+<v Hou, Eric>Every single new sentence he could be
+saying, hey, we build a tool.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8096-0
+01:05:51.519 --> 01:05:56.279
+<v Hou, Eric>We we we consider ROI we build a product.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8101-0
+01:05:56.279 --> 01:05:58.359
+<v Hou, Eric>We deal with some use cases.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8108-0
+01:05:58.559 --> 01:06:01.319
+<v Hou, Eric>And you know what?
+Those are the long term memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8112-0
+01:06:01.319 --> 01:06:03.079
+<v Hou, Eric>I still remember right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8115-0
+01:06:03.319 --> 01:06:04.919
+<v Hou, Eric>And then every however.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8119-0
+01:06:06.449 --> 01:06:07.049
+<v Hou, Eric>Sam said.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8142-0
+01:06:07.689 --> 01:06:11.588
+<v Hou, Eric>Definitely more than 100 sentences in an
+hour, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8142-1
+01:06:11.588 --> 01:06:16.715
+<v Hou, Eric>So then there is a lot of things.
+Everything you know at the moment we</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8142-2
+01:06:16.715 --> 01:06:19.169
+<v Hou, Eric>decide. OK. I just need to forget.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8147-0
+01:06:19.839 --> 01:06:22.769
+<v Hou, Eric>I mean I this makes sense.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8153-0
+01:06:22.769 --> 01:06:23.599
+<v Hou, Eric>I keep in a short memory.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8156-0
+01:06:24.359 --> 01:06:25.519
+<v Hou, Eric>I heard the next sentence.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8173-0
+01:06:25.759 --> 01:06:29.993
+<v Hou, Eric>Oh, I deleted it. Or you know,
+this sentence is just basically talking</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8173-1
+01:06:29.993 --> 01:06:32.079
+<v Hou, Eric>about his history, not my interest.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8177-0
+01:06:32.159 --> 01:06:33.199
+<v Hou, Eric>I decide to forget.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8194-0
+01:06:33.599 --> 01:06:37.620
+<v Hou, Eric>So every single person,
+every single person,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8194-1
+01:06:37.620 --> 01:06:43.159
+<v Hou, Eric>has your own long term memory.
+If you ask yourself, OK, what?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8195-0
+01:06:43.199 --> 01:06:44.439
+<v Hou, Eric>What did I hear from?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8204-0
+01:06:45.649 --> 01:06:47.769
+<v Hou, Eric>Sam's presentation, that is your CT.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8207-0
+01:06:49.649 --> 01:06:50.449
+<v Hou, Eric>On top of it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8227-0
+01:06:52.089 --> 01:06:57.299
+<v Hou, Eric>And every single time you feel well,
+it doesn't make sense or I don't like it</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8227-1
+01:06:57.299 --> 01:06:59.369
+<v Hou, Eric>or you know why it makes sense.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8239-0
+01:06:59.369 --> 01:07:03.782
+<v Hou, Eric>Let's hear.
+Those are the decisions your brain</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8239-1
+01:07:03.782 --> 01:07:08.289
+<v Hou, Eric>automatically made for you through those
+gates.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8243-0
+01:07:09.009 --> 01:07:09.969
+<v Hou, Eric>Should I forget?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8248-0
+01:07:10.649 --> 01:07:11.929
+<v Hou, Eric>Should I remember?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8257-0
+01:07:12.609 --> 01:07:17.289
+<v Hou, Eric>How much should I remember and how much
+should I just keep in pending?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8266-0
+01:07:18.209 --> 01:07:21.329
+<v Hou, Eric>And eventually I just throw it or or or
+add it to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8281-0
+01:07:21.719 --> 01:07:28.369
+<v Hou, Eric>To the to to the long term memory.
+That four decision your brain did it for</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8281-1
+01:07:28.369 --> 01:07:28.719
+<v Hou, Eric>you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8285-0
+01:07:28.719 --> 01:07:30.199
+<v Hou, Eric>And you do not even know it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8295-0
+01:07:30.639 --> 01:07:35.479
+<v Hou, Eric>And in the end, like when I ask you guys,
+what's your feedback?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8319-0
+01:07:35.839 --> 01:07:38.767
+<v Hou, Eric>You know,
+some of your folks already have some</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8319-1
+01:07:38.767 --> 01:07:43.562
+<v Hou, Eric>feedback and that is your long term
+memory and you use your long term memory</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8319-2
+01:07:43.562 --> 01:07:45.679
+<v Hou, Eric>and and you you have some outputs.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8328-0
+01:07:46.929 --> 01:07:51.969
+<v Hou, Eric>Function and and you you run the RNN you
+generate your answer.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8344-0
+01:07:52.679 --> 01:07:58.547
+<v Hou, Eric>And and you use your your your you use
+output a device called mouth and you</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8344-1
+01:07:58.547 --> 01:07:59.319
+<v Hou, Eric>speed out.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8357-0
+01:07:59.479 --> 01:08:03.719
+<v Hou, Eric>This is the entire process of a human as
+a code on call machine.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8376-0
+01:08:03.719 --> 01:08:08.354
+<v Hou, Eric>How your brain is working with your
+different parts of your body and give the</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8376-1
+01:08:08.354 --> 01:08:11.799
+<v Hou, Eric>answer to make sure all the other humans
+will understand.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8378-0
+01:08:13.399 --> 01:08:13.719
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8383-0
+01:08:13.719 --> 01:08:15.519
+<v Hou, Eric>So this is the entire process.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8393-0
+01:08:15.839 --> 01:08:20.959
+<v Hou, Eric>It's just right now it's getting this
+algorithm getting more and more close.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8417-0
+01:08:21.039 --> 01:08:26.285
+<v Hou, Eric>It's definitely much closer than human
+than all the other algorithm we learned</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8417-1
+01:08:26.285 --> 01:08:29.472
+<v Hou, Eric>before,
+because it can even mimic how to forget</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8417-2
+01:08:29.472 --> 01:08:30.999
+<v Hou, Eric>and how to remember OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8426-0
+01:08:31.599 --> 01:08:36.591
+<v Hou, Eric>Later on, we build another.
+If you feel this is a really complex</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8426-1
+01:08:36.591 --> 01:08:37.359
+<v Hou, Eric>structure.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8438-0
+01:08:38.169 --> 01:08:40.717
+<v Hou, Eric>Next week,
+the transformer gonna be much more,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8438-1
+01:08:40.717 --> 01:08:43.209
+<v Hou, Eric>much more complex structure compared to
+this.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8446-0
+01:08:44.199 --> 01:08:46.919
+<v Hou, Eric>Much more so than you know that we are.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8474-0
+01:08:46.919 --> 01:08:51.309
+<v Hou, Eric>We're adding pieces together and and
+getting the machine algorithm,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8474-1
+01:08:51.309 --> 01:08:54.730
+<v Hou, Eric>getting machine algorithm like more and
+more closer,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8474-2
+01:08:54.730 --> 01:08:59.119
+<v Hou, Eric>much closer to to human beings.
+You you have definitely refreshing.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8501-0
+01:09:00.649 --> 01:09:05.257
+<v Hou, Eric>Your your your hidden layer of how you
+understand who you are and how you think</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8501-1
+01:09:05.257 --> 01:09:07.849
+<v Hou, Eric>it's. It's a really interesting journey,
+OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8508-0
+01:09:08.089 --> 01:09:09.129
+<v Hou, Eric>So I think that's it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8512-0
+01:09:09.129 --> 01:09:10.569
+<v Hou, Eric>That's where rnlstm.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8514-0
+01:09:11.089 --> 01:09:13.369
+<v Hou, Eric>I hope you enjoy it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8531-0
+01:09:13.799 --> 01:09:17.319
+<v Hou, Eric>And and I didn't give you a lot of Python
+code.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8540-0
+01:09:17.319 --> 01:09:20.803
+<v Hou, Eric>You know,
+coding problems as long as you understand</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8540-1
+01:09:20.803 --> 01:09:22.879
+<v Hou, Eric>this concept, that'll be great.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8557-0
+01:09:22.919 --> 01:09:27.897
+<v Hou, Eric>Remember,
+we're building staff by step to guide our</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8557-1
+01:09:27.897 --> 01:09:30.959
+<v Hou, Eric>algorithm closer to human being.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8586-0
+01:09:30.959 --> 01:09:36.704
+<v Hou, Eric>So then the way how you think of or
+digest information is actually going to</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8586-1
+01:09:36.704 --> 01:09:42.675
+<v Hou, Eric>be the way how how AI is digesting or
+understanding those information and make</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8586-2
+01:09:42.675 --> 01:09:43.279
+<v Hou, Eric>its own.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8596-0
+01:09:43.809 --> 01:09:46.289
+<v Hou, Eric>Quote UN quote output say it's sentiment
+analysis.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8602-0
+01:09:46.289 --> 01:09:47.449
+<v Hou, Eric>Say it's a classification.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8606-0
+01:09:47.449 --> 01:09:49.649
+<v Hou, Eric>Say it's generating another sentence.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8628-0
+01:09:49.849 --> 01:09:56.318
+<v Hou, Eric>So this the way how you work in your
+brain is going to be the way how AI work</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8628-1
+01:09:56.318 --> 01:09:58.889
+<v Hou, Eric>in code and code Ai's chips OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8630-0
+01:09:58.889 --> 01:09:59.929
+<v Hou, Eric>I think that's it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8631-0
+01:10:01.009 --> 01:10:01.649
+<v Hou, Eric>Help me try it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8636-0
+01:10:03.359 --> 01:10:04.079
+<v Mertens, Aidric>Thanks professor.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8642-0
+01:10:04.759 --> 01:10:05.839
+<v Hou, Eric>Yep. Thank you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8645-0
+01:10:05.879 --> 01:10:07.599
+<v Hou, Eric>Enjoy the Monday Monday night.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8653-0
+01:10:08.079 --> 01:10:08.759
+<v Severin, Noah>Thank you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8650-0
+01:10:09.169 --> 01:10:09.489
+<v Hou, Eric>Yep, bye.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8662-0
+01:10:10.859 --> 01:10:13.619
+<v Haroon, Sufyan>Hi I have a question for the final
+project.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8661-0
+01:10:12.379 --> 01:10:12.779
+<v Hou, Eric>Yes.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8668-0
+01:10:14.729 --> 01:10:15.129
+<v Hou, Eric>Yes.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8676-0
+01:10:15.049 --> 01:10:16.449
+<v Haroon, Sufyan>We were working.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8678-0
+01:10:16.449 --> 01:10:18.489
+<v Haroon, Sufyan>We completed our Python model.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8683-0
+01:10:19.179 --> 01:10:21.139
+<v Hou, Eric>OK, fantastic.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8693-0
+01:10:20.209 --> 01:10:23.849
+<v Haroon, Sufyan>And we had questions about we had
+questions about the final.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8702-0
+01:10:24.329 --> 01:10:29.609
+<v Haroon, Sufyan>Is it going to be a presentation or
+should we write a paper on it?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8706-0
+01:10:29.809 --> 01:10:31.209
+<v Haroon, Sufyan>How should we proceed with it?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8716-0
+01:10:32.919 --> 01:10:36.283
+<v Hou, Eric>Oh, you, you know, you decide.
+I think this is going to be a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8716-1
+01:10:36.283 --> 01:10:36.999
+<v Hou, Eric>presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8719-0
+01:10:38.529 --> 01:10:38.849
+<v Hou, Eric>The final.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8730-0
+01:10:39.209 --> 01:10:43.927
+<v Hou, Eric>The final deliverable right is this.
+Definitely later than that presentation,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8730-1
+01:10:43.927 --> 01:10:44.289
+<v Hou, Eric>right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8741-0
+01:10:44.359 --> 01:10:47.359
+<v Hou, Eric>I I think that's what I said in D2L right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8744-0
+01:10:47.429 --> 01:10:49.589
+<v Hou, Eric>I hope I did let me see.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8747-0
+01:10:51.149 --> 01:10:51.229
+<v Haroon, Sufyan>Oh.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8751-0
+01:10:52.069 --> 01:10:52.709
+<v Hou, Eric>Give me a second.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8773-0
+01:10:52.709 --> 01:10:57.509
+<v Hou, Eric>Let me check so then you can have the
+presentation ready and present.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8773-1
+01:10:57.509 --> 01:11:03.269
+<v Hou, Eric>I I believe you still have time to submit
+all the supporting materials and results.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8780-0
+01:11:04.229 --> 01:11:05.269
+<v Haroon, Sufyan>So you need both.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8791-0
+01:11:05.629 --> 01:11:11.309
+<v Haroon, Sufyan>It only says deliverable quality and Team
+cross review under the final project.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8794-0
+01:11:11.879 --> 01:11:12.239
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8801-0
+01:11:12.239 --> 01:11:16.239
+<v Hou, Eric>So if you, Anish, sorry, and it could be.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8805-0
+01:11:21.439 --> 01:11:23.319
+<v Hou, Eric>Seeing is, umm, agenda right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8818-0
+01:11:23.429 --> 01:11:27.749
+<v Hou, Eric>So then,
+so the final presentation is April 28.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8823-0
+01:11:28.289 --> 01:11:28.889
+<v Haroon, Sufyan>Yes.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8830-0
+01:11:29.559 --> 01:11:32.242
+<v Hou, Eric>Right.
+So then the deliverable submission is may</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8830-1
+01:11:32.242 --> 01:11:32.679
+<v Hou, Eric>the 5th?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8832-0
+01:11:33.979 --> 01:11:34.579
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8873-0
+01:11:36.969 --> 01:11:41.837
+<v Haroon, Sufyan>So we make a presentation out of it and
+write a paper about how how we proceeded</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8873-1
+01:11:41.837 --> 01:11:46.464
+<v Haroon, Sufyan>with similar to the proposal we we could
+talk about what models we selected,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8851-0
+01:11:42.629 --> 01:11:43.109
+<v Hou, Eric>Yep.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8873-2
+01:11:46.464 --> 01:11:50.069
+<v Haroon, Sufyan>why we selected them,
+methodology used and what the results</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8869-0
+01:11:46.919 --> 01:11:48.239
+<v Hou, Eric>Correct. Yeah.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8873-3
+01:11:50.069 --> 01:11:50.369
+<v Haroon, Sufyan>were.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8881-0
+01:11:50.649 --> 01:11:51.809
+<v Hou, Eric>Yeah, the final presentation.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8884-0
+01:11:51.809 --> 01:11:53.249
+<v Hou, Eric>Let's talk in next week, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8898-0
+01:11:53.249 --> 01:11:57.729
+<v Hou, Eric>So then I will just say, hey,
+you know every we don't a lot of teams.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8914-0
+01:11:57.729 --> 01:12:01.858
+<v Hou, Eric>So maybe like 15 minutes,
+15 minutes presentation,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8914-1
+01:12:01.858 --> 01:12:04.529
+<v Hou, Eric>5 minutes question and that's it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8942-0
+01:12:04.529 --> 01:12:07.140
+<v Hou, Eric>You know,
+it doesn't have to be like 20 slides or</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8942-1
+01:12:07.140 --> 01:12:11.472
+<v Hou, Eric>could be just 10 slides. That will be OK.
+And then if you wanna make some changes,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8927-0
+01:12:07.649 --> 01:12:08.089
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8941-0
+01:12:09.839 --> 01:12:12.239
+<v Haroon, Sufyan>That's yeah.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8942-2
+01:12:11.472 --> 01:12:13.769
+<v Hou, Eric>changes you still have one week to do
+that?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8956-0
+01:12:14.479 --> 01:12:18.407
+<v Haroon, Sufyan>All right,
+so we make Microsoft PowerPoint</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8956-1
+01:12:18.407 --> 01:12:20.599
+<v Haroon, Sufyan>presentation. That's it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8959-0
+01:12:20.259 --> 01:12:21.619
+<v Hou, Eric>Yes, that's it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8970-0
+01:12:20.599 --> 01:12:25.588
+<v Haroon, Sufyan>And along with that,
+do you need a paper like a Word document</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8970-1
+01:12:25.588 --> 01:12:27.519
+<v Haroon, Sufyan>paper about what we did?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8977-0
+01:12:28.109 --> 01:12:30.989
+<v Hou, Eric>That's that's going to be the final
+project deliverable.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8987-0
+01:12:31.449 --> 01:12:32.889
+<v Haroon, Sufyan>Alright and.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8992-0
+01:12:32.519 --> 01:12:35.119
+<v Hou, Eric>OK, I'll, I'll, I'll, I'll, I'll.
+I'll define it in a better way.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9002-0
+01:12:35.119 --> 01:12:38.839
+<v Hou, Eric>I'll we we talk about this next time, OK?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/8999-0
+01:12:37.919 --> 01:12:38.279
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9006-0
+01:12:38.439 --> 01:12:41.319
+<v Haroon, Sufyan>And lastly, I have a question about.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9013-0
+01:12:42.849 --> 01:12:43.489
+<v Haroon, Sufyan>The grading structure as well.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9014-0
+01:12:43.969 --> 01:12:44.329
+<v Hou, Eric>OK.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9018-0
+01:12:45.529 --> 01:12:46.049
+<v Haroon, Sufyan>So.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9017-0
+01:12:46.599 --> 01:12:46.719
+<v Hou, Eric>Yes.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9026-0
+01:12:47.689 --> 01:12:48.649
+<v Haroon, Sufyan>For Azima grad student.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9044-0
+01:12:48.649 --> 01:12:52.077
+<v Haroon, Sufyan>So there are going to be 6 assignments,
+each worth.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9044-1
+01:12:52.077 --> 01:12:56.889
+<v Haroon, Sufyan>Since it's made at 30% each are going to
+be like five, five points each.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9051-0
+01:12:59.089 --> 01:13:00.529
+<v Haroon, Sufyan>The reason why I ask.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9068-0
+01:13:00.529 --> 01:13:05.690
+<v Haroon, Sufyan>Because I have to travel for work,
+the for the next two weeks and I might</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9062-0
+01:13:04.829 --> 01:13:05.349
+<v Hou, Eric>Oh really?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9066-0
+01:13:05.349 --> 01:13:05.749
+<v Hou, Eric>You have to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9068-1
+01:13:05.690 --> 01:13:05.969
+<v Haroon, Sufyan>not.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9087-0
+01:13:06.689 --> 01:13:09.995
+<v Haroon, Sufyan>I might not be able to deliver the
+quality of assignment I wanted to,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9087-1
+01:13:09.995 --> 01:13:12.969
+<v Haroon, Sufyan>so I just wanted to see what the grading
+skill is going to be.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9093-0
+01:13:13.239 --> 01:13:15.759
+<v Haroon, Sufyan>If I don't meet the requirement.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9135-0
+01:13:13.339 --> 01:13:18.010
+<v Hou, Eric>Oh, OK.
+So that additional one for grad student,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9135-1
+01:13:18.010 --> 01:13:24.110
+<v Hou, Eric>that one I cannot drop,
+but for the other like for the combined</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9110-0
+01:13:22.519 --> 01:13:22.959
+<v Haroon, Sufyan>Yeah.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9135-2
+01:13:24.110 --> 01:13:31.259
+<v Hou, Eric>group that one of those six or five will
+I will drop one the lowest, yeah.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9133-0
+01:13:29.969 --> 01:13:30.289
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9174-0
+01:13:32.289 --> 01:13:35.938
+<v Haroon, Sufyan>Because if I don't perform that well on
+the grad one,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9174-1
+01:13:35.938 --> 01:13:41.276
+<v Haroon, Sufyan>I I'll still be able to have a good grade.
+If if it's graded out of it's still</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9174-2
+01:13:41.276 --> 01:13:45.329
+<v Haroon, Sufyan>weight 30% and it's not gonna change the
+30% weight, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9181-0
+01:13:46.089 --> 01:13:48.049
+<v Hou, Eric>I I won't change the 30% weight, but.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9197-0
+01:13:49.839 --> 01:13:55.519
+<v Hou, Eric>See I I how I consider this system is
+that is not based upon your final.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9209-0
+01:13:57.199 --> 01:14:00.239
+<v Hou, Eric>Number wise or percentage wise kind of
+number, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9242-0
+01:14:00.239 --> 01:14:06.434
+<v Hou, Eric>So then it's really like I need to
+confirm with with the finance department,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9242-1
+01:14:06.434 --> 01:14:12.549
+<v Hou, Eric>right? Whether or not we can have,
+I I'm pretty sure we can have everyone a</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9242-2
+01:14:12.549 --> 01:14:14.399
+<v Hou, Eric>I think right, so then?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9239-0
+01:14:13.199 --> 01:14:13.479
+<v Haroon, Sufyan>Yep.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9250-0
+01:14:16.199 --> 01:14:20.519
+<v Hou, Eric>Eventually,
+some person has to be like B or something.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9262-0
+01:14:20.559 --> 01:14:25.079
+<v Hou, Eric>I don't know if I can say everyone is B
+plus or anything like that.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9270-0
+01:14:25.389 --> 01:14:27.149
+<v Hou, Eric>It's really like I need some policy.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9280-0
+01:14:27.149 --> 01:14:31.607
+<v Hou, Eric>I need to learn so eventually it really
+have to be like your position in your</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9280-1
+01:14:31.607 --> 01:14:32.349
+<v Hou, Eric>peers, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9288-0
+01:14:35.199 --> 01:14:36.479
+<v Haroon, Sufyan>Other classes great.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9293-0
+01:14:36.599 --> 01:14:38.879
+<v Haroon, Sufyan>They they don't like require everyone.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9301-0
+01:14:38.879 --> 01:14:42.999
+<v Haroon, Sufyan>They they give everyone is if they have
+the same quality of work.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9312-0
+01:14:44.789 --> 01:14:46.309
+<v Hou, Eric>Well, this is something I need to.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9329-0
+01:14:46.309 --> 01:14:51.762
+<v Hou, Eric>I need to confirm because one example is
+I'm not quite familiar with the Marquette</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9314-0
+01:14:46.769 --> 01:14:47.289
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9329-1
+01:14:51.762 --> 01:14:53.469
+<v Hou, Eric>University kind of policy.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9344-0
+01:14:53.509 --> 01:14:59.989
+<v Hou, Eric>What I can comment is Chicago policy is
+OK if everyone got 99, right?</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9364-0
+01:15:00.909 --> 01:15:06.414
+<v Hou, Eric>So then #1 teacher has to say hey,
+some of them has to have like for example</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9364-1
+01:15:06.414 --> 01:15:07.629
+<v Hou, Eric>Ninetyseven 9899.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9367-0
+01:15:07.949 --> 01:15:10.149
+<v Hou, Eric>So then 979899.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9375-0
+01:15:10.919 --> 01:15:14.039
+<v Hou, Eric>So you Chicago has a policy that the
+average.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9380-0
+01:15:15.719 --> 01:15:17.239
+<v Hou, Eric>Letter grade has to be B plus.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9387-0
+01:15:18.239 --> 01:15:18.759
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9393-0
+01:15:19.239 --> 01:15:21.399
+<v Hou, Eric>So then that means like 97 going to be B.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9405-0
+01:15:22.309 --> 01:15:26.822
+<v Haroon, Sufyan>There's no such policy area,
+but they like give out X and everything</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9405-1
+01:15:26.822 --> 01:15:27.149
+<v Haroon, Sufyan>here.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9428-0
+01:15:27.429 --> 01:15:30.019
+<v Hou, Eric>Yeah.
+I I just that's I just need to confirm</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9427-0
+01:15:29.979 --> 01:15:34.539
+<v Haroon, Sufyan>All right. Because as as it.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9428-1
+01:15:30.019 --> 01:15:33.241
+<v Hou, Eric>the policy, right?
+So that I I do not decide on that if</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9428-2
+01:15:33.241 --> 01:15:33.989
+<v Hou, Eric>that's where.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9450-0
+01:15:34.539 --> 01:15:39.299
+<v Haroon, Sufyan>Yeah, as it stands,
+if even if I don't do the grad assignment,</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9450-1
+01:15:39.299 --> 01:15:42.699
+<v Haroon, Sufyan>I'm still getting an A+ year right as it
+is.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9464-0
+01:15:42.699 --> 01:15:46.419
+<v Haroon, Sufyan>So I was wondering if I if I don't do it
+as if I still get.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9471-0
+01:15:45.789 --> 01:15:51.269
+<v Hou, Eric>I you know you I I mean I I think you you
+need to do that grad.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9473-0
+01:15:52.039 --> 01:15:52.439
+<v Haroon, Sufyan>All right.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9476-0
+01:15:54.689 --> 01:15:55.089
+<v Haroon, Sufyan>Thank you.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9490-0
+01:15:55.639 --> 01:15:59.655
+<v Hou, Eric>Yeah,
+hopefully that I answer your question.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9486-0
+01:15:58.769 --> 01:16:00.129
+<v Haroon, Sufyan>All right. Thanks. Thanks.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9490-1
+01:15:59.655 --> 01:16:01.439
+<v Hou, Eric>All right? Yep. Bye.</v>
+
+bf71001b-a1cb-43ca-bad8-a0510873ad5c/9488-0
+01:16:01.769 --> 01:16:02.089
+<v Haroon, Sufyan>Bye.</v>

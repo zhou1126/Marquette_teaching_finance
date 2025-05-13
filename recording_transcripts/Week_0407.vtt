@@ -1,0 +1,4756 @@
+WEBVTT
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/23-0
+00:00:04.997 --> 00:00:05.397
+<v Sam Iosevich>Perfect.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/35-0
+00:00:06.967 --> 00:00:09.087
+<v Sam Iosevich>By the way, folks,
+we can make this interactive.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/54-0
+00:00:09.087 --> 00:00:13.582
+<v Sam Iosevich>You can stop me at any at any point you
+know, and and ask questions.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/54-1
+00:00:13.582 --> 00:00:15.927
+<v Sam Iosevich>You don't have to wait till the end.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/59-0
+00:00:15.997 --> 00:00:18.477
+<v Sam Iosevich>And I'm happy to do that as we go along.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/71-0
+00:00:20.047 --> 00:00:22.647
+<v Sam Iosevich>Alright, so as we get,
+let's just jump right in.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/75-0
+00:00:22.927 --> 00:00:24.687
+<v Sam Iosevich>Just a very brief introduction.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/100-0
+00:00:26.287 --> 00:00:30.642
+<v Sam Iosevich>Not gonna speak a lot about myself,
+but I'll give you in a kind of an ID and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/100-1
+00:00:30.642 --> 00:00:32.847
+<v Sam Iosevich>overview of what Parker Avery Avery is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/116-0
+00:00:32.847 --> 00:00:37.629
+<v Sam Iosevich>So in terms of myself,
+I've been in the space for, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/116-1
+00:00:37.629 --> 00:00:40.607
+<v Sam Iosevich>just, you know, in terms of analytics.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/122-0
+00:00:42.567 --> 00:00:44.047
+<v Sam Iosevich>And really it's for me.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/126-0
+00:00:44.047 --> 00:00:45.847
+<v Sam Iosevich>It's been 30 years, close to 30 years.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/142-0
+00:00:46.197 --> 00:00:52.225
+<v Sam Iosevich>Now and it's been, you know,
+my concentration that whole time has been</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/142-1
+00:00:52.225 --> 00:00:54.517
+<v Sam Iosevich>in demand analytics, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/183-0
+00:00:54.517 --> 00:00:59.201
+<v Sam Iosevich>So we're talking about, you know,
+retail analytics for and mostly</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/183-1
+00:00:59.201 --> 00:01:04.737
+<v Sam Iosevich>forecasting. And I would say pricing.
+Those have been the the key focus areas</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/183-2
+00:01:04.737 --> 00:01:08.782
+<v Sam Iosevich>for, for myself,
+you know the the companies that I would</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/183-3
+00:01:08.782 --> 00:01:12.331
+<v Sam Iosevich>have started right and in the
+organizations that,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/183-4
+00:01:12.331 --> 00:01:14.247
+<v Sam Iosevich>that that I have been with.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/187-0
+00:01:15.047 --> 00:01:15.847
+<v Sam Iosevich>So the systems that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/200-0
+00:01:16.637 --> 00:01:20.082
+<v Sam Iosevich>That that,
+I and my colleagues have built have been</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/200-1
+00:01:20.082 --> 00:01:20.877
+<v Sam Iosevich>deployed at.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/208-0
+00:01:22.967 --> 00:01:24.207
+<v Sam Iosevich>Walmart's U.S. Foods.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/212-0
+00:01:24.207 --> 00:01:27.047
+<v Sam Iosevich>Frito lays and and many other large.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/225-0
+00:01:28.607 --> 00:01:32.354
+<v Sam Iosevich>You know,
+Fortune 500 companies in in the US and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/225-1
+00:01:32.354 --> 00:01:33.807
+<v Sam Iosevich>and abroad as well.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/256-0
+00:01:33.807 --> 00:01:38.207
+<v Sam Iosevich>And then I I had to put in the last point
+around dynamic aggregation,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/256-1
+00:01:38.207 --> 00:01:42.293
+<v Sam Iosevich>because this is actually Eric,
+Eric and I and another gentleman,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/256-2
+00:01:42.293 --> 00:01:47.007
+<v Sam Iosevich>George actually have a have a paper out
+in IEEE on on dynamic aggregation.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/267-0
+00:01:48.397 --> 00:01:53.717
+<v Sam Iosevich>And Erica did a lot of work there and so
+very thankful for that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/302-0
+00:01:55.247 --> 00:01:58.224
+<v Sam Iosevich>All right. So so let's just jump into,
+you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/302-1
+00:01:58.224 --> 00:02:01.140
+<v Sam Iosevich>just before we get into the AI aspects of
+this,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/302-2
+00:02:01.140 --> 00:02:03.874
+<v Sam Iosevich>I want you to understand the context,
+right,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/302-3
+00:02:03.874 --> 00:02:06.607
+<v Sam Iosevich>that of of where I where I do my work
+right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/312-0
+00:02:06.607 --> 00:02:09.727
+<v Sam Iosevich>So we do a lot of Parker Avery.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/321-0
+00:02:09.727 --> 00:02:13.127
+<v Sam Iosevich>We only concentrate on retail and
+consumer goods. That's it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/334-0
+00:02:13.127 --> 00:02:15.366
+<v Sam Iosevich>We don't do healthcare,
+financial services, none.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/334-1
+00:02:15.366 --> 00:02:17.247
+<v Sam Iosevich>None of the others, none of none of those.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/341-0
+00:02:17.757 --> 00:02:18.797
+<v Sam Iosevich>Other things, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/348-0
+00:02:19.197 --> 00:02:22.917
+<v Sam Iosevich>So so when I talk about AI, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/377-0
+00:02:22.917 --> 00:02:29.489
+<v Sam Iosevich>It's only as I through the lens of as I
+see it in in those in those industries,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/377-1
+00:02:29.489 --> 00:02:35.486
+<v Sam Iosevich>right and really within those industries
+we we focus a lot on, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/377-2
+00:02:35.486 --> 00:02:38.197
+<v Sam Iosevich>like I said, forecasting pricing.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/391-0
+00:02:39.727 --> 00:02:44.442
+<v Sam Iosevich>Inventory inventory management is is a
+big part of what we do assortment</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/391-1
+00:02:44.442 --> 00:02:45.927
+<v Sam Iosevich>planning and and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/393-0
+00:02:45.927 --> 00:02:46.687
+<v Sam Iosevich>But if you'd say.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/420-0
+00:02:46.957 --> 00:02:51.418
+<v Sam Iosevich>If there is a focus on one area,
+if you have to describe it on one word,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/420-1
+00:02:51.418 --> 00:02:53.557
+<v Sam Iosevich>it is it is inventory, right it is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/447-0
+00:02:53.997 --> 00:02:59.363
+<v Sam Iosevich>You know how? How you, how you plan it,
+how you you know how you price it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/447-1
+00:02:59.363 --> 00:03:02.941
+<v Sam Iosevich>You know,
+how you how you allocate it and and and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/447-2
+00:03:02.941 --> 00:03:04.157
+<v Sam Iosevich>and so on, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/457-0
+00:03:05.647 --> 00:03:07.047
+<v Sam Iosevich>So analytics is advanced.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/470-0
+00:03:07.047 --> 00:03:12.394
+<v Sam Iosevich>Analytics is is one is one piece.
+One piece of this,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/470-1
+00:03:12.394 --> 00:03:16.127
+<v Sam Iosevich>but a big part of what we also do is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/486-0
+00:03:17.157 --> 00:03:21.414
+<v Sam Iosevich>Business process design,
+organizational design,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/486-1
+00:03:21.414 --> 00:03:24.517
+<v Sam Iosevich>change management and so on, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/494-0
+00:03:24.557 --> 00:03:27.917
+<v Sam Iosevich>So this these are sort of our
+capabilities.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/500-0
+00:03:28.077 --> 00:03:32.003
+<v Sam Iosevich>Again, not a sales pitch,
+just having you understand what is it</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/500-1
+00:03:32.003 --> 00:03:32.677
+<v Sam Iosevich>that we do.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/535-0
+00:03:34.287 --> 00:03:37.861
+<v Sam Iosevich>In terms of the, you know, so,
+so the companies that that, that,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/535-1
+00:03:37.861 --> 00:03:42.369
+<v Sam Iosevich>that we work with right are you mean you
+know just wanted to give you just just a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/535-2
+00:03:42.369 --> 00:03:46.823
+<v Sam Iosevich>landscape mean this is not this is not
+exhaustive but you know there's again the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/535-3
+00:03:46.823 --> 00:03:48.087
+<v Sam Iosevich>Walmarts use foods the.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/537-0
+00:03:48.087 --> 00:03:48.527
+<v Sam Iosevich>Michelins.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/577-0
+00:03:48.797 --> 00:03:53.055
+<v Sam Iosevich>Of the world, Carters, Cabellos, Belks so,
+so, so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/577-1
+00:03:53.055 --> 00:03:59.649
+<v Sam Iosevich>So we work with department stores as well
+as some of the Cpg's like, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/577-2
+00:03:59.649 --> 00:04:04.909
+<v Sam Iosevich>PepsiCo and you know,
+consumer brands like New Balance and and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/577-3
+00:04:04.909 --> 00:04:06.077
+<v Sam Iosevich>and so on. OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/608-0
+00:04:08.077 --> 00:04:11.513
+<v Sam Iosevich>All right, now, so,
+so when we talk about again,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/608-1
+00:04:11.513 --> 00:04:16.280
+<v Sam Iosevich>we're going to get into AI.
+And I think the slide basically what we</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/608-2
+00:04:16.280 --> 00:04:20.837
+<v Sam Iosevich>just wanted to just just reiterate
+analytics for analytics sake.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/617-0
+00:04:20.877 --> 00:04:24.157
+<v Sam Iosevich>Well, you're all in Business School.
+So you. So you understand this is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/624-0
+00:04:25.647 --> 00:04:26.447
+<v Sam Iosevich>Is is worthless, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/636-0
+00:04:26.447 --> 00:04:31.447
+<v Sam Iosevich>So what you really need to you know,
+you really need to understand the you</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/636-1
+00:04:31.447 --> 00:04:32.047
+<v Sam Iosevich>know, so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/645-0
+00:04:32.047 --> 00:04:34.967
+<v Sam Iosevich>So we start everything with business
+process, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/646-0
+00:04:34.967 --> 00:04:36.127
+<v Sam Iosevich>So so we.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/650-0
+00:04:37.847 --> 00:04:38.487
+<v Sam Iosevich>So so we start with.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/666-0
+00:04:38.757 --> 00:04:44.277
+<v Sam Iosevich>Business process and change management is
+a big component of it and we talk about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/673-0
+00:04:45.807 --> 00:04:48.007
+<v Sam Iosevich>Change. We're really talking about, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/678-0
+00:04:48.287 --> 00:04:50.087
+<v Sam Iosevich>A communication plan, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/712-0
+00:04:50.087 --> 00:04:52.594
+<v Sam Iosevich>So when when you,
+when you implement anything,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/712-1
+00:04:52.594 --> 00:04:56.861
+<v Sam Iosevich>you have to make sure that of course the
+people are bought in that you have the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/712-2
+00:04:56.861 --> 00:04:59.421
+<v Sam Iosevich>proper training in place to bring people
+along,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/712-3
+00:04:59.421 --> 00:05:02.407
+<v Sam Iosevich>you have to think about things like
+sustainment, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/724-0
+00:05:02.437 --> 00:05:04.108
+<v Sam Iosevich>Right.
+So when you walk out of the building or</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/724-1
+00:05:04.108 --> 00:05:06.917
+<v Sam Iosevich>you're done or you don't walk out of the
+building, let's say this is internal.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/752-0
+00:05:08.407 --> 00:05:11.914
+<v Sam Iosevich>What is the plan for sustainment of of,
+you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/752-1
+00:05:11.914 --> 00:05:16.824
+<v Sam Iosevich>of whatever it is that you're
+implementing when you're done with with</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/752-2
+00:05:16.824 --> 00:05:18.647
+<v Sam Iosevich>the implementation, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/768-0
+00:05:18.647 --> 00:05:22.381
+<v Sam Iosevich>So this is the lens that, that, that,
+that,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/768-1
+00:05:22.381 --> 00:05:28.407
+<v Sam Iosevich>that we that we you know looking through
+when when doing our work, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/807-0
+00:05:29.557 --> 00:05:34.660
+<v Sam Iosevich>All right. So with that,
+we're now ready to jump into the focus of</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/807-1
+00:05:34.660 --> 00:05:40.523
+<v Sam Iosevich>all of this and that is about, you know,
+achieving ROI within within AI, OK,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/807-2
+00:05:40.523 --> 00:05:46.996
+<v Sam Iosevich>so and then we'll talk about the two core
+value areas, right to make it very simple.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/807-3
+00:05:46.996 --> 00:05:48.367
+<v Sam Iosevich>You know in terms.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/815-0
+00:05:48.367 --> 00:05:50.717
+<v Sam Iosevich>Of how how I personally see.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/828-0
+00:05:52.207 --> 00:05:55.199
+<v Sam Iosevich>AI in in retail,
+so next slide will be a little bit</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/828-1
+00:05:55.199 --> 00:05:56.407
+<v Sam Iosevich>controversial, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/840-0
+00:05:56.407 --> 00:05:59.145
+<v Sam Iosevich>It is with with some folks,
+but it is something that I strongly</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/840-1
+00:05:59.145 --> 00:05:59.487
+<v Sam Iosevich>believe.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/892-0
+00:05:59.837 --> 00:06:05.992
+<v Sam Iosevich>Even not only because of what I just,
+not because of what I've read,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/892-1
+00:06:05.992 --> 00:06:12.682
+<v Sam Iosevich>but just experienced right in terms of
+the research and development within</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/892-2
+00:06:12.682 --> 00:06:15.893
+<v Sam Iosevich>Parker,
+Avery and also implementing</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/892-3
+00:06:15.893 --> 00:06:22.315
+<v Sam Iosevich>implementations at multiple companies
+from from mid size to Fortune 500</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/892-4
+00:06:22.315 --> 00:06:25.437
+<v Sam Iosevich>companies in the US and abroad, so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/895-0
+00:06:25.677 --> 00:06:26.277
+<v Sam Iosevich>With that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/939-0
+00:06:28.917 --> 00:06:33.650
+<v Sam Iosevich>Basically, you know,
+if I have to say you know the key right</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/939-1
+00:06:33.650 --> 00:06:39.547
+<v Sam Iosevich>to getting to ROI with with AI is to
+focus on augmentation and not complete</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/939-2
+00:06:39.547 --> 00:06:43.892
+<v Sam Iosevich>automation, OK?
+And this is where people wait a second,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/939-3
+00:06:43.892 --> 00:06:44.357
+<v Sam Iosevich>right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/958-0
+00:06:44.357 --> 00:06:49.371
+<v Sam Iosevich>Many actually take a step back and say,
+wait a second when we hear about AI,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/958-1
+00:06:49.371 --> 00:06:53.277
+<v Sam Iosevich>it's it's really about,
+I thought it's about the, you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/963-0
+00:06:54.047 --> 00:06:54.967
+<v Sam Iosevich>Automation. What is this?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/964-0
+00:06:54.967 --> 00:06:55.727
+<v Sam Iosevich>What is this?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/969-0
+00:06:55.807 --> 00:06:57.487
+<v Sam Iosevich>You know, all, all all about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/979-0
+00:06:57.837 --> 00:07:01.277
+<v Sam Iosevich>Right. And so,
+so I've got two quotes here.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1021-0
+00:07:02.807 --> 00:07:06.094
+<v Sam Iosevich>And we'll we'll, you know,
+we'll talk about this.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1021-1
+00:07:06.094 --> 00:07:10.630
+<v Sam Iosevich>One is from myself to, you know,
+in the recap to the Advisory Board,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1021-2
+00:07:10.630 --> 00:07:15.363
+<v Sam Iosevich>the Parker Avery Advisory Board and a
+quote from Andrew Eng. So if you,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1021-3
+00:07:15.363 --> 00:07:19.767
+<v Sam Iosevich>if you would have, you know,
+done any you know research or follow.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1043-0
+00:07:20.207 --> 00:07:24.214
+<v Sam Iosevich>One in in AI you're you're going.
+Probably Andrew is one of the one of the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1043-1
+00:07:24.214 --> 00:07:28.327
+<v Sam Iosevich>people that you would be would be
+following in this in this business, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1071-0
+00:07:28.597 --> 00:07:31.366
+<v Sam Iosevich>So.
+So basically what I what I said to the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1071-1
+00:07:31.366 --> 00:07:36.452
+<v Sam Iosevich>Advisory Board is we want to avoid the
+false economy of requiring near perfect</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1071-2
+00:07:36.452 --> 00:07:37.997
+<v Sam Iosevich>accuracy for automation.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1079-0
+00:07:37.997 --> 00:07:43.557
+<v Sam Iosevich>The problem with automation is that you
+have to make sure that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1086-0
+00:07:45.127 --> 00:07:47.407
+<v Sam Iosevich>Your that the application right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1091-0
+00:07:47.407 --> 00:07:49.847
+<v Sam Iosevich>The AI does not do anything anything
+stupid.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1101-0
+00:07:49.847 --> 00:07:53.847
+<v Sam Iosevich>I mean, you know,
+and so I'll give you a real world example.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1112-0
+00:07:53.887 --> 00:07:57.161
+<v Sam Iosevich>OK.
+So for us we you know we replace and this</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1112-1
+00:07:57.161 --> 00:07:58.727
+<v Sam Iosevich>is multiple years ago.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1155-0
+00:07:59.117 --> 00:08:02.795
+<v Sam Iosevich>In a department store where we replace
+the,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1155-1
+00:08:02.795 --> 00:08:09.650
+<v Sam Iosevich>you know we put a replenishment system in
+place which actually did ended up in an</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1155-2
+00:08:09.650 --> 00:08:14.917
+<v Sam Iosevich>automated order, right.
+And then shipment to the stores and we</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1155-3
+00:08:14.917 --> 00:08:21.103
+<v Sam Iosevich>showed that in terms of you know,
+we had much better accuracies and lower</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1155-4
+00:08:21.103 --> 00:08:21.437
+<v Sam Iosevich>buy.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1163-0
+00:08:21.437 --> 00:08:24.237
+<v Sam Iosevich>You know the the bias was near near 0.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1172-0
+00:08:25.007 --> 00:08:26.887
+<v Sam Iosevich>High stability and so on and so forth,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1177-0
+00:08:26.887 --> 00:08:30.367
+<v Sam Iosevich>But you're talking about thousands and
+10s of thousands.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1206-0
+00:08:31.357 --> 00:08:36.813
+<v Sam Iosevich>Of orders that go out right? So.
+So there was a case where we ordered a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1206-1
+00:08:36.813 --> 00:08:43.103
+<v Sam Iosevich>truckload worth of pillows that actually
+made their way to a South Carolina store,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1206-2
+00:08:43.103 --> 00:08:43.557
+<v Sam Iosevich>right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1220-0
+00:08:43.557 --> 00:08:49.388
+<v Sam Iosevich>And so 99.9% of the time, you know,
+the the system, the system works,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1220-1
+00:08:49.388 --> 00:08:50.637
+<v Sam Iosevich>it works great.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1233-0
+00:08:50.637 --> 00:08:56.917
+<v Sam Iosevich>But if you take all of the kind of the
+the barriers right that that the safety.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1242-0
+00:08:57.607 --> 00:09:01.302
+<v Sam Iosevich>You know,
+constraints out you can run into some</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1242-1
+00:09:01.302 --> 00:09:01.687
+<v Sam Iosevich>some.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1246-0
+00:09:01.797 --> 00:09:02.997
+<v Sam Iosevich>Serious problem.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1265-0
+00:09:02.997 --> 00:09:08.091
+<v Sam Iosevich>So what winds up happening is if you
+shoot for complete automation,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1265-1
+00:09:08.091 --> 00:09:11.837
+<v Sam Iosevich>this is where you really get into trouble,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1272-0
+00:09:12.317 --> 00:09:14.957
+<v Sam Iosevich>And the idea is that is the goal, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1290-0
+00:09:14.997 --> 00:09:20.330
+<v Sam Iosevich>Eventually you want to get there,
+and then what you do is you shoot for</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1290-1
+00:09:20.330 --> 00:09:22.477
+<v Sam Iosevich>four for augmentation, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1294-0
+00:09:22.517 --> 00:09:25.477
+<v Sam Iosevich>And then more augmentation over time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1301-0
+00:09:25.477 --> 00:09:27.317
+<v Sam Iosevich>Do you ever get to complete automation?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1307-0
+00:09:27.357 --> 00:09:29.917
+<v Sam Iosevich>Maybe, maybe not right, but that's that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1311-0
+00:09:29.917 --> 00:09:31.757
+<v Sam Iosevich>But but if you want to get to ROI.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1330-0
+00:09:31.917 --> 00:09:36.317
+<v Sam Iosevich>Quickly augmentation should be goal and
+not a not complete automation.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1344-0
+00:09:36.357 --> 00:09:43.240
+<v Sam Iosevich>And actually Andrew Enggs quote right
+there I think is very is very supportive</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1344-1
+00:09:43.240 --> 00:09:45.157
+<v Sam Iosevich>of that concept as as.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1370-0
+00:09:48.127 --> 00:09:51.104
+<v Sam Iosevich>Now,
+if and and by the way the you know</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1370-1
+00:09:51.104 --> 00:09:54.750
+<v Sam Iosevich>another another great example I I think
+is look,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1370-2
+00:09:54.750 --> 00:09:59.736
+<v Sam Iosevich>we've implemented a large language model,
+you know for in, in our,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1370-3
+00:09:59.736 --> 00:10:01.447
+<v Sam Iosevich>in our demand planning.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1390-0
+00:10:02.397 --> 00:10:08.037
+<v Sam Iosevich>Capability where basically we have with
+the user can come in and ask the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1390-1
+00:10:08.037 --> 00:10:10.277
+<v Sam Iosevich>application questions around.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1431-0
+00:10:11.967 --> 00:10:16.814
+<v Sam Iosevich>A number of things could ask it to
+perform analysis and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1431-1
+00:10:16.814 --> 00:10:20.661
+<v Sam Iosevich>If the application if we call,
+ask the hypercube,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1431-2
+00:10:20.661 --> 00:10:26.970
+<v Sam Iosevich>right our application build and the large
+language model right gives you a proper</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1431-3
+00:10:26.970 --> 00:10:31.047
+<v Sam Iosevich>result even 90% of the time it is
+extremely helpful.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1437-0
+00:10:31.277 --> 00:10:32.477
+<v Sam Iosevich>Right we can.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1448-0
+00:10:32.477 --> 00:10:37.477
+<v Sam Iosevich>We can sit there and we can actually try
+to get it to 99.9% accurate.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1481-0
+00:10:38.967 --> 00:10:42.294
+<v Sam Iosevich>And and we can spend another six months
+or nine months,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1481-1
+00:10:42.294 --> 00:10:46.868
+<v Sam Iosevich>nine months doing something like that
+versus getting something that would be</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1481-2
+00:10:46.868 --> 00:10:50.967
+<v Sam Iosevich>extremely useful out out into the out
+into the into, into the field.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1483-0
+00:10:52.767 --> 00:10:52.927
+<v Sam Iosevich>OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1497-0
+00:10:53.397 --> 00:11:01.237
+<v Sam Iosevich>Alright, so and then. OK. So with that,
+let me move on, let me move on to what.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1503-0
+00:11:01.397 --> 00:11:04.037
+<v Sam Iosevich>The two core value areas are right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1522-0
+00:11:04.037 --> 00:11:09.104
+<v Sam Iosevich>So when we talk about AI right,
+it seems like it's a very lofty, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1522-1
+00:11:09.104 --> 00:11:10.117
+<v Sam Iosevich>concept, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1531-0
+00:11:10.117 --> 00:11:13.117
+<v Sam Iosevich>Let's just make it very just very easy.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1541-0
+00:11:13.157 --> 00:11:19.597
+<v Sam Iosevich>There's two real there's two things that
+you use AI in retail for, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1546-0
+00:11:19.597 --> 00:11:22.077
+<v Sam Iosevich>You're either improving efficiency or.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1553-0
+00:11:22.807 --> 00:11:24.407
+<v Sam Iosevich>It's used for the purposes of decision
+making.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1555-0
+00:11:24.757 --> 00:11:25.317
+<v Sam Iosevich>That's it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1561-0
+00:11:27.287 --> 00:11:29.327
+<v Sam Iosevich>Right, those those are the real use cases.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1567-0
+00:11:31.207 --> 00:11:32.967
+<v Sam Iosevich>And you know, I'm happy to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1586-0
+00:11:32.967 --> 00:11:38.159
+<v Sam Iosevich>Happy to discuss if you know if you all
+don't agree. Happy, happy to discuss that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1586-1
+00:11:38.159 --> 00:11:41.287
+<v Sam Iosevich>But and we'll look at at examples thereof,
+right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1602-0
+00:11:41.487 --> 00:11:48.028
+<v Sam Iosevich>And really dive into the decision making
+part because that's that's really what</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1602-1
+00:11:48.028 --> 00:11:48.927
+<v Sam Iosevich>what we do.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1606-0
+00:11:48.927 --> 00:11:53.887
+<v Sam Iosevich>That's really where we spend a lot of
+time, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1619-0
+00:11:54.277 --> 00:11:59.357
+<v Sam Iosevich>So efficiency, you know, faster, cheaper,
+more consistent, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1625-0
+00:11:59.397 --> 00:12:03.437
+<v Sam Iosevich>You're automating repetitive repetitive
+tasks.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1677-0
+00:12:04.967 --> 00:12:09.942
+<v Sam Iosevich>And there is no shortage of those tasks
+right in in, in retail today,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1677-1
+00:12:09.942 --> 00:12:15.771
+<v Sam Iosevich>if you look at anything from, you know,
+any functional area which you see in FBA,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1677-2
+00:12:15.771 --> 00:12:21.314
+<v Sam Iosevich>you know just in terms of the weekly
+reports which you do in open to buy what</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1677-3
+00:12:21.314 --> 00:12:22.167
+<v Sam Iosevich>you have in.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1679-0
+00:12:23.167 --> 00:12:23.447
+<v Sam Iosevich>You know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1686-0
+00:12:23.717 --> 00:12:25.077
+<v Sam Iosevich>Replenishment allocation.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1701-0
+00:12:25.077 --> 00:12:27.699
+<v Sam Iosevich>There's a lot of things that are just
+that,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1701-1
+00:12:27.699 --> 00:12:30.797
+<v Sam Iosevich>that that can be that that can be
+automated, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1728-0
+00:12:30.837 --> 00:12:35.782
+<v Sam Iosevich>You need to make sure that you have
+guardrails associated with those as we</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1728-1
+00:12:35.782 --> 00:12:38.814
+<v Sam Iosevich>spoke about,
+but there's no shortage of those</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1728-2
+00:12:38.814 --> 00:12:41.517
+<v Sam Iosevich>repetitive tasks right to be streamlined.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1756-0
+00:12:41.837 --> 00:12:46.659
+<v Sam Iosevich>You know there there's some examples
+around customer service. You know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1756-1
+00:12:46.659 --> 00:12:51.548
+<v Sam Iosevich>look is there's no reason for human being
+to actually answer the answer.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1756-2
+00:12:51.548 --> 00:12:53.557
+<v Sam Iosevich>The question of what are your.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1762-0
+00:12:53.797 --> 00:12:54.797
+<v Sam Iosevich>What are your hours?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1780-0
+00:12:54.797 --> 00:13:00.161
+<v Sam Iosevich>Right. What you know are, you know,
+are you going to be closed for Memorial</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1780-1
+00:13:00.161 --> 00:13:05.877
+<v Sam Iosevich>Day things and things of that nature?
+Right. That's that can now be easily done.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1813-0
+00:13:07.447 --> 00:13:11.346
+<v Sam Iosevich>And then and then the the other use case
+is really on on,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1813-1
+00:13:11.346 --> 00:13:15.245
+<v Sam Iosevich>on decision decision making in decision
+making. You know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1813-2
+00:13:15.245 --> 00:13:19.748
+<v Sam Iosevich>we'll talk about we'll talk about some of
+this. But you know what?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1813-3
+00:13:19.748 --> 00:13:23.647
+<v Sam Iosevich>What is my what is my best price?
+How how much inventory?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1824-0
+00:13:23.957 --> 00:13:27.197
+<v Sam Iosevich>Do I need to have in a particular place?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1855-0
+00:13:27.197 --> 00:13:30.880
+<v Sam Iosevich>Well, you could say, well, wait a second,
+I already, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1855-1
+00:13:30.880 --> 00:13:35.090
+<v Sam Iosevich>are you just talking about basic
+forecasting and and things like price,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1855-2
+00:13:35.090 --> 00:13:37.896
+<v Sam Iosevich>you know, things like price optimization.
+Well,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1855-3
+00:13:37.896 --> 00:13:40.877
+<v Sam Iosevich>it's it's it's a little bit more than
+that, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1876-0
+00:13:40.877 --> 00:13:44.928
+<v Sam Iosevich>So it's it's yes,
+that's that's augmentation.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1876-1
+00:13:44.928 --> 00:13:51.357
+<v Sam Iosevich>But with AI we take that to a very,
+very different very different level.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1897-0
+00:13:51.637 --> 00:13:57.039
+<v Sam Iosevich>OK. And and in time actually,
+you know our our the use case,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1897-1
+00:13:57.039 --> 00:14:03.237
+<v Sam Iosevich>I mean the that we'll talk about is
+really the collaboration between.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1911-0
+00:14:04.647 --> 00:14:09.086
+<v Sam Iosevich>Different functions and how AI actually
+makes it a lot more, more, more efficient,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1911-1
+00:14:09.086 --> 00:14:09.407
+<v Sam Iosevich>right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1924-0
+00:14:09.407 --> 00:14:14.596
+<v Sam Iosevich>And this is this is this is something
+that we have implemented in multiple the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1924-1
+00:14:14.596 --> 00:14:15.647
+<v Sam Iosevich>multiple places.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1930-0
+00:14:15.647 --> 00:14:18.007
+<v Sam Iosevich>So, so. So we'll get into that, all right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1938-0
+00:14:18.247 --> 00:14:21.487
+<v Sam Iosevich>But first,
+let's just talk about the efficiency.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1940-0
+00:14:21.527 --> 00:14:21.847
+<v Sam Iosevich>I want to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1953-0
+00:14:22.317 --> 00:14:26.525
+<v Sam Iosevich>You know, it's not a case study,
+but it's it's just a focused example,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1953-1
+00:14:26.525 --> 00:14:27.117
+<v Sam Iosevich>right? So.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1966-0
+00:14:28.727 --> 00:14:33.967
+<v Sam Iosevich>And and and and. By the way,
+I have no stock position in Hulu.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1973-0
+00:14:33.967 --> 00:14:35.794
+<v Sam Iosevich>Actually,
+they're they're they're they're not a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1973-1
+00:14:35.794 --> 00:14:37.087
+<v Sam Iosevich>public company, a private company.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/1983-0
+00:14:37.407 --> 00:14:39.647
+<v Sam Iosevich>But anyway,
+I have no shares in that company.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2002-0
+00:14:39.647 --> 00:14:43.471
+<v Sam Iosevich>I I do know the the the CEO,
+but look it's.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2002-1
+00:14:43.471 --> 00:14:49.207
+<v Sam Iosevich>But I really like to this particular use
+case for for efficiency.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2010-0
+00:14:49.207 --> 00:14:52.007
+<v Sam Iosevich>So I wanted to to bring that up.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2039-0
+00:14:52.317 --> 00:14:57.663
+<v Sam Iosevich>Right. So so when you're talking about,
+you know getting ROI in, in,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2039-1
+00:14:57.663 --> 00:15:02.234
+<v Sam Iosevich>in retail and you're talking about the
+efficiency example,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2039-2
+00:15:02.234 --> 00:15:07.037
+<v Sam Iosevich>Hulu I think is is a great is a great
+example of that, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2066-0
+00:15:07.107 --> 00:15:12.210
+<v Sam Iosevich>So many of the things that they automate,
+their other companies that that do.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2066-1
+00:15:12.210 --> 00:15:17.443
+<v Sam Iosevich>So if we're talking about robotic process
+automation or software test software,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2066-2
+00:15:17.443 --> 00:15:18.947
+<v Sam Iosevich>test automation, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2082-0
+00:15:18.947 --> 00:15:23.878
+<v Sam Iosevich>You know, and some of these other things,
+there are other companies that that</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2082-1
+00:15:23.878 --> 00:15:26.027
+<v Sam Iosevich>actually do that actually do that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2090-0
+00:15:26.027 --> 00:15:31.307
+<v Sam Iosevich>For example, software test automation.
+By the way, we have improved.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2093-0
+00:15:32.157 --> 00:15:32.717
+<v Sam Iosevich>Our software.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2099-0
+00:15:34.477 --> 00:15:35.997
+<v Sam Iosevich>You know, software process, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2144-0
+00:15:36.067 --> 00:15:40.466
+<v Sam Iosevich>Right by automating by automating testing
+in that you know by the way,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2144-1
+00:15:40.466 --> 00:15:45.547
+<v Sam Iosevich>we're constantly adding functionality,
+for example into our demand planning tool.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2157-0
+00:15:45.697 --> 00:15:48.894
+<v Sam Iosevich>Yeah, and.
+And oftentimes when you add functionality,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2157-1
+00:15:48.894 --> 00:15:50.137
+<v Sam Iosevich>you wind up breaking.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2195-0
+00:15:50.137 --> 00:15:53.346
+<v Sam Iosevich>You wind up breaking things that actually
+worked before,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2195-1
+00:15:53.346 --> 00:15:57.794
+<v Sam Iosevich>so there's no reason why you need to have
+a tester actually go through and hit</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2195-2
+00:15:57.794 --> 00:16:01.228
+<v Sam Iosevich>those buttons to make sure you didn't
+break anything. Right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2195-3
+00:16:01.228 --> 00:16:05.619
+<v Sam Iosevich>Nowadays you can actually have automated
+very much automated software testing</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2195-4
+00:16:05.619 --> 00:16:06.857
+<v Sam Iosevich>tools, which we'll go.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2204-0
+00:16:06.857 --> 00:16:10.817
+<v Sam Iosevich>Through and and make you know just very
+quickly tell you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2210-0
+00:16:11.587 --> 00:16:12.667
+<v Sam Iosevich>Did you break anything?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2213-0
+00:16:12.667 --> 00:16:13.507
+<v Sam Iosevich>Where did you break it?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2215-0
+00:16:13.507 --> 00:16:14.947
+<v Sam Iosevich>And so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2222-0
+00:16:16.177 --> 00:16:17.297
+<v Sam Iosevich>But but they go.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2226-0
+00:16:17.457 --> 00:16:20.177
+<v Sam Iosevich>They go once but, but where they go?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2236-0
+00:16:21.667 --> 00:16:25.547
+<v Sam Iosevich>I they go one step further and and I
+think I think it's.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2251-0
+00:16:27.707 --> 00:16:31.787
+<v Sam Iosevich>I think it's it's it's the next level of
+of efficiency.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2258-0
+00:16:31.787 --> 00:16:35.267
+<v Sam Iosevich>What they will do is they will monitor
+your your processes.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2270-0
+00:16:35.267 --> 00:16:39.107
+<v Sam Iosevich>They will monitor, you know,
+the way that you work.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2282-0
+00:16:39.107 --> 00:16:44.987
+<v Sam Iosevich>So if you're a replenishment analyst or
+you're a you work in merchant.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2286-0
+00:16:45.297 --> 00:16:46.217
+<v Sam Iosevich>Financial planning.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2325-0
+00:16:46.257 --> 00:16:50.871
+<v Sam Iosevich>But basically,
+a Hulu will monitor what tasks you go</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2325-1
+00:16:50.871 --> 00:16:56.442
+<v Sam Iosevich>through on a daily basis,
+OK and what they will then do is they</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2325-2
+00:16:56.442 --> 00:17:03.406
+<v Sam Iosevich>will suggest places for for automation,
+OK and then actually not only will they</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2325-3
+00:17:03.406 --> 00:17:06.017
+<v Sam Iosevich>suggest places for automation.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2337-0
+00:17:08.467 --> 00:17:12.547
+<v Sam Iosevich>They will actually help you with to
+automate those particular tasks.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2357-0
+00:17:13.537 --> 00:17:19.926
+<v Sam Iosevich>In the number of tasks that are automated
+actually increase increase over over time,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2357-1
+00:17:19.926 --> 00:17:20.377
+<v Sam Iosevich>right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2363-0
+00:17:20.937 --> 00:17:24.217
+<v Sam Iosevich>So it's a continuous improvement loop,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2377-0
+00:17:24.217 --> 00:17:27.137
+<v Sam Iosevich>This gets to the idea of not full
+automation, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2385-0
+00:17:27.137 --> 00:17:33.539
+<v Sam Iosevich>You're its augmentation,
+but it's increased augmentation over over</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2385-1
+00:17:33.539 --> 00:17:34.017
+<v Sam Iosevich>time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2398-0
+00:17:35.627 --> 00:17:38.118
+<v Sam Iosevich>OK,
+the this I actually this is the first</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2398-1
+00:17:38.118 --> 00:17:42.507
+<v Sam Iosevich>time that that I saw that and I thought
+yeah, this is this is definitely.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2422-0
+00:17:42.937 --> 00:17:48.003
+<v Sam Iosevich>Moving in the in the right direction from
+an from a AI in a,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2422-1
+00:17:48.003 --> 00:17:52.737
+<v Sam Iosevich>you know inefficiency improvement side of
+the house, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2428-0
+00:17:53.897 --> 00:17:56.137
+<v Sam Iosevich>So anyway,
+you guys may want to check that out.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2440-0
+00:17:56.137 --> 00:18:01.617
+<v Sam Iosevich>There's there's of course many examples
+of of efficiency plays in this field.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2452-0
+00:18:01.897 --> 00:18:05.472
+<v Sam Iosevich>There's a, you know, for example,
+this company called Deepao,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2452-1
+00:18:05.472 --> 00:18:06.337
+<v Sam Iosevich>which actually.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2465-0
+00:18:07.787 --> 00:18:11.910
+<v Sam Iosevich>Creates, you know,
+if you wanted to create these multimodal</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2465-1
+00:18:11.910 --> 00:18:13.147
+<v Sam Iosevich>AI to for example.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2481-0
+00:18:13.497 --> 00:18:17.337
+<v Sam Iosevich>To create standard operating procedures,
+right? So so you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2481-1
+00:18:17.337 --> 00:18:18.537
+<v Sam Iosevich>if you can actually.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2520-0
+00:18:19.987 --> 00:18:25.118
+<v Sam Iosevich>You can actually tape yourself performing
+certain tasks and they they can</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2520-1
+00:18:25.118 --> 00:18:29.902
+<v Sam Iosevich>understand what's happening. You know,
+in the video plus the speech.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2520-2
+00:18:29.902 --> 00:18:34.547
+<v Sam Iosevich>And it will actually write a standard
+operating procedure for you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2534-0
+00:18:34.587 --> 00:18:39.643
+<v Sam Iosevich>Something that used to take, you know,
+you know, weeks can now be done in, in,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2534-1
+00:18:39.643 --> 00:18:40.667
+<v Sam Iosevich>in hours, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2539-0
+00:18:40.667 --> 00:18:42.107
+<v Sam Iosevich>Of course, you're going to go through.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2547-0
+00:18:42.107 --> 00:18:44.547
+<v Sam Iosevich>You're going to check there's going to be
+places where it's not.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2568-0
+00:18:44.977 --> 00:18:48.977
+<v Sam Iosevich>Where it's not perfect. Again, that's,
+you know, it's not full automation,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2568-1
+00:18:48.977 --> 00:18:52.177
+<v Sam Iosevich>but it's a heck of a lot of, you know,
+augmentation, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2577-0
+00:18:53.667 --> 00:18:56.187
+<v Sam Iosevich>Which certainly makes you more and more
+efficient. OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2586-0
+00:19:00.217 --> 00:19:03.857
+<v Sam Iosevich>So. So with that, I want to now move to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2610-0
+00:19:05.467 --> 00:19:09.471
+<v Sam Iosevich>To the decision,
+a decision making focused example,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2610-1
+00:19:09.471 --> 00:19:15.707
+<v Sam Iosevich>that's what I believe is the second core
+core value for for AI in in, in retail.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2624-0
+00:19:15.787 --> 00:19:18.756
+<v Sam Iosevich>All right, so let's let's,
+let's talk about, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2624-1
+00:19:18.756 --> 00:19:20.267
+<v Sam Iosevich>this is a specific use case.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2637-0
+00:19:20.267 --> 00:19:25.112
+<v Sam Iosevich>Why that that we've that we get involved
+with and this is this is going to be</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2637-1
+00:19:25.112 --> 00:19:25.547
+<v Sam Iosevich>around.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2643-0
+00:19:27.227 --> 00:19:29.707
+<v Sam Iosevich>What I call a unified what I call a
+unified.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2649-0
+00:19:30.057 --> 00:19:33.017
+<v Sam Iosevich>Demand signal all right and so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2655-0
+00:19:35.147 --> 00:19:37.427
+<v Sam Iosevich>You know,
+here's a here's a situation where.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2664-0
+00:19:39.387 --> 00:19:42.147
+<v Sam Iosevich>You have multiple demand signals.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2665-0
+00:19:42.147 --> 00:19:43.267
+<v Sam Iosevich>Call them.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2686-0
+00:19:43.267 --> 00:19:46.466
+<v Sam Iosevich>Call them forecasts.
+I call them demand signals because it's</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2686-1
+00:19:46.466 --> 00:19:50.347
+<v Sam Iosevich>it's actually not only because sometimes
+it's not a statistical forecast.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2701-0
+00:19:50.347 --> 00:19:55.843
+<v Sam Iosevich>Sometimes it is a human projection,
+sometimes they will include levers for</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2701-1
+00:19:55.843 --> 00:19:59.067
+<v Sam Iosevich>things like pricing or or external
+factors.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2709-0
+00:19:59.497 --> 00:20:01.537
+<v Sam Iosevich>Like consumer sentiment and so on and so
+forth.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2757-0
+00:20:01.617 --> 00:20:06.937
+<v Sam Iosevich>So if you look across finance,
+merchandising, marketing, operations,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2757-1
+00:20:06.937 --> 00:20:10.407
+<v Sam Iosevich>planning, pricing,
+supply chain fulfillment,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2757-2
+00:20:10.407 --> 00:20:14.416
+<v Sam Iosevich>they will all have different demand
+demand signals.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2757-3
+00:20:14.416 --> 00:20:18.657
+<v Sam Iosevich>And usually they'll have a multitude of
+forecasts, OK?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2757-4
+00:20:18.657 --> 00:20:24.362
+<v Sam Iosevich>And So what winds up happening is think
+about what would happen in a in a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2757-5
+00:20:24.362 --> 00:20:25.827
+<v Sam Iosevich>situation you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2768-0
+00:20:25.827 --> 00:20:28.577
+<v Sam Iosevich>And we've all seen this in the store and
+I, you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2799-0
+00:20:29.297 --> 00:20:32.511
+<v Sam Iosevich>So let's say your your local grocery
+store.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2799-1
+00:20:32.511 --> 00:20:38.353
+<v Sam Iosevich>They promote a particular a particular
+product come in and you know we're going</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2799-2
+00:20:38.353 --> 00:20:42.297
+<v Sam Iosevich>to have a, you know,
+24 pack of Pepsi on sale, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2802-0
+00:20:42.297 --> 00:20:43.937
+<v Sam Iosevich>It's we're going to run a BOGO.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2825-0
+00:20:43.977 --> 00:20:49.184
+<v Sam Iosevich>You come into the store and the shelf is
+the shelf is empty,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2825-1
+00:20:49.184 --> 00:20:54.817
+<v Sam Iosevich>or you come into the store,
+there's a big sale on athletic shoes.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2831-0
+00:20:55.587 --> 00:20:56.267
+<v Sam Iosevich>At at Macy's.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2834-0
+00:20:56.267 --> 00:20:57.027
+<v Sam Iosevich>But you know what?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2838-0
+00:20:57.027 --> 00:20:59.347
+<v Sam Iosevich>There's just not enough.
+Not enough people.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2840-0
+00:20:59.697 --> 00:21:00.297
+<v Sam Iosevich>To.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2848-0
+00:21:02.547 --> 00:21:06.147
+<v Sam Iosevich>To to help to provide the proper you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2852-0
+00:21:07.787 --> 00:21:08.707
+<v Sam Iosevich>Assistance, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2862-0
+00:21:08.707 --> 00:21:10.827
+<v Sam Iosevich>How does that again?
+How does that that happen?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2897-0
+00:21:10.867 --> 00:21:15.603
+<v Sam Iosevich>Is that you know the planning that the
+merchandise planning is done with one</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2897-1
+00:21:15.603 --> 00:21:18.432
+<v Sam Iosevich>system,
+the promotional planning is done with</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2897-2
+00:21:18.432 --> 00:21:23.414
+<v Sam Iosevich>with with another system to store labor
+is done with with a third and by the way</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2897-3
+00:21:23.414 --> 00:21:27.227
+<v Sam Iosevich>in terms of their demand there's there's
+no match whatsoever.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2925-0
+00:21:27.737 --> 00:21:32.618
+<v Sam Iosevich>OK, so so to address this issue,
+you probably heard of something called as</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2925-1
+00:21:32.618 --> 00:21:36.457
+<v Sam Iosevich>an snop process or or integrated business
+planning, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2956-0
+00:21:36.497 --> 00:21:41.970
+<v Sam Iosevich>Those are kind of things that have been
+put in place by companies to deal with</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2956-1
+00:21:41.970 --> 00:21:47.512
+<v Sam Iosevich>this particular this particular issue, OK,
+and this is a non non AI approach to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2956-2
+00:21:47.512 --> 00:21:48.897
+<v Sam Iosevich>solving the problem.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2962-0
+00:21:48.937 --> 00:21:53.097
+<v Sam Iosevich>So what happens is in sales and
+operations planning.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/2975-0
+00:21:53.987 --> 00:21:57.947
+<v Sam Iosevich>You you have a a,
+you you come up with an understanding.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3001-0
+00:21:58.337 --> 00:22:03.665
+<v Sam Iosevich>What your demand plan is about once a
+month and it's some added some aggregate</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3001-1
+00:22:03.665 --> 00:22:07.577
+<v Sam Iosevich>level that may or may not work for all of
+your functions.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3002-0
+00:22:07.617 --> 00:22:09.137
+<v Sam Iosevich>Oh, and by the way.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3046-0
+00:22:10.587 --> 00:22:15.651
+<v Sam Iosevich>It it'll it'll be based on the metric
+again that that may or may not work for</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3046-1
+00:22:15.651 --> 00:22:20.520
+<v Sam Iosevich>for the function that you're in.
+For example, if you could be forecasting,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3046-2
+00:22:20.520 --> 00:22:23.832
+<v Sam Iosevich>normally it's a projection of dollars or
+or units,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3046-3
+00:22:23.832 --> 00:22:27.467
+<v Sam Iosevich>but in finance you know you're interested
+in, you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3086-0
+00:22:27.937 --> 00:22:32.374
+<v Sam Iosevich>In margin and so on and so on and so
+forth and in some,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3086-1
+00:22:32.374 --> 00:22:36.018
+<v Sam Iosevich>some are interested in the 2436 month
+signal.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3086-2
+00:22:36.018 --> 00:22:40.376
+<v Sam Iosevich>Others are interested in a in a
+three-week out signal.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3086-3
+00:22:40.376 --> 00:22:44.337
+<v Sam Iosevich>If if you're talking about fulfillment
+and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3109-0
+00:22:46.307 --> 00:22:50.467
+<v Sam Iosevich>So again,
+this is this kind of starts to align your</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3109-1
+00:22:50.467 --> 00:22:57.027
+<v Sam Iosevich>your your functions but and by the way
+this is also done in a in a monthly level.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3122-0
+00:22:57.417 --> 00:23:02.233
+<v Sam Iosevich>Alright,
+it aligns them to but but not but but not</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3122-1
+00:23:02.233 --> 00:23:03.177
+<v Sam Iosevich>really so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3139-0
+00:23:03.177 --> 00:23:06.156
+<v Sam Iosevich>And then you'll go through the process of
+taking this demand signal across</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3139-1
+00:23:06.156 --> 00:23:08.697
+<v Sam Iosevich>different functions.
+You'll take it to the executive committee.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3147-0
+00:23:08.697 --> 00:23:14.137
+<v Sam Iosevich>They'll sign off on it and then you start
+to process again the next the next month.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3155-0
+00:23:16.907 --> 00:23:19.147
+<v Sam Iosevich>Well, the the opportunity here, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3172-0
+00:23:19.147 --> 00:23:27.107
+<v Sam Iosevich>And this is where we're getting into the
+the augmentation is is a continuous cycle.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3186-0
+00:23:27.787 --> 00:23:33.634
+<v Sam Iosevich>By which actually you have one demand
+signal which actually works its way</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3186-1
+00:23:33.634 --> 00:23:34.187
+<v Sam Iosevich>across.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3201-0
+00:23:35.627 --> 00:23:40.107
+<v Sam Iosevich>All the the Geo prod channel,
+all of your hierarchies across time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3218-0
+00:23:40.107 --> 00:23:43.899
+<v Sam Iosevich>So so a telescopic signal,
+different granularities of time,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3218-1
+00:23:43.899 --> 00:23:46.427
+<v Sam Iosevich>but then also different metrics as well.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3227-0
+00:23:46.427 --> 00:23:52.187
+<v Sam Iosevich>And self reconciling so that so that you
+know, if you're talking about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3233-0
+00:23:53.827 --> 00:23:54.547
+<v Sam Iosevich>The supply chain.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3238-0
+00:23:54.587 --> 00:23:57.587
+<v Sam Iosevich>There you see DC slots.
+If we're talking about operations.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3290-0
+00:23:57.977 --> 00:24:01.395
+<v Sam Iosevich>We're talking about labor hours.
+If you're talking about finance,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3290-1
+00:24:01.395 --> 00:24:04.762
+<v Sam Iosevich>you're talking about dollars and gross,
+you know, and, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3290-2
+00:24:04.762 --> 00:24:07.714
+<v Sam Iosevich>in terms of revenue.
+And then you're talking about gross</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3290-3
+00:24:07.714 --> 00:24:10.407
+<v Sam Iosevich>margin and so on.
+If you're talking about planning,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3290-4
+00:24:10.407 --> 00:24:13.307
+<v Sam Iosevich>you've got, you've got units.
+So so regardless of what?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3315-0
+00:24:13.307 --> 00:24:19.428
+<v Sam Iosevich>Whatever function you're in and you know
+you have your projection in the metric</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3315-1
+00:24:19.428 --> 00:24:23.177
+<v Sam Iosevich>that it's in now,
+what do you do with with with?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3320-0
+00:24:23.827 --> 00:24:25.027
+<v Sam Iosevich>In each one of these areas.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3345-0
+00:24:25.577 --> 00:24:29.077
+<v Sam Iosevich>Right.
+We'll have a set of levers that they can</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3345-1
+00:24:29.077 --> 00:24:33.817
+<v Sam Iosevich>pull which will affect the entire what we
+call hypercube, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3354-0
+00:24:33.817 --> 00:24:37.617
+<v Sam Iosevich>So when pricing pulls the lever on a
+particular promotion.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3356-0
+00:24:39.187 --> 00:24:39.347
+<v Sam Iosevich>That.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3386-0
+00:24:40.907 --> 00:24:45.705
+<v Sam Iosevich>That is seen in in manufacturing supply
+chain operations in real time and then</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3386-1
+00:24:45.705 --> 00:24:50.625
+<v Sam Iosevich>you can see you know you know is there is
+there a constraint so so for example I</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3386-2
+00:24:50.625 --> 00:24:54.147
+<v Sam Iosevich>can give you the the party city example
+that I mean they.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3421-0
+00:24:55.417 --> 00:24:59.448
+<v Sam Iosevich>They're unfortunately,
+they're they've they're no longer in</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3421-1
+00:24:59.448 --> 00:25:03.681
+<v Sam Iosevich>business, not due to us,
+but so in in that particular example,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3421-2
+00:25:03.681 --> 00:25:07.712
+<v Sam Iosevich>what we're doing, you know,
+taking marks or or for markdown</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3421-3
+00:25:07.712 --> 00:25:10.937
+<v Sam Iosevich>optimization or we're changing changing
+prices.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3426-0
+00:25:12.027 --> 00:25:14.587
+<v Sam Iosevich>We would suggest, for example, here's.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3471-0
+00:25:14.587 --> 00:25:18.859
+<v Sam Iosevich>Here's here's the price changes that need
+to be made will,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3471-1
+00:25:18.859 --> 00:25:23.711
+<v Sam Iosevich>which will of course optimize the
+following metrics. And you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3471-2
+00:25:23.711 --> 00:25:27.403
+<v Sam Iosevich>that's great. You know. However,
+when it makes it,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3471-3
+00:25:27.403 --> 00:25:32.544
+<v Sam Iosevich>which means that by the way,
+that you need to make a certain number of</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3471-4
+00:25:32.544 --> 00:25:34.137
+<v Sam Iosevich>changes per stores it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3488-0
+00:25:34.137 --> 00:25:37.863
+<v Sam Iosevich>Comes back to to operations say well,
+wait a second.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3488-1
+00:25:37.863 --> 00:25:41.097
+<v Sam Iosevich>We don't have the labor to make all of
+those.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3496-0
+00:25:41.327 --> 00:25:42.447
+<v Sam Iosevich>Those price changes, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3509-0
+00:25:42.447 --> 00:25:48.927
+<v Sam Iosevich>And that's seen there in, in, in real, in,
+in, in real, in real time, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3549-0
+00:25:49.727 --> 00:25:54.290
+<v Sam Iosevich>And So what that allows you to do is
+instead of waiting for the monthly</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3549-1
+00:25:54.290 --> 00:25:57.459
+<v Sam Iosevich>process,
+you can run all sorts of simulations and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3549-2
+00:25:57.459 --> 00:26:01.134
+<v Sam Iosevich>see how you know.
+You know that gave you a scenario here.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3549-3
+00:26:01.134 --> 00:26:05.697
+<v Sam Iosevich>Let's say you're executing a Bogo,
+buy one, get one free and that that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3556-0
+00:26:05.697 --> 00:26:07.807
+<v Sam Iosevich>Would mean a 3.6 X.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3562-0
+00:26:08.537 --> 00:26:10.377
+<v Sam Iosevich>Increase in in units, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3581-0
+00:26:10.807 --> 00:26:14.545
+<v Sam Iosevich>So.
+So then you get to see what are your</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3581-1
+00:26:14.545 --> 00:26:20.287
+<v Sam Iosevich>implications across all of your all of
+the business functions?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3590-0
+00:26:21.857 --> 00:26:24.737
+<v Sam Iosevich>At at the same at the same time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3605-0
+00:26:24.977 --> 00:26:29.152
+<v Sam Iosevich>Now,
+if you if you have that capability right,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3605-1
+00:26:29.152 --> 00:26:31.017
+<v Sam Iosevich>this sets you up for.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3619-0
+00:26:32.697 --> 00:26:37.577
+<v Sam Iosevich>Something that will talk about, which is,
+you know, you can then ask.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3623-0
+00:26:37.737 --> 00:26:40.257
+<v Sam Iosevich>You can then ask AI you know through.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3627-0
+00:26:40.847 --> 00:26:41.887
+<v Sam Iosevich>AI to run.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3660-0
+00:26:44.057 --> 00:26:48.806
+<v Sam Iosevich>Through our agentic AI model to start
+running scenarios which actually address</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3660-1
+00:26:48.806 --> 00:26:53.734
+<v Sam Iosevich>certain business challenges and we'll get
+into that in our when we talk about the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3660-2
+00:26:53.734 --> 00:26:55.417
+<v Sam Iosevich>AI sophistication curve, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3668-0
+00:26:57.617 --> 00:26:59.257
+<v Sam Iosevich>But for the most part, guys are you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3671-0
+00:26:59.257 --> 00:27:00.417
+<v Sam Iosevich>Are you with me, Eric?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3676-0
+00:27:01.017 --> 00:27:03.337
+<v Sam Iosevich>You know, I'm going to all good.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3691-0
+00:27:04.347 --> 00:27:06.627
+<v Hou, Eric>Yeah, I I am definitely enjoying this.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3678-0
+00:27:04.857 --> 00:27:05.017
+<v Sam Iosevich>Good.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3694-0
+00:27:07.547 --> 00:27:09.387
+<v Hou, Eric>Hopefully the students love it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3698-0
+00:27:09.367 --> 00:27:09.887
+<v Sam Iosevich>Yeah.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3707-0
+00:27:09.387 --> 00:27:12.187
+<v Hou, Eric>I I think there's a lot of information
+and definitely it is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3716-0
+00:27:13.307 --> 00:27:16.147
+<v Hou, Eric>It's a good, good, very good presentation,
+very informative.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3719-0
+00:27:16.667 --> 00:27:17.867
+<v Sam Iosevich>No, no, that's fine.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3733-0
+00:27:17.867 --> 00:27:20.587
+<v Sam Iosevich>I just want to make sure if there's any
+areas that I need to go into more depth.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3740-0
+00:27:20.587 --> 00:27:22.787
+<v Sam Iosevich>Happy, happy, happy to do happy.
+Happy to do so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3765-0
+00:27:24.497 --> 00:27:29.127
+<v Sam Iosevich>So. So by the way,
+when we when we talk about so this this</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3765-1
+00:27:29.127 --> 00:27:34.777
+<v Sam Iosevich>hypercube which sits in the middle of all
+of these different functions.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3776-0
+00:27:36.377 --> 00:27:39.777
+<v Sam Iosevich>You know, so So what really is that right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3779-0
+00:27:39.817 --> 00:27:40.937
+<v Sam Iosevich>It is a.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3788-0
+00:27:41.777 --> 00:27:45.857
+<v Sam Iosevich>It is a projection so so when we talk
+about cubes, right, we talked about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3801-0
+00:27:46.247 --> 00:27:48.367
+<v Sam Iosevich>Know in in the concept of business
+intelligence.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3804-0
+00:27:48.767 --> 00:27:50.087
+<v Sam Iosevich>But that's all backward.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3812-0
+00:27:50.087 --> 00:27:53.247
+<v Sam Iosevich>You know,
+historical viewing backward looking right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3829-0
+00:27:53.247 --> 00:28:00.071
+<v Sam Iosevich>This is A1 self reconciling demand signal
+across all of your all of your</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3829-1
+00:28:00.071 --> 00:28:01.847
+<v Sam Iosevich>hierarchies, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3836-0
+00:28:01.847 --> 00:28:05.047
+<v Sam Iosevich>And here's some examples of of a
+hierarchy for, let's say.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3843-0
+00:28:06.537 --> 00:28:08.177
+<v Sam Iosevich>For you know, for for a company.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3858-0
+00:28:08.177 --> 00:28:12.166
+<v Sam Iosevich>So let's see.
+We go from total merch all the way down</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3858-1
+00:28:12.166 --> 00:28:16.377
+<v Sam Iosevich>to orderable SKU and then it's connected
+to to material.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3883-0
+00:28:16.687 --> 00:28:19.927
+<v Sam Iosevich>So so this is this is where you can start.
+You know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3883-1
+00:28:19.927 --> 00:28:24.573
+<v Sam Iosevich>use your bill of materials to get from
+audible SKU all the way down to your</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3883-2
+00:28:24.573 --> 00:28:25.367
+<v Sam Iosevich>material SKU.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3893-0
+00:28:25.367 --> 00:28:30.127
+<v Sam Iosevich>So you can do some of your demand supply
+plan balancing, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3925-0
+00:28:30.127 --> 00:28:34.386
+<v Sam Iosevich>So think about a situation where you
+start pulling levers where you start</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3925-1
+00:28:34.386 --> 00:28:38.646
+<v Sam Iosevich>running simulations around what would
+happen in a high consumer sentiment</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3925-2
+00:28:38.646 --> 00:28:42.847
+<v Sam Iosevich>environment or high inflation environment,
+which by the way, we've done.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3938-0
+00:28:43.577 --> 00:28:45.798
+<v Sam Iosevich>For a very large company,
+about six months before the supply chain</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3938-1
+00:28:45.798 --> 00:28:47.057
+<v Sam Iosevich>brunch, and they wound up to actually.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3956-0
+00:28:47.967 --> 00:28:51.652
+<v Sam Iosevich>Weathering it a lot better,
+but you start to understand well, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3956-1
+00:28:51.652 --> 00:28:53.047
+<v Sam Iosevich>If you pull those levers.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3972-0
+00:28:53.127 --> 00:28:58.123
+<v Sam Iosevich>What does that mean in terms of, you know,
+capacity planning or material planning,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3972-1
+00:28:58.123 --> 00:28:59.327
+<v Sam Iosevich>things of that sort?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3983-0
+00:28:59.367 --> 00:29:04.807
+<v Sam Iosevich>How many DC slots am I going to need in a
+particular in a particular region?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3984-0
+00:29:04.847 --> 00:29:06.247
+<v Sam Iosevich>What is my category mix?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/3996-0
+00:29:07.777 --> 00:29:11.617
+<v Sam Iosevich>Going to look like in different
+environments, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4004-0
+00:29:11.897 --> 00:29:15.057
+<v Sam Iosevich>And then there's a time hierarchy there,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4008-0
+00:29:15.057 --> 00:29:16.977
+<v Sam Iosevich>So sometimes we can go intraday.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4012-0
+00:29:17.207 --> 00:29:18.647
+<v Sam Iosevich>Like this one goes from day.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4018-0
+00:29:20.697 --> 00:29:22.857
+<v Sam Iosevich>All the way up to rolling by.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4021-0
+00:29:24.577 --> 00:29:24.937
+<v Sam Iosevich>Year, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4029-0
+00:29:26.497 --> 00:29:29.377
+<v Sam Iosevich>So depending on on the function.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4036-0
+00:29:31.297 --> 00:29:33.097
+<v Sam Iosevich>There is going to be a a different need.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4069-0
+00:29:33.097 --> 00:29:37.245
+<v Sam Iosevich>I mean, if we're talking about labor,
+if you're planning labor,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4069-1
+00:29:37.245 --> 00:29:40.291
+<v Sam Iosevich>you want it down to the day or intraday
+level.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4069-2
+00:29:40.291 --> 00:29:44.244
+<v Sam Iosevich>If you're talking about a capital
+investment, then you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4069-3
+00:29:44.244 --> 00:29:46.577
+<v Sam Iosevich>then the needs could be by by month.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4099-0
+00:29:47.167 --> 00:29:52.747
+<v Sam Iosevich>Or or even sometimes by by year.
+If we're talking about a long range</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4099-1
+00:29:52.747 --> 00:29:58.651
+<v Sam Iosevich>planning planning process. OK,
+so that that is the unified demand signal</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4099-2
+00:29:58.651 --> 00:30:02.047
+<v Sam Iosevich>that actually powers what we talked about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4113-0
+00:30:02.087 --> 00:30:07.807
+<v Sam Iosevich>Now let's seek out just for a little bit
+now in terms of in terms of AI, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4128-0
+00:30:07.807 --> 00:30:12.560
+<v Sam Iosevich>So when you're talking about the some of
+the large language models and some of the,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4128-1
+00:30:12.560 --> 00:30:14.767
+<v Sam Iosevich>you know, getting more accurate, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4141-0
+00:30:15.267 --> 00:30:21.947
+<v Sam Iosevich>By having this, you know, architecture,
+what we can do is we can.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4155-0
+00:30:23.417 --> 00:30:28.380
+<v Sam Iosevich>We can train the we can do a lot of
+prompt engineering around teaching the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4155-1
+00:30:28.380 --> 00:30:28.777
+<v Sam Iosevich>model.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4163-0
+00:30:30.417 --> 00:30:30.897
+<v Sam Iosevich>What the data?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4167-0
+00:30:30.937 --> 00:30:32.857
+<v Sam Iosevich>What the data is right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4189-0
+00:30:32.897 --> 00:30:35.662
+<v Sam Iosevich>So every customer is gonna have their own
+hierarchy,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4189-1
+00:30:35.662 --> 00:30:39.053
+<v Sam Iosevich>but we can teach the model to say, OK,
+this is this is your Geo,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4189-2
+00:30:39.053 --> 00:30:41.817
+<v Sam Iosevich>these are your prod,
+this is your channel hierarchy.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4196-0
+00:30:41.817 --> 00:30:43.777
+<v Sam Iosevich>These are your demand drivers and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4215-0
+00:30:44.167 --> 00:30:49.306
+<v Sam Iosevich>And so the language,
+the large language model has has an</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4215-1
+00:30:49.306 --> 00:30:55.527
+<v Sam Iosevich>advantage with an advantage in
+understanding your your your data OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4232-0
+00:30:55.607 --> 00:31:01.635
+<v Sam Iosevich>And that's a that's a big step forward in
+getting better or more accurate results</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4232-1
+00:31:01.635 --> 00:31:04.207
+<v Sam Iosevich>coming out of the out of the model.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4254-0
+00:31:05.697 --> 00:31:09.629
+<v Sam Iosevich>You know, even with, you know,
+if you look at 01 and you know the the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4254-1
+00:31:09.629 --> 00:31:13.393
+<v Sam Iosevich>open eye, the 13 models,
+I mean that they're getting better by the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4254-2
+00:31:13.393 --> 00:31:13.617
+<v Sam Iosevich>day.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4273-0
+00:31:15.247 --> 00:31:21.058
+<v Sam Iosevich>But Amy Legg up that you can give them is
+going to is going to get to you to to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4273-1
+00:31:21.058 --> 00:31:23.527
+<v Sam Iosevich>much, much better place all right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4303-0
+00:31:23.647 --> 00:31:27.655
+<v Sam Iosevich>Well, how you know?
+Just very quickly how do we actually get</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4303-1
+00:31:27.655 --> 00:31:31.926
+<v Sam Iosevich>to this this hypercube. And by the way,
+for each of those nodes,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4303-2
+00:31:31.926 --> 00:31:35.145
+<v Sam Iosevich>again across all of these different
+hierarchies,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4303-3
+00:31:35.145 --> 00:31:38.167
+<v Sam Iosevich>not only do you have a projection, right,
+so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4317-0
+00:31:39.137 --> 00:31:43.377
+<v Sam Iosevich>And the companies that we work with that
+goes that, it goes for up to you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4346-0
+00:31:43.727 --> 00:31:47.191
+<v Sam Iosevich>Six years out. So we're talking about,
+you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4346-1
+00:31:47.191 --> 00:31:52.563
+<v Sam Iosevich>day short term all the way to six,
+six years out from the lowest persistent</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4346-2
+00:31:52.563 --> 00:31:55.603
+<v Sam Iosevich>level,
+all the way to total company across</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4346-3
+00:31:55.603 --> 00:31:57.087
+<v Sam Iosevich>across the hierarchy.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4352-0
+00:31:57.087 --> 00:31:59.007
+<v Sam Iosevich>So how do we how do we do that?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4361-0
+00:32:00.007 --> 00:32:03.796
+<v Sam Iosevich>I'm gonna.
+I'm gonna run you through a a kind of a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4361-1
+00:32:03.796 --> 00:32:05.727
+<v Sam Iosevich>of a, you know, just just.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4365-0
+00:32:07.137 --> 00:32:08.097
+<v Sam Iosevich>Just a few things that are there.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4371-0
+00:32:09.817 --> 00:32:12.297
+<v Sam Iosevich>That are required to make to make this
+happen.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4416-0
+00:32:12.807 --> 00:32:16.130
+<v Sam Iosevich>As I'll point this out, you know,
+by the way,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4416-1
+00:32:16.130 --> 00:32:19.670
+<v Sam Iosevich>some of this these will turn into agents,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4416-2
+00:32:19.670 --> 00:32:25.232
+<v Sam Iosevich>That we can that the we can call on but
+but basically to fill the hypercube.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4416-3
+00:32:25.232 --> 00:32:30.577
+<v Sam Iosevich>The first thing that you need you got
+data coming in all the time, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4429-0
+00:32:30.577 --> 00:32:35.167
+<v Sam Iosevich>So we have an automated data cleansing
+methodology, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4433-0
+00:32:35.167 --> 00:32:37.087
+<v Sam Iosevich>That you really have to pay attention to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4443-0
+00:32:38.577 --> 00:32:41.297
+<v Sam Iosevich>So you know, so you know,
+there are things that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4474-0
+00:32:43.247 --> 00:32:46.084
+<v Sam Iosevich>Like like product lineage,
+right connecting,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4474-1
+00:32:46.084 --> 00:32:50.496
+<v Sam Iosevich>connecting different items.
+Understanding where you need to impute to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4474-2
+00:32:50.496 --> 00:32:55.287
+<v Sam Iosevich>impute demand and we've been working on
+on imputation algorithms and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4510-0
+00:32:55.447 --> 00:32:59.804
+<v Sam Iosevich>You know their data filters and so on,
+and we do this all in an in a in an</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4510-1
+00:32:59.804 --> 00:33:03.405
+<v Sam Iosevich>automated way that you know happens
+either in a weekly basis,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4510-2
+00:33:03.405 --> 00:33:07.297
+<v Sam Iosevich>a daily or or a monthly basis,
+depending on how often we run these</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4510-3
+00:33:07.297 --> 00:33:09.097
+<v Sam Iosevich>models. We have a driver model.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4514-0
+00:33:09.897 --> 00:33:10.857
+<v Sam Iosevich>Capability which.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4516-0
+00:33:10.857 --> 00:33:11.417
+<v Sam Iosevich>Which actually?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4535-0
+00:33:12.167 --> 00:33:17.563
+<v Sam Iosevich>We've been it has been evolving for, for,
+for, for many, many years,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4535-1
+00:33:17.563 --> 00:33:20.847
+<v Sam Iosevich>which allows us to take in a dozens of of.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4547-0
+00:33:22.377 --> 00:33:24.937
+<v Sam Iosevich>External as well as internal factors,
+you know we talked about price.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4554-0
+00:33:24.937 --> 00:33:27.377
+<v Sam Iosevich>Can you know?
+You could think about cross elasticity?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4561-0
+00:33:27.777 --> 00:33:28.897
+<v Sam Iosevich>Your own elasticity.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4587-0
+00:33:28.897 --> 00:33:34.172
+<v Sam Iosevich>Consumer sentiment inflation. You know,
+in all of those things working,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4587-1
+00:33:34.172 --> 00:33:39.959
+<v Sam Iosevich>working together and and actually being
+able to isolate those factors and take</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4587-2
+00:33:39.959 --> 00:33:41.497
+<v Sam Iosevich>those out of what we.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4589-0
+00:33:41.927 --> 00:33:42.447
+<v Sam Iosevich>Call.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4592-0
+00:33:44.457 --> 00:33:44.617
+<v Sam Iosevich>A.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4608-0
+00:33:44.617 --> 00:33:50.422
+<v Sam Iosevich>You know intrinsic demand and then there
+is this algorithm that there's the based</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4608-1
+00:33:50.422 --> 00:33:53.537
+<v Sam Iosevich>on the paper that Eric,
+George and I wrote.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4635-0
+00:33:55.737 --> 00:34:00.869
+<v Sam Iosevich>But but this concept of dynamic
+aggregation is figuring out what is the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4635-1
+00:34:00.869 --> 00:34:05.217
+<v Sam Iosevich>right level to produce a demand a a,
+a demand signal, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4639-0
+00:34:05.297 --> 00:34:07.057
+<v Sam Iosevich>So it turns outlook.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4649-0
+00:34:07.057 --> 00:34:11.297
+<v Sam Iosevich>There's a lot of algorithms out there,
+it turns out for still, if you need.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4669-0
+00:34:11.847 --> 00:34:15.215
+<v Sam Iosevich>A telescopic forecast if you want one
+signal,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4669-1
+00:34:15.215 --> 00:34:19.607
+<v Sam Iosevich>there's still you know the time series
+algorithms still do.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4681-0
+00:34:19.607 --> 00:34:23.607
+<v Sam Iosevich>Extremely, extremely well there,
+but the key is understanding it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4686-0
+00:34:23.607 --> 00:34:25.007
+<v Sam Iosevich>What is the lowest level?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4710-0
+00:34:25.007 --> 00:34:30.468
+<v Sam Iosevich>What is the level at which you can get
+the bet the right signal to noise ratio</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4710-1
+00:34:30.468 --> 00:34:33.578
+<v Sam Iosevich>right?
+To be able to produce a stable signal</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4710-2
+00:34:33.578 --> 00:34:34.407
+<v Sam Iosevich>across time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4723-0
+00:34:34.407 --> 00:34:38.194
+<v Sam Iosevich>There's a champion Challenger modeling
+model for base demand forecasting.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4723-1
+00:34:38.194 --> 00:34:40.087
+<v Sam Iosevich>Once we understand what is the right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4728-0
+00:34:40.817 --> 00:34:41.697
+<v Sam Iosevich>What is the right level?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4733-0
+00:34:41.737 --> 00:34:43.617
+<v Sam Iosevich>A lot of that is commodity we keep adding.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4766-0
+00:34:44.327 --> 00:34:49.553
+<v Sam Iosevich>Other algorithms in here all the time and
+it could be Lstms or it could be</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4766-1
+00:34:49.553 --> 00:34:53.455
+<v Sam Iosevich>exponential smoothing models and so on.
+And by the way,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4766-2
+00:34:53.455 --> 00:34:57.287
+<v Sam Iosevich>they'll still win a lot in in the
+champion challenger.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4774-0
+00:34:59.537 --> 00:35:00.497
+<v Sam Iosevich>Format and then look.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4808-0
+00:35:00.497 --> 00:35:05.764
+<v Sam Iosevich>It's really using and then we, you know,
+depend with the regardless of the level,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4808-1
+00:35:05.764 --> 00:35:09.554
+<v Sam Iosevich>we'll still need to get a signal at the
+very lowest level,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4808-2
+00:35:09.554 --> 00:35:14.371
+<v Sam Iosevich>so we'll use a combination of of
+attributes and and sales to to get to get</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4808-3
+00:35:14.371 --> 00:35:15.977
+<v Sam Iosevich>to the very lowest level.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4814-0
+00:35:16.207 --> 00:35:20.127
+<v Sam Iosevich>Level,
+except now we also utilize things like.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4861-0
+00:35:21.617 --> 00:35:27.029
+<v Sam Iosevich>We will scrape information from the web
+to understand trends for for for you know</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4861-1
+00:35:27.029 --> 00:35:31.648
+<v Sam Iosevich>certain attributes, and and so on.
+And then we use that again in, in,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4861-2
+00:35:31.648 --> 00:35:35.872
+<v Sam Iosevich>in the disaggregation,
+there's a company called First Insights,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4861-3
+00:35:35.872 --> 00:35:39.897
+<v Sam Iosevich>which has a value score which will tell
+you which will tell.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4877-0
+00:35:39.897 --> 00:35:43.031
+<v Sam Iosevich>You how for example,
+how customers view different.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4877-1
+00:35:43.031 --> 00:35:45.857
+<v Sam Iosevich>You know if you if you have a style of
+shoes.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4900-0
+00:35:46.327 --> 00:35:49.755
+<v Sam Iosevich>For example,
+how they view one caller with respect to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4900-1
+00:35:49.755 --> 00:35:54.007
+<v Sam Iosevich>the other and that could be an input into
+the segregation as well.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4915-0
+00:35:54.007 --> 00:35:57.134
+<v Sam Iosevich>And then you need some diagnostics to
+understand what's going on,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4915-1
+00:35:57.134 --> 00:35:59.407
+<v Sam Iosevich>including things like anomaly detection,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4921-0
+00:35:59.447 --> 00:36:02.927
+<v Sam Iosevich>To help you detect issues early on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4936-0
+00:36:02.967 --> 00:36:08.963
+<v Sam Iosevich>So all of this together helps us form
+this demand signal that we put into the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4936-1
+00:36:08.963 --> 00:36:10.807
+<v Sam Iosevich>to the hypercube, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4942-0
+00:36:11.537 --> 00:36:13.777
+<v Sam Iosevich>This is for better decision making.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4968-0
+00:36:15.107 --> 00:36:20.715
+<v Sam Iosevich>OK, a lot of information here, by the way,
+as I mentioned to you all and to Erik at</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/4968-1
+00:36:20.715 --> 00:36:25.387
+<v Sam Iosevich>the beginning of all this,
+I'm going to share these these slides, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5014-0
+00:36:27.577 --> 00:36:33.035
+<v Sam Iosevich>In the so, so, so by the way,
+in terms of and and now now after we we</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5014-1
+00:36:33.035 --> 00:36:38.338
+<v Sam Iosevich>get this hypercube right,
+let's talk a little bit about some of the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5014-2
+00:36:38.338 --> 00:36:44.186
+<v Sam Iosevich>other components that we work with for,
+for you know this you know for the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5014-3
+00:36:44.186 --> 00:36:46.057
+<v Sam Iosevich>decision making process.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5061-0
+00:36:46.207 --> 00:36:52.412
+<v Sam Iosevich>Process so the hypercube right is the
+basis from which we're gonna start to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5061-1
+00:36:52.412 --> 00:36:56.168
+<v Sam Iosevich>work.
+To help us make these better decisions.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5061-2
+00:36:56.168 --> 00:37:00.822
+<v Sam Iosevich>So on top of this,
+on top of this unified demand signal,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5061-3
+00:37:00.822 --> 00:37:07.436
+<v Sam Iosevich>we have what I call an optimization layer
+and that optimization layer is a multi</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5061-4
+00:37:07.436 --> 00:37:08.007
+<v Sam Iosevich>object.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5068-0
+00:37:08.487 --> 00:37:12.047
+<v Sam Iosevich>Optimization. What do I mean by that?
+Right is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5073-0
+00:37:12.777 --> 00:37:13.897
+<v Sam Iosevich>You know you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5076-0
+00:37:13.897 --> 00:37:15.537
+<v Sam Iosevich>You will see instead of just optimizing.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5115-0
+00:37:15.687 --> 00:37:20.342
+<v Sam Iosevich>Margin or let's say revenue,
+you can actually optimize on multiple</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5115-1
+00:37:20.342 --> 00:37:25.552
+<v Sam Iosevich>objectives like a revenue margin, units,
+other other things as well in the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5115-2
+00:37:25.552 --> 00:37:28.609
+<v Sam Iosevich>proportion of strategic or category
+intent.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5115-3
+00:37:28.609 --> 00:37:33.750
+<v Sam Iosevich>And since by the way we also produce
+probabilistic forecast at the lowest</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5115-4
+00:37:33.750 --> 00:37:34.167
+<v Sam Iosevich>level.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5142-0
+00:37:35.617 --> 00:37:41.222
+<v Sam Iosevich>You know then then you can use it for
+inventory optimization as as well.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5142-1
+00:37:41.222 --> 00:37:45.137
+<v Sam Iosevich>OK now so so you can then optimize on top
+of that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5169-0
+00:37:45.487 --> 00:37:51.089
+<v Sam Iosevich>We have our collaboration layer in
+collaboration layer is your visualization,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5169-1
+00:37:51.089 --> 00:37:56.834
+<v Sam Iosevich>your planning layer and that's where the
+generative AI or the gentech AI really</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5169-2
+00:37:56.834 --> 00:37:57.767
+<v Sam Iosevich>comes in, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5184-0
+00:37:58.567 --> 00:38:06.401
+<v Sam Iosevich>So that sits on top of your optimization
+and and your hyper and your hyper queue.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5184-1
+00:38:06.401 --> 00:38:06.687
+<v Sam Iosevich>OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5192-0
+00:38:08.167 --> 00:38:10.647
+<v Sam Iosevich>So then you can think about well,
+wait a second now.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5193-0
+00:38:10.647 --> 00:38:11.967
+<v Sam Iosevich>I can ask now.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5201-0
+00:38:12.657 --> 00:38:14.817
+<v Sam Iosevich>I can start to ask you the hyper.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5204-0
+00:38:14.927 --> 00:38:16.247
+<v Sam Iosevich>Cube for example.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5219-0
+00:38:17.817 --> 00:38:20.017
+<v Sam Iosevich>Of you know,
+one of my highest trending products,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5219-1
+00:38:20.017 --> 00:38:21.777
+<v Sam Iosevich>you know from an information standpoint.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5224-0
+00:38:21.777 --> 00:38:24.137
+<v Sam Iosevich>But you could also start doing is to say
+well.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5227-0
+00:38:25.937 --> 00:38:26.257
+<v Sam Iosevich>Can you?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5245-0
+00:38:26.257 --> 00:38:29.017
+<v Sam Iosevich>You know,
+let's say optimize a particular category,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5245-1
+00:38:29.017 --> 00:38:31.777
+<v Sam Iosevich>the price for a particular category to
+drive units.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5249-0
+00:38:31.777 --> 00:38:33.537
+<v Sam Iosevich>Let's say you're down down units.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5272-0
+00:38:33.537 --> 00:38:36.628
+<v Sam Iosevich>Well,
+it can produce different scenarios for</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5272-1
+00:38:36.628 --> 00:38:42.192
+<v Sam Iosevich>you and do this without having to go to
+an analyst and ask him to run to run the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5272-2
+00:38:42.192 --> 00:38:43.497
+<v Sam Iosevich>particular process.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5276-0
+00:38:44.607 --> 00:38:45.407
+<v Sam Iosevich>It will.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5284-0
+00:38:45.447 --> 00:38:47.967
+<v Sam Iosevich>It will actually take that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5321-0
+00:38:48.047 --> 00:38:52.731
+<v Sam Iosevich>It'll know to call a particular agent to
+run that particular simulation and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5321-1
+00:38:52.731 --> 00:38:56.736
+<v Sam Iosevich>produce and and and come back with a set
+of of of results right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5321-2
+00:38:56.736 --> 00:39:01.851
+<v Sam Iosevich>When we talk about the AI sophistication
+curve and we will get there and we'll get</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5321-3
+00:39:01.851 --> 00:39:03.207
+<v Sam Iosevich>there in a little bit.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5325-0
+00:39:05.807 --> 00:39:07.047
+<v Sam Iosevich>You you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5329-0
+00:39:08.977 --> 00:39:09.297
+<v Sam Iosevich>The real.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5333-0
+00:39:09.297 --> 00:39:10.537
+<v Sam Iosevich>The real then challenge is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5339-0
+00:39:12.337 --> 00:39:14.177
+<v Sam Iosevich>The last step of that is actually.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5350-0
+00:39:15.817 --> 00:39:18.297
+<v Sam Iosevich>Tell me you know,
+give me a business challenge, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5367-0
+00:39:18.417 --> 00:39:26.367
+<v Sam Iosevich>And then have the have the agent take AI
+run multiple scenarios in multiple agents</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5367-1
+00:39:26.367 --> 00:39:28.857
+<v Sam Iosevich>in different order, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5380-0
+00:39:30.537 --> 00:39:32.697
+<v Sam Iosevich>Accounting for constraints in the
+different functions.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5384-0
+00:39:32.697 --> 00:39:35.577
+<v Sam Iosevich>Remember we talked about now the
+different functions are connected.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5400-0
+00:39:36.047 --> 00:39:38.842
+<v Sam Iosevich>Right.
+Because we have this one demand signal</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5400-1
+00:39:38.842 --> 00:39:40.847
+<v Sam Iosevich>which is across multiple metrics.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5433-0
+00:39:40.847 --> 00:39:44.565
+<v Sam Iosevich>So now when you run a scenario,
+for example for price,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5433-1
+00:39:44.565 --> 00:39:49.838
+<v Sam Iosevich>you understand if you're running into
+constraints from a labor perspective or</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5433-2
+00:39:49.838 --> 00:39:53.015
+<v Sam Iosevich>from,
+you know in things that you may have not</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5433-3
+00:39:53.015 --> 00:39:56.327
+<v Sam Iosevich>taken into account into that optimization
+model.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5459-0
+00:39:57.817 --> 00:40:01.791
+<v Sam Iosevich>And and run that in in in in different
+you know in different in different order</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5459-1
+00:40:01.791 --> 00:40:05.417
+<v Sam Iosevich>and so on to give you multiple scenarios
+for for you to make a business.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5463-0
+00:40:06.327 --> 00:40:07.687
+<v Sam Iosevich>Business decision, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5508-0
+00:40:10.417 --> 00:40:13.155
+<v Sam Iosevich>So,
+so to kind of bring that home a little</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5508-1
+00:40:13.155 --> 00:40:16.721
+<v Sam Iosevich>bit, you know,
+I want to talk a little bit about price,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5508-2
+00:40:16.721 --> 00:40:21.750
+<v Sam Iosevich>you know, price optimization, you know,
+so how and how that you know the these</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5508-3
+00:40:21.750 --> 00:40:24.297
+<v Sam Iosevich>multi metrics work in a multi objective.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5526-0
+00:40:26.017 --> 00:40:30.365
+<v Sam Iosevich>Scenario right?
+So so typically you know when we thought</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5526-1
+00:40:30.365 --> 00:40:35.857
+<v Sam Iosevich>when we we did a price optimization in
+the old old way of doing things.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5534-0
+00:40:36.167 --> 00:40:39.567
+<v Sam Iosevich>Things basically we looked at.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5537-0
+00:40:39.567 --> 00:40:41.527
+<v Sam Iosevich>There was a margin.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5556-0
+00:40:41.527 --> 00:40:46.088
+<v Sam Iosevich>There was usually a margin focused and we
+would find the, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5556-1
+00:40:46.088 --> 00:40:48.167
+<v Sam Iosevich>way of optimizing gross margin.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5582-0
+00:40:48.167 --> 00:40:53.712
+<v Sam Iosevich>Then we would look a little bit to the
+right left depending on revenue. And yeah,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5582-1
+00:40:53.712 --> 00:40:59.190
+<v Sam Iosevich>I mean and that's what we would we would
+go with whereas today we take more of a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5582-2
+00:40:59.190 --> 00:41:00.407
+<v Sam Iosevich>balanced approach.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5590-0
+00:41:01.217 --> 00:41:03.697
+<v Sam Iosevich>Right.
+We we don't only look at revenue margin.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5595-0
+00:41:05.617 --> 00:41:06.657
+<v Sam Iosevich>And we we really you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5613-0
+00:41:06.887 --> 00:41:09.345
+<v Sam Iosevich>You know,
+we really look at what does that do to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5613-1
+00:41:09.345 --> 00:41:12.555
+<v Sam Iosevich>our share. There was a,
+there was a large company that I worked</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5613-2
+00:41:12.555 --> 00:41:13.207
+<v Sam Iosevich>with in 2005.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5624-0
+00:41:14.977 --> 00:41:16.457
+<v Sam Iosevich>But look, I'll just say it right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5656-0
+00:41:16.457 --> 00:41:20.218
+<v Sam Iosevich>It was worked with Sears,
+right and where we were optimizing,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5656-1
+00:41:20.218 --> 00:41:24.827
+<v Sam Iosevich>we were optimizing price for them,
+doing price optimization for them in the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5656-2
+00:41:24.827 --> 00:41:27.799
+<v Sam Iosevich>first year,
+we took out a lot in terms of gross,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5656-3
+00:41:27.799 --> 00:41:31.377
+<v Sam Iosevich>in terms of additional margin and you
+know Ndas and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5669-0
+00:41:31.377 --> 00:41:33.612
+<v Sam Iosevich>Can't tell you exactly what that number
+is and so on,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5669-1
+00:41:33.612 --> 00:41:34.977
+<v Sam Iosevich>but it was it was a large amount.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5678-0
+00:41:34.977 --> 00:41:37.177
+<v Sam Iosevich>Next year,
+you could take less and less and less.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5679-0
+00:41:37.177 --> 00:41:39.257
+<v Sam Iosevich>Today I would ask you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5682-0
+00:41:40.217 --> 00:41:40.777
+<v Sam Iosevich>To find me or.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5696-0
+00:41:41.167 --> 00:41:44.527
+<v Sam Iosevich>Tell me where your local seer store is.
+It's not.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5700-0
+00:41:44.647 --> 00:41:45.767
+<v Sam Iosevich>It's not there, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5705-0
+00:41:45.767 --> 00:41:47.407
+<v Sam Iosevich>Is, is is the answer.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5739-0
+00:41:47.887 --> 00:41:51.555
+<v Sam Iosevich>And then of course you can go the the the
+other direction,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5739-1
+00:41:51.555 --> 00:41:56.154
+<v Sam Iosevich>which is you can be completely unit
+focused and that's the example of the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5739-2
+00:41:56.154 --> 00:41:59.138
+<v Sam Iosevich>right there where you're solely focused
+on, on,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5739-3
+00:41:59.138 --> 00:42:03.986
+<v Sam Iosevich>on just you know driving shared driving
+units and then you know you know that</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5739-4
+00:42:03.986 --> 00:42:04.297
+<v Sam Iosevich>scen.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5753-0
+00:42:04.297 --> 00:42:08.607
+<v Sam Iosevich>Where you have A380 basis points drop in
+in margin you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5761-0
+00:42:09.297 --> 00:42:11.217
+<v Sam Iosevich>If you have acfo,
+that'll never see the light of day.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5795-0
+00:42:12.207 --> 00:42:16.087
+<v Sam Iosevich>So we don't have to worry about that that
+scenario,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5795-1
+00:42:16.087 --> 00:42:21.907
+<v Sam Iosevich>but a more of a balanced approach really
+allows you based on on your category</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5795-2
+00:42:21.907 --> 00:42:26.607
+<v Sam Iosevich>strategic intent is to to keep all of
+those things in balance.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5811-0
+00:42:26.647 --> 00:42:31.719
+<v Sam Iosevich>What I've seen my career over the last 20
+some years is you pull the lever in One</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5811-1
+00:42:31.719 --> 00:42:33.327
+<v Sam Iosevich>Direction too hard, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5827-0
+00:42:33.367 --> 00:42:37.241
+<v Sam Iosevich>And then, Oh my gosh,
+2 two months later you say, whoa,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5827-1
+00:42:37.241 --> 00:42:40.007
+<v Sam Iosevich>what happened to? To to Eunice and then?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5829-0
+00:42:40.007 --> 00:42:40.967
+<v Sam Iosevich>Then then you go overboard.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5835-0
+00:42:41.087 --> 00:42:43.887
+<v Sam Iosevich>The other direction,
+and so on versus taking.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5839-0
+00:42:45.337 --> 00:42:46.297
+<v Sam Iosevich>A more balanced approach.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5861-0
+00:42:47.937 --> 00:42:52.360
+<v Sam Iosevich>To to begin with. OK.
+The other thing is you also need to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5861-1
+00:42:52.360 --> 00:42:57.774
+<v Sam Iosevich>understand what is happening to to
+competition which which by the way,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5861-2
+00:42:57.774 --> 00:43:00.977
+<v Sam Iosevich>you'd say, well, wait a second, don't you?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5880-0
+00:43:02.817 --> 00:43:05.923
+<v Sam Iosevich>So, so,
+so typically what we what we do is</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5880-1
+00:43:05.923 --> 00:43:10.257
+<v Sam Iosevich>companies will identify what are called
+as key value items.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5901-0
+00:43:10.687 --> 00:43:14.040
+<v Sam Iosevich>Right.
+And so those key value items which you</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5901-1
+00:43:14.040 --> 00:43:19.142
+<v Sam Iosevich>will do based on brand image,
+you will you will match against against</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5901-2
+00:43:19.142 --> 00:43:20.527
+<v Sam Iosevich>competition, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5939-0
+00:43:20.527 --> 00:43:23.857
+<v Sam Iosevich>You're going to be either 5% lower than,
+let's say,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5939-1
+00:43:23.857 --> 00:43:27.380
+<v Sam Iosevich>or 5% higher or right at you'll match
+Walmart or ALDI,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5939-2
+00:43:27.380 --> 00:43:31.286
+<v Sam Iosevich>let's say in this or you know,
+and then for everything else,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5939-3
+00:43:31.286 --> 00:43:36.217
+<v Sam Iosevich>you will optimize the rest of that
+particular choice set in such a way that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5947-0
+00:43:36.217 --> 00:43:39.567
+<v Sam Iosevich>You're optimizing the metrics that we
+talked about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5951-0
+00:43:41.007 --> 00:43:43.167
+<v Sam Iosevich>Before, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5969-0
+00:43:43.487 --> 00:43:46.573
+<v Sam Iosevich>But now that you are looking at all of
+those metrics,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/5969-1
+00:43:46.573 --> 00:43:49.087
+<v Sam Iosevich>you can and you can run simulations,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6005-0
+00:43:49.087 --> 00:43:54.785
+<v Sam Iosevich>You can see where and you know and you do
+have this generative AI capability and of</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6005-1
+00:43:54.785 --> 00:44:00.007
+<v Sam Iosevich>asking, let's say the the hypercube.
+You can now have the analysts start to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6011-0
+00:44:00.127 --> 00:44:01.727
+<v Sam Iosevich>I mean, you don't need a business analyst.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6017-0
+00:44:01.727 --> 00:44:04.887
+<v Sam Iosevich>You can have the business user start to
+ask.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6019-0
+00:44:06.897 --> 00:44:07.137
+<v Sam Iosevich>The.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6025-0
+00:44:07.297 --> 00:44:08.377
+<v Sam Iosevich>The the hypercube, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6029-0
+00:44:08.377 --> 00:44:09.777
+<v Sam Iosevich>What we call ask the hypercube.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6064-0
+00:44:10.447 --> 00:44:16.940
+<v Sam Iosevich>To give you scenarios what would happen
+if I was to do to do certain certain</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6064-1
+00:44:16.940 --> 00:44:20.819
+<v Sam Iosevich>things,
+which and I I know I know where we're</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6064-2
+00:44:20.819 --> 00:44:22.927
+<v Sam Iosevich>going to be against time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6068-0
+00:44:22.927 --> 00:44:25.207
+<v Sam Iosevich>So. So I'm going to switch to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6072-0
+00:44:25.207 --> 00:44:26.167
+<v Sam Iosevich>I'm going to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6080-0
+00:44:26.167 --> 00:44:28.927
+<v Sam Iosevich>That's why I want to get to the AI
+sophistication curve.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6091-0
+00:44:30.457 --> 00:44:33.817
+<v Sam Iosevich>Here and and just just bring this all all
+together, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6100-0
+00:44:33.817 --> 00:44:37.441
+<v Sam Iosevich>So we talk when I talk about AI
+sophistication curve in the supportive</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6100-1
+00:44:37.441 --> 00:44:38.257
+<v Sam Iosevich>decision making.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6104-0
+00:44:38.257 --> 00:44:39.337
+<v Sam Iosevich>What does that?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6105-0
+00:44:39.457 --> 00:44:40.297
+<v Sam Iosevich>What does that?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6152-0
+00:44:40.567 --> 00:44:47.740
+<v Sam Iosevich>That really mean and and by the way,
+this was our way of of also focusing on</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6152-1
+00:44:47.740 --> 00:44:52.957
+<v Sam Iosevich>on augmentation,
+right and getting to something useful,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6152-2
+00:44:52.957 --> 00:44:57.149
+<v Sam Iosevich>right.
+And continuing up that sophistication</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6152-3
+00:44:57.149 --> 00:45:01.807
+<v Sam Iosevich>curve as as our models became more more
+accurate.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6169-0
+00:45:01.807 --> 00:45:05.667
+<v Sam Iosevich>So the first thing is, you know,
+that's very easy and you know within you</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6169-1
+00:45:05.667 --> 00:45:08.327
+<v Sam Iosevich>know the planning application which you
+have here.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6176-0
+00:45:09.097 --> 00:45:10.617
+<v Sam Iosevich>You, you know, you go around planning.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6195-0
+00:45:11.407 --> 00:45:16.174
+<v Sam Iosevich>But but as you're planning,
+you may have questions like what are my</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6195-1
+00:45:16.174 --> 00:45:18.487
+<v Sam Iosevich>highest price elasticity classes.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6202-0
+00:45:18.957 --> 00:45:22.397
+<v Sam Iosevich>What is my sell through rate by subclass
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6206-0
+00:45:22.397 --> 00:45:24.157
+<v Sam Iosevich>These are easy queries, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6224-0
+00:45:24.157 --> 00:45:27.277
+<v Sam Iosevich>You look at that,
+you look at those historically,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6224-1
+00:45:27.277 --> 00:45:30.397
+<v Sam Iosevich>but you should be able to write them in
+this way.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6232-0
+00:45:30.397 --> 00:45:32.597
+<v Sam Iosevich>There's no reason for a planner.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6250-0
+00:45:32.757 --> 00:45:37.824
+<v Sam Iosevich>You know what would happen to have to
+happen in the in in the past is you would</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6250-1
+00:45:37.824 --> 00:45:40.357
+<v Sam Iosevich>write an e-mail to to an analyst, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6258-0
+00:45:40.357 --> 00:45:42.757
+<v Sam Iosevich>They would go and run a query.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6261-0
+00:45:42.797 --> 00:45:44.717
+<v Sam Iosevich>They'd come back to you and.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6271-0
+00:45:45.247 --> 00:45:48.047
+<v Sam Iosevich>The query was not quite right,
+so sometimes this could be.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6277-0
+00:45:48.437 --> 00:45:49.717
+<v Sam Iosevich>A 2-3 day process.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6280-0
+00:45:49.717 --> 00:45:50.077
+<v Sam Iosevich>I'm not.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6284-0
+00:45:50.157 --> 00:45:52.557
+<v Sam Iosevich>I'm. I'm not joking right today.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6290-0
+00:45:52.557 --> 00:45:56.557
+<v Sam Iosevich>Today it's and this is, you know,
+very accurate.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6325-0
+00:45:58.207 --> 00:46:02.702
+<v Sam Iosevich>You can come in basically within the
+application while you're planning.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6325-1
+00:46:02.702 --> 00:46:06.822
+<v Sam Iosevich>You pull up the ask the hypercube.
+You know, hit a bit that icon,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6325-2
+00:46:06.822 --> 00:46:10.755
+<v Sam Iosevich>but type in the question.
+In English it comes back to you very</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6325-3
+00:46:10.755 --> 00:46:14.313
+<v Sam Iosevich>quickly with with,
+with your answers and and you keep on</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6325-4
+00:46:14.313 --> 00:46:14.687
+<v Sam Iosevich>going.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6330-0
+00:46:14.807 --> 00:46:16.927
+<v Sam Iosevich>Within, you know within the application.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6337-0
+00:46:17.597 --> 00:46:18.677
+<v Sam Iosevich>Yes, we do this.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6338-0
+00:46:18.677 --> 00:46:19.277
+<v Sam Iosevich>But there's a.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6351-0
+00:46:19.437 --> 00:46:22.717
+<v Sam Iosevich>There's a slew of folks that do this as
+well. You can do this with lagility.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6359-0
+00:46:22.717 --> 00:46:27.437
+<v Sam Iosevich>You can do this within a number of
+different different applications.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6371-0
+00:46:27.437 --> 00:46:30.677
+<v Sam Iosevich>This is becoming this is table stakes now,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6381-0
+00:46:30.717 --> 00:46:36.077
+<v Sam Iosevich>You will never live in a world that we
+lived in 10-15 years ago.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6390-0
+00:46:36.077 --> 00:46:39.167
+<v Sam Iosevich>Where where?
+You know where you have that interaction</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6390-1
+00:46:39.167 --> 00:46:40.597
+<v Sam Iosevich>that that I talked about.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6396-0
+00:46:42.127 --> 00:46:43.807
+<v Sam Iosevich>Then we went further. OK, great.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6404-0
+00:46:43.807 --> 00:46:46.847
+<v Sam Iosevich>Give me the basic information,
+but then the next step is.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6407-0
+00:46:47.717 --> 00:46:48.397
+<v Sam Iosevich>Process now.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6422-0
+00:46:48.397 --> 00:46:53.276
+<v Sam Iosevich>Process that information. OK,
+so so basically run some simple analysis</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6422-1
+00:46:53.276 --> 00:46:53.757
+<v Sam Iosevich>for me.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6431-0
+00:46:53.797 --> 00:46:59.197
+<v Sam Iosevich>Run a Pareto analysis on SKU sales with a
+higher within a higher level, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6437-0
+00:46:59.237 --> 00:47:01.117
+<v Sam Iosevich>So, you know, do I have a long?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6442-0
+00:47:01.237 --> 00:47:02.557
+<v Sam Iosevich>Do I have a long tail?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6453-0
+00:47:03.437 --> 00:47:05.248
+<v Sam Iosevich>You know,
+this is the question that we ask</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6453-1
+00:47:05.248 --> 00:47:06.637
+<v Sam Iosevich>ourselves in assortment planning.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6455-0
+00:47:07.237 --> 00:47:08.797
+<v Sam Iosevich>All all, all the time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6477-0
+00:47:10.327 --> 00:47:14.386
+<v Sam Iosevich>Then you can like you know if you also
+have the inventory you know for example</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6477-1
+00:47:14.386 --> 00:47:16.647
+<v Sam Iosevich>you may say you know I gave you an
+example.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6487-0
+00:47:16.877 --> 00:47:20.077
+<v Sam Iosevich>Of running the BOGO the customer comes in,
+you've got empty shelves, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6500-0
+00:47:21.887 --> 00:47:26.447
+<v Sam Iosevich>So let's analyze lost sales right for a
+merchandise class.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6508-0
+00:47:28.367 --> 00:47:31.007
+<v Sam Iosevich>Linked to a specific event, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6511-0
+00:47:31.007 --> 00:47:32.287
+<v Sam Iosevich>So what went?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6512-0
+00:47:32.487 --> 00:47:33.247
+<v Sam Iosevich>What went wrong?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6529-0
+00:47:34.927 --> 00:47:38.438
+<v Sam Iosevich>And and that's that's, you know.
+And so now you're getting more and more</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6529-1
+00:47:38.438 --> 00:47:38.967
+<v Sam Iosevich>ROI, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6534-0
+00:47:38.967 --> 00:47:42.847
+<v Sam Iosevich>You know, off from this,
+this this as you move along.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6543-0
+00:47:44.527 --> 00:47:48.287
+<v Sam Iosevich>And then and then we, we, we,
+we we took it a step further.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6553-0
+00:47:48.597 --> 00:47:51.677
+<v Sam Iosevich>Right, so help me evaluate options, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6568-0
+00:47:51.677 --> 00:47:55.054
+<v Sam Iosevich>So we talked about all of these levers
+that you have within the hypercube where</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6568-1
+00:47:55.054 --> 00:47:57.797
+<v Sam Iosevich>you know you could, you know,
+we said pricing, marketing, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6593-0
+00:47:59.247 --> 00:48:03.382
+<v Sam Iosevich>Also we can run,
+you know simulation as of what happens in</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6593-1
+00:48:03.382 --> 00:48:06.255
+<v Sam Iosevich>in.
+You know if if certain macroeconomic</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6593-2
+00:48:06.255 --> 00:48:07.727
+<v Sam Iosevich>conditions are there.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6612-0
+00:48:07.727 --> 00:48:11.974
+<v Sam Iosevich>Basically, you know,
+let's you know we the business users can</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6612-1
+00:48:11.974 --> 00:48:16.494
+<v Sam Iosevich>go in and start to evaluate options.
+If they pull certain levers,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6612-2
+00:48:16.494 --> 00:48:17.727
+<v Sam Iosevich>what would happen.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6617-0
+00:48:18.677 --> 00:48:20.597
+<v Sam Iosevich>Would I hit certain constraints?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6631-0
+00:48:20.637 --> 00:48:25.669
+<v Sam Iosevich>What would my financial metrics be when
+those, you know when those things happen,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6631-1
+00:48:25.669 --> 00:48:26.037
+<v Sam Iosevich>right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6634-0
+00:48:26.357 --> 00:48:28.877
+<v Sam Iosevich>So those are the evaluate options.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6663-0
+00:48:30.687 --> 00:48:34.199
+<v Sam Iosevich>You know,
+call it phase or or step on the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6663-1
+00:48:34.199 --> 00:48:39.801
+<v Sam Iosevich>sophistication curve ladder,
+OK and then and then really I think I</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6663-2
+00:48:39.801 --> 00:48:41.807
+<v Sam Iosevich>wanna call this Nirvana.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6674-0
+00:48:41.807 --> 00:48:48.167
+<v Sam Iosevich>But you know this is.
+This is what what we really wanna get to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6680-0
+00:48:49.437 --> 00:48:51.397
+<v Sam Iosevich>And look, we're still working here.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6682-0
+00:48:51.397 --> 00:48:52.117
+<v Sam Iosevich>There are others.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6698-0
+00:48:53.967 --> 00:48:57.056
+<v Sam Iosevich>Who have gotten there in some way or
+another,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6698-1
+00:48:57.056 --> 00:48:59.607
+<v Sam Iosevich>but this is not quite quite there yet.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6702-0
+00:48:59.607 --> 00:49:02.047
+<v Sam Iosevich>For, for for anybody really.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6735-0
+00:49:02.527 --> 00:49:07.598
+<v Sam Iosevich>And that is really generate
+recommendations based on the on the user</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6735-1
+00:49:07.598 --> 00:49:12.596
+<v Sam Iosevich>defined challenges, right?
+So so for example I am sitting there and</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6735-2
+00:49:12.596 --> 00:49:16.197
+<v Sam Iosevich>I am $2,000,
+000 being you know I have a $2,000,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6735-3
+00:49:16.197 --> 00:49:17.887
+<v Sam Iosevich>000 revenue gap, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6754-0
+00:49:18.277 --> 00:49:22.734
+<v Sam Iosevich>Item $2,000,
+000 between behind plan help me feel.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6754-1
+00:49:22.734 --> 00:49:26.317
+<v Sam Iosevich>Help me. Help me you know close that gap.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6762-0
+00:49:26.637 --> 00:49:32.117
+<v Sam Iosevich>Basically, you know you have so, so,
+so you have all of these levers.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6771-0
+00:49:32.317 --> 00:49:35.311
+<v Sam Iosevich>All right.
+You have agents which produce these</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6771-1
+00:49:35.311 --> 00:49:35.757
+<v Sam Iosevich>lovers.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6777-0
+00:49:37.247 --> 00:49:38.167
+<v Sam Iosevich>Help me understand, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6784-0
+00:49:38.517 --> 00:49:42.637
+<v Sam Iosevich>Run the run those it come up with a set
+of.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6799-0
+00:49:44.167 --> 00:49:48.793
+<v Sam Iosevich>Of of scenarios which close that gap and
+then what I can do is start to make a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6799-1
+00:49:48.793 --> 00:49:49.847
+<v Sam Iosevich>business decision.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6809-0
+00:49:51.647 --> 00:49:53.607
+<v Sam Iosevich>Right. What are what are what are those?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6833-0
+00:49:53.607 --> 00:49:58.689
+<v Sam Iosevich>Which scenarios should I go with?
+Or it leads me to the into the you know</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6833-1
+00:49:58.689 --> 00:50:04.251
+<v Sam Iosevich>helps me lead me into the right direction
+in terms of of of where where I should</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6833-2
+00:50:04.251 --> 00:50:05.487
+<v Sam Iosevich>where I should go.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6848-0
+00:50:05.877 --> 00:50:10.317
+<v Sam Iosevich>Right there. These, these,
+these meanings around open to buy, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6866-0
+00:50:10.317 --> 00:50:14.846
+<v Sam Iosevich>They're happening on well on a monthly
+basis and and by the way,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6866-1
+00:50:14.846 --> 00:50:19.932
+<v Sam Iosevich>the preparation for those meetings,
+it takes the rest of the rest of the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6866-2
+00:50:19.932 --> 00:50:20.837
+<v Sam Iosevich>month, right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6902-0
+00:50:22.327 --> 00:50:28.314
+<v Sam Iosevich>The the amount of time saved or the the
+the the quality of the decisions that can</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6902-1
+00:50:28.314 --> 00:50:31.818
+<v Sam Iosevich>be made right.
+Having tools like this in place.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6902-2
+00:50:31.818 --> 00:50:35.687
+<v Sam Iosevich>I mean there's a,
+there's a absolutely a tremendous.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6948-0
+00:50:36.477 --> 00:50:42.090
+<v Sam Iosevich>Value in having in having that what I
+would tell anybody who is who is starting</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6948-1
+00:50:42.090 --> 00:50:45.949
+<v Sam Iosevich>out in this in,
+in this process it's you don't have to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6948-2
+00:50:45.949 --> 00:50:49.597
+<v Sam Iosevich>get to step three and four right.
+Right away start.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6948-3
+00:50:49.597 --> 00:50:54.087
+<v Sam Iosevich>There's an incredible amount of value in
+just in just step one.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6957-0
+00:50:54.117 --> 00:50:57.997
+<v Sam Iosevich>If you look across your organization and
+understand what it takes.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6972-0
+00:50:59.567 --> 00:51:03.424
+<v Sam Iosevich>You know how much time is being spent in
+in,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6972-1
+00:51:03.424 --> 00:51:06.767
+<v Sam Iosevich>in evaluating right in getting answers.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/6980-0
+00:51:07.077 --> 00:51:10.197
+<v Sam Iosevich>For for just these basic things, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7002-0
+00:51:11.687 --> 00:51:18.008
+<v Sam Iosevich>Then just that may be a very good place
+to start and just move and then and then</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7002-1
+00:51:18.008 --> 00:51:21.207
+<v Sam Iosevich>move up the the sophistication curve, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7016-0
+00:51:23.007 --> 00:51:29.167
+<v Sam Iosevich>So I think with that I want to thank you
+all for you know for the time.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7032-0
+00:51:31.997 --> 00:51:35.785
+<v Sam Iosevich>Look again, Eric.
+I want to thank you for for giving me the</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7032-1
+00:51:35.785 --> 00:51:37.237
+<v Sam Iosevich>opportunity to present.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7049-0
+00:51:38.687 --> 00:51:42.291
+<v Sam Iosevich>To your class.
+I I very much enjoyed it and and now,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7049-1
+00:51:42.291 --> 00:51:44.807
+<v Sam Iosevich>by the way, I don't have a hard stop.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7071-0
+00:51:44.807 --> 00:51:49.810
+<v Sam Iosevich>So if any of you guys have any questions
+or or comments or or would like to go to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7071-1
+00:51:49.810 --> 00:51:54.447
+<v Sam Iosevich>any any part of this or dive deeper into
+any area, I'm very happy to do so.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7077-0
+00:51:55.437 --> 00:51:56.477
+<v Hou, Eric>Oh, thank you, Sam.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7113-0
+00:51:56.477 --> 00:52:01.439
+<v Hou, Eric>This is definitely our our pressure to
+have you here is a very a lot of</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7113-1
+00:52:01.439 --> 00:52:06.126
+<v Hou, Eric>information about #1 AI and machine
+learning in in the retail area.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7113-2
+00:52:06.126 --> 00:52:11.157
+<v Hou, Eric>And then it's a pretty pretty cool
+product you guys built. It's awesome.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7119-0
+00:52:10.707 --> 00:52:11.387
+<v Sam Iosevich>Take care.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7127-0
+00:52:11.317 --> 00:52:15.237
+<v Hou, Eric>It's awesome and definitely echo your
+points. A lot of company didn't went to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7133-0
+00:52:15.317 --> 00:52:17.557
+<v Hou, Eric>You know your your step #4.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7138-0
+00:52:17.557 --> 00:52:20.077
+<v Hou, Eric>A lot of companies just basically doing
+#1 and #2.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7141-0
+00:52:20.717 --> 00:52:21.037
+<v Sam Iosevich>Yeah.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7150-0
+00:52:20.847 --> 00:52:23.687
+<v Hou, Eric>Just just on the echo,
+that point is totally, totally right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7156-0
+00:52:24.637 --> 00:52:26.077
+<v Hou, Eric>Any questions folks?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7168-0
+00:52:26.597 --> 00:52:30.705
+<v Hou, Eric>I do have some questions,
+but I I just definitely wanna wait for</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7168-1
+00:52:30.705 --> 00:52:32.917
+<v Hou, Eric>your questions before before I ask.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7186-0
+00:52:48.627 --> 00:52:51.504
+<v Hou, Eric>OK,
+so so so so it seems like people are</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7186-1
+00:52:51.504 --> 00:52:52.627
+<v Hou, Eric>still digesting.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7192-0
+00:52:52.627 --> 00:52:54.587
+<v Hou, Eric>So then let me ask you a question, Sam.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7194-0
+00:52:54.517 --> 00:52:55.237
+<v Sam Iosevich>Sure.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7200-0
+00:52:54.587 --> 00:52:56.667
+<v Hou, Eric>So then I I know right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7204-0
+00:52:56.667 --> 00:52:57.947
+<v Hou, Eric>So then we have.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7229-0
+00:52:58.627 --> 00:53:02.989
+<v Hou, Eric>You know you you have collected some data
+and then running through the algorithm</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7229-1
+00:53:02.989 --> 00:53:05.789
+<v Hou, Eric>and then.
+But we also know that currently there are</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7229-2
+00:53:05.789 --> 00:53:07.027
+<v Hou, Eric>some turbulence, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7239-0
+00:53:07.027 --> 00:53:10.627
+<v Hou, Eric>So then created by whoever we we we both
+know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7243-0
+00:53:10.667 --> 00:53:12.987
+<v Hou, Eric>So then do you still think that?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7252-0
+00:53:13.687 --> 00:53:16.799
+<v Hou, Eric>Going forward,
+we should trust the model suggested</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7252-1
+00:53:16.799 --> 00:53:17.287
+<v Hou, Eric>numbers.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7270-0
+00:53:17.877 --> 00:53:22.363
+<v Hou, Eric>Those suggested strategy towards pricing
+towards allocation,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7270-1
+00:53:22.363 --> 00:53:25.157
+<v Hou, Eric>replenishment towards a lot of things.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7277-0
+00:53:25.807 --> 00:53:27.887
+<v Sam Iosevich>Yeah. So, OK.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7278-0
+00:53:28.367 --> 00:53:29.087
+<v Sam Iosevich>Very good, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7288-0
+00:53:29.087 --> 00:53:32.567
+<v Sam Iosevich>So the question was,
+what do you do with it?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7282-0
+00:53:29.597 --> 00:53:30.037
+<v Hou, Eric>Yeah.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7302-0
+00:53:32.567 --> 00:53:37.126
+<v Sam Iosevich>It's a very similar question like would
+these models work the day before,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7302-1
+00:53:37.126 --> 00:53:37.927
+<v Sam Iosevich>before COVID?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7312-0
+00:53:38.007 --> 00:53:40.967
+<v Sam Iosevich>First of all, I don't believe it's it's.
+It's as bad as that.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7330-0
+00:53:40.967 --> 00:53:44.193
+<v Sam Iosevich>So in in that in.
+So let me go back to the to,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7330-1
+00:53:44.193 --> 00:53:47.487
+<v Sam Iosevich>to the to the COVID case.
+In the case of COVID.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7345-0
+00:53:49.247 --> 00:53:53.908
+<v Sam Iosevich>Here's a situation where any model that
+you would have had would have been in a</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7345-1
+00:53:53.908 --> 00:53:54.607
+<v Sam Iosevich>in a pretty.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7390-0
+00:53:55.317 --> 00:53:59.930
+<v Sam Iosevich>A pretty bad, pretty bad shape, right?
+As you were going through.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7354-0
+00:53:58.327 --> 00:53:58.527
+<v Hou, Eric>Mm hmm.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7390-1
+00:53:59.930 --> 00:54:05.031
+<v Sam Iosevich>And then by the way, when it started,
+this is when we started to collect</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7390-2
+00:54:05.031 --> 00:54:10.692
+<v Sam Iosevich>information on things like COVID deaths
+by state. And actually, if you remember,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7390-3
+00:54:10.692 --> 00:54:13.557
+<v Sam Iosevich>that's what actually drove policy, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7410-0
+00:54:13.597 --> 00:54:16.916
+<v Sam Iosevich>And that's what actually led to, you know,
+differences in sales,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7410-1
+00:54:16.916 --> 00:54:19.877
+<v Sam Iosevich>I'll tell you that around that time we
+were working with.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7425-0
+00:54:20.687 --> 00:54:23.785
+<v Sam Iosevich>With, you know,
+alcohol distribution company right in</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7425-1
+00:54:23.785 --> 00:54:25.047
+<v Sam Iosevich>multi tier system and.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7434-0
+00:54:25.437 --> 00:54:27.397
+<v Sam Iosevich>And you could have on premise and off
+premise.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7471-0
+00:54:27.397 --> 00:54:32.424
+<v Sam Iosevich>So on premise, which you know,
+the bars and so on that went to near zero</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7471-1
+00:54:32.424 --> 00:54:38.003
+<v Sam Iosevich>off premise shot shot through the roof.
+And So what we found was data that would</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7471-2
+00:54:38.003 --> 00:54:40.757
+<v Sam Iosevich>actually start to to explain that right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7496-0
+00:54:40.797 --> 00:54:44.136
+<v Sam Iosevich>So when we get to times of high
+volatility,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7496-1
+00:54:44.136 --> 00:54:49.978
+<v Sam Iosevich>you're going to you're going to see
+issues with with the accuracy of of your</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7496-2
+00:54:49.978 --> 00:54:52.557
+<v Sam Iosevich>of your, of your of your forecast.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7507-0
+00:54:52.757 --> 00:54:58.557
+<v Sam Iosevich>Right. And so you know,
+so for some time here, you know?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7517-0
+00:55:00.367 --> 00:55:03.047
+<v Sam Iosevich>They're not going to be they're not going
+to be useful.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7523-0
+00:55:03.087 --> 00:55:05.207
+<v Sam Iosevich>You mean you could get a situation where
+they're not useful?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7536-0
+00:55:05.207 --> 00:55:08.767
+<v Sam Iosevich>I don't believe that this is going to be
+as bad as COVID, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7545-0
+00:55:08.767 --> 00:55:11.087
+<v Sam Iosevich>But it's going to take some time for you
+to understand, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7558-0
+00:55:11.087 --> 00:55:15.412
+<v Sam Iosevich>To be able to understand what is actually
+are the drivers that you can actually get</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7558-1
+00:55:15.412 --> 00:55:16.287
+<v Sam Iosevich>into your models.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7565-0
+00:55:18.127 --> 00:55:20.607
+<v Sam Iosevich>That, that, that,
+that help explain what is happening.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7595-0
+00:55:21.157 --> 00:55:25.915
+<v Sam Iosevich>I believe today things like consumer
+sentiment, inflation,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7595-1
+00:55:25.915 --> 00:55:32.446
+<v Sam Iosevich>there are macroeconomic variables today
+that that are there that could that very</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7595-2
+00:55:32.446 --> 00:55:36.397
+<v Sam Iosevich>much could explain the variability in the
+model.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7598-0
+00:55:36.467 --> 00:55:37.747
+<v Sam Iosevich>Is it going to be perfect?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7600-0
+00:55:37.787 --> 00:55:39.347
+<v Sam Iosevich>No. Can you?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7612-0
+00:55:39.347 --> 00:55:45.347
+<v Sam Iosevich>Will you get better as as as we get,
+you know, as we go along.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7632-0
+00:55:46.837 --> 00:55:50.844
+<v Sam Iosevich>Absolutely, it's.
+But I don't want to have it give you any</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7632-1
+00:55:50.844 --> 00:55:52.677
+<v Sam Iosevich>type of rose colored glass.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7655-0
+00:55:52.877 --> 00:55:57.506
+<v Sam Iosevich>Answer where where I could say there's
+something that you could do right now to</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7655-1
+00:55:57.506 --> 00:56:02.077
+<v Sam Iosevich>account for all of the volatility that
+that we're seeing in the in the market.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7686-0
+00:56:05.107 --> 00:56:11.134
+<v Hou, Eric>And also you said Parker Avery is is
+swerving some information and then we do</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7686-1
+00:56:11.134 --> 00:56:16.387
+<v Hou, Eric>know in this class that we have,
+there is a thing called SCC Edgar.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7720-0
+00:56:16.387 --> 00:56:19.158
+<v Hou, Eric>So that's a sort of like the data,
+you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7720-1
+00:56:19.158 --> 00:56:23.161
+<v Hou, Eric>the public companies reporting their
+10K10Q reports for for SEC.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7720-2
+00:56:23.161 --> 00:56:28.026
+<v Hou, Eric>I don't know if that's a part of data you
+guys are using in your tool and then</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7720-3
+00:56:28.026 --> 00:56:30.797
+<v Hou, Eric>whether or not you just provided any way
+to.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7723-0
+00:56:30.797 --> 00:56:31.627
+<v Hou, Eric>The to your customers.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7765-0
+00:56:32.827 --> 00:56:38.130
+<v Sam Iosevich>So if from a from a competitor standpoint
+it it can be,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7765-1
+00:56:38.130 --> 00:56:43.149
+<v Sam Iosevich>if you're working with a particular
+company, the 10,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7738-0
+00:56:39.527 --> 00:56:39.687
+<v Hou, Eric>Yeah.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7765-2
+00:56:43.149 --> 00:56:49.304
+<v Sam Iosevich>the 10Q or the 10K can help explain you
+why you're there in, in,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7765-3
+00:56:49.304 --> 00:56:51.387
+<v Sam Iosevich>in in the first place.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7766-0
+00:56:51.687 --> 00:56:52.527
+<v Hou, Eric>Correct, correct.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7793-0
+00:56:52.877 --> 00:56:57.632
+<v Sam Iosevich>But in terms of the type of of data that
+we're working with, it's, you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7793-1
+00:56:57.632 --> 00:57:02.077
+<v Sam Iosevich>a lot of it is is, you know,
+the macroeconomic, we tend to source from.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7811-0
+00:57:02.507 --> 00:57:05.307
+<v Sam Iosevich>From Fred,
+you know there's there's there's other</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7811-1
+00:57:05.307 --> 00:57:08.947
+<v Sam Iosevich>companies like Privateer and Moody's,
+which actually have which.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7836-0
+00:57:08.947 --> 00:57:13.482
+<v Sam Iosevich>Take that information and then harmonize
+that with with other countries</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7836-1
+00:57:13.482 --> 00:57:18.331
+<v Sam Iosevich>information you know to make it easier
+for you to, for example, to have a A,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7836-2
+00:57:18.331 --> 00:57:20.787
+<v Sam Iosevich>you know, global projections and so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7845-0
+00:57:22.317 --> 00:57:24.077
+<v Sam Iosevich>We, we, we, we we scrape.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7862-0
+00:57:24.317 --> 00:57:29.554
+<v Sam Iosevich>We scrape information to understand
+things like trends and trends and fashion</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7862-1
+00:57:29.554 --> 00:57:31.837
+<v Sam Iosevich>what's happen, competitor pricing.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7902-0
+00:57:33.107 --> 00:57:37.581
+<v Sam Iosevich>That that we actually do do ourselves and
+sometimes sometimes partner with,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7902-1
+00:57:37.581 --> 00:57:42.055
+<v Sam Iosevich>and sometimes we actually partner with
+with companies like for instanceite,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7902-2
+00:57:42.055 --> 00:57:45.587
+<v Sam Iosevich>there's there's a,
+there's a startup called InStyle as well</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7902-3
+00:57:45.587 --> 00:57:49.707
+<v Sam Iosevich>to help you understand what are the,
+what are the trends right in in.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7907-0
+00:57:51.357 --> 00:57:53.397
+<v Sam Iosevich>Not only different markets, but for.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7913-0
+00:57:55.197 --> 00:57:56.997
+<v Sam Iosevich>You know in fashion, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7918-0
+00:57:56.997 --> 00:57:59.597
+<v Sam Iosevich>Which help you produce, you know.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7922-0
+00:58:01.357 --> 00:58:02.317
+<v Sam Iosevich>Produce produce those projects.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7928-0
+00:58:02.987 --> 00:58:04.627
+<v Sam Iosevich>Forecasts, you know, so on.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7934-0
+00:58:05.367 --> 00:58:06.247
+<v Hou, Eric>Got it, got it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7948-0
+00:58:06.647 --> 00:58:09.610
+<v Hou, Eric>Yeah, yeah,
+the 10K10Q data has a lot of limitations</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7948-1
+00:58:09.610 --> 00:58:11.567
+<v Hou, Eric>because they only provide you some.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7949-0
+00:58:11.567 --> 00:58:12.647
+<v Hou, Eric>Something already happened.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7986-0
+00:58:12.647 --> 00:58:16.627
+<v Hou, Eric>And then you know the manager is gonna
+give you some opinion like. Well,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7986-1
+00:58:16.627 --> 00:58:20.934
+<v Hou, Eric>they think that what gonna happen in the
+in the coming time and no one really.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7986-2
+00:58:20.934 --> 00:58:25.186
+<v Hou, Eric>Well except for the Wall Street. Right.
+So they're gonna impact reflect those</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7986-3
+00:58:25.186 --> 00:58:27.367
+<v Hou, Eric>information in their stock price but no.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/7998-0
+00:58:27.367 --> 00:58:31.687
+<v Hou, Eric>One really check their their opinions
+whether it holds to be right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8006-0
+00:58:32.397 --> 00:58:33.477
+<v Hou, Eric>From from a year later.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8015-0
+00:58:33.477 --> 00:58:35.967
+<v Hou, Eric>So that's,
+that's the definitely the limitation of</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8015-1
+00:58:35.967 --> 00:58:36.797
+<v Hou, Eric>using those data.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8036-0
+00:58:38.307 --> 00:58:40.801
+<v Hou, Eric>Any questions from the students?
+I you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8036-1
+00:58:40.801 --> 00:58:44.347
+<v Hou, Eric>Sam value your time is already 636,
+so maybe one last question.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8042-0
+00:58:45.917 --> 00:58:46.557
+<v Hou, Eric>One last question.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8049-0
+00:58:46.557 --> 00:58:50.277
+<v Hou, Eric>Could be easier any any summer interns
+for Marquette students?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8062-0
+00:58:51.927 --> 00:58:57.887
+<v Sam Iosevich>So. So by the way it's, I mean, are,
+are we talking about second years or?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8065-0
+00:58:59.717 --> 00:59:00.237
+<v Sam Iosevich>So I would say.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8071-0
+00:59:02.157 --> 00:59:02.797
+<v Sam Iosevich>So for.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8074-0
+00:59:02.317 --> 00:59:03.557
+<v Hou, Eric>Yeah, we have this.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8081-0
+00:59:03.557 --> 00:59:05.397
+<v Hou, Eric>This is a combination of two classes,
+right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8104-0
+00:59:05.397 --> 00:59:10.746
+<v Hou, Eric>So then we have 1/2 of class from
+undergrad program and half of the class</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8104-1
+00:59:10.746 --> 00:59:15.517
+<v Hou, Eric>from grass programs and then Master's
+MBAs are are actually here.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8106-0
+00:59:16.887 --> 00:59:17.487
+<v Sam Iosevich>Yeah.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8137-0
+00:59:19.277 --> 00:59:24.572
+<v Sam Iosevich>So you would have here I mean a lot of
+the stuff you would have heard heard</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8137-1
+00:59:24.572 --> 00:59:27.846
+<v Sam Iosevich>already,
+hopefully around the importance of of</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8137-2
+00:59:27.846 --> 00:59:31.677
+<v Sam Iosevich>internships and experience with, with,
+with companies.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8149-0
+00:59:31.677 --> 00:59:37.563
+<v Sam Iosevich>Some of this doesn't even have to be,
+you know, official official experience,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8149-1
+00:59:37.563 --> 00:59:38.317
+<v Sam Iosevich>right? So.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8165-0
+00:59:40.157 --> 00:59:43.929
+<v Sam Iosevich>You know,
+we we sometimes get involved with doing</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8165-1
+00:59:43.929 --> 00:59:46.117
+<v Sam Iosevich>projects with people who are.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8170-0
+00:59:46.507 --> 00:59:47.267
+<v Sam Iosevich>Who are in school?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8172-0
+00:59:47.267 --> 00:59:48.667
+<v Sam Iosevich>That could be kind of.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8210-0
+00:59:50.197 --> 00:59:53.625
+<v Sam Iosevich>Just just basically smaller 33 to,
+you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8210-1
+00:59:53.625 --> 00:59:59.339
+<v Sam Iosevich>week or sometimes up to two-month
+two-month engagement where we can we can</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8210-2
+00:59:59.339 --> 01:00:05.510
+<v Sam Iosevich>build out a particular offering but also
+the the the students get experience you</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8210-3
+01:00:05.510 --> 01:00:10.157
+<v Sam Iosevich>know in in industry all of those things I
+mean those things.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8219-0
+01:00:10.157 --> 01:00:14.717
+<v Sam Iosevich>Are obviously going to be going to be
+important, right?</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8222-0
+01:00:14.717 --> 01:00:16.157
+<v Sam Iosevich>And help you stand out as.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8229-0
+01:00:16.747 --> 01:00:19.387
+<v Sam Iosevich>As you hit the hit, hit the job market.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8239-0
+01:00:21.457 --> 01:00:23.977
+<v Hou, Eric>Got it, got it.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8232-0
+01:00:21.827 --> 01:00:21.987
+<v Sam Iosevich>Zero.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8244-0
+01:00:23.497 --> 01:00:25.937
+<v Sam Iosevich>All right, guys, thank you again.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8248-0
+01:00:24.537 --> 01:00:25.857
+<v Hou, Eric>Thank you so much, Sam.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8249-0
+01:00:26.097 --> 01:00:26.777
+<v Sam Iosevich>Thank you so much.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8253-0
+01:00:26.777 --> 01:00:27.937
+<v Sam Iosevich>I will forward Eric.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8263-0
+01:00:27.937 --> 01:00:31.657
+<v Sam Iosevich>I'll forward this to you and and once
+again it was.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8287-0
+01:00:31.657 --> 01:00:35.612
+<v Sam Iosevich>It was my pleasure and honor to be with
+you all today and and you know,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8287-1
+01:00:35.612 --> 01:00:39.017
+<v Sam Iosevich>please have a have a, you know,
+the regular rest of your day.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8285-0
+01:00:37.167 --> 01:00:38.527
+<v Hou, Eric>Another no problem.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8290-0
+01:00:38.527 --> 01:00:39.927
+<v Hou, Eric>Thank you so much, Sam.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8294-0
+01:00:39.857 --> 01:00:40.537
+<v Sam Iosevich>Thank you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8302-0
+01:00:39.927 --> 01:00:42.052
+<v Hou, Eric>Oh,
+I took some pictures while you were doing</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8299-0
+01:00:40.947 --> 01:00:41.627
+<v Teske, Benjamin>Thanks Sam.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8302-1
+01:00:42.052 --> 01:00:43.207
+<v Hou, Eric>the presentation. I will.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8315-0
+01:00:43.207 --> 01:00:46.487
+<v Hou, Eric>I will send a picture and and then it's
+recording to you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8305-0
+01:00:43.217 --> 01:00:43.777
+<v Sam Iosevich>Pepper.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8314-0
+01:00:46.927 --> 01:00:47.367
+<v Sam Iosevich>All right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8320-0
+01:00:47.367 --> 01:00:48.087
+<v Sam Iosevich>Thank you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8318-0
+01:00:47.957 --> 01:00:48.277
+<v Hou, Eric>All right.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8328-0
+01:00:48.087 --> 01:00:48.847
+<v Sam Iosevich>Alright, have a good one.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8326-0
+01:00:48.317 --> 01:00:49.117
+<v Hou, Eric>Thank you so much.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8325-0
+01:00:48.567 --> 01:00:49.247
+<v Severin, Noah>Thank you.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8335-0
+01:00:49.117 --> 01:00:50.477
+<v Hou, Eric>Thank you so much. Bye.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8336-0
+01:00:50.227 --> 01:00:50.867
+<v Mertens, Aidric>Thank you, Sam.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8332-0
+01:00:50.317 --> 01:00:50.637
+<v Sam Iosevich>Bye bye.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8348-0
+01:00:54.077 --> 01:00:58.597
+<v Hou, Eric>All right for. Oh, well, I'm.
+I don't know why I'm I'm showing here.</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8364-0
+01:00:58.597 --> 01:01:06.835
+<v Hou, Eric>So the for the students that's take 15
+minutes break. So we come back 653. OK,</v>
+
+15c488b7-e6c9-4620-9497-f471ba57d88d/8364-1
+01:01:06.835 --> 01:01:07.877
+<v Hou, Eric>thank you.</v>

@@ -1,0 +1,4910 @@
+WEBVTT
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/25-0
+00:00:09.708 --> 00:00:10.188
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/29-0
+00:00:11.728 --> 00:00:13.248
+<v Hou, Eric>Let me share my screen.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/32-0
+00:00:22.558 --> 00:00:23.478
+<v Hou, Eric>Can you guys see my screen?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/44-0
+00:00:24.458 --> 00:00:27.643
+<v Hou, Eric>If you do,
+you see a slide talking about what about</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/44-1
+00:00:27.643 --> 00:00:28.378
+<v Hou, Eric>this course.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/48-0
+00:00:29.838 --> 00:00:30.438
+<v Severin, Noah>Yeah, we can see it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/52-0
+00:00:30.668 --> 00:00:31.308
+<v Mizwicki, Andrew>Yeah, we can see it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/53-0
+00:00:31.118 --> 00:00:32.718
+<v Hou, Eric>Oh, perfect. Perfect. All right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/61-0
+00:00:34.518 --> 00:00:37.158
+<v Hou, Eric>Happy New Year, happy coming back.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/70-0
+00:00:37.758 --> 00:00:40.438
+<v Hou, Eric>So then thank you for joining this new
+course.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/97-0
+00:00:41.358 --> 00:00:46.057
+<v Hou, Eric>So I just want to spend some time talking
+about these cores and what we are going</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/97-1
+00:00:46.057 --> 00:00:49.724
+<v Hou, Eric>to cover and then what you guys are going
+to learn or stop. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/97-2
+00:00:49.724 --> 00:00:51.558
+<v Hou, Eric>So let me move the second slide.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/99-0
+00:00:51.558 --> 00:00:52.518
+<v Hou, Eric>Who am I?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/107-0
+00:00:53.868 --> 00:00:55.708
+<v Hou, Eric>By the way, is it a full screen on your?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/132-0
+00:00:55.708 --> 00:00:59.691
+<v Hou, Eric>On your screen or just basically part of
+it? Because I see part of it,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/132-1
+00:00:59.691 --> 00:01:02.946
+<v Hou, Eric>I'm not quite sure over there on your
+screen. Is that OK?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/132-2
+00:01:02.946 --> 00:01:04.348
+<v Hou, Eric>Is the size of slides OK?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/140-0
+00:01:06.328 --> 00:01:07.488
+<v Mizwicki, Andrew>Everything looks good. Yep.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/138-0
+00:01:06.338 --> 00:01:06.898
+<v Weidner, Declan>Perfect.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/139-0
+00:01:07.478 --> 00:01:07.758
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/142-0
+00:01:07.758 --> 00:01:09.678
+<v Hou, Eric>Perfect. OK, who am I?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/150-0
+00:01:12.558 --> 00:01:14.478
+<v Hou, Eric>My name is Eric, so you can call me Eric.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/159-0
+00:01:16.158 --> 00:01:20.358
+<v Hou, Eric>And I'm pH. D in mathematics from you,
+Rochester.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/164-0
+00:01:20.358 --> 00:01:23.078
+<v Hou, Eric>So I I learn probability over there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/211-0
+00:01:23.668 --> 00:01:27.443
+<v Hou, Eric>My major is stochastic differential
+equations.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/211-1
+00:01:27.443 --> 00:01:31.860
+<v Hou, Eric>I hope you guys know it and in case you
+don't know it,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/211-2
+00:01:31.860 --> 00:01:35.715
+<v Hou, Eric>that's totally fine as a part of a
+probability.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/211-3
+00:01:35.715 --> 00:01:41.256
+<v Hou, Eric>So learn from upstate New York and then I
+got an MBA from U Chicago,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/211-4
+00:01:41.256 --> 00:01:44.388
+<v Hou, Eric>Chicago Booth School of Business. So I.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/222-0
+00:01:44.388 --> 00:01:49.188
+<v Hou, Eric>Currently a director of data science Mlai
+at a Brady Corporation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/234-0
+00:01:50.398 --> 00:01:53.758
+<v Hou, Eric>I happen to know and also a board Advisor
+Advisory Board.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/240-0
+00:01:54.108 --> 00:01:56.468
+<v Hou, Eric>A member of the Finance department.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/254-0
+00:01:56.788 --> 00:02:02.388
+<v Hou, Eric>So then we talk about, you know,
+creating some cores, exploring aiml.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/282-0
+00:02:02.468 --> 00:02:07.356
+<v Hou, Eric>So that's why they asked me to teach this
+class. As you can see,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/282-1
+00:02:07.356 --> 00:02:11.643
+<v Hou, Eric>I never have the privilege of produc to
+to really, like,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/282-2
+00:02:11.643 --> 00:02:13.748
+<v Hou, Eric>learn anything at Marquette.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/291-0
+00:02:13.748 --> 00:02:18.997
+<v Hou, Eric>So this kind of new to me,
+like starting from learning D2L or stuff</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/291-1
+00:02:18.997 --> 00:02:19.228
+<v Hou, Eric>so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/295-0
+00:02:19.998 --> 00:02:20.958
+<v Hou, Eric>Glad to meeting you guys, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/301-0
+00:02:23.038 --> 00:02:23.918
+<v Hou, Eric>Are you guys?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/312-0
+00:02:24.318 --> 00:02:27.718
+<v Hou, Eric>I I know there are two courses,
+some of you are are grad students, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/315-0
+00:02:27.718 --> 00:02:28.758
+<v Hou, Eric>Some of you are undergrad.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/322-0
+00:02:29.068 --> 00:02:31.938
+<v Hou, Eric>Right.
+So then are you guys from finance</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/322-1
+00:02:31.938 --> 00:02:32.708
+<v Hou, Eric>background?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/324-0
+00:02:36.168 --> 00:02:37.168
+<v Brozynski, Jaden>Finance and accounting.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/332-0
+00:02:38.158 --> 00:02:41.598
+<v Hou, Eric>Finance. Accounting. OK, perfect.
+Any other folks?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/335-0
+00:02:43.978 --> 00:02:45.218
+<v Weidner, Declan>Finance and supply chain.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/341-0
+00:02:46.038 --> 00:02:47.398
+<v Halm, William>Finance and information systems.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/349-0
+00:02:46.238 --> 00:02:50.718
+<v Hou, Eric>Oh, fine. Is, oh, finance, a supply chain.
+Wow. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/375-0
+00:02:51.358 --> 00:02:55.983
+<v Hou, Eric>Alright,
+so since since I just introduced myself</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/375-1
+00:02:55.983 --> 00:03:03.251
+<v Hou, Eric>so then I will actually want to go around
+table to ask you guys to introduce</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/375-2
+00:03:03.251 --> 00:03:04.478
+<v Hou, Eric>yourself, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/384-0
+00:03:04.638 --> 00:03:11.118
+<v Hou, Eric>So then you gonna tell me or tell
+everyone in this group?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/401-0
+00:03:11.918 --> 00:03:16.796
+<v Hou, Eric>Of several information then who you are.
+And are you a grad student or undergrad</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/401-1
+00:03:16.796 --> 00:03:17.278
+<v Hou, Eric>student?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/416-0
+00:03:18.188 --> 00:03:26.108
+<v Hou, Eric>And what's your goal of taking this class
+right? And then and then where do you add?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/419-0
+00:03:26.108 --> 00:03:26.748
+<v Hou, Eric>Where are you?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/423-0
+00:03:26.788 --> 00:03:27.868
+<v Hou, Eric>Where do you add?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/427-0
+00:03:28.068 --> 00:03:29.588
+<v Hou, Eric>Where are you add add.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/431-0
+00:03:29.588 --> 00:03:31.268
+<v Hou, Eric>You know the AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/462-0
+00:03:31.268 --> 00:03:35.629
+<v Hou, Eric>Have you ever use open Ai's or that could
+be some quick question to answer,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/462-1
+00:03:35.629 --> 00:03:39.933
+<v Hou, Eric>so I would just go around the table,
+ask you guys to introduce yourself so</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/462-2
+00:03:39.933 --> 00:03:42.228
+<v Hou, Eric>that everyone can get familiar with who.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/468-0
+00:03:43.358 --> 00:03:45.918
+<v Hou, Eric>Are sitting next to you in a virtual
+meeting.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/471-0
+00:03:46.868 --> 00:03:48.188
+<v Hou, Eric>Per SE, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/474-0
+00:03:49.758 --> 00:03:50.958
+<v Hou, Eric>Any volunteer?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/480-0
+00:03:52.628 --> 00:03:53.748
+<v Capozzoli, Jay>Oh, my name's Jay.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/485-0
+00:03:53.748 --> 00:03:54.708
+<v Capozzoli, Jay>I'm an undergrad.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/499-0
+00:03:54.708 --> 00:03:58.468
+<v Capozzoli, Jay>I don't have much experience with AI,
+but I hope to learn more about it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/500-0
+00:03:58.468 --> 00:03:59.948
+<v Capozzoli, Jay>Cs application in finance.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/503-0
+00:04:00.028 --> 00:04:00.788
+<v Capozzoli, Jay>I'm a finance major.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/512-0
+00:04:01.538 --> 00:04:04.898
+<v Hou, Eric>OK, Jay, your finance major. OK, cool off.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/521-0
+00:04:07.728 --> 00:04:08.768
+<v Brozynski, Jaden>My name is Jayden.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/526-0
+00:04:08.808 --> 00:04:10.328
+<v Brozynski, Jaden>I'm from Milwaukee.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/529-0
+00:04:11.168 --> 00:04:12.768
+<v Brozynski, Jaden>I'm undergraduate as well.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/550-0
+00:04:13.688 --> 00:04:16.023
+<v Brozynski, Jaden>I have a little bit of background using
+AI,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/550-1
+00:04:16.023 --> 00:04:20.322
+<v Brozynski, Jaden>but I would definitely like to learn more
+about it and kind of using it for like</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/550-2
+00:04:20.322 --> 00:04:21.808
+<v Brozynski, Jaden>the financial world as well.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/551-0
+00:04:22.278 --> 00:04:22.798
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/555-0
+00:04:25.338 --> 00:04:26.298
+<v Matt Benbenek>I'm Matt.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/563-0
+00:04:26.458 --> 00:04:29.338
+<v Matt Benbenek>I'm a grad student in the MBA program.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/587-0
+00:04:29.408 --> 00:04:34.542
+<v Matt Benbenek>My undergrad was in engineering and now I
+work as a project leader at Milwaukee</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/587-1
+00:04:34.542 --> 00:04:37.366
+<v Matt Benbenek>Tool,
+so I use a little bit finance but and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/575-0
+00:04:34.758 --> 00:04:35.198
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/587-2
+00:04:37.366 --> 00:04:41.088
+<v Matt Benbenek>I've used AI like ChatGPT a little bit,
+but not too much.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/588-0
+00:04:41.728 --> 00:04:42.168
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/590-0
+00:04:43.498 --> 00:04:43.618
+<v Matt Benbenek>Run.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/592-0
+00:04:45.218 --> 00:04:45.818
+<v Mizwicki, Andrew>I'm Andrew.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/611-0
+00:04:47.368 --> 00:04:51.688
+<v Mizwicki, Andrew>I'm a undergraduate studying finance and
+the AIM program the Fintech track.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/652-0
+00:04:52.568 --> 00:04:58.203
+<v Mizwicki, Andrew>I have a little bit of a background in AI
+and LMS like using ChatGPT and building</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/652-1
+00:04:58.203 --> 00:05:03.081
+<v Mizwicki, Andrew>them as well and same area learn.
+Looking to learn more for unlike the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/632-0
+00:04:59.598 --> 00:04:59.798
+<v Hou, Eric>Mm hmm.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/652-2
+00:05:03.081 --> 00:05:06.448
+<v Mizwicki, Andrew>applied AI and machine learning side for
+my job.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/654-0
+00:05:07.148 --> 00:05:08.348
+<v Hou, Eric>OK, sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/658-0
+00:05:09.418 --> 00:05:10.218
+<v Bodine, Will>I'm will.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/663-0
+00:05:10.218 --> 00:05:11.618
+<v Bodine, Will>I'm an undergrad student.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/676-0
+00:05:11.738 --> 00:05:15.803
+<v Bodine, Will>I studied finance and supply chain and I
+don't have much experience with AI yet,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/676-1
+00:05:15.803 --> 00:05:17.058
+<v Bodine, Will>but I'm excited to learn.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/680-0
+00:05:20.848 --> 00:05:21.648
+<v Huebner, Kaitlyn>I'm Caitlin.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/681-0
+00:05:21.258 --> 00:05:21.778
+<v Hollenbach, Patrick>Patrick.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/686-0
+00:05:23.368 --> 00:05:24.128
+<v Hollenbach, Patrick>OK, let go ahead.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/698-0
+00:05:24.728 --> 00:05:25.888
+<v Huebner, Kaitlyn>Sorry, I'm Caitlin.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/710-0
+00:05:26.088 --> 00:05:30.768
+<v Huebner, Kaitlyn>I'm an undergrad student studying finance
+and marketing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/733-0
+00:05:31.088 --> 00:05:35.648
+<v Huebner, Kaitlyn>I'm from the Milwaukee area and then I
+don't have too much experience with AI,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/733-1
+00:05:35.648 --> 00:05:39.168
+<v Huebner, Kaitlyn>so I'd like to learn more kind of the
+applied AI stuff like.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/732-0
+00:05:38.618 --> 00:05:39.098
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/739-0
+00:05:41.788 --> 00:05:43.068
+<v Hollenbach, Patrick>All right, I'm. I'm Patrick.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/742-0
+00:05:43.068 --> 00:05:44.268
+<v Hollenbach, Patrick>I'm an MBA student.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/754-0
+00:05:44.468 --> 00:05:47.108
+<v Hollenbach, Patrick>Currently I work at Rockwell Automation
+as a test engineer.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/778-0
+00:05:47.148 --> 00:05:49.074
+<v Hollenbach, Patrick>My background is in electrical
+engineering.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/778-1
+00:05:49.074 --> 00:05:52.750
+<v Hollenbach, Patrick>I don't have a ton of experience with AI,
+but I'm looking forward to learning about</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/778-2
+00:05:52.750 --> 00:05:54.588
+<v Hollenbach, Patrick>how to apply it to different applications.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/781-0
+00:05:55.458 --> 00:05:55.938
+<v Hou, Eric>Perfect.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/786-0
+00:05:57.528 --> 00:05:58.288
+<v Guiter, Sophia>I'm Sophia.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/807-0
+00:05:58.288 --> 00:06:02.515
+<v Guiter, Sophia>I'm an undergraduate student.
+I've had some exposure to AI and open</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/807-1
+00:06:02.515 --> 00:06:05.187
+<v Guiter, Sophia>omiss,
+but looking to learn more on how it</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/807-2
+00:06:05.187 --> 00:06:06.368
+<v Guiter, Sophia>applies to finance.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/814-0
+00:06:09.538 --> 00:06:10.538
+<v Carone, Matt>My name is Matt.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/841-0
+00:06:10.658 --> 00:06:13.450
+<v Carone, Matt>I'm an undergrad student studying
+accounting and finance,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/841-1
+00:06:13.450 --> 00:06:17.204
+<v Carone, Matt>and I haven't had much experience like
+most of the other people here with AI,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/841-2
+00:06:17.204 --> 00:06:19.418
+<v Carone, Matt>but I'm super excited to learn more about
+it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/842-0
+00:06:20.248 --> 00:06:20.648
+<v Hou, Eric>Nice.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/853-0
+00:06:25.158 --> 00:06:27.118
+<v Haroon, Sufyan>Hi, my name is Sophia and Haroon.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/863-0
+00:06:27.118 --> 00:06:31.478
+<v Haroon, Sufyan>I am in the MBA program doing
+specialization in analytics.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/882-0
+00:06:31.878 --> 00:06:36.521
+<v Haroon, Sufyan>I've had some experience with AI because
+I used it for other of my courses to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/882-1
+00:06:36.521 --> 00:06:39.318
+<v Haroon, Sufyan>build large language models and Python
+coding.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/884-0
+00:06:38.908 --> 00:06:40.108
+<v Hou, Eric>Sure. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/898-0
+00:06:41.088 --> 00:06:44.968
+<v Haroon, Sufyan>And I have a construction business with
+my father where I work full time.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/888-0
+00:06:41.718 --> 00:06:41.878
+<v Hou, Eric>Sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/900-0
+00:06:46.108 --> 00:06:47.308
+<v Hou, Eric>Oh, OK, cool.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/903-0
+00:06:50.588 --> 00:06:51.428
+<v Vargas, Cristian>I'm Christian.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/907-0
+00:06:51.468 --> 00:06:52.508
+<v Vargas, Cristian>I'm in undergrad.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/924-0
+00:06:52.548 --> 00:06:56.103
+<v Vargas, Cristian>I'm majoring in information systems and
+I've used AI before,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/924-1
+00:06:56.103 --> 00:06:59.308
+<v Vargas, Cristian>but I want to learn more about practical
+applications.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/930-0
+00:07:00.468 --> 00:07:01.468
+<v Hou, Eric>Nice. So what?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/936-0
+00:07:01.468 --> 00:07:04.108
+<v Hou, Eric>If I may ask,
+what kind of AI have you used before?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/942-0
+00:07:06.348 --> 00:07:08.588
+<v Vargas, Cristian>Just like Chad you did and Gemini.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/948-0
+00:07:09.878 --> 00:07:11.278
+<v Hou, Eric>Chair GPU Gemini. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/954-0
+00:07:13.078 --> 00:07:13.758
+<v Severin, Noah>Everyone.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/956-0
+00:07:13.158 --> 00:07:16.038
+<v Weidner, Declan>My name is Declan. Go for it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/960-0
+00:07:15.808 --> 00:07:17.368
+<v Severin, Noah>God alright.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/961-0
+00:07:17.688 --> 00:07:18.368
+<v Severin, Noah>Hey everyone.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/995-0
+00:07:20.018 --> 00:07:24.089
+<v Severin, Noah>Noah Severin, I AMBA student here,
+Marquette with the specialization in</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/995-1
+00:07:24.089 --> 00:07:27.934
+<v Severin, Noah>finance that I'm pursuing.
+I currently work as a product manager at</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/995-2
+00:07:27.934 --> 00:07:30.818
+<v Severin, Noah>a company called Steelsolutions here in
+Milwaukee.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/998-0
+00:07:31.558 --> 00:07:31.838
+<v Hou, Eric>Mm hmm mm.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1017-0
+00:07:32.578 --> 00:07:38.421
+<v Severin, Noah>And I frequently use ChatGPT and Gemini
+to do research on new products in new</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1017-1
+00:07:38.421 --> 00:07:40.818
+<v Severin, Noah>markets that we're looking into.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1023-0
+00:07:40.358 --> 00:07:41.918
+<v Hou, Eric>Oh wow. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1044-0
+00:07:41.918 --> 00:07:45.700
+<v Hou, Eric>So if you change in Gemini to do the
+research on product,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1044-1
+00:07:45.700 --> 00:07:50.198
+<v Hou, Eric>do you think the answer from either
+ChatGPT and Gemini are reliable?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1066-0
+00:07:52.118 --> 00:07:56.355
+<v Severin, Noah>Not 100% usually.
+If I'm gonna take any facts and figures</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1051-0
+00:07:53.588 --> 00:07:53.908
+<v Hou, Eric>Yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1066-1
+00:07:56.355 --> 00:08:00.518
+<v Severin, Noah>and put them in front of our team,
+I double check those.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1081-0
+00:08:02.058 --> 00:08:04.603
+<v Severin, Noah>But for the most part,
+it seems they seem to be getting better</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1081-1
+00:08:04.603 --> 00:08:06.138
+<v Severin, Noah>and better over time, that's for sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1084-0
+00:08:07.128 --> 00:08:08.288
+<v Hou, Eric>OK, sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1087-0
+00:08:10.038 --> 00:08:10.958
+<v Weidner, Declan>I'm Declan.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1112-0
+00:08:10.998 --> 00:08:15.780
+<v Weidner, Declan>I'm an undergraduate studying supply
+chain finance and as far as my experience</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1112-1
+00:08:15.780 --> 00:08:20.198
+<v Weidner, Declan>with AII don't have a ton except with a
+little bit of open AI, Chad GBT.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1114-0
+00:08:21.578 --> 00:08:22.058
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1121-0
+00:08:24.038 --> 00:08:25.038
+<v Teske, Benjamin>I'm Ben tusky.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1132-0
+00:08:25.038 --> 00:08:29.638
+<v Teske, Benjamin>I'm in the MBA program currently working
+at Milwaukee Tool as a product manager.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1166-0
+00:08:31.208 --> 00:08:33.569
+<v Teske, Benjamin>I have a background in undergrad in
+marketing,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1166-1
+00:08:33.569 --> 00:08:35.830
+<v Teske, Benjamin>but I'm obviously doing my MBA now and
+then.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1166-2
+00:08:35.830 --> 00:08:39.798
+<v Teske, Benjamin>I have a little bit experience with AI
+and ML for working with our ML team and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1166-3
+00:08:39.798 --> 00:08:42.008
+<v Teske, Benjamin>different product development
+applications.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1168-0
+00:08:42.828 --> 00:08:43.068
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1175-0
+00:08:43.068 --> 00:08:46.188
+<v Hou, Eric>So if I may ask like how what?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1180-0
+00:08:46.188 --> 00:08:47.468
+<v Hou, Eric>What kind of AI usage?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1187-0
+00:08:47.468 --> 00:08:50.468
+<v Hou, Eric>Your ML team is is is kind of building.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1212-0
+00:08:51.508 --> 00:08:54.486
+<v Teske, Benjamin>Yeah.
+So we implemented into the technology of</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1212-1
+00:08:54.486 --> 00:08:59.047
+<v Teske, Benjamin>some of the tools that we come up with
+that can sense like kickback and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1212-2
+00:08:59.047 --> 00:09:01.708
+<v Teske, Benjamin>different unsafe situations for users, so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1215-0
+00:09:01.658 --> 00:09:02.578
+<v Hou, Eric>Oh oh, I see.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1219-0
+00:09:03.248 --> 00:09:04.408
+<v Teske, Benjamin>Yeah, we developed the.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1241-0
+00:09:06.838 --> 00:09:10.595
+<v Teske, Benjamin>We we put the the technology in the tool
+to be able to send some of those</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1241-1
+00:09:10.595 --> 00:09:14.098
+<v Teske, Benjamin>applications and then the user ML
+algorithm to learn that and run it</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1241-2
+00:09:14.098 --> 00:09:16.078
+<v Teske, Benjamin>through a bunch of different scenarios.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1244-0
+00:09:17.088 --> 00:09:17.368
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1278-0
+00:09:17.368 --> 00:09:23.416
+<v Hou, Eric>So so sort of like identifying some some
+areas that are really concerning and then</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1278-1
+00:09:23.416 --> 00:09:27.351
+<v Hou, Eric>do you guys use,
+you know either ChatGPT or Gemini to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1278-2
+00:09:27.351 --> 00:09:32.088
+<v Hou, Eric>create some content like personalized
+content to your customers?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1285-0
+00:09:34.228 --> 00:09:35.908
+<v Teske, Benjamin>That's a good question.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1286-0
+00:09:35.948 --> 00:09:36.828
+<v Teske, Benjamin>I don't know.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1303-0
+00:09:37.108 --> 00:09:40.621
+<v Teske, Benjamin>So I work with the ML team.
+I'm not the ones that are actually doing</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1302-0
+00:09:40.098 --> 00:09:40.978
+<v Hou, Eric>Sure. No.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1303-1
+00:09:40.621 --> 00:09:41.588
+<v Teske, Benjamin>some of that stuff.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1313-0
+00:09:41.588 --> 00:09:43.508
+<v Teske, Benjamin>So I'm not exactly sure if they do that
+or not.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1318-0
+00:09:42.308 --> 00:09:46.108
+<v Hou, Eric>Understood. OK. OK.
+Understood that that makes sense.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1319-0
+00:09:46.108 --> 00:09:46.828
+<v Hou, Eric>That makes sense, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1322-0
+00:09:50.368 --> 00:09:51.168
+<v Halm, William>I'm will.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1337-0
+00:09:51.168 --> 00:09:54.242
+<v Halm, William>I'm an undergrad studying finance and
+information systems,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1337-1
+00:09:54.242 --> 00:09:55.648
+<v Halm, William>and I have some experience.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1342-0
+00:09:56.008 --> 00:09:57.928
+<v Halm, William>Actually, I work at Brady too.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1352-0
+00:09:58.408 --> 00:10:02.088
+<v Halm, William>I've been working in the for AI help desk
+bot.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1344-0
+00:09:58.528 --> 00:09:58.848
+<v Hou, Eric>Hello.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1358-0
+00:10:03.658 --> 00:10:04.458
+<v Halm, William>We've been developing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1368-0
+00:10:04.608 --> 00:10:10.368
+<v Hou, Eric>So since since you worked with Brady,
+so then are you working with Matt</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1368-1
+00:10:10.368 --> 00:10:11.088
+<v Hou, Eric>Vandemus?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1383-0
+00:10:12.958 --> 00:10:17.158
+<v Halm, William>Yeah. Well, I mean, he's CIO now,
+so not like with him as much, but yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1389-0
+00:10:17.738 --> 00:10:19.618
+<v Hou, Eric>OK, gotcha. OK, sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1390-0
+00:10:19.618 --> 00:10:20.298
+<v Hou, Eric>So all right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1395-0
+00:10:20.778 --> 00:10:22.058
+<v Hou, Eric>So we gonna rely on you, man.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1397-0
+00:10:25.338 --> 00:10:25.818
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1406-0
+00:10:27.048 --> 00:10:28.208
+<v Ziemianin, Jonathan>My name is John.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1410-0
+00:10:28.248 --> 00:10:30.768
+<v Ziemianin, Jonathan>I'm an undergraduate studying finance.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1426-0
+00:10:31.128 --> 00:10:35.369
+<v Ziemianin, Jonathan>I do not have a lot of experience with AI,
+so I'm hoping to learn its application of</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1426-1
+00:10:35.369 --> 00:10:35.768
+<v Ziemianin, Jonathan>finance.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1428-0
+00:10:37.168 --> 00:10:37.688
+<v Hou, Eric>Got it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1430-0
+00:10:37.688 --> 00:10:39.328
+<v Hou, Eric>Perfect welcome, John.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1443-0
+00:10:40.568 --> 00:10:44.728
+<v Barbel, Sam>My name is Sam and I'm an undergraduate
+studying finance.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1462-0
+00:10:44.848 --> 00:10:51.968
+<v Barbel, Sam>I have some limited experience with AI
+and I've just started exploring cursor AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1464-0
+00:10:52.688 --> 00:10:52.928
+<v Hou, Eric>Oh.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1471-0
+00:10:53.938 --> 00:10:56.458
+<v Barbel, Sam>At my job, which is a smart lock company.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1474-0
+00:10:57.618 --> 00:10:58.218
+<v Hou, Eric>Oh, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1482-0
+00:10:58.218 --> 00:11:02.058
+<v Hou, Eric>So you're using cursor to code in Python.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1506-0
+00:11:02.788 --> 00:11:05.423
+<v Barbel, Sam>Yeah,
+we're working on a few like Web user</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1506-1
+00:11:05.423 --> 00:11:09.468
+<v Barbel, Sam>interface applications that we're
+starting to utilize cursor for.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1508-0
+00:11:10.008 --> 00:11:10.488
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1525-0
+00:11:10.488 --> 00:11:16.185
+<v Hou, Eric>So does it help or does it really provide
+a really some good Python code or Java</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1525-1
+00:11:16.185 --> 00:11:18.928
+<v Hou, Eric>code that you don't have to debug them?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1551-0
+00:11:20.088 --> 00:11:22.869
+<v Barbel, Sam>My team and I,
+we just started using it at the beginning</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1551-1
+00:11:22.869 --> 00:11:25.358
+<v Barbel, Sam>of the year,
+so I haven't been able to really dive</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1551-2
+00:11:25.358 --> 00:11:26.968
+<v Barbel, Sam>into it yet, but so I'm not sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1552-0
+00:11:25.978 --> 00:11:26.938
+<v Hou, Eric>Got it, got it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1559-0
+00:11:27.538 --> 00:11:29.114
+<v Hou, Eric>Yeah,
+maybe sometime you can share your</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1559-1
+00:11:29.114 --> 00:11:30.098
+<v Hou, Eric>experience with the team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1561-0
+00:11:30.868 --> 00:11:31.428
+<v Barbel, Sam>Yeah, for sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1562-0
+00:11:32.048 --> 00:11:32.888
+<v Hou, Eric>OK, sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1584-0
+00:11:37.048 --> 00:11:41.464
+<v Hou, Eric>Anyone who didn't speak?
+I have 17 here and then apparently we</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1584-1
+00:11:41.464 --> 00:11:44.688
+<v Hou, Eric>have more than we have 22 people in the
+room.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1591-0
+00:11:45.458 --> 00:11:46.978
+<v Mertens, Aidric>Hi are you able to hear me?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1597-0
+00:11:47.838 --> 00:11:48.558
+<v Hou, Eric>Yeah, I can hear you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1595-0
+00:11:48.538 --> 00:11:48.738
+<v Mertens, Aidric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1613-0
+00:11:48.738 --> 00:11:51.522
+<v Mertens, Aidric>Yeah. Yeah, sorry.
+I just got a new device and this is the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1613-1
+00:11:51.522 --> 00:11:52.938
+<v Mertens, Aidric>first time I've used it on it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1615-0
+00:11:51.778 --> 00:11:53.938
+<v Hou, Eric>No, no, no issues.
+This first day of class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1623-0
+00:11:54.618 --> 00:11:56.458
+<v Mertens, Aidric>Yeah. Yeah, my name's Adrik.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1626-0
+00:11:56.458 --> 00:11:57.938
+<v Mertens, Aidric>I'm an MBA student.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1655-0
+00:11:59.618 --> 00:12:03.581
+<v Mertens, Aidric>Just really excited about learning more
+about machine learning and I work in</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1655-1
+00:12:03.581 --> 00:12:07.338
+<v Mertens, Aidric>corporate treasury for a bank,
+so it'd be nice to learn how to apply it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1672-0
+00:12:08.258 --> 00:12:14.538
+<v Mertens, Aidric>Kind of a casual user user of AI,
+but I've coded things just with SQL.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1665-0
+00:12:11.328 --> 00:12:11.608
+<v Hou, Eric>Speaker.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1679-0
+00:12:15.008 --> 00:12:16.648
+<v Mertens, Aidric>All that have helped the team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1680-0
+00:12:16.198 --> 00:12:16.638
+<v Hou, Eric>Sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1687-0
+00:12:16.648 --> 00:12:19.288
+<v Mertens, Aidric>So just learned more about stuff like
+that would be great.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1690-0
+00:12:20.238 --> 00:12:20.958
+<v Hou, Eric>Yeah. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1697-0
+00:12:20.958 --> 00:12:22.798
+<v Hou, Eric>So usually banks have a really good data.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1710-0
+00:12:22.798 --> 00:12:26.508
+<v Hou, Eric>So then if you use SQL,
+you're pretty much like pulling the data</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1710-1
+00:12:26.508 --> 00:12:27.878
+<v Hou, Eric>for any analysis, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1729-0
+00:12:28.658 --> 00:12:33.395
+<v Mertens, Aidric>Yep. And we're a smaller bank too.
+So they never had a lot of this stuff</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1729-1
+00:12:33.395 --> 00:12:34.498
+<v Mertens, Aidric>prior to my boss.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1741-0
+00:12:34.498 --> 00:12:38.985
+<v Mertens, Aidric>Join my my boss is great,
+but before he joined they didn't have</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1741-1
+00:12:38.985 --> 00:12:40.738
+<v Mertens, Aidric>anything relief. So yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1744-0
+00:12:41.578 --> 00:12:42.578
+<v Hou, Eric>OK, sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1774-0
+00:12:46.288 --> 00:12:49.627
+<v Fox, Katelyn>I'm Caitlin and I'm an undergrad student
+studying finance,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1774-1
+00:12:49.627 --> 00:12:53.928
+<v Fox, Katelyn>and I don't have that much experience in
+AI, but I'm excited to learn more.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1778-0
+00:12:54.428 --> 00:12:56.188
+<v Hou, Eric>Besides learning more welcome.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1784-0
+00:13:01.748 --> 00:13:02.868
+<v Galligan, Willy>My name is Willie.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1797-0
+00:13:03.308 --> 00:13:07.228
+<v Galligan, Willy>I'm a grad student doing a master's in
+finance at Marquette.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1814-0
+00:13:07.868 --> 00:13:11.181
+<v Galligan, Willy>I did my undergrad at Marquette in
+finance real estate,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1814-1
+00:13:11.181 --> 00:13:13.548
+<v Galligan, Willy>and I was also in the AIM program there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1848-0
+00:13:15.098 --> 00:13:20.179
+<v Galligan, Willy>I was some limited experience with AI
+applying it to finance and real estate,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1848-1
+00:13:20.179 --> 00:13:25.260
+<v Galligan, Willy>but want to take this class to basically
+grow that knowledge and understand a</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1848-2
+00:13:25.260 --> 00:13:28.778
+<v Galligan, Willy>little bit more of the the deeper
+workings behind it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1849-0
+00:13:31.348 --> 00:13:31.948
+<v Hou, Eric>Sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1856-0
+00:13:36.498 --> 00:13:39.298
+<v Hou, Eric>Did we just go through everyone that we
+have in the in the room?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1864-0
+00:13:41.538 --> 00:13:43.618
+<v Hou, Eric>Maybe. OK, perfect.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1868-0
+00:13:43.618 --> 00:13:45.538
+<v Hou, Eric>So I I took the note right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1876-0
+00:13:45.538 --> 00:13:48.778
+<v Hou, Eric>So then we do have some undergrad
+students coming here.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1908-0
+00:13:50.418 --> 00:13:56.353
+<v Hou, Eric>We have some grad and MBA and definitely
+some some folks really have a really good</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1908-1
+00:13:56.353 --> 00:14:00.858
+<v Hou, Eric>experience using AI and some folks really
+said OK, so limited.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1916-0
+00:14:02.498 --> 00:14:04.858
+<v Hou, Eric>Background using AI,
+but it's totally fine.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1919-0
+00:14:05.528 --> 00:14:05.888
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1933-0
+00:14:05.888 --> 00:14:10.728
+<v Hou, Eric>So then let's talk about what we want to
+achieve in in this course, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1938-0
+00:14:10.728 --> 00:14:14.168
+<v Hou, Eric>So then what does this course really
+cover? OK, just.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1944-0
+00:14:15.738 --> 00:14:17.698
+<v Hou, Eric>Expectation management, right? So then?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1977-0
+00:14:20.378 --> 00:14:26.603
+<v Hou, Eric>So what we want to cover or what I want
+to cover is I want to go through a range</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1977-1
+00:14:26.603 --> 00:14:32.828
+<v Hou, Eric>of AI models and technically this AI kind
+of thing is has been really used for a</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1977-2
+00:14:32.828 --> 00:14:34.058
+<v Hou, Eric>lot of purposes.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1996-0
+00:14:34.208 --> 00:14:37.072
+<v Hou, Eric>So you can call a lot of models as AI.
+For example,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1996-1
+00:14:37.072 --> 00:14:40.928
+<v Hou, Eric>you can call the large language models
+like a lot of folks mentioned.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/1999-0
+00:14:40.928 --> 00:14:41.968
+<v Hou, Eric>They're using open AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2033-0
+00:14:42.208 --> 00:14:45.606
+<v Hou, Eric>They're using Gemini,
+so they use those as a large models and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2033-1
+00:14:45.606 --> 00:14:49.333
+<v Hou, Eric>it's definitely part of AI.
+And then some folks mentioned that they</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2033-2
+00:14:49.333 --> 00:14:53.169
+<v Hou, Eric>work with ML team so ML team,
+they were dealing with a lot of machine</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2033-3
+00:14:53.169 --> 00:14:56.128
+<v Hou, Eric>learning kind of things,
+machine learning algorithms.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2033-4
+00:14:56.128 --> 00:14:57.608
+<v Hou, Eric>So linear regression start.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2042-0
+00:14:57.608 --> 00:15:00.888
+<v Hou, Eric>With a linear regression starting with,
+you know clustering.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2050-0
+00:15:01.698 --> 00:15:04.298
+<v Hou, Eric>And algorithm starting to to to neural
+network.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2060-0
+00:15:04.648 --> 00:15:06.568
+<v Hou, Eric>So those are the major learning areas.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2078-0
+00:15:06.568 --> 00:15:13.184
+<v Hou, Eric>So so aiml covers a lot of things.
+I just wanna go from really fundamental</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2078-1
+00:15:13.184 --> 00:15:16.888
+<v Hou, Eric>models to some really advanced models. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2102-0
+00:15:17.128 --> 00:15:22.431
+<v Hou, Eric>So then I I I look for some real world
+use cases to have. You know,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2102-1
+00:15:22.431 --> 00:15:28.436
+<v Hou, Eric>we can experiment using the models that
+we learn and see what we can derive.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2102-2
+00:15:28.436 --> 00:15:29.528
+<v Hou, Eric>Right so then.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2110-0
+00:15:30.538 --> 00:15:33.978
+<v Hou, Eric>So I hear people there are there are some.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2116-0
+00:15:35.058 --> 00:15:36.578
+<v Hou, Eric>Students in this class their.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2118-0
+00:15:36.578 --> 00:15:38.858
+<v Hou, Eric>Their PMS, their MBAs.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2132-0
+00:15:40.458 --> 00:15:42.898
+<v Hou, Eric>Their their undergrad students and we
+have different backgrounds.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2135-0
+00:15:42.898 --> 00:15:44.818
+<v Hou, Eric>So let me talk about what.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2146-0
+00:15:46.538 --> 00:15:49.578
+<v Hou, Eric>This idea of creating this course where
+where do?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2174-0
+00:15:49.578 --> 00:15:54.251
+<v Hou, Eric>Why do we have this idea? OK,
+so then as I wanted to mentioned,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2174-1
+00:15:54.251 --> 00:16:00.018
+<v Hou, Eric>I I want to the use Chicago Booth School
+of Business for for my MBA, so right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2180-0
+00:16:00.018 --> 00:16:03.538
+<v Hou, Eric>So I definitely went through the route
+that you are going through.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2184-0
+00:16:04.428 --> 00:16:06.748
+<v Hou, Eric>So the idea is.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2198-0
+00:16:09.418 --> 00:16:14.138
+<v Hou, Eric>At Booth there are some requirement of of
+taking stat class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2211-0
+00:16:14.138 --> 00:16:18.218
+<v Hou, Eric>I'm not sure I I do know that we have
+some MBA folks here in this class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2215-0
+00:16:18.738 --> 00:16:22.098
+<v Hou, Eric>Does market require you to take any step
+class?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2230-0
+00:16:26.018 --> 00:16:28.565
+<v Matt Benbenek>No,
+that's not one of the required lessons,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2229-0
+00:16:27.068 --> 00:16:29.388
+<v Hou, Eric>No. Oh, that's not a requirement.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2230-1
+00:16:28.565 --> 00:16:28.738
+<v Matt Benbenek>no.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2240-0
+00:16:29.388 --> 00:16:32.652
+<v Hou, Eric>OK, perfect.
+So maybe we should change that policy,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2240-1
+00:16:32.652 --> 00:16:33.028
+<v Hou, Eric>right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2251-0
+00:16:33.068 --> 00:16:38.588
+<v Hou, Eric>So so Booth does require everyone to take
+a stab class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2260-0
+00:16:38.828 --> 00:16:43.548
+<v Hou, Eric>So the stack class offering are coming
+from, you know some basic stats.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2269-0
+00:16:45.298 --> 00:16:47.898
+<v Hou, Eric>To big data at the moment,
+it's still making sense.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2288-0
+00:16:49.618 --> 00:16:53.731
+<v Hou, Eric>To mature learning AI,
+so this is a one of a class that a lot of</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2288-1
+00:16:53.731 --> 00:16:56.578
+<v Hou, Eric>MBAs at U Chicago,
+they really want to take.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2326-0
+00:16:57.858 --> 00:17:02.699
+<v Hou, Eric>And we're sort of following the same idea
+that, you know, in, in this,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2326-1
+00:17:02.699 --> 00:17:08.154
+<v Hou, Eric>in this moment when two years ago open AI
+becomes to a tool to everyone, right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2326-2
+00:17:08.154 --> 00:17:13.609
+<v Hou, Eric>So the exposure to everyone and then it's
+definitely got more and more popular,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2326-3
+00:17:13.609 --> 00:17:14.018
+<v Hou, Eric>right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2345-0
+00:17:14.018 --> 00:17:20.012
+<v Hou, Eric>So then so then this is a really an.
+This is really a period that you cannot</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2345-1
+00:17:20.012 --> 00:17:22.658
+<v Hou, Eric>really ignore the existence of AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2351-0
+00:17:22.658 --> 00:17:24.738
+<v Hou, Eric>I'm pretty sure you guys are using AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2354-0
+00:17:24.738 --> 00:17:26.218
+<v Hou, Eric>I'm pretty sure if you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2364-0
+00:17:27.048 --> 00:17:30.488
+<v Hou, Eric>Say to different courses you're using AI,
+I'm pretty sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2384-0
+00:17:30.488 --> 00:17:34.849
+<v Hou, Eric>Maybe you're using AI to write code?
+I'm pretty sure not using AI to write</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2384-1
+00:17:34.849 --> 00:17:36.128
+<v Hou, Eric>Excel formula for you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2401-0
+00:17:36.128 --> 00:17:42.188
+<v Hou, Eric>So then this is really area of using AI
+like one question I asked one of the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2401-1
+00:17:42.188 --> 00:17:45.808
+<v Hou, Eric>students that you use.
+Let me check my notes.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2416-0
+00:17:49.218 --> 00:17:53.498
+<v Hou, Eric>So you use AI before and then you use AI
+for marketing, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2420-0
+00:17:53.498 --> 00:17:55.298
+<v Hou, Eric>So then I asked the student.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2425-0
+00:17:56.858 --> 00:17:58.458
+<v Hou, Eric>Whether or not you use AI to do research.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2449-0
+00:17:58.768 --> 00:18:02.856
+<v Hou, Eric>Whether or not you'd fully trust the AI
+outcome,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2449-1
+00:18:02.856 --> 00:18:09.529
+<v Hou, Eric>you know the answer is not necessarily.
+The reason is the AI tool. For example,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2449-2
+00:18:09.529 --> 00:18:11.448
+<v Hou, Eric>Jim and I were open AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2454-0
+00:18:11.488 --> 00:18:13.048
+<v Hou, Eric>They do hallucinate, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2463-0
+00:18:13.048 --> 00:18:15.128
+<v Hou, Eric>So then they may not give you the right
+answer.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2476-0
+00:18:15.528 --> 00:18:20.613
+<v Hou, Eric>So you need to know the pros and cons of
+different models every.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2476-1
+00:18:20.613 --> 00:18:22.568
+<v Hou, Eric>There's no perfect model.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2487-0
+00:18:23.818 --> 00:18:27.418
+<v Hou, Eric>Even open AI is not perfect either,
+so there is no perfect model.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2491-0
+00:18:27.418 --> 00:18:29.178
+<v Hou, Eric>So I want you to understand that.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2497-0
+00:18:30.208 --> 00:18:31.448
+<v Hou, Eric>Where is the good?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2510-0
+00:18:31.448 --> 00:18:35.008
+<v Hou, Eric>Where model is good at and where the
+model is not super good at OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2526-0
+00:18:35.408 --> 00:18:42.584
+<v Hou, Eric>So is my expectation that you guys after
+this course you guys going to be a Python</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2526-1
+00:18:42.584 --> 00:18:43.448
+<v Hou, Eric>developer?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2527-0
+00:18:43.768 --> 00:18:45.048
+<v Hou, Eric>Absolutely not.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2531-0
+00:18:45.128 --> 00:18:46.888
+<v Hou, Eric>OK, absolutely not.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2546-0
+00:18:47.208 --> 00:18:50.608
+<v Hou, Eric>So you're not going to be a Python
+developer just taking this class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2563-0
+00:18:50.608 --> 00:18:55.278
+<v Hou, Eric>And if you do want to be a Python
+developer with some finance background,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2563-1
+00:18:55.278 --> 00:18:57.928
+<v Hou, Eric>so you need to take some computer science.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2566-0
+00:18:58.698 --> 00:18:59.258
+<v Hou, Eric>Computer science.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2575-0
+00:18:59.968 --> 00:19:02.328
+<v Hou, Eric>Class. You're not going to be a become.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2593-0
+00:19:02.488 --> 00:19:07.028
+<v Hou, Eric>You're not going to be a Python developer
+through this class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2593-1
+00:19:07.028 --> 00:19:11.128
+<v Hou, Eric>Are you going to be a modeler going
+through this class?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2599-0
+00:19:11.128 --> 00:19:14.648
+<v Hou, Eric>I will say 30 or 40%.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2611-0
+00:19:14.648 --> 00:19:19.648
+<v Hou, Eric>You understand the models,
+but you can work with your ML team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2631-0
+00:19:19.648 --> 00:19:24.218
+<v Hou, Eric>You can work with your data team,
+so you can specifically ask them to build</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2631-1
+00:19:24.218 --> 00:19:28.488
+<v Hou, Eric>a model for you and you understand the
+language they're talking about.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2638-0
+00:19:29.168 --> 00:19:31.088
+<v Hou, Eric>From my perspective, right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2645-0
+00:19:31.088 --> 00:19:34.848
+<v Hou, Eric>So then from my perspective,
+I have a consulting background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2671-0
+00:19:34.848 --> 00:19:39.472
+<v Hou, Eric>So before I joined Brady,
+I'm working with working in a consulting</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2671-1
+00:19:39.472 --> 00:19:43.888
+<v Hou, Eric>firm so and and my clients are target and
+my clients are Pepsi.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2684-0
+00:19:43.888 --> 00:19:50.992
+<v Hou, Eric>My my clients are are are gap so those
+companies and I do see there's a gap</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2684-1
+00:19:50.992 --> 00:19:53.048
+<v Hou, Eric>between the data team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2694-0
+00:19:53.938 --> 00:19:56.698
+<v Hou, Eric>And the management team,
+OK or business folks?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2697-0
+00:19:56.858 --> 00:19:57.698
+<v Hou, Eric>Even I already.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2699-0
+00:19:57.738 --> 00:19:58.978
+<v Hou, Eric>I mean, there's still some gap.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2732-0
+00:19:59.668 --> 00:20:02.957
+<v Hou, Eric>So you,
+you definitely will sense that the data</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2732-1
+00:20:02.957 --> 00:20:08.575
+<v Hou, Eric>team is talking in one language and and
+the business team is talking in different</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2732-2
+00:20:08.575 --> 00:20:13.028
+<v Hou, Eric>language and then how who gonna connect
+those two team together.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2753-0
+00:20:13.638 --> 00:20:16.553
+<v Hou, Eric>I hope you guys can learn the language
+you like.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2753-1
+00:20:16.553 --> 00:20:21.134
+<v Hou, Eric>You guys can learn the knowledge through
+this class and then you will be the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2753-2
+00:20:21.134 --> 00:20:23.038
+<v Hou, Eric>person to come back to together.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2760-0
+00:20:23.358 --> 00:20:26.118
+<v Hou, Eric>I heard some of those have a supply chain
+background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2763-0
+00:20:26.118 --> 00:20:26.558
+<v Hou, Eric>I heard.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2770-0
+00:20:26.558 --> 00:20:29.278
+<v Hou, Eric>I I heard a lot of people have finance
+background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2779-0
+00:20:29.638 --> 00:20:34.078
+<v Hou, Eric>I heard a lot of people have product
+managers for those three areas.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2786-0
+00:20:34.078 --> 00:20:36.758
+<v Hou, Eric>You're definitely going to have you #1.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2793-0
+00:20:36.758 --> 00:20:39.798
+<v Hou, Eric>You will definitely use AI model in the
+foreseeable future.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2795-0
+00:20:40.828 --> 00:20:41.348
+<v Hou, Eric>For sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2802-0
+00:20:42.138 --> 00:20:44.378
+<v Hou, Eric>#2, you're definitely gonna see.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2809-0
+00:20:44.378 --> 00:20:46.378
+<v Hou, Eric>You're definitely gonna sense the problem.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2818-0
+00:20:46.418 --> 00:20:50.345
+<v Hou, Eric>I just described the data team and
+business team are talking different</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2818-1
+00:20:50.345 --> 00:20:50.898
+<v Hou, Eric>languages.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2824-0
+00:20:51.378 --> 00:20:55.298
+<v Hou, Eric>#3 your experience from this class where
+market gonna help you?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2831-0
+00:20:55.898 --> 00:20:59.458
+<v Hou, Eric>To shine out from the other folks to
+bridge those two teams.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2869-0
+00:21:01.028 --> 00:21:07.657
+<v Hou, Eric>So my expectation of you guys learning
+through this class is you understand</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2869-1
+00:21:07.657 --> 00:21:11.495
+<v Hou, Eric>those models you as from a business
+person,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2869-2
+00:21:11.495 --> 00:21:18.473
+<v Hou, Eric>you can talk to your data team and your
+model team and tell them in order to do</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2869-3
+00:21:18.473 --> 00:21:20.828
+<v Hou, Eric>XI want you to try ABC, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2875-0
+00:21:20.908 --> 00:21:24.948
+<v Hou, Eric>Knowing what you can receive from the
+data team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2887-0
+00:21:25.788 --> 00:21:30.748
+<v Hou, Eric>That's going to be my expectation.
+Is that clear to you guys?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2888-0
+00:21:30.908 --> 00:21:32.028
+<v Hou, Eric>Any questions so far?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2890-0
+00:21:35.738 --> 00:21:36.378
+<v Hou, Eric>So far so good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2893-0
+00:21:38.128 --> 00:21:38.728
+<v Weidner, Declan>Sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2895-0
+00:21:39.278 --> 00:21:40.518
+<v Hou, Eric>Alright, so OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2918-0
+00:21:43.228 --> 00:21:45.608
+<v Hou, Eric>OK,
+so as this is the first time we are</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2918-1
+00:21:45.608 --> 00:21:48.702
+<v Hou, Eric>teaching,
+I'm teaching this class and then also our</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2918-2
+00:21:48.702 --> 00:21:50.428
+<v Hou, Eric>class offering this class so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2930-0
+00:21:52.228 --> 00:21:55.748
+<v Hou, Eric>There I hope there are gonna be some
+class discussion, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2937-0
+00:21:55.748 --> 00:22:01.108
+<v Hou, Eric>So then I hope you guys gonna share
+whatever you want to learn because.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2947-0
+00:22:02.748 --> 00:22:07.628
+<v Hou, Eric>Here's I'm going to manage this every
+single after every single class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2955-0
+00:22:08.138 --> 00:22:11.218
+<v Hou, Eric>I'm going to send you a survey.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2968-0
+00:22:12.948 --> 00:22:18.468
+<v Hou, Eric>That you gonna tell me whether or not you
+feel the content is.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2976-0
+00:22:20.108 --> 00:22:22.068
+<v Hou, Eric>Whatever you're expected, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/2987-0
+00:22:22.748 --> 00:22:27.388
+<v Hou, Eric>You're gonna tell me that and then you
+will tell me whether you want to learn.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3007-0
+00:22:29.028 --> 00:22:34.199
+<v Hou, Eric>More model,
+more mathematics or more examples or more</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3007-1
+00:22:34.199 --> 00:22:35.348
+<v Hou, Eric>more coding.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3014-0
+00:22:35.508 --> 00:22:39.828
+<v Hou, Eric>So those are the options that you will
+choose in those surveys.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3018-0
+00:22:41.578 --> 00:22:43.098
+<v Hou, Eric>OK, right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3030-0
+00:22:43.098 --> 00:22:47.698
+<v Hou, Eric>And then and then the class participation
+gonna be part of your grade.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3045-0
+00:22:48.058 --> 00:22:53.740
+<v Hou, Eric>So I will highly recommend you to turn on
+your camera and and join this class</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3045-1
+00:22:53.740 --> 00:22:57.018
+<v Hou, Eric>because that can really help you learn
+more.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3047-0
+00:22:59.268 --> 00:22:59.708
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3050-0
+00:23:02.998 --> 00:23:04.398
+<v Hou, Eric>All right, so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3074-0
+00:23:06.308 --> 00:23:10.871
+<v Hou, Eric>With that being said,
+I have to tell you this is not going to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3074-1
+00:23:10.871 --> 00:23:15.948
+<v Hou, Eric>be very easy class because it definitely
+require your effort, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3105-0
+00:23:15.948 --> 00:23:20.771
+<v Hou, Eric>So then just be prepared to engage with
+different concepts and different,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3105-1
+00:23:20.771 --> 00:23:25.919
+<v Hou, Eric>you know applications and you may face
+you know the Python code you never read</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3105-2
+00:23:25.919 --> 00:23:27.548
+<v Hou, Eric>and then you never coded.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3111-0
+00:23:27.548 --> 00:23:30.308
+<v Hou, Eric>That's totally going to be happening in
+this class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3112-0
+00:23:30.348 --> 00:23:30.548
+<v Hou, Eric>I just.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3117-0
+00:23:31.548 --> 00:23:32.508
+<v Hou, Eric>Want you to be aware of.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3127-0
+00:23:33.318 --> 00:23:38.118
+<v Hou, Eric>OK, but after this class,
+you gonna definitely learn more.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3132-0
+00:23:38.118 --> 00:23:39.558
+<v Hou, Eric>Learn a lot about AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3140-0
+00:23:39.558 --> 00:23:43.478
+<v Hou, Eric>So it's really like a no pain,
+no gain kind of process.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3157-0
+00:23:44.358 --> 00:23:49.980
+<v Hou, Eric>With that being said,
+I will definitely help you to go through</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3157-1
+00:23:49.980 --> 00:23:53.638
+<v Hou, Eric>this class. So number one, we there is I.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3160-0
+00:23:53.638 --> 00:23:54.398
+<v Hou, Eric>I hope you check.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3162-0
+00:23:54.398 --> 00:23:56.518
+<v Hou, Eric>Let me share my D2L.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3165-0
+00:24:05.788 --> 00:24:06.868
+<v Hou, Eric>Cortana only.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3170-0
+00:24:08.898 --> 00:24:10.658
+<v Hou, Eric>Window let me share my window.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3172-0
+00:24:14.108 --> 00:24:14.348
+<v Hou, Eric>Oh gosh.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3178-0
+00:24:30.158 --> 00:24:30.718
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3189-0
+00:24:30.798 --> 00:24:35.878
+<v Hou, Eric>So if you see the the D2L I'm for some
+reason I cannot share here so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3201-0
+00:24:38.828 --> 00:24:45.028
+<v Hou, Eric>You are going to socialize with the
+students, your peers in this class, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3208-0
+00:24:46.948 --> 00:24:49.428
+<v Hou, Eric>So you gonna make groups?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3211-0
+00:24:51.108 --> 00:24:51.988
+<v Hou, Eric>With the peers.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3227-0
+00:24:53.708 --> 00:24:57.746
+<v Hou, Eric>From the data I received that you guys
+introduce yourself,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3227-1
+00:24:57.746 --> 00:24:59.388
+<v Hou, Eric>we have some undergrads.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3232-0
+00:25:00.078 --> 00:25:01.678
+<v Hou, Eric>We have some grat.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3252-0
+00:25:02.078 --> 00:25:07.918
+<v Hou, Eric>I really hope that in the D2L you're
+gonna sign up for the groups and you at</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3252-1
+00:25:07.918 --> 00:25:10.118
+<v Hou, Eric>least have every single team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3274-0
+00:25:10.118 --> 00:25:13.518
+<v Hou, Eric>At least you have one undergrad over
+there,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3274-1
+00:25:13.518 --> 00:25:19.314
+<v Hou, Eric>and at least one grad in those teams,
+and I do not hope there's one single</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3274-2
+00:25:19.314 --> 00:25:20.318
+<v Hou, Eric>person group.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3283-0
+00:25:20.518 --> 00:25:22.758
+<v Hou, Eric>I hope that you at least have a two or
+three.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3298-0
+00:25:22.758 --> 00:25:28.038
+<v Hou, Eric>I create a 1515 groups in D2L and then we
+have 2221.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3300-0
+00:25:28.038 --> 00:25:29.438
+<v Hou, Eric>I think it's sufficient to have.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3314-0
+00:25:29.938 --> 00:25:34.298
+<v Hou, Eric>At least eleven teams or or eight teams,
+and you can either have two.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3322-0
+00:25:34.298 --> 00:25:36.618
+<v Hou, Eric>You can have three folks in that group.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3345-0
+00:25:37.018 --> 00:25:44.162
+<v Hou, Eric>So then the homework, the final projects,
+it will not rely on one single person.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3345-1
+00:25:44.162 --> 00:25:47.778
+<v Hou, Eric>And are you gonna work as a group, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3347-0
+00:25:47.778 --> 00:25:48.938
+<v Hou, Eric>So then you gonna.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3368-0
+00:25:50.508 --> 00:25:53.941
+<v Hou, Eric>Learn from each other.
+You're gonna discuss with each other and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3368-1
+00:25:53.941 --> 00:25:57.428
+<v Hou, Eric>how you you guys gonna work with each
+other is really up to you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3373-0
+00:25:58.268 --> 00:26:01.308
+<v Hou, Eric>I believe a lot of folks are a lot of
+folks are.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3382-0
+00:26:01.658 --> 00:26:05.058
+<v Hou, Eric>Mbasa lot of ones are of finance
+background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3413-0
+00:26:05.338 --> 00:26:09.024
+<v Hou, Eric>You guys need to start socialize with
+different folks,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3413-1
+00:26:09.024 --> 00:26:12.778
+<v Hou, Eric>especially for undergrads to socialize
+with those MBAs,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3413-2
+00:26:12.778 --> 00:26:17.938
+<v Hou, Eric>and especially for those you know,
+with those MBAs with the job and you want</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3413-3
+00:26:17.938 --> 00:26:20.418
+<v Hou, Eric>to, you want to learn the job, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3417-0
+00:26:20.578 --> 00:26:22.258
+<v Hou, Eric>So then talk to them.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3424-0
+00:26:22.538 --> 00:26:27.018
+<v Hou, Eric>Send message to each other and try to
+form teams.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3439-0
+00:26:27.948 --> 00:26:33.083
+<v Hou, Eric>And then this week, the only homework,
+the only assignment you guys need to do</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3439-1
+00:26:33.083 --> 00:26:34.708
+<v Hou, Eric>is finally sign on those.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3452-0
+00:26:34.938 --> 00:26:41.244
+<v Hou, Eric>Teams so that you can do the homework,
+you can do the final projects, OK,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3452-1
+00:26:41.244 --> 00:26:42.778
+<v Hou, Eric>any any questions?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3454-0
+00:26:50.328 --> 00:26:50.808
+<v Hou, Eric>Sorry.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3457-0
+00:26:54.128 --> 00:26:54.408
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3462-0
+00:26:54.408 --> 00:26:57.608
+<v Hou, Eric>That's by the way,
+you guys can still hear me, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3464-0
+00:26:59.748 --> 00:27:00.068
+<v Mizwicki, Andrew>Yep.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3466-0
+00:27:00.318 --> 00:27:00.518
+<v Hollenbach, Patrick>Yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3477-0
+00:27:02.018 --> 00:27:06.956
+<v Hou, Eric>OK. OK, good. Oh, wow.
+You guys are so shy. I mean, like,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3477-1
+00:27:06.956 --> 00:27:07.978
+<v Hou, Eric>please talk.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3481-0
+00:27:09.628 --> 00:27:09.988
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3487-0
+00:27:09.988 --> 00:27:12.068
+<v Hou, Eric>So let's talk about plan the work plan.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3491-0
+00:27:12.068 --> 00:27:14.588
+<v Hou, Eric>So I just leave those contents over there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3501-0
+00:27:16.268 --> 00:27:18.268
+<v Hou, Eric>To be honest, and that'll be really tight,
+right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3519-0
+00:27:18.268 --> 00:27:23.205
+<v Hou, Eric>So then we don't have a lot of time just
+to the time is really limited.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3519-1
+00:27:23.205 --> 00:27:26.428
+<v Hou, Eric>And I I I figure there is even a spring
+break.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3525-0
+00:27:28.108 --> 00:27:30.228
+<v Hou, Eric>In a week of March the 10th.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3537-0
+00:27:32.548 --> 00:27:35.598
+<v Hou, Eric>That's terrible.
+I assume you guys won't work during the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3537-1
+00:27:35.598 --> 00:27:36.668
+<v Hou, Eric>spring break, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3540-0
+00:27:38.138 --> 00:27:38.778
+<v Hou, Eric>You don't.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3582-0
+00:27:39.098 --> 00:27:42.289
+<v Hou, Eric>Alright,
+so there are really 6 assignments and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3582-1
+00:27:42.289 --> 00:27:45.819
+<v Hou, Eric>then you have.
+I believe you have efficient time to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3582-2
+00:27:45.819 --> 00:27:51.115
+<v Hou, Eric>finish those assignments and considering
+you have a team of 1A team of two or</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3582-3
+00:27:51.115 --> 00:27:56.275
+<v Hou, Eric>three working with you to do those
+assignments so that I'm pretty sure this</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3582-4
+00:27:56.275 --> 00:27:56.818
+<v Hou, Eric>is good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3597-0
+00:27:56.818 --> 00:28:00.580
+<v Hou, Eric>Enough, for example,
+for the assignments in the coming week,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3597-1
+00:28:00.580 --> 00:28:02.738
+<v Hou, Eric>you have two weeks to work on that.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3606-0
+00:28:03.548 --> 00:28:06.348
+<v Hou, Eric>And then you have other folks working
+with you, I think is good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3608-0
+00:28:07.078 --> 00:28:07.518
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3620-0
+00:28:09.068 --> 00:28:12.708
+<v Hou, Eric>And I understand this is an AI class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3638-0
+00:28:13.628 --> 00:28:19.187
+<v Hou, Eric>I have no idea that I I think about this.
+What I'm going to design A midterm exam</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3638-1
+00:28:19.187 --> 00:28:20.068
+<v Hou, Eric>for you guys.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3646-0
+00:28:20.068 --> 00:28:22.228
+<v Hou, Eric>Should I ask you guys a math formula?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3650-0
+00:28:22.228 --> 00:28:23.108
+<v Hou, Eric>Of course not.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3664-0
+00:28:23.548 --> 00:28:28.308
+<v Hou, Eric>So there is no fine and there is no final
+exam.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3668-0
+00:28:28.308 --> 00:28:30.268
+<v Hou, Eric>There is no midterm exam.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3671-0
+00:28:30.508 --> 00:28:34.588
+<v Hou, Eric>Instead, let's just make our course like.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3676-0
+00:28:35.508 --> 00:28:36.468
+<v Hou, Eric>The job you guys gonna be in?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3692-0
+00:28:37.018 --> 00:28:43.138
+<v Hou, Eric>In the near future,
+so your job is based upon projects, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3700-0
+00:28:43.138 --> 00:28:46.338
+<v Hou, Eric>So that you're going to do different
+projects in different companies?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3709-0
+00:28:48.188 --> 00:28:51.148
+<v Hou, Eric>In this class,
+we're going to mimic that work culture.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3742-0
+00:28:51.668 --> 00:28:56.708
+<v Hou, Eric>You can consider those assignments at our
+different projects and then you need to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3742-1
+00:28:56.708 --> 00:29:01.748
+<v Hou, Eric>tell me there's a final projects you're
+going to spend some really good effort on</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3742-2
+00:29:01.748 --> 00:29:04.268
+<v Hou, Eric>and then you going to give me a proposal.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3786-0
+00:29:05.638 --> 00:29:10.689
+<v Hou, Eric>In the middle of the semester,
+and you're going to real you whatever you</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3786-1
+00:29:10.689 --> 00:29:13.664
+<v Hou, Eric>say.
+You have to realize that in the final</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3786-2
+00:29:13.664 --> 00:29:18.923
+<v Hou, Eric>present, in the final, in the final week,
+and then you're going to give the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3786-3
+00:29:18.923 --> 00:29:23.628
+<v Hou, Eric>presentation to everyone in this class,
+no matter what you want to.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3810-0
+00:29:23.628 --> 00:29:26.879
+<v Hou, Eric>Build. However,
+I have there are there are some criteria</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3810-1
+00:29:26.879 --> 00:29:31.043
+<v Hou, Eric>are going to publish really soon.
+I'm going to tell you how I'm going to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3810-2
+00:29:31.043 --> 00:29:33.438
+<v Hou, Eric>gauge your grade on on that final project.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3830-0
+00:29:35.228 --> 00:29:40.964
+<v Hou, Eric>And and even the proposal you you gonna
+give us something really challenging to</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3830-1
+00:29:40.964 --> 00:29:44.548
+<v Hou, Eric>achieve? However,
+is really realistic to achieve.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3838-0
+00:29:44.548 --> 00:29:48.028
+<v Hou, Eric>So I understand there are some
+challenging part of managing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3863-0
+00:29:48.658 --> 00:29:53.405
+<v Hou, Eric>Hard projects and, however,
+is a realistic and successful something</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3863-1
+00:29:53.405 --> 00:29:56.477
+<v Hou, Eric>that you can start thinking about that
+now.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3863-2
+00:29:56.477 --> 00:29:59.898
+<v Hou, Eric>And if you do have some idea you can talk
+to me.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3882-0
+00:29:59.978 --> 00:30:06.839
+<v Hou, Eric>So then we can share what's a realistic
+deliverable for your final presentation</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3882-1
+00:30:06.839 --> 00:30:10.098
+<v Hou, Eric>or final project deliverables. OK, so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3900-0
+00:30:11.788 --> 00:30:17.948
+<v Hou, Eric>And I so I encourage you guys start
+thinking about that now and you know,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3900-1
+00:30:17.948 --> 00:30:21.028
+<v Hou, Eric>talking to your teams, to your peers.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3905-0
+00:30:21.498 --> 00:30:23.138
+<v Hou, Eric>That what ideas?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3926-0
+00:30:23.138 --> 00:30:29.034
+<v Hou, Eric>Either a tool you wanna build using LLM
+or there is a forecasting model you wanna</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3926-1
+00:30:29.034 --> 00:30:34.138
+<v Hou, Eric>do for for example you wanna forecast
+some video stock price tomorrow.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3942-0
+00:30:34.418 --> 00:30:39.850
+<v Hou, Eric>So that you can design A strategy of
+buying NVIDIA stocks tomorrow not could</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3942-1
+00:30:39.850 --> 00:30:40.978
+<v Hou, Eric>be totally fine.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3981-0
+00:30:40.978 --> 00:30:44.364
+<v Hou, Eric>You know,
+brainstorm whatever you want to achieve</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3981-1
+00:30:44.364 --> 00:30:49.646
+<v Hou, Eric>using those ml AI models we learn from
+this class and try to build up, build,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3981-2
+00:30:49.646 --> 00:30:52.693
+<v Hou, Eric>build your products and and maybe who
+knows,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3981-3
+00:30:52.693 --> 00:30:57.839
+<v Hou, Eric>maybe add in the end of this class you
+start building your company and then</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3981-4
+00:30:57.839 --> 00:30:59.058
+<v Hou, Eric>you're you're fun.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3985-0
+00:30:59.058 --> 00:30:59.818
+<v Hou, Eric>Which is awesome.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3988-0
+00:31:00.988 --> 00:31:01.468
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/3993-0
+00:31:01.748 --> 00:31:03.908
+<v Hou, Eric>So no midterm, no final.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4030-0
+00:31:04.258 --> 00:31:09.688
+<v Hou, Eric>But there is a final projects and you
+need to start thinking about this now and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4030-1
+00:31:09.688 --> 00:31:15.254
+<v Hou, Eric>give me a proposal and you need to give
+me a final presentation and then you need</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4030-2
+00:31:15.254 --> 00:31:17.698
+<v Hou, Eric>to send me all the deliverables, OK?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4032-0
+00:31:18.658 --> 00:31:20.098
+<v Hou, Eric>Any questions about the game plan?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4038-0
+00:31:28.718 --> 00:31:30.078
+<v Hou, Eric>Oh, usually here is a moment.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4048-0
+00:31:30.078 --> 00:31:33.118
+<v Hou, Eric>Now we gonna negotiate and then you guys
+do not wanna negotiate.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4050-0
+00:31:40.878 --> 00:31:41.318
+<v Hou, Eric>Alright.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4058-0
+00:31:42.868 --> 00:31:45.388
+<v Hou, Eric>I assume silence means OK, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4064-0
+00:31:45.388 --> 00:31:47.188
+<v Hou, Eric>So now it's a grading policy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4067-0
+00:31:47.828 --> 00:31:49.828
+<v Hou, Eric>It's it should be easy, right? So.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4075-0
+00:31:53.588 --> 00:31:56.628
+<v Hou, Eric>Assignments. You know there is a file.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4085-0
+00:31:56.628 --> 00:32:01.228
+<v Hou, Eric>There are six of them,
+so I would drop one. I would drop one.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4121-0
+00:32:01.228 --> 00:32:05.399
+<v Hou, Eric>So then,
+so then 30% of final grade final project</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4121-1
+00:32:05.399 --> 00:32:09.570
+<v Hou, Eric>proposal,
+your proposal quality and just like the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4121-2
+00:32:09.570 --> 00:32:14.159
+<v Hou, Eric>real live work,
+so you'll have a team rating that that</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4121-3
+00:32:14.159 --> 00:32:16.828
+<v Hou, Eric>will be your midterm evaluation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4126-0
+00:32:17.868 --> 00:32:19.068
+<v Hou, Eric>So now we 20%.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4130-0
+00:32:19.068 --> 00:32:19.868
+<v Hou, Eric>What is that?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4141-0
+00:32:20.228 --> 00:32:24.633
+<v Hou, Eric>So it will be really like I know there
+are a lot of a lot of folks are part time</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4141-1
+00:32:24.633 --> 00:32:25.068
+<v Hou, Eric>student.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4168-0
+00:32:25.068 --> 00:32:29.699
+<v Hou, Eric>So then you will understand the mid term
+evaluations, the mid year evaluation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4168-1
+00:32:29.699 --> 00:32:31.868
+<v Hou, Eric>So it will be really 360° evaluation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4172-0
+00:32:32.308 --> 00:32:35.628
+<v Hou, Eric>You will share your feedback with your
+team members.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4179-0
+00:32:37.298 --> 00:32:40.138
+<v Hou, Eric>What you did was great.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4198-0
+00:32:40.138 --> 00:32:44.881
+<v Hou, Eric>What you did wasn't great.
+And what as a as a team member,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4198-1
+00:32:44.881 --> 00:32:48.258
+<v Hou, Eric>what do you what do I want you to do more?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4230-0
+00:32:49.818 --> 00:32:53.906
+<v Hou, Eric>OK,
+you need to share those feedback to your,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4230-1
+00:32:53.906 --> 00:33:00.748
+<v Hou, Eric>to your team members and then you will
+send a feedback form as a part of the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4230-2
+00:33:00.748 --> 00:33:04.658
+<v Hou, Eric>proposal to evaluate your team members,
+OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4250-0
+00:33:04.658 --> 00:33:10.909
+<v Hou, Eric>So then that's one one thing to we we
+gonna we gonna use as part of the term</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4250-1
+00:33:10.909 --> 00:33:15.698
+<v Hou, Eric>code and code meterm class participation
+that will be 10%.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4258-0
+00:33:16.508 --> 00:33:18.428
+<v Hou, Eric>Of your final grade, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4261-0
+00:33:18.428 --> 00:33:20.548
+<v Hou, Eric>So you will ask more questions.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4267-0
+00:33:21.228 --> 00:33:24.308
+<v Hou, Eric>You, you, you, you,
+you try me in those discussions.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4286-0
+00:33:26.388 --> 00:33:29.378
+<v Hou, Eric>You you got a reward for it and the final
+projects.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4286-1
+00:33:29.378 --> 00:33:34.036
+<v Hou, Eric>So then the deliverable quality and those
+are the team cross review that will be</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4286-2
+00:33:34.036 --> 00:33:34.668
+<v Hou, Eric>part of it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4292-0
+00:33:34.668 --> 00:33:36.148
+<v Hou, Eric>That will be 35%.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4293-0
+00:33:36.588 --> 00:33:37.388
+<v Hou, Eric>Like what?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4298-0
+00:33:37.388 --> 00:33:38.668
+<v Hou, Eric>I said I will send you a survey.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4305-0
+00:33:38.668 --> 00:33:41.428
+<v Hou, Eric>That's a 5% free credit for you guys.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4311-0
+00:33:41.948 --> 00:33:44.028
+<v Hou, Eric>You take the survey, you have the 5%.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4314-0
+00:33:45.708 --> 00:33:46.228
+<v Hou, Eric>That's it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4317-0
+00:33:48.188 --> 00:33:49.108
+<v Hou, Eric>Any questions?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4333-0
+00:33:55.048 --> 00:33:58.195
+<v Hou, Eric>No one wanna learn.
+No one want to earn the the class</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4333-1
+00:33:58.195 --> 00:33:59.768
+<v Hou, Eric>participation 10% from now.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4332-0
+00:33:59.338 --> 00:33:59.498
+<v Matt Benbenek>She.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4336-0
+00:34:01.188 --> 00:34:02.028
+<v Matt Benbenek>Sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4338-0
+00:34:02.588 --> 00:34:03.468
+<v Hou, Eric>Thank you, Matt.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4340-0
+00:34:04.988 --> 00:34:05.628
+<v Hou, Eric>I'll write you down.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4342-0
+00:34:10.258 --> 00:34:11.018
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4344-0
+00:34:15.128 --> 00:34:15.968
+<v Hou, Eric>Right. So.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4366-0
+00:34:19.308 --> 00:34:25.110
+<v Hou, Eric>Next is we are going to invite some of,
+you know, the speakers to this class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4366-1
+00:34:25.110 --> 00:34:27.788
+<v Hou, Eric>As you can see the game plan, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4380-0
+00:34:27.788 --> 00:34:32.588
+<v Hou, Eric>So then the speakers I I I put yes to a
+lot of weeks, right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4396-0
+00:34:32.588 --> 00:34:42.068
+<v Hou, Eric>So then as we are exploring how to teach
+AI1, most important part is to learn from.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4403-0
+00:34:43.028 --> 00:34:45.828
+<v Hou, Eric>The experts how they are using AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4406-0
+00:34:46.618 --> 00:34:47.218
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4411-0
+00:34:48.018 --> 00:34:49.458
+<v Hou, Eric>So then the first one.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4429-0
+00:34:49.458 --> 00:34:55.686
+<v Hou, Eric>The reason why February the 17th we are
+going to be in class in person is just</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4429-1
+00:34:55.686 --> 00:34:57.578
+<v Hou, Eric>because we invited Jeff.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4436-0
+00:34:59.188 --> 00:35:00.748
+<v Hou, Eric>To be in person class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4440-0
+00:35:00.748 --> 00:35:01.828
+<v Hou, Eric>So who is Jeff?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4458-0
+00:35:02.348 --> 00:35:05.865
+<v Hou, Eric>Number one,
+Jeff is in the Advisory Board of Finance</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4458-1
+00:35:05.865 --> 00:35:08.188
+<v Hou, Eric>Department of Marquette University.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4464-0
+00:35:08.988 --> 00:35:11.868
+<v Hou, Eric>And also,
+he's a Marquette University alumni.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4470-0
+00:35:11.868 --> 00:35:13.548
+<v Hou, Eric>So I'm not, but he is.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4472-0
+00:35:14.508 --> 00:35:16.028
+<v Hou, Eric>He's the CEO of.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4476-0
+00:35:16.418 --> 00:35:16.458
+<v Hou, Eric>A.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4508-0
+00:35:16.458 --> 00:35:22.104
+<v Hou, Eric>Symphony advisors and he is the founder
+of this company and he was a global</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4508-1
+00:35:22.104 --> 00:35:27.601
+<v Hou, Eric>finance director of PNG and he was in
+charge of the entire Russia and the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4508-2
+00:35:27.601 --> 00:35:31.538
+<v Hou, Eric>Ukraine region back then before the war,
+apparently.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4542-0
+00:35:33.108 --> 00:35:40.302
+<v Hou, Eric>So you learn a ton from Jeff and he have
+you ever engage with Jeff before because</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4542-1
+00:35:40.302 --> 00:35:45.741
+<v Hou, Eric>he traveled to Milwaukee quite often and
+given presentations,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4542-2
+00:35:45.741 --> 00:35:48.548
+<v Hou, Eric>have you guys really known Jeff?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4544-0
+00:35:49.258 --> 00:35:49.618
+<v Hou, Eric>Yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4546-0
+00:35:51.248 --> 00:35:51.728
+<v Hou, Eric>Anyone.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4549-0
+00:35:52.788 --> 00:35:53.308
+<v Guiter, Sophia>No.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4554-0
+00:35:54.348 --> 00:35:55.308
+<v Hou, Eric>Oh, thank you, Sophia.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4557-0
+00:35:56.428 --> 00:35:57.748
+<v Hou, Eric>Thank you for your participating.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4562-0
+00:35:59.898 --> 00:36:01.058
+<v Hou, Eric>No. OK, so right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4578-0
+00:36:02.988 --> 00:36:07.308
+<v Hou, Eric>So now maybe on on on Fab 17,
+you have the chance.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4585-0
+00:36:07.748 --> 00:36:11.548
+<v Hou, Eric>I will highly recommend to prepare some
+questions for him.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4604-0
+00:36:13.348 --> 00:36:17.222
+<v Hou, Eric>I think that's a good opportunity to
+learn from from Jeff.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4604-1
+00:36:17.222 --> 00:36:20.308
+<v Hou, Eric>The second speaker is is my friend Doctor
+Lee.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4611-0
+00:36:21.988 --> 00:36:23.748
+<v Hou, Eric>He currently is a senior manager.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4616-0
+00:36:25.428 --> 00:36:27.588
+<v Hou, Eric>In the University of Chicago Polski
+Center.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4624-0
+00:36:29.348 --> 00:36:31.708
+<v Hou, Eric>So he's dealing with the venture
+partnership.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4626-0
+00:36:32.138 --> 00:36:32.858
+<v Hou, Eric>Are you Chicago?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4642-0
+00:36:35.128 --> 00:36:39.166
+<v Hou, Eric>He used to be working at Arch,
+the venture partners,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4642-1
+00:36:39.166 --> 00:36:41.528
+<v Hou, Eric>so this is really a VC company.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4660-0
+00:36:43.108 --> 00:36:47.650
+<v Hou, Eric>In Chicago,
+he has a PhD in chemistry from University</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4660-1
+00:36:47.650 --> 00:36:48.828
+<v Hou, Eric>of New Mexico.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4668-0
+00:36:49.108 --> 00:36:52.908
+<v Hou, Eric>And he he also is an MBA from new Chicago
+Booth School of Business.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4675-0
+00:36:54.588 --> 00:36:56.108
+<v Hou, Eric>His job is kind of interesting.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4678-0
+00:36:58.348 --> 00:36:59.588
+<v Hou, Eric>He's you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4685-0
+00:36:59.588 --> 00:37:00.748
+<v Hou, Eric>You may not believe it, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4691-0
+00:37:00.748 --> 00:37:03.268
+<v Hou, Eric>So then there's a lot of professors in
+new Chicago.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4697-0
+00:37:03.268 --> 00:37:05.668
+<v Hou, Eric>So then they have a lot of research and
+they have.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4723-0
+00:37:06.018 --> 00:37:11.526
+<v Hou, Eric>A lot of results and his job is
+persuading those professors to quote UN</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4723-1
+00:37:11.526 --> 00:37:15.198
+<v Hou, Eric>quote,
+earn more money to fund their companies.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4723-2
+00:37:15.198 --> 00:37:20.018
+<v Hou, Eric>And then so then so you Chicago can
+invest in those companies.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4727-0
+00:37:20.018 --> 00:37:20.738
+<v Hou, Eric>So then they can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4736-0
+00:37:20.738 --> 00:37:24.098
+<v Hou, Eric>They can Co learn a lot of money,
+so that's his job.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4746-0
+00:37:24.098 --> 00:37:28.538
+<v Hou, Eric>So he he's talking with the the academia
+professors over there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4763-0
+00:37:30.108 --> 00:37:35.005
+<v Hou, Eric>And figured out whether there is an
+opportunity to to to to to start their</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4763-1
+00:37:35.005 --> 00:37:35.788
+<v Hou, Eric>own startup.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4776-0
+00:37:36.378 --> 00:37:41.114
+<v Hou, Eric>And what's the opportunity to attract
+more funding into their companies through</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4776-1
+00:37:41.114 --> 00:37:42.298
+<v Hou, Eric>the post gig center?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4784-0
+00:37:43.868 --> 00:37:46.668
+<v Hou, Eric>Platform so.
+So he will definitely talk about.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4794-0
+00:37:48.388 --> 00:37:51.828
+<v Hou, Eric>The investment trend in the Aiml area.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4813-0
+00:37:53.708 --> 00:37:59.756
+<v Hou, Eric>Because arguably a lot of investments are
+happening in in California or or Seattle,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4813-1
+00:37:59.756 --> 00:38:00.188
+<v Hou, Eric>right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4817-0
+00:38:00.188 --> 00:38:02.668
+<v Hou, Eric>So then those are really like the
+technology hubs.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4820-0
+00:38:04.428 --> 00:38:05.068
+<v Hou, Eric>Or or New York.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4837-0
+00:38:05.978 --> 00:38:11.180
+<v Hou, Eric>If anything happen in meetings that you a
+lot of cases actually in Chicago,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4837-1
+00:38:11.180 --> 00:38:12.138
+<v Hou, Eric>not Milwaukee.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4842-0
+00:38:12.138 --> 00:38:14.058
+<v Hou, Eric>So then, so I invite.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4853-0
+00:38:14.058 --> 00:38:19.858
+<v Hou, Eric>I invite him to come in here and talk
+about, you know, the investments trend.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4873-0
+00:38:21.428 --> 00:38:26.048
+<v Hou, Eric>In case you guys are interested in,
+you know, being an entrepreneur,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4873-1
+00:38:26.048 --> 00:38:27.588
+<v Hou, Eric>build your own startup.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4881-0
+00:38:27.748 --> 00:38:31.588
+<v Hou, Eric>I think that's a a great opportunity to
+learn from from him.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4887-0
+00:38:33.188 --> 00:38:34.868
+<v Hou, Eric>And then where you should what?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4890-0
+00:38:34.948 --> 00:38:35.668
+<v Hou, Eric>What kind of?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4913-0
+00:38:36.138 --> 00:38:39.993
+<v Hou, Eric>Experience.
+You gonna build your own company and how</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4913-1
+00:38:39.993 --> 00:38:45.738
+<v Hou, Eric>to attract new investment and then what
+is the hot spot in in investment area?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4917-0
+00:38:45.738 --> 00:38:48.058
+<v Hou, Eric>So then definitely he's going to talk
+about that.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4919-0
+00:38:49.818 --> 00:38:50.418
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4926-0
+00:38:52.218 --> 00:38:56.418
+<v Hou, Eric>Another one is my friend Nick.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4943-0
+00:38:57.988 --> 00:38:59.988
+<v Hou, Eric>So I used to work with Nick at Antwait
+dot AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4962-0
+00:39:00.348 --> 00:39:04.694
+<v Hou, Eric>So that's a Goldman Sachs portfolio
+company.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4962-1
+00:39:04.694 --> 00:39:11.068
+<v Hou, Eric>So now he's a senior director at Senior
+director of AI Scientist.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4964-0
+00:39:11.508 --> 00:39:12.428
+<v Hou, Eric>AI scientist.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4977-0
+00:39:15.058 --> 00:39:19.150
+<v Hou, Eric>Add zebra.
+Do you guys know Zebra technology as a</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4977-1
+00:39:19.150 --> 00:39:20.378
+<v Hou, Eric>company at all?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4980-0
+00:39:25.498 --> 00:39:25.818
+<v Hou, Eric>No.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4984-0
+00:39:25.728 --> 00:39:27.648
+<v Halm, William>Do they make barcode things?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4998-0
+00:39:28.418 --> 00:39:30.998
+<v Hou, Eric>Yeah,
+they made barcode and then they made</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/4998-1
+00:39:30.998 --> 00:39:31.538
+<v Hou, Eric>scanners.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5000-0
+00:39:32.018 --> 00:39:33.578
+<v Hou, Eric>Their headquarter is in.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5002-0
+00:39:35.428 --> 00:39:35.468
+<v Hou, Eric>Gosh.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5018-0
+00:39:37.108 --> 00:39:41.573
+<v Hou, Eric>Illinois, North Chicago,
+close to border between Chicago between</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5018-1
+00:39:41.573 --> 00:39:43.428
+<v Hou, Eric>Illinois and and Wisconsin.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5025-0
+00:39:45.188 --> 00:39:46.828
+<v Hou, Eric>Yeah. So they have.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5028-0
+00:39:46.948 --> 00:39:48.628
+<v Hou, Eric>They have office in downtown Chicago.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5040-0
+00:39:50.228 --> 00:39:54.948
+<v Hou, Eric>He's leading that AI effort at Zebra,
+so they offer a lot of things really like.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5047-0
+00:39:57.388 --> 00:39:59.188
+<v Hou, Eric>Not like Brady's a focus on one area.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5058-0
+00:39:59.418 --> 00:40:02.778
+<v Hou, Eric>We have a lot of area to cover and zebra
+is a public company.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5067-0
+00:40:02.778 --> 00:40:06.218
+<v Hou, Eric>So then you can definitely find your 10K.
+Thank you online.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5078-0
+00:40:06.538 --> 00:40:11.818
+<v Hou, Eric>So I invited Nick to talk about, you know,
+their their strategy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5089-0
+00:40:12.058 --> 00:40:14.818
+<v Hou, Eric>I know a lot of folks are from Milwaukee
+tools.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5099-0
+00:40:14.818 --> 00:40:18.928
+<v Hou, Eric>Maybe this is some area that you can you
+can ask Nick about, you know,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5099-1
+00:40:18.928 --> 00:40:19.738
+<v Hou, Eric>to learn from.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5115-0
+00:40:21.428 --> 00:40:27.008
+<v Hou, Eric>Doctor Wagman about how they are using AI
+at Zebra. I think that would be really,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5115-1
+00:40:27.008 --> 00:40:28.028
+<v Hou, Eric>really helpful.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5117-0
+00:40:28.098 --> 00:40:28.338
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5121-0
+00:40:32.268 --> 00:40:34.268
+<v Hou, Eric>Another one speaker.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5144-0
+00:40:36.468 --> 00:40:40.721
+<v Hou, Eric>So Mr. Sam Auswich,
+he currently is a CEO and managing</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5144-1
+00:40:40.721 --> 00:40:44.588
+<v Hou, Eric>partner of a consulting firm,
+Parker Avery Group.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5153-0
+00:40:45.548 --> 00:40:50.188
+<v Hou, Eric>So the Parker Avery Group is a is a
+consulting firm based in Atlanta, GA.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5156-0
+00:40:50.548 --> 00:40:51.508
+<v Hou, Eric>And then they have.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5162-0
+00:40:51.828 --> 00:40:54.708
+<v Hou, Eric>They have a data AI ML team in Chicago.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5169-0
+00:40:56.268 --> 00:40:58.148
+<v Hou, Eric>Well, as you can see,
+I live in Chicago for a long time.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5174-0
+00:40:58.618 --> 00:41:00.738
+<v Hou, Eric>Then I rewinded a lot of Chicago folks.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5181-0
+00:41:02.308 --> 00:41:04.068
+<v Hou, Eric>So he's leading that effort.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5186-0
+00:41:04.708 --> 00:41:07.388
+<v Hou, Eric>He also the as entrepreneur.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5203-0
+00:41:07.388 --> 00:41:11.329
+<v Hou, Eric>He's my ex boss.
+He founded this as a proc. No,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5203-1
+00:41:11.329 --> 00:41:13.628
+<v Hou, Eric>and then acquired by Antwit.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5218-0
+00:41:14.508 --> 00:41:20.838
+<v Hou, Eric>Antwit was using the Goldman Sachs money,
+so they purchased the the the company Sam</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5218-1
+00:41:20.838 --> 00:41:22.948
+<v Hou, Eric>started Sam used to leading.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5228-0
+00:41:24.588 --> 00:41:27.988
+<v Hou, Eric>The consulting business in SAS,
+do you guys know a company called S?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5231-0
+00:41:28.418 --> 00:41:28.898
+<v Hou, Eric>They asked.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5238-0
+00:41:28.898 --> 00:41:32.458
+<v Hou, Eric>Still, like 10 years ago,
+is A is a big company.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5243-0
+00:41:32.458 --> 00:41:34.298
+<v Hou, Eric>I'm not sure if you guys do know SAS.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5246-0
+00:41:36.508 --> 00:41:37.268
+<v Hou, Eric>Do you know SAS?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5248-0
+00:41:41.508 --> 00:41:42.068
+<v Hou, Eric>I guess no.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5251-0
+00:41:43.948 --> 00:41:44.348
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5257-0
+00:41:44.348 --> 00:41:47.348
+<v Hou, Eric>So SAS is is a company providing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5259-0
+00:41:48.988 --> 00:41:49.348
+<v Hou, Eric>Providing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5288-0
+00:41:51.188 --> 00:41:55.376
+<v Hou, Eric>A stat software that also is called SaaS.
+A lot of banks,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5288-1
+00:41:55.376 --> 00:41:59.347
+<v Hou, Eric>for example Goldman Sachs for example,
+like JP Morgan,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5288-2
+00:41:59.347 --> 00:42:05.268
+<v Hou, Eric>a lot of banks are are using or discovery
+a lot of banks are using SaaS software.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5298-0
+00:42:06.068 --> 00:42:10.628
+<v Hou, Eric>So you know Python is open source and
+SaaS is not open source.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5308-0
+00:42:11.018 --> 00:42:16.218
+<v Hou, Eric>You have to pay the membership fee for
+for the license.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5312-0
+00:42:16.658 --> 00:42:20.098
+<v Hou, Eric>So and then they gonna provide you a lot
+of support.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5323-0
+00:42:21.668 --> 00:42:24.508
+<v Hou, Eric>So so Sam is still leading that
+consulting effort.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5352-0
+00:42:25.268 --> 00:42:30.919
+<v Hou, Eric>So then this is really from a different,
+a different area consulting area.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5352-1
+00:42:30.919 --> 00:42:36.644
+<v Hou, Eric>I really hope that he can share a
+different opinion of using AIS, you know,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5352-2
+00:42:36.644 --> 00:42:40.788
+<v Hou, Eric>serving for his customers and how they
+are using this.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5367-0
+00:42:41.338 --> 00:42:45.898
+<v Hou, Eric>So I'm not sure you guys are learning
+finance and product managers.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5371-0
+00:42:46.218 --> 00:42:47.258
+<v Hou, Eric>A different background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5382-0
+00:42:47.298 --> 00:42:51.674
+<v Hou, Eric>I'm not sure if consulting is A1
+consideration that you gonna you gonna</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5382-1
+00:42:51.674 --> 00:42:51.978
+<v Hou, Eric>join.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5389-0
+00:42:52.338 --> 00:42:53.778
+<v Hou, Eric>But at least you can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5393-0
+00:42:53.778 --> 00:42:56.018
+<v Hou, Eric>You can learn from Sam, OK?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5398-0
+00:42:57.898 --> 00:43:01.138
+<v Hou, Eric>And also Nadia.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5402-0
+00:43:02.708 --> 00:43:04.228
+<v Hou, Eric>So she has.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5413-0
+00:43:05.908 --> 00:43:10.548
+<v Hou, Eric>Really long, really.
+Experience leader in in strategy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5417-0
+00:43:11.508 --> 00:43:12.988
+<v Hou, Eric>She works at Google.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5421-0
+00:43:13.428 --> 00:43:14.988
+<v Hou, Eric>She works at Siemens.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5425-0
+00:43:14.988 --> 00:43:15.908
+<v Hou, Eric>She worked as a PW C.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5430-0
+00:43:15.908 --> 00:43:17.668
+<v Hou, Eric>She works at Deloitte.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5434-0
+00:43:17.668 --> 00:43:18.508
+<v Hou, Eric>She works at.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5444-0
+00:43:18.508 --> 00:43:21.699
+<v Hou, Eric>Currently,
+she's she's leading the the strategy</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5444-1
+00:43:21.699 --> 00:43:23.428
+<v Hou, Eric>effort at Hitachi Digital.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5455-0
+00:43:25.068 --> 00:43:28.508
+<v Hou, Eric>She used to be the chief of a strategy at
+the Brady Corporation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5470-0
+00:43:30.338 --> 00:43:33.898
+<v Hou, Eric>She's alumni of Wharton school,
+U Pennsylvania.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5474-0
+00:43:34.618 --> 00:43:37.298
+<v Hou, Eric>She's really experiencing AI area.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5498-0
+00:43:37.298 --> 00:43:41.923
+<v Hou, Eric>She knows a tons of, you know, CEO,
+CIOs in the country.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5498-1
+00:43:41.923 --> 00:43:45.818
+<v Hou, Eric>And then also the of Google and Deloitte
+there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5510-0
+00:43:45.818 --> 00:43:51.618
+<v Hou, Eric>They're definitely gonna push that AI
+usage through different companies.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5516-0
+00:43:51.618 --> 00:43:54.938
+<v Hou, Eric>So now I I also invited Nadia to to give
+us.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5522-0
+00:43:55.748 --> 00:43:58.548
+<v Hou, Eric>A presentation of she thinks what's
+important.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5541-0
+00:43:58.978 --> 00:44:03.338
+<v Hou, Eric>In in AI and I do know there are some
+female students in our class.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5550-0
+00:44:03.818 --> 00:44:07.498
+<v Hou, Eric>So that's why I I really want to invite a
+female leader.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5556-0
+00:44:07.698 --> 00:44:12.738
+<v Hou, Eric>So then you guys can learn how female
+could shine.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5570-0
+00:44:14.388 --> 00:44:19.108
+<v Hou, Eric>Through this AI approach and it was a
+best strategy for you to grow.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5575-0
+00:44:20.828 --> 00:44:22.428
+<v Hou, Eric>In in this era, OK?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5587-0
+00:44:24.608 --> 00:44:28.408
+<v Hou, Eric>And you can definitely find her LinkedIn
+if you search her name.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5591-0
+00:44:28.688 --> 00:44:31.048
+<v Hou, Eric>You wanna make friend of her?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5595-0
+00:44:32.088 --> 00:44:33.048
+<v Hou, Eric>Any questions?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5599-0
+00:44:33.328 --> 00:44:37.928
+<v Hou, Eric>And oh,
+I'm also inviting another two folks.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5611-0
+00:44:39.468 --> 00:44:44.748
+<v Hou, Eric>Really one is working at the discovery
+the Financial Group.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5620-0
+00:44:45.268 --> 00:44:51.548
+<v Hou, Eric>His job is doing analyzing risks for for
+discovery.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5624-0
+00:44:53.428 --> 00:44:55.468
+<v Hou, Eric>And I'm reminding him.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5637-0
+00:44:56.188 --> 00:45:00.377
+<v Hou, Eric>Another person,
+his his background is a PhD from</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5637-1
+00:45:00.377 --> 00:45:02.428
+<v Hou, Eric>Northwestern University.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5640-0
+00:45:02.948 --> 00:45:06.348
+<v Hou, Eric>His job is also risk management.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5647-0
+00:45:07.908 --> 00:45:08.748
+<v Hou, Eric>Sort of modeling.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5653-0
+00:45:08.748 --> 00:45:11.668
+<v Hou, Eric>He travels to New York City quite often
+from Chicago.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5662-0
+00:45:12.228 --> 00:45:16.148
+<v Hou, Eric>I'm inviting those two gentlemen to come
+in here to give a presentation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5684-0
+00:45:16.348 --> 00:45:21.321
+<v Hou, Eric>The reason I didn't put their background
+here in this slide is they haven't give</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5684-1
+00:45:21.321 --> 00:45:25.188
+<v Hou, Eric>me a full yes yet because I told them
+it's in March and April.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5686-0
+00:45:25.188 --> 00:45:26.388
+<v Hou, Eric>They said they are quite busy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5697-0
+00:45:27.138 --> 00:45:30.098
+<v Hou, Eric>So then they gonna give me answer like in
+one week or two?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5726-0
+00:45:30.098 --> 00:45:32.698
+<v Hou, Eric>So then I didn't put their background
+here,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5726-1
+00:45:32.698 --> 00:45:37.483
+<v Hou, Eric>but there are some folks have been doing
+a risk management may show that in this</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5726-2
+00:45:37.483 --> 00:45:41.618
+<v Hou, Eric>class and then and give you guys any give
+you guys your presentation.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5729-0
+00:45:41.818 --> 00:45:42.818
+<v Hou, Eric>So I'm pretty sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5752-0
+00:45:44.388 --> 00:45:50.310
+<v Hou, Eric>Those potentially right now we have 5
+potentially 7 speakers can really give</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5752-1
+00:45:50.310 --> 00:45:56.077
+<v Hou, Eric>you guys a full image of different
+companies from different areas of using</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5752-2
+00:45:56.077 --> 00:45:56.308
+<v Hou, Eric>AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5768-0
+00:45:57.178 --> 00:46:02.207
+<v Hou, Eric>And hopefully you guys gonna enjoying it
+and since you know this information now,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5768-1
+00:46:02.207 --> 00:46:03.618
+<v Hou, Eric>maybe you should start.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5780-0
+00:46:03.858 --> 00:46:08.174
+<v Hou, Eric>You will start preparing some questions
+to ask to those folks. OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5780-1
+00:46:08.174 --> 00:46:09.978
+<v Hou, Eric>So to maximize your benefit.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5783-0
+00:46:11.738 --> 00:46:12.138
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5787-0
+00:46:12.138 --> 00:46:13.338
+<v Hou, Eric>So those are the speakers.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5789-0
+00:46:15.148 --> 00:46:15.708
+<v Hou, Eric>Any questions?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5819-0
+00:46:19.498 --> 00:46:23.361
+<v Teske, Benjamin>Do you know if all these people have had,
+like, a background in AI,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5819-1
+00:46:23.361 --> 00:46:27.280
+<v Teske, Benjamin>like through their education?
+Or was it picked up a lot like just in</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5819-2
+00:46:27.280 --> 00:46:31.086
+<v Teske, Benjamin>the different roles that they've had,
+that they've been working in</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5819-3
+00:46:31.086 --> 00:46:31.938
+<v Teske, Benjamin>professionally?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5827-0
+00:46:32.538 --> 00:46:34.458
+<v Hou, Eric>OK, so I can talk 1 by 1.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5838-0
+00:46:35.058 --> 00:46:41.958
+<v Hou, Eric>Number one is AI,
+especially for large language model is</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5838-1
+00:46:41.958 --> 00:46:44.258
+<v Hou, Eric>not a thing, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5859-0
+00:46:45.828 --> 00:46:50.021
+<v Hou, Eric>Before three years ago,
+so I can tell 100% sure is they do not</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5859-1
+00:46:50.021 --> 00:46:53.748
+<v Hou, Eric>have a background dealing with a large
+language models.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5870-0
+00:46:54.628 --> 00:46:58.105
+<v Hou, Eric>Let's talk about.
+If we expand that concept a little bit</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5870-1
+00:46:58.105 --> 00:46:59.508
+<v Hou, Eric>more, do they have any?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5872-0
+00:47:01.508 --> 00:47:01.708
+<v Hou, Eric>Quant.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5874-0
+00:47:03.388 --> 00:47:03.788
+<v Hou, Eric>Background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5887-0
+00:47:05.428 --> 00:47:09.068
+<v Hou, Eric>A job I believe he has a finance
+background as you guys.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5898-0
+00:47:09.468 --> 00:47:13.257
+<v Hou, Eric>So then if you say he does,
+he have like really a mathematic</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5898-1
+00:47:13.257 --> 00:47:14.188
+<v Hou, Eric>background? No.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5939-0
+00:47:16.858 --> 00:47:21.002
+<v Hou, Eric>Doctor Lee,
+he's a he's chemistry background and he</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5939-1
+00:47:21.002 --> 00:47:26.661
+<v Hou, Eric>does not have AI background.
+And then he was putting in a role that he</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5939-2
+00:47:26.661 --> 00:47:33.037
+<v Hou, Eric>need to help the professors to attract
+more investment so that he start engaged</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5939-3
+00:47:33.037 --> 00:47:37.978
+<v Hou, Eric>with the AI because, you know,
+there's a tons of money going.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5952-0
+00:47:37.978 --> 00:47:42.218
+<v Hou, Eric>To invest in the AI area in AI startups,
+you, you, you are a company.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5955-0
+00:47:42.218 --> 00:47:42.858
+<v Hou, Eric>You are a startup.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5961-0
+00:47:42.858 --> 00:47:45.778
+<v Hou, Eric>You have to manage your you have to brand
+your company as.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5981-0
+00:47:46.338 --> 00:47:51.371
+<v Hou, Eric>Company. So then a lot of fun.
+Gonna contact you to invest. So.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/5981-1
+00:47:51.371 --> 00:47:53.258
+<v Hou, Eric>So then he's he's there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6002-0
+00:47:53.258 --> 00:47:59.337
+<v Hou, Eric>He's in his position, he's learning AI,
+but he does not have AAI background. Nick,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6002-1
+00:47:59.337 --> 00:48:03.218
+<v Hou, Eric>on the other hand,
+sees a pure mathematician, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6018-0
+00:48:03.218 --> 00:48:07.876
+<v Hou, Eric>So then he use those mathematics while
+you know providing services to different</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6018-1
+00:48:07.876 --> 00:48:08.458
+<v Hou, Eric>companies.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6024-0
+00:48:08.858 --> 00:48:13.058
+<v Hou, Eric>So I think he's not learning AI at the
+school.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6030-0
+00:48:13.868 --> 00:48:15.068
+<v Hou, Eric>But he's picking up aiml.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6040-0
+00:48:15.898 --> 00:48:21.698
+<v Hou, Eric>Uh. In his job. Sam. Sam.
+He's a medicine alumni.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6050-0
+00:48:21.698 --> 00:48:25.218
+<v Hou, Eric>And then he's a pure consulting
+background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6057-0
+00:48:25.778 --> 00:48:27.738
+<v Hou, Eric>He learned he he has a basis.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6064-0
+00:48:27.738 --> 00:48:30.938
+<v Hou, Eric>He learned AI will drive the business
+value.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6070-0
+00:48:31.098 --> 00:48:34.178
+<v Hou, Eric>So then he's picking up AI Nadia.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6073-0
+00:48:34.458 --> 00:48:36.058
+<v Hou, Eric>He's a loser Business School guy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6088-0
+00:48:36.058 --> 00:48:40.824
+<v Hou, Eric>He's an MBA from Wharton School,
+so that he does not have AI background</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6088-1
+00:48:40.824 --> 00:48:43.538
+<v Hou, Eric>and also he's really focused on strategy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6093-0
+00:48:44.348 --> 00:48:46.188
+<v Hou, Eric>Is also the thing that when she realized.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6105-0
+00:48:46.978 --> 00:48:51.898
+<v Hou, Eric>That AI is really critical to drive
+business value.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6123-0
+00:48:52.098 --> 00:48:59.458
+<v Hou, Eric>And then there's no way for any strategy
+people not talking about AI so that **</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6123-1
+00:48:59.458 --> 00:49:01.298
+<v Hou, Eric>*** has to learn it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6131-0
+00:49:01.378 --> 00:49:04.138
+<v Hou, Eric>She has to create a combination.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6132-0
+00:49:04.138 --> 00:49:05.978
+<v Hou, Eric>Consider AI strategy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6137-0
+00:49:06.138 --> 00:49:07.218
+<v Hou, Eric>So then he started learning.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6141-0
+00:49:07.218 --> 00:49:08.378
+<v Hou, Eric>She started learning it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6156-0
+00:49:08.538 --> 00:49:14.948
+<v Hou, Eric>So I I think to answer your question,
+it is really not you have that background,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6156-1
+00:49:14.948 --> 00:49:15.898
+<v Hou, Eric>it's really.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6172-0
+00:49:16.578 --> 00:49:19.298
+<v Hou, Eric>What more importance you have the
+motivation,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6172-1
+00:49:19.298 --> 00:49:22.018
+<v Hou, Eric>and then you clearly have a goal of using
+AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6179-0
+00:49:22.258 --> 00:49:25.298
+<v Hou, Eric>The motivation really drives you to learn
+more about AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6190-0
+00:49:26.058 --> 00:49:29.138
+<v Hou, Eric>And to to to use AI in in your real life.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6196-0
+00:49:29.378 --> 00:49:32.578
+<v Hou, Eric>So it is really not your education you
+have.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6222-0
+00:49:32.578 --> 00:49:36.372
+<v Hou, Eric>I pretty sure you have pretty solid
+preparation to learn AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6222-1
+00:49:36.372 --> 00:49:41.597
+<v Hou, Eric>Your finance background you some of them
+are some of you guys are product managers,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6222-2
+00:49:41.597 --> 00:49:45.018
+<v Hou, Eric>some of you guys are already engaged with
+the ML team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6232-0
+00:49:45.018 --> 00:49:49.993
+<v Hou, Eric>You have solid background,
+so then it's really about your motivation</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6232-1
+00:49:49.993 --> 00:49:50.858
+<v Hou, Eric>of using AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6241-0
+00:49:51.668 --> 00:49:55.348
+<v Hou, Eric>You need to and and and not necessary
+your background.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6245-0
+00:49:56.128 --> 00:49:57.328
+<v Hou, Eric>Did that answer your question?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6248-0
+00:50:00.558 --> 00:50:01.558
+<v Teske, Benjamin>Definitely. Thank you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6252-0
+00:50:02.178 --> 00:50:04.058
+<v Hou, Eric>Yeah. Any any other questions?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6281-0
+00:50:05.988 --> 00:50:10.005
+<v Hou, Eric>Any any folks you want to be here talking
+to us? Let me know.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6281-1
+00:50:10.005 --> 00:50:14.347
+<v Hou, Eric>You can let me know now and I'll try my
+best to search my link in,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6281-2
+00:50:14.347 --> 00:50:17.068
+<v Hou, Eric>and I don't mind sending them cold e-mail.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6287-0
+00:50:17.068 --> 00:50:18.948
+<v Hou, Eric>E-mail. Hey,
+do you want to present anything here?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6289-0
+00:50:26.418 --> 00:50:26.938
+<v Hou, Eric>No question.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6291-0
+00:50:30.208 --> 00:50:30.608
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6293-0
+00:50:32.758 --> 00:50:33.038
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6299-0
+00:50:33.038 --> 00:50:35.318
+<v Hou, Eric>So that's talk about data, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6304-0
+00:50:35.318 --> 00:50:38.358
+<v Hou, Eric>So then we will be dealing with data.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6313-0
+00:50:39.928 --> 00:50:42.288
+<v Hou, Eric>Fortunately or unfortunately, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6319-0
+00:50:42.688 --> 00:50:46.008
+<v Hou, Eric>So there are we gonna use a lot of APIs.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6360-0
+00:50:46.168 --> 00:50:50.991
+<v Hou, Eric>I hope you guys know what API is.
+The application program interface so</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6360-1
+00:50:50.991 --> 00:50:56.562
+<v Hou, Eric>their API from you know Yahoo Finance and
+there's there's some API and then there</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6360-2
+00:50:56.562 --> 00:51:00.841
+<v Hou, Eric>is you know SEC Edgar.
+There are some there was API so you can</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6360-3
+00:51:00.841 --> 00:51:01.928
+<v Hou, Eric>you can you can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6371-0
+00:51:02.318 --> 00:51:08.518
+<v Hou, Eric>Actually fetch the 10K10Q data and then
+you will learn from those examples.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6376-0
+00:51:10.048 --> 00:51:10.808
+<v Hou, Eric>And then there is a.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6394-0
+00:51:11.048 --> 00:51:14.445
+<v Hou, Eric>There is a website called FMP,
+the financial model,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6394-1
+00:51:14.445 --> 00:51:16.208
+<v Hou, Eric>the financial modeling.com.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6398-0
+00:51:16.408 --> 00:51:18.288
+<v Hou, Eric>So then I subscribe it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6414-0
+00:51:18.288 --> 00:51:23.016
+<v Hou, Eric>So then there's definitely a tons of data
+over there and the cargo is another.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6414-1
+00:51:23.016 --> 00:51:26.008
+<v Hou, Eric>Another area that you can find a ton of
+data, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6421-0
+00:51:26.328 --> 00:51:30.808
+<v Hou, Eric>So we definitely gonna use AI and then
+you will code.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6424-0
+00:51:31.568 --> 00:51:32.728
+<v Hou, Eric>OK, you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6453-0
+00:51:32.728 --> 00:51:37.764
+<v Hou, Eric>I'll share with you some sample code so
+you can switch. You can tweak,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6453-1
+00:51:37.764 --> 00:51:41.453
+<v Hou, Eric>change the codes and then you can you can
+apply to.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6453-2
+00:51:41.453 --> 00:51:44.928
+<v Hou, Eric>You can apply the new codes on the on
+your data.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6472-0
+00:51:45.168 --> 00:51:50.193
+<v Hou, Eric>So I'm not expecting that you gonna code
+from scratch, but if you want,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6472-1
+00:51:50.193 --> 00:51:52.008
+<v Hou, Eric>there's certainly you can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6491-0
+00:51:52.328 --> 00:51:56.237
+<v Hou, Eric>But that's that's really a good
+additional effort you wanna put.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6491-1
+00:51:56.237 --> 00:52:00.867
+<v Hou, Eric>But if you don't want to code you can
+copy paste my code and apply it to the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6491-2
+00:52:00.867 --> 00:52:01.168
+<v Hou, Eric>data.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6493-0
+00:52:02.128 --> 00:52:02.608
+<v Hou, Eric>Like what?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6518-0
+00:52:02.608 --> 00:52:07.263
+<v Hou, Eric>I said the motivation and expectation is
+you know what you're running.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6518-1
+00:52:07.263 --> 00:52:12.048
+<v Hou, Eric>You know the pros and cons that the codes
+in front of you is generating.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6519-0
+00:52:12.088 --> 00:52:13.248
+<v Hou, Eric>That's it, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6542-0
+00:52:14.808 --> 00:52:20.201
+<v Hou, Eric>We will definitely use LMS,
+so I'm not sure what's the what's the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6542-1
+00:52:20.201 --> 00:52:24.368
+<v Hou, Eric>mark on university policy targeting
+concerning AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6549-0
+00:52:25.208 --> 00:52:28.168
+<v Hou, Eric>Do they allow you guys using AI or do
+they?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6555-0
+00:52:29.808 --> 00:52:31.648
+<v Hou, Eric>Forbid you guys using AI at all.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6563-0
+00:52:32.408 --> 00:52:34.208
+<v Hou, Eric>What? What's the AI strategy policy?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6567-0
+00:52:32.778 --> 00:52:33.578
+<v Capozzoli, Jay>Yeah you could.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6572-0
+00:52:35.138 --> 00:52:37.178
+<v Capozzoli, Jay>You can use it,
+but I think you just have to cite it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6582-0
+00:52:38.428 --> 00:52:41.108
+<v Hou, Eric>Oh, you had? OK, you you can use it,
+but you have decided.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6588-0
+00:52:41.928 --> 00:52:42.808
+<v Capozzoli, Jay>Yeah, I'm pretty sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6586-0
+00:52:42.078 --> 00:52:42.438
+<v Haroon, Sufyan>Yep.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6592-0
+00:52:43.928 --> 00:52:44.168
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6609-0
+00:52:44.328 --> 00:52:50.888
+<v Haroon, Sufyan>Same same for my other MBA courses where
+we did SQL, Python And our programming.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6625-0
+00:52:51.048 --> 00:52:54.354
+<v Haroon, Sufyan>They all allowed us to use it as a
+starting point,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6625-1
+00:52:54.354 --> 00:52:58.568
+<v Haroon, Sufyan>but we had to side cite whatever we took
+from open AI or Gemini.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6656-0
+00:52:59.978 --> 00:53:05.261
+<v Hou, Eric>So it's the final codes or some
+intermediate codes that you have decided</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6656-1
+00:53:05.261 --> 00:53:10.472
+<v Hou, Eric>because sometimes they don't.
+Whatever AI they won't generate the codes</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6656-2
+00:53:10.472 --> 00:53:14.018
+<v Hou, Eric>that no bug and then generate whatever
+you want.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6665-0
+00:53:15.618 --> 00:53:18.778
+<v Hou, Eric>Do they ask you guys to provide a prompt
+that you send to the AI?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6684-0
+00:53:20.518 --> 00:53:23.007
+<v Haroon, Sufyan>Yep,
+they are still send our entire</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6669-0
+00:53:21.288 --> 00:53:21.688
+<v Hou, Eric>Oh.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6684-1
+00:53:23.007 --> 00:53:28.398
+<v Haroon, Sufyan>conversation list or whatever prompts we
+used to get to the final conclusion.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6686-0
+00:53:29.238 --> 00:53:29.838
+<v Hou, Eric>Oh really?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6687-0
+00:53:29.878 --> 00:53:30.158
+<v Hou, Eric>Oh wow.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6696-0
+00:53:32.378 --> 00:53:37.458
+<v Hou, Eric>OK, that's that's OK alright.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6700-0
+00:53:37.458 --> 00:53:40.058
+<v Hou, Eric>So similar strategy here.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6715-0
+00:53:40.658 --> 00:53:43.999
+<v Hou, Eric>You're free to use AI you you can
+certainly use open AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6715-1
+00:53:43.999 --> 00:53:45.698
+<v Hou, Eric>You can certainly use Gemini.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6722-0
+00:53:47.598 --> 00:53:50.198
+<v Hou, Eric>I I do love cloud of anthropic.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6734-0
+00:53:51.768 --> 00:53:57.688
+<v Hou, Eric>You can use that as well and you honestly
+you don't have to send me the prompt.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6771-0
+00:53:58.288 --> 00:54:01.642
+<v Hou, Eric>I mean you,
+I assume you have a lot of prompt you</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6771-1
+00:54:01.642 --> 00:54:05.063
+<v Hou, Eric>send to the AI,
+you don't have to send any prompt,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6771-2
+00:54:05.063 --> 00:54:10.295
+<v Hou, Eric>you just need to tell me that whether
+this code is coded it's you coded or AI</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6771-3
+00:54:10.295 --> 00:54:13.448
+<v Hou, Eric>coded or or you work with AI coded.
+That's it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6779-0
+00:54:14.008 --> 00:54:16.968
+<v Hou, Eric>OK. And then what I have to say is.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6789-0
+00:54:17.808 --> 00:54:20.768
+<v Hou, Eric>Eventually, whatever you receive,
+you will learn from this course.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6798-0
+00:54:22.368 --> 00:54:26.768
+<v Hou, Eric>It's really up to you,
+like how much you exercise with the code.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6829-0
+00:54:28.078 --> 00:54:34.262
+<v Hou, Eric>You can actually generate user AI to
+generate everything anything you want,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6829-1
+00:54:34.262 --> 00:54:37.598
+<v Hou, Eric>but AI still there. AI still evolving AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6839-0
+00:54:37.718 --> 00:54:41.716
+<v Hou, Eric>Understand what you wanna do,
+but I hope you eventually understand what</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6839-1
+00:54:41.716 --> 00:54:42.438
+<v Hou, Eric>you're doing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6842-0
+00:54:42.438 --> 00:54:44.198
+<v Hou, Eric>So that's the most important thing.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6845-0
+00:54:45.848 --> 00:54:46.008
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6851-0
+00:54:46.008 --> 00:54:48.008
+<v Hou, Eric>So then the data is there and then.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6858-0
+00:54:49.728 --> 00:54:51.408
+<v Hou, Eric>And LL Ms. are there.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6864-0
+00:54:51.408 --> 00:54:53.808
+<v Hou, Eric>So then you can have the user no issues.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6866-0
+00:54:55.368 --> 00:54:55.688
+<v Hou, Eric>No coding.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6869-0
+00:55:01.608 --> 00:55:02.448
+<v Hou, Eric>Do you guys code?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6875-0
+00:55:04.928 --> 00:55:06.768
+<v Hou, Eric>I mean, I mean, do you guys?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6911-0
+00:55:08.328 --> 00:55:11.622
+<v Hou, Eric>I mean,
+how do I say do you guys go yes or no?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6911-1
+00:55:11.622 --> 00:55:16.248
+<v Hou, Eric>If you read those codes that AI send back
+to you, you understand,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6911-2
+00:55:16.248 --> 00:55:21.925
+<v Hou, Eric>though what those codes are doing that
+mean you can you can you can be confident</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6911-3
+00:55:21.925 --> 00:55:24.168
+<v Hou, Eric>to say yes if you don't you can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6916-0
+00:55:24.168 --> 00:55:24.408
+<v Hou, Eric>Say no.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6928-0
+00:55:24.408 --> 00:55:28.408
+<v Hou, Eric>So how many of you really know how to
+code, especially in Python?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6933-0
+00:55:31.428 --> 00:55:31.948
+<v Hou, Eric>OK, perfect.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6937-0
+00:55:31.538 --> 00:55:33.018
+<v Hollenbach, Patrick>Yes, I can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6935-0
+00:55:32.108 --> 00:55:33.148
+<v Halm, William>I can, yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6939-0
+00:55:33.558 --> 00:55:33.918
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6951-0
+00:55:33.998 --> 00:55:38.598
+<v Hou, Eric>So a lot of folks can call in Python.
+I hope you guys are not in the same group.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6953-0
+00:55:41.318 --> 00:55:41.838
+<v Barbel, Sam>Not.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6956-0
+00:55:42.788 --> 00:55:43.588
+<v Hou, Eric>That's fine.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6959-0
+00:55:44.068 --> 00:55:45.308
+<v Hou, Eric>That's a good opportunity.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6962-0
+00:55:45.308 --> 00:55:45.628
+<v Hou, Eric>You learn.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6966-0
+00:55:47.968 --> 00:55:48.368
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6979-0
+00:55:48.368 --> 00:55:55.364
+<v Hou, Eric>So since some of folks can some of the
+folks may not do you guys know how to use</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6979-1
+00:55:55.364 --> 00:55:55.968
+<v Hou, Eric>GitHub?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6982-0
+00:56:00.388 --> 00:56:00.908
+<v Weidner, Declan>No.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6983-0
+00:56:00.558 --> 00:56:00.958
+<v Halm, William>Yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6987-0
+00:56:01.768 --> 00:56:02.288
+<v Mizwicki, Andrew>Yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6996-0
+00:56:02.678 --> 00:56:05.508
+<v Hou, Eric>OK,
+so I will show you there is something I</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/6996-1
+00:56:05.508 --> 00:56:07.438
+<v Hou, Eric>need to change on on the team.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7002-0
+00:56:07.438 --> 00:56:09.958
+<v Hou, Eric>So then,
+because currently I'm not sure if I can.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7007-0
+00:56:11.528 --> 00:56:14.648
+<v Hou, Eric>Share my screen which is a bummer.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7009-0
+00:56:19.178 --> 00:56:19.778
+<v Hou, Eric>Let me see.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7015-0
+00:56:25.748 --> 00:56:27.908
+<v Hou, Eric>So like what I said we need.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7022-0
+00:56:37.238 --> 00:56:41.358
+<v Hou, Eric>We need teams so then I will consider.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7033-0
+00:56:44.198 --> 00:56:52.438
+<v Hou, Eric>I will considered the hub is definitely a
+good tool for you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7055-0
+00:56:57.928 --> 00:57:03.596
+<v Hou, Eric>For you guys to manage your calls because
+in case there is more than one folks in</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7055-1
+00:57:03.596 --> 00:57:08.088
+<v Hou, Eric>your team gonna call together with other
+folks at the same time.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7068-0
+00:57:08.648 --> 00:57:12.568
+<v Hou, Eric>So you guys need to figure out how you
+guys gonna push the changes?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7076-0
+00:57:12.568 --> 00:57:15.168
+<v Hou, Eric>How you guys gonna commit the changes,
+right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7078-0
+00:57:15.168 --> 00:57:17.008
+<v Hou, Eric>So the GitHub will be a great tool.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7101-0
+00:57:18.568 --> 00:57:24.022
+<v Hou, Eric>And GitHub has the code space and then
+I'll show you so then so that you have</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7101-1
+00:57:24.022 --> 00:57:27.448
+<v Hou, Eric>you have a virtual machine so that you
+can play.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7103-0
+00:57:27.758 --> 00:57:28.558
+<v Hou, Eric>Where's the data?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7112-0
+00:57:30.128 --> 00:57:31.928
+<v Hou, Eric>Or you can use Google collab.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7116-0
+00:57:31.928 --> 00:57:33.288
+<v Hou, Eric>That's totally fine.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7133-0
+00:57:33.648 --> 00:57:37.777
+<v Hou, Eric>And some of examples are from Google,
+so then you can create a notebooks here</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7133-1
+00:57:37.777 --> 00:57:38.888
+<v Hou, Eric>over there on Google.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7143-0
+00:57:38.888 --> 00:57:41.968
+<v Hou, Eric>So then this definitely give you a
+virtual machine to play around with.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7168-0
+00:57:42.368 --> 00:57:47.175
+<v Hou, Eric>So then you can definitely start coding
+and I'll show you the really good</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7168-1
+00:57:47.175 --> 00:57:51.008
+<v Hou, Eric>bandwidth of the call lab because they
+give you a copilot.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7181-0
+00:57:51.008 --> 00:57:55.042
+<v Hou, Eric>So then you a lot of cases that you can
+just type in a prompt in the copilot and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7181-1
+00:57:55.042 --> 00:57:56.088
+<v Hou, Eric>get the code for you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7187-0
+00:57:56.758 --> 00:57:58.758
+<v Hou, Eric>It's very convenient, OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7190-0
+00:57:58.758 --> 00:58:01.238
+<v Hou, Eric>I will do that after break.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7198-0
+00:58:02.808 --> 00:58:04.408
+<v Hou, Eric>AI using a user strategy.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7202-0
+00:58:04.408 --> 00:58:05.608
+<v Hou, Eric>Definitely yes.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7206-0
+00:58:05.608 --> 00:58:07.208
+<v Hou, Eric>You can definitely use AI.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7219-0
+00:58:07.488 --> 00:58:14.228
+<v Hou, Eric>Just give me enough transparency that you
+use AI that you can say I use AI to do</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7219-1
+00:58:14.228 --> 00:58:16.808
+<v Hou, Eric>this and and and that'll be it.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7237-0
+00:58:18.528 --> 00:58:24.263
+<v Hou, Eric>And only Steve for final projects that
+you can use AI to generate some good</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7237-1
+00:58:24.263 --> 00:58:25.168
+<v Hou, Eric>ideas about.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7243-0
+00:58:25.248 --> 00:58:28.368
+<v Hou, Eric>I just hope that you don't write that
+proposal 100%.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7257-0
+00:58:28.638 --> 00:58:32.438
+<v Hou, Eric>From AA you have to use your input, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7285-0
+00:58:32.438 --> 00:58:37.448
+<v Hou, Eric>Whatever you wanna achieve and I know
+that if you are on a really close</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7285-1
+00:58:37.448 --> 00:58:42.945
+<v Hou, Eric>something that I I didn't learn and then
+you have to use AI to code pieces and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7285-2
+00:58:42.945 --> 00:58:45.798
+<v Hou, Eric>then you have to put them together right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7301-0
+00:58:45.798 --> 00:58:52.158
+<v Hou, Eric>So then you you wouldn't be able to 100%
+rely on AI to code everything.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7305-0
+00:58:52.878 --> 00:58:54.958
+<v Hou, Eric>That's that's that's.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7309-0
+00:58:55.808 --> 00:58:56.128
+<v Hou, Eric>That's a caveat.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7327-0
+00:58:57.928 --> 00:59:03.607
+<v Hou, Eric>So this is everything I wanna talk about
+this class as a logistics about this</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7327-1
+00:59:03.607 --> 00:59:05.208
+<v Hou, Eric>course. Any questions?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7337-0
+00:59:09.658 --> 00:59:14.498
+<v Haroon, Sufyan>Would there be other deliverables other
+than the ones you showed us on?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7360-0
+00:59:16.368 --> 00:59:18.659
+<v Haroon, Sufyan>On the course schedule for graduate
+students?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7360-1
+00:59:18.659 --> 00:59:21.648
+<v Haroon, Sufyan>Or would they be the same for
+undergraduates and graduates?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7403-0
+00:59:21.298 --> 00:59:24.297
+<v Hou, Eric>So.
+So that's why so the undergrad students</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7403-1
+00:59:24.297 --> 00:59:27.910
+<v Hou, Eric>and grad students,
+I hope you do have some undergrad</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7403-2
+00:59:27.910 --> 00:59:32.341
+<v Hou, Eric>students in your group and then I am
+envisioning that, you know,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7403-3
+00:59:32.341 --> 00:59:35.545
+<v Hou, Eric>grad students going to take in the
+leadership.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7403-4
+00:59:35.545 --> 00:59:39.498
+<v Hou, Eric>And I want the undergrad students to
+learn from you guys.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7433-0
+00:59:41.048 --> 00:59:46.052
+<v Hou, Eric>Maybe some of the you already have a work,
+and then they I want the undergrad learn</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7433-1
+00:59:46.052 --> 00:59:48.792
+<v Hou, Eric>from you,
+not from the knowledge perspective,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7433-2
+00:59:48.792 --> 00:59:52.128
+<v Hou, Eric>but from, you know,
+the project management perspective.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7476-0
+00:59:52.478 --> 00:59:57.709
+<v Hou, Eric>Presentation perspective,
+I want them to learn you and then from</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7438-0
+00:59:54.008 --> 00:59:54.528
+<v Haroon, Sufyan>Was talking.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7446-0
+00:59:56.958 --> 00:59:57.038
+<v Haroon, Sufyan>Oh.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7476-1
+00:59:57.709 --> 01:00:02.054
+<v Hou, Eric>you guys, from the MBAs,
+from from the grad students.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7476-2
+01:00:02.054 --> 01:00:08.089
+<v Hou, Eric>I want you guys to learn how to lead a
+team, how to effectively, you know,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7476-3
+01:00:08.089 --> 01:00:12.998
+<v Hou, Eric>effectively communicate with your team
+members and then you.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7482-0
+01:00:13.398 --> 01:00:17.238
+<v Hou, Eric>This is how you manage A-Team
+relationship so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7488-0
+01:00:18.048 --> 01:00:20.208
+<v Hou, Eric>You both benefit from each other.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7506-0
+01:00:20.918 --> 01:00:26.794
+<v Hou, Eric>And create a really efficient team and
+then I hope everyone wins in the end and</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7506-1
+01:00:26.794 --> 01:00:28.998
+<v Hou, Eric>that I don't want anyone fail.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7509-0
+01:00:29.238 --> 01:00:30.118
+<v Hou, Eric>I just want hope.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7518-0
+01:00:30.118 --> 01:00:33.638
+<v Hou, Eric>Everyone has a lot of to take home,
+but that's the hope.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7520-0
+01:00:35.918 --> 01:00:36.358
+<v Haroon, Sufyan>Sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7531-0
+01:00:38.358 --> 01:00:41.852
+<v Hou, Eric>Oh, by the way,
+maybe you guys know that because I never</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7531-1
+01:00:41.852 --> 01:00:42.158
+<v Hou, Eric>does.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7540-0
+01:00:42.158 --> 01:00:46.278
+<v Hou, Eric>Does Marquette really have AB plus policy
+that any any policy like that?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7544-0
+01:00:51.118 --> 01:00:51.398
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7551-0
+01:00:51.398 --> 01:00:52.838
+<v Hou, Eric>Well, what is AB plus policy?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7555-0
+01:00:53.558 --> 01:00:54.718
+<v Hou, Eric>Maybe you do not know that.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7559-0
+01:00:54.718 --> 01:00:56.838
+<v Hou, Eric>So the B plus policy is.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7572-0
+01:00:58.308 --> 01:01:05.196
+<v Hou, Eric>OK. And and in EU Chicago,
+no matter how great or not so great your</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7572-1
+01:01:05.196 --> 01:01:06.108
+<v Hou, Eric>grade is?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7577-0
+01:01:07.678 --> 01:01:08.478
+<v Hou, Eric>The average.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7583-0
+01:01:08.598 --> 01:01:11.118
+<v Hou, Eric>The latter grade of a class has to be B
+plus.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7596-0
+01:01:14.138 --> 01:01:20.858
+<v Hou, Eric>So then the professor gonna adjust the
+distributions to make the median B plus.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7602-0
+01:01:22.398 --> 01:01:24.038
+<v Hou, Eric>Does have that strategy or policy?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7610-0
+01:01:25.718 --> 01:01:27.558
+<v Weidner, Declan>I don't believe so, but I'm not sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7609-0
+01:01:27.158 --> 01:01:27.558
+<v Haroon, Sufyan>I don't know.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7612-0
+01:01:27.278 --> 01:01:27.758
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7624-0
+01:01:28.868 --> 01:01:31.643
+<v Mertens, Aidric>Yeah,
+I've had that on a case by case basis by</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7624-1
+01:01:31.643 --> 01:01:32.588
+<v Mertens, Aidric>with professors.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7626-0
+01:01:33.288 --> 01:01:33.808
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7638-0
+01:01:34.208 --> 01:01:39.008
+<v Hou, Eric>So it sounds like it may not necessarily
+have to BB plus.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7646-0
+01:01:39.008 --> 01:01:42.528
+<v Hou, Eric>So then we don't have to adjust the
+distribution sounds like that.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7648-0
+01:01:45.688 --> 01:01:46.168
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7653-0
+01:01:47.798 --> 01:01:48.478
+<v Hou, Eric>That's good, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7656-0
+01:01:48.478 --> 01:01:49.918
+<v Hou, Eric>I mean, I'm. I'm I'm. I'm fine with that.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7659-0
+01:01:51.918 --> 01:01:52.318
+<v Hou, Eric>OK.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7660-0
+01:01:52.318 --> 01:01:54.438
+<v Hou, Eric>All right, so.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7674-0
+01:01:56.038 --> 01:01:59.758
+<v Hou, Eric>If no one has any question,
+let's take a 15 minute break.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7698-0
+01:01:59.758 --> 01:02:05.390
+<v Hou, Eric>So then I can just fix my teams so that I
+can share my my my Chrome to show you the</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7698-1
+01:02:05.390 --> 01:02:09.078
+<v Hou, Eric>GitHub to show the platform show data.
+How about that?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7706-0
+01:02:11.788 --> 01:02:13.628
+<v Severin, Noah>Just have one more quick question, Eric.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7707-0
+01:02:13.428 --> 01:02:13.988
+<v Hou, Eric>Yes, please.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7728-0
+01:02:15.198 --> 01:02:21.449
+<v Severin, Noah>The final presentation on April 28th does
+everything need to be in before that</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7715-0
+01:02:17.058 --> 01:02:17.458
+<v Hou, Eric>Yes.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7728-1
+01:02:21.449 --> 01:02:22.478
+<v Severin, Noah>presentation?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7738-0
+01:02:24.198 --> 01:02:25.798
+<v Severin, Noah>As far as like the final project goes.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7737-0
+01:02:24.408 --> 01:02:25.008
+<v Hou, Eric>I think every.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7743-0
+01:02:28.458 --> 01:02:29.418
+<v Hou, Eric>That's a good question.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7750-0
+01:02:30.418 --> 01:02:32.738
+<v Hou, Eric>I think if you wanna present results
+right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7758-0
+01:02:32.738 --> 01:02:36.618
+<v Hou, Eric>So then you know the results.
+You know you'd better test it, right?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7770-0
+01:02:36.618 --> 01:02:40.514
+<v Hou, Eric>So then,
+but if you wanna write a final essay,</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7770-1
+01:02:40.514 --> 01:02:43.498
+<v Hou, Eric>some documentation around, you know.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7781-0
+01:02:45.038 --> 01:02:47.278
+<v Hou, Eric>The results and then about what you find.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7799-0
+01:02:47.398 --> 01:02:53.830
+<v Hou, Eric>So then those do not have to because I I
+pool the presentation one week before</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7799-1
+01:02:53.830 --> 01:02:56.598
+<v Hou, Eric>your final deliverable submission.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7801-0
+01:02:56.718 --> 01:02:58.078
+<v Hou, Eric>So you have one week.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7805-0
+01:02:58.468 --> 01:03:00.828
+<v Hou, Eric>To finish your work.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7808-0
+01:03:02.628 --> 01:03:03.508
+<v Severin, Noah>Makes sense. Thanks.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7809-0
+01:03:04.428 --> 01:03:04.668
+<v Hou, Eric>Yeah.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7812-0
+01:03:12.728 --> 01:03:13.928
+<v Hou, Eric>Any any question?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7821-0
+01:03:18.608 --> 01:03:21.648
+<v Hou, Eric>OK, my clock is 634.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7822-0
+01:03:21.928 --> 01:03:23.288
+<v Hou, Eric>How about we come back?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7824-0
+01:03:24.838 --> 01:03:24.918
+<v Hou, Eric>At.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7830-0
+01:03:26.598 --> 01:03:28.318
+<v Hou, Eric>6 fortyni or 650.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7832-0
+01:03:30.668 --> 01:03:31.188
+<v Weidner, Declan>Sure.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7853-0
+01:03:32.008 --> 01:03:34.408
+<v Hou, Eric>All right.
+So then I may sign off and then change</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7837-0
+01:03:32.028 --> 01:03:32.668
+<v Hollenbach, Patrick>Sounds good.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7853-1
+01:03:34.408 --> 01:03:37.768
+<v Hou, Eric>something and come back and see whether
+or not I can share my screen.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7861-0
+01:03:37.928 --> 01:03:40.328
+<v Hou, Eric>So then you can, you know,
+use red restroom.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7868-0
+01:03:40.328 --> 01:03:43.728
+<v Hou, Eric>Go wherever you want and then come back
+in 50 minutes, OK?</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7871-0
+01:03:47.918 --> 01:03:48.278
+<v Hou, Eric>Right.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7874-0
+01:03:48.278 --> 01:03:49.758
+<v Hou, Eric>Oh, stop recording.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7882-0
+01:03:51.318 --> 01:03:53.158
+<v Hou, Eric>Right. I'll see you guys in.</v>
+
+dfea9f5a-b57b-42ca-b215-1c58aa7e6fbd/7885-0
+01:03:55.118 --> 01:03:55.958
+<v Hou, Eric>50 minutes.</v>

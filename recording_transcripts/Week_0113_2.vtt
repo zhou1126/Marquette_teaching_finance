@@ -1,0 +1,5289 @@
+WEBVTT
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/25-0
+00:00:05.198 --> 00:00:05.958
+<v Hou, Eric>Here we go.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/29-0
+00:00:07.648 --> 00:00:08.168
+<v Hou, Eric>Linear model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/38-0
+00:00:08.168 --> 00:00:10.768
+<v Hou, Eric>So then let's start with something really
+basic.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/51-0
+00:00:12.408 --> 00:00:16.808
+<v Hou, Eric>So can someone tell me what kind of
+linear models do you guys know?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/56-0
+00:00:28.518 --> 00:00:30.678
+<v Hou, Eric>Hey folks, you can you guys hear me?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/61-0
+00:00:34.548 --> 00:00:35.788
+<v Matt Benbenek>Yeah, we can hear you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/67-0
+00:00:35.788 --> 00:00:37.268
+<v Matt Benbenek>I just don't know any linear Mohammed.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/77-0
+00:00:38.748 --> 00:00:40.428
+<v Hou, Eric>Oh, OK, OK, sounds.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/101-0
+00:00:39.538 --> 00:00:42.084
+<v Mertens, Aidric>Yeah,
+we had some examples in our data</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/101-1
+00:00:42.084 --> 00:00:45.740
+<v Mertens, Aidric>analytics class.
+I know people in Ba need to take that,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/90-0
+00:00:43.368 --> 00:00:43.808
+<v Hou, Eric>Sure.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/101-2
+00:00:45.740 --> 00:00:47.698
+<v Mertens, Aidric>but outside of that, not much.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/94-0
+00:00:46.318 --> 00:00:46.558
+<v Hou, Eric>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/100-0
+00:00:48.328 --> 00:00:48.728
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/106-0
+00:00:48.728 --> 00:00:49.368
+<v Hou, Eric>Let's see.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/109-0
+00:00:49.928 --> 00:00:52.328
+<v Hou, Eric>Let's start with some basic stats.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/116-0
+00:00:53.088 --> 00:00:54.368
+<v Hou, Eric>So I put some charts here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/123-0
+00:00:54.368 --> 00:00:57.888
+<v Hou, Eric>There's some basic stats you you you need
+to know, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/135-0
+00:00:57.888 --> 00:01:02.168
+<v Hou, Eric>So the the mean which is which is called
+average, that's the time year average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/162-0
+00:01:04.168 --> 00:01:09.074
+<v Hou, Eric>So average is basically you have
+different numbers and then you you want</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/162-1
+00:01:09.074 --> 00:01:12.502
+<v Hou, Eric>to divide by the total numbers that you
+have seen.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/162-2
+00:01:12.502 --> 00:01:15.728
+<v Hou, Eric>So not gonna give you an average right so
+then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/171-0
+00:01:17.528 --> 00:01:20.328
+<v Hou, Eric>The the median is really the middle value
+of the data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/175-0
+00:01:22.318 --> 00:01:23.998
+<v Hou, Eric>And the standard deviation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/181-0
+00:01:25.568 --> 00:01:28.208
+<v Hou, Eric>Correlation. So out of curiosity.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/192-0
+00:01:32.048 --> 00:01:36.248
+<v Hou, Eric>I know a lot of people like have a
+business background.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/197-0
+00:01:36.248 --> 00:01:39.208
+<v Hou, Eric>You guys use a lot of Excel.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/206-0
+00:01:39.608 --> 00:01:43.408
+<v Hou, Eric>They just make sure there's just
+demonstrate those numbers in Excel, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/212-0
+00:01:45.168 --> 00:01:47.448
+<v Hou, Eric>Let me just say some random numbers.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/220-0
+00:01:53.888 --> 00:01:55.728
+<v Hou, Eric>Maybe four. OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/235-0
+00:01:55.888 --> 00:02:01.688
+<v Hou, Eric>So if we do have those numbers here,
+let's say this is 123, then let's see.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/245-0
+00:02:04.198 --> 00:02:09.438
+<v Hou, Eric>Those are time and then or this is a
+price, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/253-0
+00:02:13.158 --> 00:02:16.398
+<v Hou, Eric>And and how how do you calculate average
+on on on Excel?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/255-0
+00:02:19.848 --> 00:02:21.128
+<v Matt Benbenek>Equals average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/265-0
+00:02:21.968 --> 00:02:26.594
+<v Hou, Eric>Yeah. So equals average.
+So they're not gonna give you the average</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/265-1
+00:02:26.594 --> 00:02:27.008
+<v Hou, Eric>price.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/268-0
+00:02:28.088 --> 00:02:28.488
+<v Teske, Benjamin>We can't.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/275-0
+00:02:28.488 --> 00:02:30.168
+<v Teske, Benjamin>Your screen anymore, Eric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/278-0
+00:02:29.848 --> 00:02:31.448
+<v Hou, Eric>Oh, you cannot see my screen anymore.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/277-0
+00:02:31.848 --> 00:02:31.928
+<v Teske, Benjamin>Oh.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/280-0
+00:02:33.198 --> 00:02:33.798
+<v Hou, Eric>Sorry.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/282-0
+00:02:34.958 --> 00:02:35.718
+<v Hou, Eric>Good call.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/284-0
+00:02:38.518 --> 00:02:40.238
+<v Hou, Eric>Can you see that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/288-0
+00:02:42.318 --> 00:02:43.998
+<v Hou, Eric>OK. OK, sorry, sorry about that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/297-0
+00:02:45.568 --> 00:02:47.968
+<v Hou, Eric>Maybe I should switch to a Windows laptop?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/301-0
+00:02:49.728 --> 00:02:50.048
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/319-0
+00:02:50.048 --> 00:02:53.560
+<v Hou, Eric>So. So I'm sorry,
+I just generate some random numbers rise</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/319-1
+00:02:53.560 --> 00:02:57.608
+<v Hou, Eric>on time stamps are here,
+and then you have the price data and then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/349-0
+00:02:59.328 --> 00:03:02.969
+<v Hou, Eric>Folks are still using Excel to to do a
+lot of things and then average is because</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/349-1
+00:03:02.969 --> 00:03:05.935
+<v Hou, Eric>they're just average of those,
+and then you just type the average</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/349-2
+00:03:05.935 --> 00:03:07.328
+<v Hou, Eric>function. You have those right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/355-0
+00:03:07.328 --> 00:03:09.688
+<v Hou, Eric>So then how do you calculate the median?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/365-0
+00:03:15.648 --> 00:03:18.448
+<v Hou, Eric>I'm pretty sure you guys know it because
+median.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/364-0
+00:03:15.888 --> 00:03:16.888
+<v Teske, Benjamin>Sequels, median.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/372-0
+00:03:20.008 --> 00:03:20.768
+<v Hou, Eric>Of those numbers, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/376-0
+00:03:20.768 --> 00:03:22.568
+<v Hou, Eric>So there's no those numbers.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/387-0
+00:03:22.768 --> 00:03:26.488
+<v Hou, Eric>So can someone tell me what's the
+difference between an average and median?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/391-0
+00:03:26.568 --> 00:03:28.648
+<v Hou, Eric>Apparently,
+this average and median are not equal.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/398-0
+00:03:29.538 --> 00:03:31.328
+<v Hou, Eric>Right.
+So what's the difference between average</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/398-1
+00:03:31.328 --> 00:03:31.738
+<v Hou, Eric>and median?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/419-0
+00:03:36.788 --> 00:03:41.631
+<v Matt Benbenek>Median is like the middle number of the
+data set and average is all of them</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/419-1
+00:03:41.631 --> 00:03:43.988
+<v Matt Benbenek>summed and divided by their quantity.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/425-0
+00:03:44.908 --> 00:03:46.388
+<v Hou, Eric>Yeah. So right.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/442-0
+00:03:46.388 --> 00:03:52.264
+<v Hou, Eric>So then average is sort of like whatever
+you take everything into account and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/442-1
+00:03:52.264 --> 00:03:55.428
+<v Hou, Eric>divide by how many time stands over there.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/448-0
+00:03:55.428 --> 00:03:57.188
+<v Hou, Eric>So how many observations right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/474-0
+00:03:57.188 --> 00:04:00.458
+<v Hou, Eric>So median is really like you have.
+You have a bunch of numbers,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/474-1
+00:04:00.458 --> 00:04:04.393
+<v Hou, Eric>you sort them from highest to lowest or
+lowest to highest or whatever in the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/474-2
+00:04:04.393 --> 00:04:05.108
+<v Hou, Eric>middle, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/486-0
+00:04:05.108 --> 00:04:09.748
+<v Hou, Eric>So then just sort of like you calculate
+the average income and then?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/491-0
+00:04:10.688 --> 00:04:12.568
+<v Hou, Eric>You I sit next to.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/493-0
+00:04:16.608 --> 00:04:17.288
+<v Hou, Eric>Elon Musk.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/501-0
+00:04:17.998 --> 00:04:20.038
+<v Hou, Eric>Our average income gonna be really high.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/507-0
+00:04:20.038 --> 00:04:22.398
+<v Hou, Eric>However,
+I cannot make that not amount of money.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/509-0
+00:04:23.158 --> 00:04:24.878
+<v Hou, Eric>So then the average will be.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/513-0
+00:04:26.398 --> 00:04:27.398
+<v Hou, Eric>I mistakenly.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/530-0
+00:04:29.048 --> 00:04:33.259
+<v Hou, Eric>Inflate the numbers and the median is
+really telling you whatever the number in</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/530-1
+00:04:33.259 --> 00:04:34.048
+<v Hou, Eric>between, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/568-0
+00:04:34.048 --> 00:04:39.336
+<v Hou, Eric>So if you have 10 of me and you the mask,
+you know the average really, really high,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/568-1
+00:04:39.336 --> 00:04:42.295
+<v Hou, Eric>just because I'm a little earn a lot of
+money,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/568-2
+00:04:42.295 --> 00:04:45.946
+<v Hou, Eric>but the median going to tell the true
+case that you know,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/568-3
+00:04:45.946 --> 00:04:49.408
+<v Hou, Eric>from those 11 folks and then average
+income is really.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/572-0
+00:04:49.408 --> 00:04:50.728
+<v Hou, Eric>Not that high, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/575-0
+00:04:52.368 --> 00:04:53.008
+<v Hou, Eric>And what is standard deviation?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/580-0
+00:04:57.438 --> 00:04:59.278
+<v Hou, Eric>And what a standard deviation really
+telling us.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/592-0
+00:05:05.868 --> 00:05:09.668
+<v Hou, Eric>Someone someone knows how to calculate
+standard deviation in Excel?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/596-0
+00:05:11.118 --> 00:05:13.158
+<v Matt Benbenek>Yeah, equals St.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/605-0
+00:05:15.328 --> 00:05:17.728
+<v Matt Benbenek>D EV. And then there's like P or S.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/602-0
+00:05:16.068 --> 00:05:16.668
+<v Hou, Eric>Correct.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/607-0
+00:05:18.478 --> 00:05:18.958
+<v Hou, Eric>Right.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/617-0
+00:05:20.768 --> 00:05:23.528
+<v Hou, Eric>So the standard deviation gonna be like
+12:00 and 8:00.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/619-0
+00:05:23.528 --> 00:05:24.928
+<v Hou, Eric>So what does it really tell us?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/627-0
+00:05:28.228 --> 00:05:29.188
+<v Matt Benbenek>It's like how close.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/632-0
+00:05:28.268 --> 00:05:31.708
+<v Weidner, Declan>Like how much the numbers are varying
+throughout the data set.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/642-0
+00:05:32.638 --> 00:05:34.963
+<v Hou, Eric>Sure.
+And then is it from the mean or from the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/642-1
+00:05:34.963 --> 00:05:35.358
+<v Hou, Eric>average?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/650-0
+00:05:38.368 --> 00:05:40.488
+<v Hou, Eric>Is it from the median or from the average?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/648-0
+00:05:38.828 --> 00:05:39.308
+<v Capozzoli, Jay>It's not.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/659-0
+00:05:41.268 --> 00:05:43.268
+<v Capozzoli, Jay>From those from the average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/660-0
+00:05:42.518 --> 00:05:42.998
+<v Haroon, Sufyan>It's from.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/667-0
+00:05:46.648 --> 00:05:48.008
+<v Hou, Eric>Sorry, I have two wises.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/666-0
+00:05:46.838 --> 00:05:47.318
+<v Teske, Benjamin>Heyverage.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/675-0
+00:05:52.118 --> 00:05:54.958
+<v Hou, Eric>So from the average right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/672-0
+00:05:52.808 --> 00:05:53.448
+<v Carone, Matt>Average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/676-0
+00:05:54.428 --> 00:05:54.908
+<v Weidner, Declan>Average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/704-0
+00:05:54.958 --> 00:05:58.512
+<v Hou, Eric>So then yes,
+so you you can check the the formula of a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/704-1
+00:05:58.512 --> 00:06:02.389
+<v Hou, Eric>standard deviation.
+You know that it's it's a really like a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/704-2
+00:06:02.389 --> 00:06:04.198
+<v Hou, Eric>volatility from the average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/709-0
+00:06:04.518 --> 00:06:08.998
+<v Hou, Eric>Another question is, does so let's say.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/722-0
+00:06:10.648 --> 00:06:15.368
+<v Hou, Eric>I I put the price as let's say the
+dollars, right? So the dollars so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/724-0
+00:06:17.608 --> 00:06:18.208
+<v Hou, Eric>Dollars here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/731-0
+00:06:20.488 --> 00:06:22.728
+<v Hou, Eric>What is the unit of this average?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/734-0
+00:06:27.498 --> 00:06:28.378
+<v Hou, Eric>Does it have a unit?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/736-0
+00:06:29.128 --> 00:06:29.608
+<v Teske, Benjamin>Dollars.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/742-0
+00:06:30.158 --> 00:06:31.358
+<v Hou, Eric>Yes. So so dollars.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/739-0
+00:06:30.408 --> 00:06:30.728
+<v Hollenbach, Patrick>Course.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/745-0
+00:06:32.278 --> 00:06:34.158
+<v Hou, Eric>And then the median those dollars.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/752-0
+00:06:35.728 --> 00:06:38.928
+<v Hou, Eric>Does this standard deviation has a has a
+unit have a unit?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/754-0
+00:06:47.298 --> 00:06:47.738
+<v Hollenbach, Patrick>No.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/758-0
+00:06:49.198 --> 00:06:49.478
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/765-0
+00:06:49.478 --> 00:06:52.318
+<v Hou, Eric>So that's basic difference between
+standard deviation and variance.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/771-0
+00:06:54.008 --> 00:06:56.008
+<v Hou, Eric>Do you guys know what variance is?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/816-0
+00:07:04.878 --> 00:07:10.378
+<v Hou, Eric>OK, so as a quick review,
+the variance is really standard deviation</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/816-1
+00:07:10.378 --> 00:07:14.422
+<v Hou, Eric>squared. OK,
+so the variance is this guy and this</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/816-2
+00:07:14.422 --> 00:07:19.031
+<v Hou, Eric>number squared.
+So standard deviation why people love to</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/816-3
+00:07:19.031 --> 00:07:25.744
+<v Hou, Eric>use standard deviation because it has the
+same it has the same unit as the numbers</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/816-4
+00:07:25.744 --> 00:07:27.038
+<v Hou, Eric>that you're you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/823-0
+00:07:27.038 --> 00:07:28.398
+<v Hou, Eric>You're you're dealing with, OK?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/833-0
+00:07:28.478 --> 00:07:33.878
+<v Hou, Eric>So if your your numbers are your your
+your data is of those those dollars.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/844-0
+00:07:34.458 --> 00:07:37.578
+<v Hou, Eric>And the standard deviation is also
+dollars.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/849-0
+00:07:37.738 --> 00:07:40.738
+<v Hou, Eric>So we were talking about is we have a
+data set.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/865-0
+00:07:41.958 --> 00:07:48.278
+<v Hou, Eric>That is 12.8 dollars away from $8.
+That's how we read it.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/866-0
+00:07:48.478 --> 00:07:51.758
+<v Hou, Eric>OK, however, variance as as.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/884-0
+00:07:53.328 --> 00:07:56.812
+<v Hou, Eric>As a metric or as a statistic,
+it does not have a.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/884-1
+00:07:56.812 --> 00:07:59.408
+<v Hou, Eric>It does not have the same unit, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/896-0
+00:07:59.408 --> 00:08:02.928
+<v Hou, Eric>If you argue we can score with dollar
+squared, I have no idea what that is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/905-0
+00:08:03.128 --> 00:08:06.688
+<v Hou, Eric>So then usually we just believe like
+variance does not have any.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/911-0
+00:08:08.368 --> 00:08:10.368
+<v Hou, Eric>Does not have any unit at all, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/928-0
+00:08:11.038 --> 00:08:16.656
+<v Hou, Eric>So standard deviation has unit the same
+unit as the as the as the data set</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/928-1
+00:08:16.656 --> 00:08:18.678
+<v Hou, Eric>variance does not have any.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/935-0
+00:08:19.968 --> 00:08:23.328
+<v Hou, Eric>Unit people are talking about correlation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/948-0
+00:08:23.328 --> 00:08:26.750
+<v Hou, Eric>What is?
+What is a correlation and correlation and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/948-1
+00:08:26.750 --> 00:08:27.488
+<v Hou, Eric>covariance?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/952-0
+00:08:27.488 --> 00:08:27.968
+<v Hou, Eric>So what's the?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/956-0
+00:08:27.968 --> 00:08:30.368
+<v Hou, Eric>What's the difference between the
+correlation and covariance?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/968-0
+00:08:37.988 --> 00:08:42.948
+<v Hou, Eric>So that's saying this is a first price
+data and that's the another price data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/973-0
+00:08:44.488 --> 00:08:45.928
+<v Hou, Eric>That's I'm just making up.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/982-0
+00:08:52.098 --> 00:08:56.418
+<v Hou, Eric>So let's say another price data is also
+dollars.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/984-0
+00:08:58.208 --> 00:08:58.528
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/992-0
+00:09:00.768 --> 00:09:02.288
+<v Hou, Eric>And people are talking about, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/996-0
+00:09:02.288 --> 00:09:04.328
+<v Hou, Eric>Let's calculate a correlation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1004-0
+00:09:04.328 --> 00:09:08.808
+<v Hou, Eric>I'm pretty sure you guys heard that
+request quite often.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1013-0
+00:09:10.448 --> 00:09:13.168
+<v Hou, Eric>And the question being,
+why are we calculating the correlation?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1016-0
+00:09:13.248 --> 00:09:14.808
+<v Hou, Eric>What does even correlation mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1025-0
+00:09:18.958 --> 00:09:22.438
+<v Matt Benbenek>It's like how related one set of units is
+to another.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1035-0
+00:09:23.078 --> 00:09:25.937
+<v Hou, Eric>Yeah.
+So so that's that's a statue of graph,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1035-1
+00:09:25.937 --> 00:09:26.318
+<v Hou, Eric>right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1038-0
+00:09:26.318 --> 00:09:28.958
+<v Hou, Eric>So then this guy and.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1040-0
+00:09:31.648 --> 00:09:33.088
+<v Hou, Eric>This guy. Gosh.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1048-0
+00:09:46.258 --> 00:09:49.418
+<v Hou, Eric>And OK, here we go.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1056-0
+00:09:55.798 --> 00:09:57.998
+<v Hou, Eric>I just put a big number here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1057-0
+00:09:57.998 --> 00:09:59.198
+<v Hou, Eric>Do you think those two?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1063-0
+00:10:00.768 --> 00:10:02.888
+<v Hou, Eric>Price data are correlated or not?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1065-0
+00:10:06.028 --> 00:10:06.628
+<v Hou, Eric>This is better.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1074-0
+00:10:18.118 --> 00:10:19.078
+<v Hou, Eric>Of correlated right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1086-0
+00:10:19.078 --> 00:10:23.518
+<v Hou, Eric>Because when this is going up,
+another data is also going up.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1099-0
+00:10:23.598 --> 00:10:27.918
+<v Hou, Eric>When this data going down is going down
+South, basically correlation is away.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1109-0
+00:10:28.158 --> 00:10:36.198
+<v Hou, Eric>How we manage this kind of a relationship
+when one data is going higher or lower?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1117-0
+00:10:37.768 --> 00:10:39.288
+<v Hou, Eric>Does the other data go in the same
+direction?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1128-0
+00:10:39.368 --> 00:10:44.128
+<v Hou, Eric>So if you use Excel,
+you just use this function to calculate</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1128-1
+00:10:44.128 --> 00:10:45.688
+<v Hou, Eric>correlation between.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1132-0
+00:10:47.968 --> 00:10:49.208
+<v Hou, Eric>Those two signals.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1141-0
+00:10:52.348 --> 00:10:56.108
+<v Hou, Eric>So they're gonna give you an active
+correlation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1147-0
+00:10:57.648 --> 00:10:59.808
+<v Hou, Eric>So what does this negative correlation
+mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1151-0
+00:11:05.568 --> 00:11:06.528
+<v Hou, Eric>So what?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1161-0
+00:11:06.528 --> 00:11:08.768
+<v Hou, Eric>What is what usually is the range of the
+correlation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1167-0
+00:11:08.768 --> 00:11:11.128
+<v Hou, Eric>Is this like a number between 01?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1181-0
+00:11:11.288 --> 00:11:16.328
+<v Hou, Eric>Is the number from between -1 to one or
+is the number between -100 to 100?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1185-0
+00:11:17.628 --> 00:11:19.108
+<v Matt Benbenek>-1 to one.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1190-0
+00:11:19.558 --> 00:11:20.318
+<v Hou, Eric>That is correct.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1199-0
+00:11:20.318 --> 00:11:25.838
+<v Hou, Eric>So this is a number between -1 to one. OK,
+so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1204-0
+00:11:27.408 --> 00:11:28.248
+<v Hou, Eric>I I know. Yeah, I know.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1209-0
+00:11:28.248 --> 00:11:29.888
+<v Hou, Eric>I'm running a formula. OK, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1227-0
+00:11:31.568 --> 00:11:37.134
+<v Hou, Eric>So from -1 to 1.
+So quotation is a number between -1 to 1.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1227-1
+00:11:37.134 --> 00:11:37.888
+<v Hou, Eric>So what?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1234-0
+00:11:37.888 --> 00:11:39.408
+<v Hou, Eric>What does? What does one mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1236-0
+00:11:39.608 --> 00:11:41.248
+<v Hou, Eric>What does correlation equal to 1 mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1244-0
+00:11:42.458 --> 00:11:44.618
+<v Severin, Noah>Means they're perfectly positively
+correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1267-0
+00:11:45.388 --> 00:11:49.400
+<v Hou, Eric>They're perfectly positive correlated,
+meaning like one girl, one getting bigger,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1267-1
+00:11:49.400 --> 00:11:51.748
+<v Hou, Eric>another one automatic,
+growing bigger and then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1275-0
+00:11:52.438 --> 00:11:54.158
+<v Hou, Eric>One going down, another one going down.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1279-0
+00:11:54.158 --> 00:11:56.758
+<v Hou, Eric>So can you guys give me one example that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1286-0
+00:11:58.328 --> 00:12:00.488
+<v Hou, Eric>Two signals are perfectly correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1292-0
+00:12:19.168 --> 00:12:19.928
+<v Hou, Eric>And any example?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1302-0
+00:12:24.698 --> 00:12:28.178
+<v Hollenbach, Patrick>Probably the price of crude oil and the
+price of gasoline.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1308-0
+00:12:28.788 --> 00:12:30.228
+<v Hou, Eric>Oh yeah, that's that's a great idea.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1312-0
+00:12:30.228 --> 00:12:31.308
+<v Hou, Eric>That's a great idea, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1326-0
+00:12:31.308 --> 00:12:34.911
+<v Hou, Eric>Because, yeah,
+the price of crude oil going up and then</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1326-1
+00:12:34.911 --> 00:12:37.548
+<v Hou, Eric>automatically we have to pay more, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1338-0
+00:12:37.548 --> 00:12:41.548
+<v Hou, Eric>So then that's pretty much like 100%
+correlated, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1344-0
+00:12:41.708 --> 00:12:43.628
+<v Hou, Eric>So what does -1 means?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1363-0
+00:12:43.628 --> 00:12:48.150
+<v Hou, Eric>Like what's that is A1 means a perfectly
+positively correlated and a -.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1363-1
+00:12:48.150 --> 00:12:50.788
+<v Hou, Eric>1 will be perfectly negatively correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1366-0
+00:12:50.908 --> 00:12:52.908
+<v Hou, Eric>Can you guys tell me one example that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1374-0
+00:12:53.728 --> 00:12:56.128
+<v Hou, Eric>Two signals are perfectly and actively
+correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1388-0
+00:13:03.248 --> 00:13:07.368
+<v Haroon, Sufyan>Like demand and supply,
+where demand goes up, supply decreases.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1394-0
+00:13:07.368 --> 00:13:10.088
+<v Haroon, Sufyan>And when supply goes up, demand decreases.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1435-0
+00:13:13.598 --> 00:13:16.409
+<v Hou, Eric>I think I think I will say they are
+correlated,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1435-1
+00:13:16.409 --> 00:13:21.152
+<v Hou, Eric>but not necessarily in their their yeah,
+I I I think I know you're talking about</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1435-2
+00:13:21.152 --> 00:13:25.837
+<v Hou, Eric>is the supply demand kind of curve, right?
+So then you you you virtually find a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1435-3
+00:13:25.837 --> 00:13:28.238
+<v Hou, Eric>price because of you know the the supply.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1460-0
+00:13:28.238 --> 00:13:33.409
+<v Hou, Eric>Is when price go up the demand,
+the supply going up so then so supply and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1460-1
+00:13:33.409 --> 00:13:38.371
+<v Hou, Eric>the price are perfectly positively
+correlated because As for as from a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1460-2
+00:13:38.371 --> 00:13:39.838
+<v Hou, Eric>supplier perspective.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1474-0
+00:13:40.478 --> 00:13:43.278
+<v Hou, Eric>Whenever the price going up,
+I want to provide more, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1470-0
+00:13:43.208 --> 00:13:43.368
+<v Haroon, Sufyan>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1481-0
+00:13:43.278 --> 00:13:47.838
+<v Hou, Eric>I want to produce more. However,
+for demand, usually demand is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1503-0
+00:13:49.408 --> 00:13:54.474
+<v Hou, Eric>Correlated because when price going up
+and then I have I have a limited number</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1503-1
+00:13:54.474 --> 00:13:57.488
+<v Hou, Eric>of limited amount of money I can spend,
+right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1521-0
+00:13:57.488 --> 00:14:03.043
+<v Hou, Eric>So then when the price going up and I and
+I can buy less so then demand and and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1521-1
+00:14:03.043 --> 00:14:06.168
+<v Hou, Eric>price usually are are negatively
+correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1528-0
+00:14:06.288 --> 00:14:09.808
+<v Hou, Eric>So then when one is positively correlated,
+another one is negative.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1549-0
+00:14:10.158 --> 00:14:15.838
+<v Hou, Eric>Related to have a cross where that cross
+is how we determine the price, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1556-0
+00:14:15.838 --> 00:14:20.278
+<v Hou, Eric>So then I'm pretty sure you guys learn
+that from the macro economy, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1561-0
+00:14:25.138 --> 00:14:27.258
+<v Hou, Eric>Right. So it's a yeah, demand demand.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1567-0
+00:14:29.088 --> 00:14:30.448
+<v Hou, Eric>Demand supply demand supply curve.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1569-0
+00:14:33.208 --> 00:14:33.568
+<v Hou, Eric>Good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1572-0
+00:14:35.208 --> 00:14:35.688
+<v Hou, Eric>What does?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1575-0
+00:14:35.768 --> 00:14:37.768
+<v Hou, Eric>What does 0 mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1594-0
+00:14:37.768 --> 00:14:41.355
+<v Hou, Eric>Because you we talk about -1,
+we talk about one and then and then</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1594-1
+00:14:41.355 --> 00:14:42.768
+<v Hou, Eric>there's a 1 #0 in between.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1596-0
+00:14:42.888 --> 00:14:44.368
+<v Hou, Eric>What does 0 even mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1601-0
+00:14:47.118 --> 00:14:48.398
+<v Hou, Eric>Well, does correlation equal to 0?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1600-0
+00:14:48.028 --> 00:14:48.668
+<v Haroon, Sufyan>Knock or?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1609-0
+00:14:50.208 --> 00:14:52.728
+<v Hou, Eric>No, no correl, no correlation.
+I I hear you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1613-0
+00:14:52.768 --> 00:14:55.488
+<v Hou, Eric>And then what does no correlation mean?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1623-0
+00:14:56.008 --> 00:15:00.128
+<v Hou, Eric>Can can it give me one one example that
+two signals have no correlation?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1635-0
+00:15:17.238 --> 00:15:19.578
+<v Hou, Eric>Well,
+arguably that's the easiest example to</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1635-1
+00:15:19.578 --> 00:15:19.838
+<v Hou, Eric>find.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1641-0
+00:15:26.118 --> 00:15:27.678
+<v Capozzoli, Jay>Shoe size and temperature.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1647-0
+00:15:28.318 --> 00:15:29.598
+<v Hou, Eric>Oh, exactly right.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1652-0
+00:15:29.598 --> 00:15:33.958
+<v Hou, Eric>So you just pulled to unrelated things
+together, right? So then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1665-0
+00:15:35.528 --> 00:15:38.808
+<v Hou, Eric>The shoe size and and and temperature
+right.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1672-0
+00:15:38.808 --> 00:15:41.248
+<v Hou, Eric>So yeah, they have no correlation at all.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1690-0
+00:15:41.248 --> 00:15:46.649
+<v Hou, Eric>They have no correlation at all.
+So so there is one thing that I have to</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1690-1
+00:15:46.649 --> 00:15:49.608
+<v Hou, Eric>remind you around this correlation idea.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1699-0
+00:15:49.608 --> 00:15:54.368
+<v Hou, Eric>So what's the difference between
+correlation and causation?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1701-0
+00:15:58.838 --> 00:15:59.438
+<v Hou, Eric>Are they the same?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1731-0
+00:16:07.748 --> 00:16:10.806
+<v Severin, Noah>No,
+correlation is just the relationship on</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1731-1
+00:16:10.806 --> 00:16:16.017
+<v Severin, Noah>how the variables move together,
+and causation would imply that one causes</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1731-2
+00:16:16.017 --> 00:16:17.268
+<v Severin, Noah>the other to move.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1769-0
+00:16:18.198 --> 00:16:21.642
+<v Hou, Eric>Yeah, that.
+So the causation is really saying that A</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1769-1
+00:16:21.642 --> 00:16:25.930
+<v Hou, Eric>caused B or B is caused by A and
+correlation could be some really</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1769-2
+00:16:25.930 --> 00:16:31.259
+<v Hou, Eric>coincidence that they haven't succeeded
+each other and then they may not have any</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1769-3
+00:16:31.259 --> 00:16:32.558
+<v Hou, Eric>relationship at all.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1782-0
+00:16:32.918 --> 00:16:38.798
+<v Hou, Eric>So there is a common mistake that people
+made is even in in, in finance, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1784-0
+00:16:38.798 --> 00:16:40.478
+<v Hou, Eric>So then some folks track.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1799-0
+00:16:42.048 --> 00:16:46.971
+<v Hou, Eric>You know the CEOs, CEOs,
+mood when when the CEO entered the the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1799-1
+00:16:46.971 --> 00:16:48.048
+<v Hou, Eric>press release.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1806-0
+00:16:48.678 --> 00:16:51.118
+<v Hou, Eric>Does he look good or does he look not so
+good?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1815-0
+00:16:52.688 --> 00:16:56.448
+<v Hou, Eric>Then use that as a feature to create to,
+to to predict the stock price.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1851-0
+00:16:58.048 --> 00:17:03.864
+<v Hou, Eric>Arguably, I would say this is a really,
+maybe sometimes they find if the CEO</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1851-1
+00:17:03.864 --> 00:17:10.058
+<v Hou, Eric>looks really happy that shows the stock
+price going to be higher and then the the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1851-2
+00:17:10.058 --> 00:17:12.248
+<v Hou, Eric>CEO does not look very happy.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1864-0
+00:17:12.248 --> 00:17:16.263
+<v Hou, Eric>Maybe that stock price going lower where
+the performance going bad.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1864-1
+00:17:16.263 --> 00:17:18.448
+<v Hou, Eric>So I will argue that's a correlation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1903-0
+00:17:18.798 --> 00:17:23.007
+<v Hou, Eric>And not causation.
+Because even though this the the, the,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1903-1
+00:17:23.007 --> 00:17:28.739
+<v Hou, Eric>the CEO can be happy or not happy for a
+variety of reasons that has, you know,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1903-2
+00:17:28.739 --> 00:17:32.367
+<v Hou, Eric>the stock price is now driven by a
+person's mood,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1903-3
+00:17:32.367 --> 00:17:37.518
+<v Hou, Eric>although that is the most important
+person arguably in one company so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1917-0
+00:17:37.598 --> 00:17:42.801
+<v Hou, Eric>I would argue that's a correlation
+instead of that's a causation causation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1917-1
+00:17:42.801 --> 00:17:44.238
+<v Hou, Eric>OK, so however, like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1925-0
+00:17:45.048 --> 00:17:46.288
+<v Hou, Eric>A lot of chances.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1932-0
+00:17:46.408 --> 00:17:50.728
+<v Hou, Eric>A lot of chances and people are mixing
+those two concepts together.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1945-0
+00:17:51.278 --> 00:17:54.929
+<v Hou, Eric>And they consider all the correlation and
+construction are the same,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1945-1
+00:17:54.929 --> 00:17:56.358
+<v Hou, Eric>but they are really not OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1971-0
+00:17:58.478 --> 00:18:03.909
+<v Hou, Eric>So I think those are quick review of
+those basic concepts. That was,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1971-1
+00:18:03.909 --> 00:18:10.205
+<v Hou, Eric>there is some charts that are showing you
+what what positive correlation is and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1971-2
+00:18:10.205 --> 00:18:10.598
+<v Hou, Eric>what.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1981-0
+00:18:12.408 --> 00:18:15.528
+<v Hou, Eric>Perfectly inactive correlation really is
+and.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1998-0
+00:18:17.488 --> 00:18:21.833
+<v Hou, Eric>And arguably, as you can see,
+there's a positive,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/1998-1
+00:18:21.833 --> 00:18:25.048
+<v Hou, Eric>perfectly perfect correlation of one.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2000-0
+00:18:25.648 --> 00:18:26.128
+<v Hou, Eric>This is a.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2007-0
+00:18:26.448 --> 00:18:29.408
+<v Hou, Eric>This is a.
+This is a line and here is a line.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2013-0
+00:18:30.238 --> 00:18:32.718
+<v Hou, Eric>This looks like a line.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2023-0
+00:18:32.758 --> 00:18:36.278
+<v Hou, Eric>So then you can fit this data with a line.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2041-0
+00:18:36.278 --> 00:18:39.447
+<v Hou, Eric>So that's why we are calling those a
+linear model,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2041-1
+00:18:39.447 --> 00:18:43.796
+<v Hou, Eric>but some of the data like this,
+it doesn't look like Aw and this look</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2041-2
+00:18:43.796 --> 00:18:45.038
+<v Hou, Eric>like a smiling face.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2058-0
+00:18:45.038 --> 00:18:50.749
+<v Hou, Eric>It looks like an X and circle,
+so it's really really hard for any line</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2058-1
+00:18:50.749 --> 00:18:52.358
+<v Hou, Eric>to fit in this data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2061-0
+00:18:52.358 --> 00:18:54.798
+<v Hou, Eric>So then you will eventually require.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2069-0
+00:18:55.608 --> 00:18:58.608
+<v Hou, Eric>To use some nonlinear models to model
+those.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2112-0
+00:18:58.878 --> 00:19:03.297
+<v Hou, Eric>Because they if even if you calculate the
+correlation they should show you no</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2112-1
+00:19:03.297 --> 00:19:06.810
+<v Hou, Eric>correlation at all.
+So then usually this is the area that the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2112-2
+00:19:06.810 --> 00:19:11.172
+<v Hou, Eric>linear model cannot have cannot handle
+this and then you may use some really</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2112-3
+00:19:11.172 --> 00:19:14.798
+<v Hou, Eric>advanced technology called neural network
+to deal with this so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2117-0
+00:19:14.798 --> 00:19:16.318
+<v Hou, Eric>Then we we can touch base on that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2142-0
+00:19:17.888 --> 00:19:20.707
+<v Hou, Eric>Later in this course in a in a neural
+network piece,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2142-1
+00:19:20.707 --> 00:19:24.908
+<v Hou, Eric>and then you can experiment how to fit in
+those regions, which is really cool.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2142-2
+00:19:24.908 --> 00:19:27.088
+<v Hou, Eric>I'll show you some visualization on that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2149-0
+00:19:27.748 --> 00:19:33.308
+<v Hou, Eric>OK, another thing let's see is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2155-0
+00:19:35.368 --> 00:19:37.648
+<v Hou, Eric>Hypothesis task ahead, anyone?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2166-0
+00:19:39.248 --> 00:19:43.648
+<v Hou, Eric>Took any stat class.
+Learn this hypothesis test at all.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2171-0
+00:19:49.158 --> 00:19:51.238
+<v Hou, Eric>Who? Who learn this just quick.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2175-0
+00:19:54.008 --> 00:19:55.928
+<v Hou, Eric>Check anyone knows?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2180-0
+00:19:57.608 --> 00:19:58.768
+<v Hou, Eric>Hypothesis test.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2191-0
+00:20:01.178 --> 00:20:04.618
+<v Mertens, Aidric>Yeah, I did. In my stats class,
+but that was like four years ago or so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2193-0
+00:20:05.038 --> 00:20:05.838
+<v Hou, Eric>OK, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2199-0
+00:20:08.178 --> 00:20:09.418
+<v Hou, Eric>Adriak knows this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2205-0
+00:20:09.418 --> 00:20:13.058
+<v Hou, Eric>And then any other folks learn hypothesis
+test before?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2216-0
+00:20:17.328 --> 00:20:22.648
+<v Hou, Eric>OK, so hypothesis test is like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2227-0
+00:20:25.178 --> 00:20:29.098
+<v Hou, Eric>A strategy that you use in a lot of cases,
+right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2230-0
+00:20:29.138 --> 00:20:31.818
+<v Hou, Eric>In a lot of cases, so for example.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2239-0
+00:20:34.458 --> 00:20:39.138
+<v Hou, Eric>A more scientific approach of this is
+really.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2244-0
+00:20:41.008 --> 00:20:42.288
+<v Hou, Eric>You wanna give a guess?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2254-0
+00:20:43.858 --> 00:20:46.658
+<v Hou, Eric>You, you you wanna test something,
+you wanna guess something?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2266-0
+00:20:48.378 --> 00:20:52.934
+<v Hou, Eric>For example,
+I can say the average daily return on</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2266-1
+00:20:52.934 --> 00:20:53.738
+<v Hou, Eric>SP500 is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2270-0
+00:20:55.458 --> 00:20:56.738
+<v Hou, Eric>Five basis point.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2275-0
+00:20:58.778 --> 00:20:59.458
+<v Hou, Eric>That is showing here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2280-0
+00:20:59.458 --> 00:21:02.538
+<v Hou, Eric>So this is my hypothesis, I say.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2293-0
+00:21:04.298 --> 00:21:07.858
+<v Hou, Eric>I I read the data.
+I analyze the data 5SP500.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2306-0
+00:21:08.778 --> 00:21:14.279
+<v Hou, Eric>I say it is this out of those samples and
+I analyze the standard deviation of those</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2306-1
+00:21:14.279 --> 00:21:15.458
+<v Hou, Eric>samples like this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2308-0
+00:21:16.098 --> 00:21:17.338
+<v Hou, Eric>So then I say.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2320-0
+00:21:20.908 --> 00:21:25.548
+<v Hou, Eric>I believe SP500 daily return will be
+bigger than one basis point.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2338-0
+00:21:27.638 --> 00:21:36.190
+<v Hou, Eric>So this is one one person's opinion.
+So I believe if I invest in SP500 I</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2338-1
+00:21:36.190 --> 00:21:37.478
+<v Hou, Eric>should get.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2347-0
+00:21:39.698 --> 00:21:42.738
+<v Hou, Eric>Daily compounding one basis point back.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2361-0
+00:21:44.298 --> 00:21:50.938
+<v Hou, Eric>Is that a correct opinion that can be
+proven by the data you collected or not?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2368-0
+00:21:52.618 --> 00:21:54.458
+<v Hou, Eric>And how are you going to deal with it?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2389-0
+00:21:54.738 --> 00:21:58.398
+<v Hou, Eric>Because in your work in your study,
+I believe you, you,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2389-1
+00:21:58.398 --> 00:22:03.169
+<v Hou, Eric>you heard a lot of opinions from the
+other folks saying I believe this I</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2389-2
+00:22:03.169 --> 00:22:04.018
+<v Hou, Eric>believe that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2392-0
+00:22:04.378 --> 00:22:05.978
+<v Hou, Eric>And how do you track?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2396-0
+00:22:07.618 --> 00:22:09.138
+<v Hou, Eric>Another opinion is correct.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2415-0
+00:22:10.098 --> 00:22:15.876
+<v Hou, Eric>O this one you have to use this
+technology or this strategy is a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2415-1
+00:22:15.876 --> 00:22:17.298
+<v Hou, Eric>hypothesis task.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2425-0
+00:22:18.858 --> 00:22:22.898
+<v Hou, Eric>You will use the sample data that you
+collected and you create.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2435-0
+00:22:24.538 --> 00:22:29.218
+<v Hou, Eric>Some distribution and you see whether or
+not.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2441-0
+00:22:31.498 --> 00:22:33.778
+<v Hou, Eric>This the probability or likelihood.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2446-0
+00:22:36.178 --> 00:22:37.698
+<v Hou, Eric>This this hypothesis will happen.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2470-0
+00:22:39.328 --> 00:22:47.229
+<v Hou, Eric>If 95% of a chance that based upon you
+know your your sample data you collected,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2470-1
+00:22:47.229 --> 00:22:52.008
+<v Hou, Eric>this will happen,
+you have to say you know what.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2491-0
+00:22:53.938 --> 00:23:00.230
+<v Hou, Eric>I will have to say this is a a correct
+opinion that is proven by the data I</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2491-1
+00:23:00.230 --> 00:23:01.058
+<v Hou, Eric>collected.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2507-0
+00:23:01.778 --> 00:23:05.902
+<v Hou, Eric>However,
+if there is only less than 95% of chance</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2507-1
+00:23:05.902 --> 00:23:09.778
+<v Hou, Eric>that you happen,
+you cannot say this is wrong.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2525-0
+00:23:10.978 --> 00:23:14.338
+<v Hou, Eric>So for example my my.
+So there there are two things that in</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2525-1
+00:23:14.338 --> 00:23:17.698
+<v Hou, Eric>this hypothesis task one thing is called
+a null hypothesis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2531-0
+00:23:18.978 --> 00:23:19.938
+<v Hou, Eric>Right on here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2537-0
+00:23:19.938 --> 00:23:21.538
+<v Hou, Eric>So then I can share with you guys.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2539-0
+00:23:21.538 --> 00:23:22.938
+<v Hou, Eric>One thing is a null hypothesis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2541-0
+00:23:28.718 --> 00:23:29.518
+<v Hou, Eric>I'll move the chart.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2551-0
+00:23:32.738 --> 00:23:39.618
+<v Hou, Eric>Non hypothesis is OK.
+The SP500 daily return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2557-0
+00:23:43.208 --> 00:23:46.208
+<v Hou, Eric>Is less than one basis point.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2560-0
+00:23:47.778 --> 00:23:48.658
+<v Hou, Eric>My alternative.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2564-0
+00:23:51.258 --> 00:23:52.378
+<v Hou, Eric>Hypothesis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2570-0
+00:23:58.158 --> 00:24:04.038
+<v Hou, Eric>So this is OK now is wrong meaning.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2578-0
+00:24:05.778 --> 00:24:08.698
+<v Hou, Eric>The SP500 daily return is bigger than.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2583-0
+00:24:12.678 --> 00:24:14.678
+<v Hou, Eric>Than one basis point, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2589-0
+00:24:14.958 --> 00:24:18.038
+<v Hou, Eric>So you will use the data that you have.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2632-0
+00:24:19.578 --> 00:24:25.142
+<v Hou, Eric>To either reject this non hypothesis or
+not reject this non hypothesis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2632-1
+00:24:25.142 --> 00:24:31.246
+<v Hou, Eric>In the case that you can reject this,
+this oh gosh reject this non hypothesis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2632-2
+00:24:31.246 --> 00:24:36.655
+<v Hou, Eric>You're pretty much saying that the
+alternative hypothesis is correct.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2632-3
+00:24:36.655 --> 00:24:42.218
+<v Hou, Eric>If you cannot reject this null hypothesis,
+you cannot say if this less.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2635-0
+00:24:42.218 --> 00:24:42.858
+<v Hou, Eric>Than one basis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2648-0
+00:24:43.208 --> 00:24:48.008
+<v Hou, Eric>Or you cannot say this is a bigger than
+one basis point, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2661-0
+00:24:48.088 --> 00:24:55.024
+<v Hou, Eric>So then every decision or or opinion you
+have to prove or disprove using the data</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2661-1
+00:24:55.024 --> 00:24:56.208
+<v Hou, Eric>that you have.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2702-0
+00:24:58.118 --> 00:25:03.566
+<v Hou, Eric>So that is going to be a big mind change
+that you gonna you're gonna learn from</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2702-1
+00:25:03.566 --> 00:25:06.971
+<v Hou, Eric>this class. OK. As you can see,
+I run a tea task.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2702-2
+00:25:06.971 --> 00:25:11.806
+<v Hou, Eric>I can reject the null hypothesis.
+The true mean daily return is likely</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2702-3
+00:25:11.806 --> 00:25:14.938
+<v Hou, Eric>greater than one basis point based upon
+data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2705-0
+00:25:15.648 --> 00:25:16.128
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2728-0
+00:25:16.208 --> 00:25:22.633
+<v Hou, Eric>So I run this test and I can tell you
+SP500 daily return bigger than one sounds</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2728-1
+00:25:22.633 --> 00:25:26.568
+<v Hou, Eric>correct and let me show you how I
+verified that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2741-0
+00:25:35.508 --> 00:25:40.054
+<v Hou, Eric>So as you can see,
+I show you guys this data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2741-1
+00:25:40.054 --> 00:25:42.228
+<v Hou, Eric>So then I just I just.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2759-0
+00:25:43.938 --> 00:25:51.877
+<v Hou, Eric>Import those this data from so I see that
+I I read the data into this pandas data</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2759-1
+00:25:51.877 --> 00:25:52.458
+<v Hou, Eric>frame.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2769-0
+00:25:52.658 --> 00:25:57.258
+<v Hou, Eric>So this is really like SP500 index here
+which is awesome.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2773-0
+00:25:57.618 --> 00:25:59.698
+<v Hou, Eric>So then I was able to.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2790-0
+00:26:00.018 --> 00:26:06.498
+<v Hou, Eric>I was able to plot this chart to show me
+OK SP500 index over time.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2792-0
+00:26:06.498 --> 00:26:07.858
+<v Hou, Eric>It does look like this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2794-0
+00:26:08.368 --> 00:26:09.088
+<v Hou, Eric>So going up.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2805-0
+00:26:10.658 --> 00:26:15.258
+<v Hou, Eric>So use this function I can calculate OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2812-0
+00:26:15.258 --> 00:26:19.858
+<v Hou, Eric>So what is a mean return of the SP500?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2823-0
+00:26:20.618 --> 00:26:25.378
+<v Hou, Eric>So the mean return of the SV500 based
+upon that data set is this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2831-0
+00:26:27.098 --> 00:26:30.858
+<v Hou, Eric>Since I I believe I mouse by 100 here.
+Give me a second.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2844-0
+00:26:33.058 --> 00:26:35.618
+<v Hou, Eric>Yeah, I multip by 100 here I calculate.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2851-0
+00:26:35.938 --> 00:26:39.378
+<v Hou, Eric>I calculated a daily percentage change.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2880-0
+00:26:39.698 --> 00:26:44.316
+<v Hou, Eric>So then the numbers you are seeing here
+are already percentages,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2880-1
+00:26:44.316 --> 00:26:49.573
+<v Hou, Eric>so that the daily return of SP500 and by
+the way, this is a daily return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2880-2
+00:26:49.573 --> 00:26:53.978
+<v Hou, Eric>So this is overtime how the daily return
+of SP500 looks like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2885-0
+00:26:54.888 --> 00:26:55.488
+<v Hou, Eric>Up and down.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2889-0
+00:26:55.488 --> 00:26:57.088
+<v Hou, Eric>It does look like random walk.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2899-0
+00:26:57.568 --> 00:26:59.888
+<v Hou, Eric>So then you may ask me, OK,
+what happened here?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2910-0
+00:26:59.888 --> 00:27:05.208
+<v Hou, Eric>So then my answer could be it is really
+like 2008 financial crisis.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2940-0
+00:27:06.778 --> 00:27:14.481
+<v Hou, Eric>That really caused a daily return job to
+dramatically on that day, but on average,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2940-1
+00:27:14.481 --> 00:27:22.183
+<v Hou, Eric>the SP500 return is pretty much A5 basis
+point and the standard deviation of SP500</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2940-2
+00:27:22.183 --> 00:27:23.018
+<v Hou, Eric>is a 1.1.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2957-0
+00:27:23.758 --> 00:27:27.482
+<v Hou, Eric>The basis point based upon this data and
+also I mentioned that there is a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2957-1
+00:27:27.482 --> 00:27:28.438
+<v Hou, Eric>difference between.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2965-0
+00:27:29.978 --> 00:27:31.378
+<v Hou, Eric>Median and average oh.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2974-0
+00:27:31.378 --> 00:27:33.898
+<v Hou, Eric>It's still calculated the median of SB500.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/2983-0
+00:27:33.898 --> 00:27:38.418
+<v Hou, Eric>That's a base six basis point versus 5
+basis point as the average.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3007-0
+00:27:38.418 --> 00:27:44.942
+<v Hou, Eric>So it's not 100% centered at the,
+at least not a normal distribution per SE.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3007-1
+00:27:44.942 --> 00:27:49.178
+<v Hou, Eric>So the median and average there are some
+gap, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3013-0
+00:27:49.538 --> 00:27:51.738
+<v Hou, Eric>So now I'm I'm trying to say OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3019-0
+00:27:53.008 --> 00:27:54.608
+<v Hou, Eric>Is this one bigger than 0?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3032-0
+00:27:54.608 --> 00:27:59.448
+<v Hou, Eric>So I can run this task to tell me this
+significantly different to 0.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3062-0
+00:27:59.928 --> 00:28:07.382
+<v Hou, Eric>So this code I can change this zero to
+one or or different numbers so then this</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3062-1
+00:28:07.382 --> 00:28:14.929
+<v Hou, Eric>this code I run a ttask the ttask will
+tell me that whether or not it is 0 or it</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3062-2
+00:28:14.929 --> 00:28:15.488
+<v Hou, Eric>is A1.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3069-0
+00:28:16.088 --> 00:28:18.408
+<v Hou, Eric>Let me see if I can find this code on
+Kaggle.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3076-0
+00:28:26.858 --> 00:28:30.378
+<v Hou, Eric>It's not what they the code notebooks.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3078-0
+00:28:33.158 --> 00:28:33.998
+<v Hou, Eric>This one.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3088-0
+00:28:38.018 --> 00:28:40.498
+<v Hou, Eric>Yeah, this one.
+Let me just load reload the data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3107-0
+00:28:55.918 --> 00:29:00.568
+<v Hou, Eric>So I'll just give you some time the the
+virtual machine is starting OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3107-1
+00:29:00.568 --> 00:29:01.278
+<v Hou, Eric>Here we go.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3110-0
+00:29:01.278 --> 00:29:01.958
+<v Hou, Eric>We have the data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3126-0
+00:29:01.958 --> 00:29:06.165
+<v Hou, Eric>We have the stocks that we have,
+companies we have index the data I use is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3126-1
+00:29:06.165 --> 00:29:07.118
+<v Hou, Eric>really the index.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3132-0
+00:29:07.118 --> 00:29:09.918
+<v Hou, Eric>So then I can show you how the data looks
+like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3136-0
+00:29:14.348 --> 00:29:14.708
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3169-0
+00:29:14.708 --> 00:29:20.484
+<v Hou, Eric>So data is really like days from 2014 to
+have and every single day you have other</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3169-1
+00:29:20.484 --> 00:29:25.837
+<v Hou, Eric>index per day and then if you put a
+number here within the half so then you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3169-2
+00:29:25.837 --> 00:29:27.668
+<v Hou, Eric>can show you can see more.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3193-0
+00:29:29.418 --> 00:29:36.460
+<v Hou, Eric>Data the top 50 rows of this data so you
+can see here and then next I just plot a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3193-1
+00:29:36.460 --> 00:29:41.098
+<v Hou, Eric>chart I'm showing in a in a notebook,
+right? So then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3203-0
+00:29:43.518 --> 00:29:46.798
+<v Hou, Eric>Hopefully it doesn't have to redownload
+this map outlook.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3222-0
+00:29:49.728 --> 00:29:54.648
+<v Hou, Eric>Yeah. So you see the chart.
+So this from the beginning like 2014 two.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3228-0
+00:29:55.528 --> 00:29:58.008
+<v Hou, Eric>Honestly,
+I have no idea what's the data and.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3233-0
+00:30:16.048 --> 00:30:18.288
+<v Hou, Eric>Update call here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3253-0
+00:30:23.838 --> 00:30:28.105
+<v Hou, Eric>OK, to 2024 December 20th.
+So this is the date.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3253-1
+00:30:28.105 --> 00:30:32.638
+<v Hou, Eric>And then was the mean starting point of
+this data?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3256-0
+00:30:40.128 --> 00:30:40.408
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3274-0
+00:30:40.408 --> 00:30:45.644
+<v Hou, Eric>So starting from 2014 to 2024 is a 10
+year more than 10 year worth of data,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3274-1
+00:30:45.644 --> 00:30:46.608
+<v Hou, Eric>which is good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3281-0
+00:30:46.848 --> 00:30:48.688
+<v Hou, Eric>So the data index looks like this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3294-0
+00:30:48.968 --> 00:30:53.088
+<v Hou, Eric>So what I did here is I calculated daily
+changes.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3297-0
+00:30:53.968 --> 00:30:55.728
+<v Hou, Eric>Let me show you after I do this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3312-0
+00:31:01.908 --> 00:31:07.148
+<v Hou, Eric>So I calculated for example this number
+over this number and divided by 1.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3322-0
+00:31:07.148 --> 00:31:13.388
+<v Hou, Eric>So I know that as of 2040 December 23rd.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3350-0
+00:31:15.178 --> 00:31:24.877
+<v Hou, Eric>It actually increase 17 basis point
+compared to the the index on December</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3350-1
+00:31:24.877 --> 00:31:27.498
+<v Hou, Eric>22nd the 20/20/2014.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3355-0
+00:31:27.738 --> 00:31:31.298
+<v Hou, Eric>So this is showing us the return per day.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3363-0
+00:31:32.128 --> 00:31:36.168
+<v Hou, Eric>Of the SP500,
+so this chart is showing us like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3382-0
+00:31:40.578 --> 00:31:44.331
+<v Hou, Eric>So on every single day,
+that's a plot that's returns.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3382-1
+00:31:44.331 --> 00:31:46.138
+<v Hou, Eric>And how does it look like?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3406-0
+00:31:46.178 --> 00:31:52.313
+<v Hou, Eric>And then you just look like a really
+messy random walk chart like this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3406-1
+00:31:52.313 --> 00:31:57.170
+<v Hou, Eric>So up or down,
+up or down is across the 10 years and now</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3406-2
+00:31:57.170 --> 00:31:58.618
+<v Hou, Eric>we calculate, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3407-0
+00:31:58.618 --> 00:31:59.818
+<v Hou, Eric>So what's the average?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3423-0
+00:31:59.898 --> 00:32:04.778
+<v Hou, Eric>Like what I showed you 5 basis points and
+the standard deviation 1.1.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3427-0
+00:32:05.778 --> 00:32:06.218
+<v Hou, Eric>The median.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3439-0
+00:32:06.218 --> 00:32:11.138
+<v Hou, Eric>The six basis point and then the simple
+size we have 2005, 2500.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3442-0
+00:32:11.408 --> 00:32:12.528
+<v Hou, Eric>17 samples.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3453-0
+00:32:14.098 --> 00:32:17.658
+<v Hou, Eric>And now let's see. I want to know.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3464-0
+00:32:18.058 --> 00:32:22.538
+<v Hou, Eric>I want to determine whether this SP500
+daily return is different to 0.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3468-0
+00:32:22.538 --> 00:32:24.338
+<v Hou, Eric>I want to know that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3480-0
+00:32:24.778 --> 00:32:28.618
+<v Hou, Eric>So then I just use this code and I'm
+running a ttask.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3507-0
+00:32:29.098 --> 00:32:34.222
+<v Hou, Eric>So in case if you don't enter you,
+you're not familiar with the ttask the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3507-1
+00:32:34.222 --> 00:32:39.830
+<v Hou, Eric>concept I would highly recommend you to
+to do some research after this class and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3507-2
+00:32:39.830 --> 00:32:40.938
+<v Hou, Eric>I can post some.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3524-0
+00:32:41.648 --> 00:32:47.048
+<v Hou, Eric>Article to D2D2 R So then you can learn
+the other T task thing.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3534-0
+00:32:47.168 --> 00:32:51.088
+<v Hou, Eric>So what T ttask task is to verify the
+proof of this proof.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3545-0
+00:32:51.088 --> 00:32:54.848
+<v Hou, Eric>The non hypothesis where in this case a
+non hypothesis is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3548-0
+00:32:56.418 --> 00:32:56.738
+<v Hou, Eric>I believe.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3557-0
+00:32:57.298 --> 00:32:59.858
+<v Hou, Eric>Let me draw right here.
+So now I can share with you code.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3564-0
+00:33:01.698 --> 00:33:04.498
+<v Hou, Eric>But now is SP500.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3567-0
+00:33:06.258 --> 00:33:06.898
+<v Hou, Eric>Daily return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3582-0
+00:33:09.648 --> 00:33:16.092
+<v Hou, Eric>A zero. I'm.
+I'm saying that on average you invest in</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3582-1
+00:33:16.092 --> 00:33:16.808
+<v Hou, Eric>SP500.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3585-0
+00:33:17.168 --> 00:33:19.808
+<v Hou, Eric>You don't receive any value.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3606-0
+00:33:21.658 --> 00:33:31.178
+<v Hou, Eric>And then what I'm trying to prove is
+alternative is SP500 is not 0.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3616-0
+00:33:31.378 --> 00:33:35.738
+<v Hou, Eric>So then meaning you either so you can go
+both ways, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3625-0
+00:33:35.738 --> 00:33:38.098
+<v Hou, Eric>So either earn money or either like
+losing money.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3628-0
+00:33:38.098 --> 00:33:39.578
+<v Hou, Eric>But it's definitely not 0.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3632-0
+00:33:39.858 --> 00:33:41.458
+<v Hou, Eric>So then I run this test.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3642-0
+00:33:43.178 --> 00:33:45.498
+<v Hou, Eric>So these tasks analyze a lot of T tasks.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3667-0
+00:33:46.088 --> 00:33:52.028
+<v Hou, Eric>And Pyu stuff, whatever.
+Eventually this task gonna give me is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3667-1
+00:33:52.028 --> 00:33:57.968
+<v Hou, Eric>based upon these 2517 data 17 data set
+data point I collected.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3686-0
+00:33:59.578 --> 00:34:07.418
+<v Hou, Eric>Around this SP500 and then it just reject
+the null hypothesis that it is 0.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3703-0
+00:34:07.418 --> 00:34:11.122
+<v Hou, Eric>So then you can just say, hey,
+this is different from zero,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3703-1
+00:34:11.122 --> 00:34:15.258
+<v Hou, Eric>totally fine and then you can design some
+tasks to prove that, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3709-0
+00:34:15.258 --> 00:34:17.298
+<v Hou, Eric>So then it is not zero, that's OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3720-0
+00:34:17.298 --> 00:34:21.218
+<v Hou, Eric>So then I I invest my money in SP500 and
+this it will change.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3751-0
+00:34:21.728 --> 00:34:25.299
+<v Hou, Eric>So,
+but you want to prove that it is actually</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3751-1
+00:34:25.299 --> 00:34:30.033
+<v Hou, Eric>changed positively,
+so you can actually you can actually run</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3751-2
+00:34:30.033 --> 00:34:34.768
+<v Hou, Eric>at Test saying hey the non hypothesis is
+the data return is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3760-0
+00:34:35.128 --> 00:34:39.608
+<v Hou, Eric>Let's say bigger than or let's say less
+than.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3763-0
+00:34:41.618 --> 00:34:42.658
+<v Hou, Eric>Equal to.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3766-0
+00:34:45.088 --> 00:34:45.968
+<v Hou, Eric>One basis point.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3779-0
+00:34:48.018 --> 00:34:51.618
+<v Hou, Eric>And then alternative hypothesis is is
+higher than.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3790-0
+00:34:53.298 --> 00:34:56.514
+<v Hou, Eric>One basis points,
+so this analysis really making sense,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3790-1
+00:34:56.514 --> 00:34:56.858
+<v Hou, Eric>right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3800-0
+00:34:56.858 --> 00:35:00.847
+<v Hou, Eric>So then,
+because you don't wanna know whether it</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3800-1
+00:35:00.847 --> 00:35:01.498
+<v Hou, Eric>is like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3815-0
+00:35:03.178 --> 00:35:05.952
+<v Hou, Eric>Zero or not zero,
+you want to know whether it really</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3815-1
+00:35:05.952 --> 00:35:08.098
+<v Hou, Eric>provide you some positive results, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3822-0
+00:35:08.098 --> 00:35:11.058
+<v Hou, Eric>So then that's something you want to know.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3824-0
+00:35:11.178 --> 00:35:12.698
+<v Hou, Eric>So there is a difference between.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3826-0
+00:35:14.418 --> 00:35:14.738
+<v Hou, Eric>One side.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3834-0
+00:35:15.648 --> 00:35:19.128
+<v Hou, Eric>One side T task the versus two side T
+task.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3867-0
+00:35:19.248 --> 00:35:25.877
+<v Hou, Eric>So you can run similar analysis to show
+whether or not it is A1 basis point.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3867-1
+00:35:25.877 --> 00:35:31.989
+<v Hou, Eric>In this slides I already run it,
+so I can say that the daily return is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3867-2
+00:35:31.989 --> 00:35:35.088
+<v Hou, Eric>likely greater than one basis point.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3879-0
+00:35:35.088 --> 00:35:39.448
+<v Hou, Eric>So then I run that test and this is a
+chart that I can show you OK?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3888-0
+00:35:40.258 --> 00:35:43.938
+<v Hou, Eric>So you can do similar analysis to test on.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3895-0
+00:35:45.008 --> 00:35:47.088
+<v Hou, Eric>The SP500 data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3903-0
+00:35:47.848 --> 00:35:51.928
+<v Hou, Eric>So this is a hypothesis test.
+The point of introducing this is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3909-0
+00:35:53.898 --> 00:35:56.298
+<v Hou, Eric>There are going to be some values that
+we're going to use.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3914-0
+00:35:58.018 --> 00:35:59.978
+<v Hou, Eric>One of those values is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3921-0
+00:36:02.238 --> 00:36:04.038
+<v Hou, Eric>The P value OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3949-0
+00:36:04.558 --> 00:36:09.575
+<v Hou, Eric>So the P value you're gonna see a lot of
+pyus in a linear regression or different</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3949-1
+00:36:09.575 --> 00:36:13.918
+<v Hou, Eric>regression models. As for you know,
+from the linear regression models.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3970-0
+00:36:14.358 --> 00:36:22.085
+<v Hou, Eric>So you usually expect this Pyu to be less
+than 5% or less than .</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3970-1
+00:36:22.085 --> 00:36:27.078
+<v Hou, Eric>05 whenever the Pyu less than .05 we call.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3972-0
+00:36:27.858 --> 00:36:28.018
+<v Hou, Eric>That.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3977-0
+00:36:29.618 --> 00:36:31.138
+<v Hou, Eric>Variable or that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3980-0
+00:36:32.738 --> 00:36:33.058
+<v Hou, Eric>Or that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3985-0
+00:36:33.968 --> 00:36:37.368
+<v Hou, Eric>Past is significant statistically.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/3994-0
+00:36:38.178 --> 00:36:41.938
+<v Hou, Eric>For example, in this Pyu that is 03.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4015-0
+00:36:42.058 --> 00:36:47.548
+<v Hou, Eric>So then you can sort of saying that you
+can sort of say, OK,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4015-1
+00:36:47.548 --> 00:36:53.578
+<v Hou, Eric>whatever this task you're going to be
+true 97 percent of a chance.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4031-0
+00:36:54.098 --> 00:36:59.418
+<v Hou, Eric>So then we use 95 as a bar and 1 -.
+95 is really 5%.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4042-0
+00:36:59.418 --> 00:37:02.978
+<v Hou, Eric>So we are hoping this P value less than
+5%.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4051-0
+00:37:02.978 --> 00:37:05.898
+<v Hou, Eric>So then we can say more than 95% of
+chance these.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4055-0
+00:37:06.658 --> 00:37:07.618
+<v Hou, Eric>This value is significant.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4066-0
+00:37:08.008 --> 00:37:11.128
+<v Hou, Eric>Or these case is true,
+it's definitely significant.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4092-0
+00:37:11.328 --> 00:37:15.785
+<v Hou, Eric>So this P value you're gonna see it a lot
+in linear models.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4092-1
+00:37:15.785 --> 00:37:20.688
+<v Hou, Eric>And just remember the number that is
+critical for P value is .05.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4095-0
+00:37:22.728 --> 00:37:23.368
+<v Hou, Eric>Any question?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4115-0
+00:37:31.758 --> 00:37:35.149
+<v Hou, Eric>All right.
+So I believe we're gonna do a lot of</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4115-1
+00:37:35.149 --> 00:37:37.198
+<v Hou, Eric>reviews around those concept.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4126-0
+00:37:38.078 --> 00:37:43.238
+<v Hou, Eric>So then let's talk about the regression
+model as a first linear model, we learn.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4135-0
+00:37:44.318 --> 00:37:47.918
+<v Hou, Eric>I'll give you some examples,
+but that's that's talk about this, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4139-0
+00:37:47.918 --> 00:37:50.238
+<v Hou, Eric>So then it is quite simple.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4145-0
+00:37:52.618 --> 00:37:53.578
+<v Hou, Eric>You have a.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4149-0
+00:37:53.578 --> 00:37:55.178
+<v Hou, Eric>You have a dependent variable Y.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4158-0
+00:37:55.178 --> 00:37:57.858
+<v Hou, Eric>You have a independent dependent variable
+X.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4170-0
+00:37:58.218 --> 00:38:04.178
+<v Hou, Eric>So then you feed X into Y and then the Y
+will be the outcome.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4172-0
+00:38:04.378 --> 00:38:05.778
+<v Hou, Eric>The X will be the income.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4182-0
+00:38:07.458 --> 00:38:10.258
+<v Hou, Eric>The the X will be the independent
+variable which is the predictor.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4202-0
+00:38:10.608 --> 00:38:16.536
+<v Hou, Eric>Predictor and then you have Y equals
+alpha plus beta X plus some error term.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4202-1
+00:38:16.536 --> 00:38:17.768
+<v Hou, Eric>So we residuals.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4207-0
+00:38:18.048 --> 00:38:20.648
+<v Hou, Eric>So this is a really simple regression.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4226-0
+00:38:22.208 --> 00:38:25.779
+<v Hou, Eric>And then we,
+we call this beta slope and then we call</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4226-1
+00:38:25.779 --> 00:38:27.168
+<v Hou, Eric>this alpha intercept.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4230-0
+00:38:27.448 --> 00:38:30.608
+<v Hou, Eric>So this is a linear regression model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4238-0
+00:38:32.488 --> 00:38:36.169
+<v Hou, Eric>You you guys learn the linear regression
+model like before. Before this class,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4238-1
+00:38:36.169 --> 00:38:36.448
+<v Hou, Eric>right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4240-0
+00:38:37.968 --> 00:38:38.408
+<v Hou, Eric>Have you?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4242-0
+00:38:41.128 --> 00:38:41.728
+<v Hollenbach, Patrick>Yes.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4244-0
+00:38:42.398 --> 00:38:42.718
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4248-0
+00:38:42.718 --> 00:38:44.398
+<v Hou, Eric>So perfect, one person said.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4253-0
+00:38:44.398 --> 00:38:45.638
+<v Hou, Eric>Yes, thank you, Patrick.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4255-0
+00:38:46.438 --> 00:38:47.918
+<v Hou, Eric>Hello folks happy.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4261-0
+00:38:49.778 --> 00:38:51.298
+<v Severin, Noah>Yeah, I I did an undergrad.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4260-0
+00:38:50.398 --> 00:38:50.838
+<v Carone, Matt>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4266-0
+00:38:52.338 --> 00:38:53.418
+<v Huebner, Kaitlyn>I also have.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4265-0
+00:38:53.148 --> 00:38:53.788
+<v Mertens, Aidric>Yep, same here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4269-0
+00:38:54.648 --> 00:38:55.408
+<v Hou, Eric>Nice. OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4273-0
+00:38:55.408 --> 00:38:56.128
+<v Hou, Eric>So you know this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4277-0
+00:38:56.128 --> 00:38:57.608
+<v Hou, Eric>That's that's perfect, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4278-0
+00:38:57.608 --> 00:38:58.048
+<v Hou, Eric>So then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4293-0
+00:39:00.058 --> 00:39:05.098
+<v Hou, Eric>I hope you know that you can actually run
+a linear regression model on on on this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4298-0
+00:39:07.618 --> 00:39:08.858
+<v Hou, Eric>Analytics tool.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4299-0
+00:39:08.858 --> 00:39:09.538
+<v Hou, Eric>So then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4327-0
+00:39:15.898 --> 00:39:21.737
+<v Hou, Eric>On this excel right so that you can
+quickly do this regression and then you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4327-1
+00:39:21.737 --> 00:39:25.578
+<v Hou, Eric>can say hey,
+why why you let's say this Yu is ay.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4339-0
+00:39:27.138 --> 00:39:29.538
+<v Hou, Eric>And this Yu is the X right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4360-0
+00:39:29.538 --> 00:39:35.173
+<v Hou, Eric>So then you and you can say OK the data
+because I just selected from the first</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4360-1
+00:39:35.173 --> 00:39:38.098
+<v Hou, Eric>row to the 10th row, I do have the label.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4374-0
+00:39:38.098 --> 00:39:43.418
+<v Hou, Eric>So you can collect the labels and then
+you can say whether or not the alpha is 0.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4382-0
+00:39:43.418 --> 00:39:47.538
+<v Hou, Eric>Let's assume that alpha is a zero and
+then here is something that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4394-0
+00:39:48.128 --> 00:39:51.928
+<v Hou, Eric>You know you're seeing is the confident
+level is 95%.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4400-0
+00:39:51.928 --> 00:39:54.728
+<v Hou, Eric>I say that let's say the output range is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4402-0
+00:39:54.728 --> 00:39:55.728
+<v Hou, Eric>Let's put it here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4424-0
+00:39:56.278 --> 00:39:59.709
+<v Hou, Eric>Like here and then you wanna see the
+residuals.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4424-1
+00:39:59.709 --> 00:40:05.355
+<v Hou, Eric>You wanna see the standardized residuals
+and then the those kind of things and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4424-2
+00:40:05.355 --> 00:40:05.998
+<v Hou, Eric>click OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4434-0
+00:40:06.448 --> 00:40:09.695
+<v Hou, Eric>Boom,
+you have that style linear regression</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4434-1
+00:40:09.695 --> 00:40:10.728
+<v Hou, Eric>model results.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4436-0
+00:40:12.738 --> 00:40:13.538
+<v Hou, Eric>In in Excel.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4442-0
+00:40:15.558 --> 00:40:17.438
+<v Hou, Eric>Umm, it's quite simple, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4448-0
+00:40:17.438 --> 00:40:20.318
+<v Hou, Eric>So you have those? Umm,
+you have those fits.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4460-0
+00:40:21.888 --> 00:40:25.008
+<v Hou, Eric>And then you have a lot of concept like R
+^2.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4472-0
+00:40:26.768 --> 00:40:30.728
+<v Hou, Eric>And then also there's a 111 friend we
+just seen.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4476-0
+00:40:30.728 --> 00:40:33.088
+<v Hou, Eric>This is a P value as you can see.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4491-0
+00:40:34.768 --> 00:40:40.128
+<v Hou, Eric>This the P value is a .
+35 and this price is a .63.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4498-0
+00:40:40.848 --> 00:40:44.968
+<v Hou, Eric>Can someone tell me whether or not this
+intersep or price?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4500-0
+00:40:45.478 --> 00:40:46.278
+<v Hou, Eric>Is significant.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4504-0
+00:40:49.888 --> 00:40:51.288
+<v Hou, Eric>Are they significant at all?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4506-0
+00:40:55.518 --> 00:40:55.918
+<v Severin, Noah>No.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4515-0
+00:40:55.678 --> 00:40:57.998
+<v Hou, Eric>Or or which one is significant?
+OK was that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4527-0
+00:40:57.998 --> 00:41:03.078
+<v Hou, Eric>No, Mr. yeah. Noah. Noah. Hey.
+Why do you think?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4519-0
+00:40:59.418 --> 00:41:00.498
+<v Severin, Noah>Me, Noah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4529-0
+00:41:03.078 --> 00:41:05.478
+<v Hou, Eric>Why? Why are they significant?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4533-0
+00:41:07.468 --> 00:41:08.588
+<v Severin, Noah>Well, the P value.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4542-0
+00:41:10.128 --> 00:41:11.448
+<v Severin, Noah>Could be statistically significant.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4553-0
+00:41:11.448 --> 00:41:15.168
+<v Severin, Noah>It's usually got to be .05 or less,
+and both those are much higher.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4552-0
+00:41:14.438 --> 00:41:14.718
+<v Hou, Eric>Correct.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4565-0
+00:41:16.078 --> 00:41:20.198
+<v Hou, Eric>Right. So yeah, so that's why, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4568-0
+00:41:20.198 --> 00:41:22.118
+<v Hou, Eric>So Noah is 100% correct.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4583-0
+00:41:22.278 --> 00:41:28.344
+<v Hou, Eric>So you can basically tell this intercept
+and and its prize are are are not</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4583-1
+00:41:28.344 --> 00:41:29.638
+<v Hou, Eric>significant, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4597-0
+00:41:31.208 --> 00:41:34.248
+<v Hou, Eric>And and also you can read this regression
+statistics, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4615-0
+00:41:34.248 --> 00:41:38.120
+<v Hou, Eric>So then the multi multiple or R square
+can.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4615-1
+00:41:38.120 --> 00:41:43.048
+<v Hou, Eric>Can someone tell me what this R square
+metric is about?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4629-0
+00:41:46.038 --> 00:41:51.078
+<v Hou, Eric>I'm pretty sure you run this regression
+model on Excel, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4634-0
+00:41:51.078 --> 00:41:54.598
+<v Hou, Eric>So then you you have seen these numbers
+quite?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4648-0
+00:41:56.168 --> 00:42:00.528
+<v Hou, Eric>Hopefully you have seen this this this
+tables. There's a summary output.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4650-0
+00:42:01.208 --> 00:42:02.928
+<v Hou, Eric>What does this R square tell us?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4658-0
+00:42:19.928 --> 00:42:21.488
+<v Hou, Eric>Anyone knows this R square?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4664-0
+00:42:24.888 --> 00:42:27.288
+<v Matt Benbenek>Is that like the correlation?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4668-0
+00:42:30.088 --> 00:42:30.648
+<v Hou, Eric>Sort of.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4676-0
+00:42:30.648 --> 00:42:33.248
+<v Hou, Eric>It's it's sort of like a correlation.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4694-0
+00:42:33.248 --> 00:42:40.586
+<v Hou, Eric>So it's basically R Square tells us how
+much of the variation of the Y is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4694-1
+00:42:40.586 --> 00:42:42.768
+<v Hou, Eric>explained by the X OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4701-0
+00:42:42.928 --> 00:42:45.408
+<v Hou, Eric>So it sounds really like not.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4706-0
+00:42:45.528 --> 00:42:47.128
+<v Hou, Eric>It sounds really confusing.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4707-0
+00:42:47.128 --> 00:42:47.808
+<v Hou, Eric>What? Really.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4710-0
+00:42:47.808 --> 00:42:49.848
+<v Hou, Eric>Our square telling us is the following.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4723-0
+00:42:51.408 --> 00:42:55.888
+<v Hou, Eric>How much can this acts explain the why?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4734-0
+00:42:56.608 --> 00:43:03.087
+<v Hou, Eric>So this is sort of another metric to tell
+us this price information is not</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4734-1
+00:43:03.087 --> 00:43:04.728
+<v Hou, Eric>significant at all.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4736-0
+00:43:05.968 --> 00:43:06.448
+<v Hou, Eric>Because.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4744-0
+00:43:08.008 --> 00:43:08.968
+<v Hou, Eric>Having this variable price.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4760-0
+00:43:08.968 --> 00:43:13.671
+<v Hou, Eric>Having this variable price,
+you can only explain 3% of the outcome,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4760-1
+00:43:13.671 --> 00:43:15.608
+<v Hou, Eric>so pretty much it's useless.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4766-0
+00:43:17.328 --> 00:43:19.128
+<v Hou, Eric>And and as you can imagine.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4779-0
+00:43:20.728 --> 00:43:24.722
+<v Hou, Eric>So yes,
+so this price is not explaining the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4779-1
+00:43:24.722 --> 00:43:25.448
+<v Hou, Eric>outcome.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4787-0
+00:43:27.208 --> 00:43:28.368
+<v Hou, Eric>Let's let's add more, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4795-0
+00:43:28.368 --> 00:43:30.568
+<v Hou, Eric>So then let's add more more information.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4797-0
+00:43:30.568 --> 00:43:31.888
+<v Hou, Eric>Let's that's actually fine.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4803-0
+00:43:32.168 --> 00:43:34.248
+<v Hou, Eric>So I have let let me change it.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4805-0
+00:43:34.248 --> 00:43:36.088
+<v Hou, Eric>Let me change another thing.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4810-0
+00:43:38.548 --> 00:43:42.508
+<v Hou, Eric>It's Colby X 234.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4814-0
+00:43:44.008 --> 00:43:44.648
+<v Hou, Eric>Dash 45.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4826-0
+00:43:46.288 --> 00:43:52.568
+<v Hou, Eric>431267 OK, let's say the Y.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4837-0
+00:44:06.558 --> 00:44:08.798
+<v Hou, Eric>OK, that the rerun is analysis again.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4838-0
+00:44:08.798 --> 00:44:10.038
+<v Hou, Eric>Let me just delete those.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4854-0
+00:44:33.688 --> 00:44:39.898
+<v Hou, Eric>So instead of using nodes that just
+choose this wise instead easy nodes let</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4854-1
+00:44:39.898 --> 00:44:41.368
+<v Hou, Eric>me choose those X.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4857-0
+00:44:44.498 --> 00:44:46.018
+<v Hou, Eric>OK. As you can see.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4879-0
+00:44:47.568 --> 00:44:50.967
+<v Hou, Eric>Still,
+the intersection acts those are not</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4879-1
+00:44:50.967 --> 00:44:54.208
+<v Hou, Eric>significant. R Square is a better .25 OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4890-0
+00:44:54.488 --> 00:44:58.288
+<v Hou, Eric>So you know it's a .25 not significant,
+right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4896-0
+00:44:58.288 --> 00:45:02.288
+<v Hou, Eric>So then let me just add another well,
+let's call it X2.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4899-0
+00:45:14.528 --> 00:45:15.008
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4907-0
+00:45:17.898 --> 00:45:20.058
+<v Hou, Eric>Let me try to rewr on this regression
+again.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4908-0
+00:45:20.498 --> 00:45:21.818
+<v Hou, Eric>So Y is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4915-0
+00:45:23.448 --> 00:45:25.928
+<v Hou, Eric>Y is still this.
+The numbers that we have seen before.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4928-0
+00:45:28.208 --> 00:45:34.048
+<v Hou, Eric>The X will be those two columns and we
+still say OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4940-0
+00:45:34.048 --> 00:45:38.768
+<v Hou, Eric>We have the labels and then the constant
+is a zero. We allow intercept.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4941-0
+00:45:39.408 --> 00:45:40.368
+<v Hou, Eric>So sorry.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4945-0
+00:45:42.248 --> 00:45:43.608
+<v Hou, Eric>This running at.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4947-0
+00:45:47.688 --> 00:45:49.968
+<v Hou, Eric>What's the phone be on?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4952-0
+00:45:52.258 --> 00:45:53.218
+<v Hou, Eric>That we want, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4956-0
+00:45:53.218 --> 00:45:55.058
+<v Hou, Eric>This should be good. OK, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4959-0
+00:45:55.058 --> 00:45:56.138
+<v Hou, Eric>So now we have those.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4965-0
+00:45:58.288 --> 00:45:59.768
+<v Hou, Eric>Let me just delete those chart.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4970-0
+00:46:04.008 --> 00:46:05.528
+<v Hou, Eric>From the P values.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4984-0
+00:46:08.128 --> 00:46:11.288
+<v Hou, Eric>The Intersect the Intercept is not
+significant.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4985-0
+00:46:12.128 --> 00:46:13.848
+<v Hou, Eric>XX2 are not significant.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4999-0
+00:46:15.528 --> 00:46:18.378
+<v Hou, Eric>Do you?
+So then there are no no significance from</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/4999-1
+00:46:18.378 --> 00:46:20.088
+<v Hou, Eric>those those those information.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5001-0
+00:46:20.088 --> 00:46:20.888
+<v Hou, Eric>We just input.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5003-0
+00:46:21.838 --> 00:46:22.518
+<v Hou, Eric>However.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5023-0
+00:46:24.088 --> 00:46:30.728
+<v Hou, Eric>The R square is getting better,
+so it was .25 and now it's .330%.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5024-0
+00:46:31.328 --> 00:46:32.648
+<v Hou, Eric>What does this tell us?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5033-0
+00:46:40.598 --> 00:46:43.038
+<v Hou, Eric>So this is the number I'm talking about, .
+25.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5037-0
+00:46:43.358 --> 00:46:46.958
+<v Hou, Eric>I add another user's variable is .30.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5063-0
+00:46:48.568 --> 00:46:55.879
+<v Hou, Eric>And why we have more power to explain the
+why, even though we just add,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5063-1
+00:46:55.879 --> 00:47:03.088
+<v Hou, Eric>we just added one using this variable
+user information. How does that?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5066-0
+00:47:04.758 --> 00:47:05.798
+<v Hou, Eric>How can that be true?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5077-0
+00:47:15.688 --> 00:47:19.448
+<v Hou, Eric>And and to verify that let's even
+calculate the correlation between those.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5079-0
+00:47:21.008 --> 00:47:21.488
+<v Hou, Eric>Numbers.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5082-0
+00:47:23.048 --> 00:47:23.368
+<v Hou, Eric>X2 and Y.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5084-0
+00:47:27.318 --> 00:47:27.798
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5090-0
+00:47:37.468 --> 00:47:37.988
+<v Hou, Eric>So like what?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5098-0
+00:47:37.988 --> 00:47:41.108
+<v Hou, Eric>Let's add that we we just explain those
+correlation numbers, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5114-0
+00:47:41.108 --> 00:47:45.284
+<v Hou, Eric>So they say correlation. We know .
+5 is sort of OK correlation,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5114-1
+00:47:45.284 --> 00:47:47.828
+<v Hou, Eric>meaning they are positively correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5149-0
+00:47:47.828 --> 00:47:52.434
+<v Hou, Eric>So then, however,
+if you have only X to explain why you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5149-1
+00:47:52.434 --> 00:47:57.780
+<v Hou, Eric>have only 25% of Y explained or
+variability of Y explained here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5149-2
+00:47:57.780 --> 00:48:02.632
+<v Hou, Eric>I added X2 from.
+This correlation is close to is less than</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5149-3
+00:48:02.632 --> 00:48:03.948
+<v Hou, Eric>10% is close to.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5155-0
+00:48:04.928 --> 00:48:07.208
+<v Hou, Eric>The fact that they are not even
+correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5168-0
+00:48:08.288 --> 00:48:15.128
+<v Hou, Eric>I added this use this uncorrelated
+variable. However, I can explain more why.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5173-0
+00:48:21.138 --> 00:48:21.818
+<v Hou, Eric>So there are two.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5177-0
+00:48:21.818 --> 00:48:22.898
+<v Hou, Eric>There is one question.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5180-0
+00:48:22.898 --> 00:48:24.858
+<v Hou, Eric>Why is it happening #2?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5195-0
+00:48:26.408 --> 00:48:30.808
+<v Hou, Eric>Can I explain why a little bit more by
+adding another user's variable?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5200-0
+00:48:30.808 --> 00:48:33.688
+<v Hou, Eric>Covari or X4 or X5.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5210-0
+00:48:34.008 --> 00:48:37.528
+<v Hou, Eric>Am I going to increase this R square by
+adding more and more variables?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5212-0
+00:48:40.488 --> 00:48:41.368
+<v Hou, Eric>Question one.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5217-0
+00:48:44.768 --> 00:48:47.888
+<v Hou, Eric>Why adding a useless?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5221-0
+00:48:49.448 --> 00:48:50.968
+<v Hou, Eric>Variable increase.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5224-0
+00:48:52.688 --> 00:48:53.208
+<v Hou, Eric>The R square.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5226-0
+00:48:56.438 --> 00:48:57.238
+<v Hou, Eric>#2.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5229-0
+00:48:59.318 --> 00:49:03.038
+<v Hou, Eric>Am I able to explain?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5242-0
+00:49:04.848 --> 00:49:16.048
+<v Hou, Eric>The variability of Y by adding Borax,
+for example X12, XA 100.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5245-0
+00:49:21.698 --> 00:49:23.058
+<v Hou, Eric>Anyone has some idea?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5263-0
+00:49:32.118 --> 00:49:36.375
+<v Hollenbach, Patrick>Yeah. For question one,
+I would say when you have both X and X2,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5256-0
+00:49:34.758 --> 00:49:34.958
+<v Hou, Eric>Mm hmm.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5263-1
+00:49:36.375 --> 00:49:38.078
+<v Hollenbach, Patrick>you have more data points.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5262-0
+00:49:36.978 --> 00:49:37.178
+<v Hou, Eric>Mm hmm.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5297-0
+00:49:39.648 --> 00:49:45.175
+<v Hollenbach, Patrick>To determine the variance between X&amp;
+Y and then for question two,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5274-0
+00:49:41.808 --> 00:49:42.288
+<v Hou, Eric>Sure.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5277-0
+00:49:43.438 --> 00:49:43.838
+<v Hou, Eric>Yep.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5297-1
+00:49:45.175 --> 00:49:49.675
+<v Hollenbach, Patrick>I would say yes,
+it would increase R-squared if you just</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5297-2
+00:49:49.675 --> 00:49:51.728
+<v Hollenbach, Patrick>continue to add variables.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5300-0
+00:49:50.798 --> 00:49:52.918
+<v Hou, Eric>Right. Is that OK? OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5303-0
+00:49:53.038 --> 00:49:54.238
+<v Hou, Eric>So thank. Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5308-0
+00:49:54.238 --> 00:49:57.198
+<v Hou, Eric>So then the question being, should I?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5323-0
+00:49:59.128 --> 00:50:05.456
+<v Hou, Eric>Add more X because I agree with you the
+question 2 the answer to question two is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5323-1
+00:50:05.456 --> 00:50:05.768
+<v Hou, Eric>yes.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5331-0
+00:50:07.568 --> 00:50:08.728
+<v Hou, Eric>Now yesi, yes.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5338-0
+00:50:08.928 --> 00:50:13.888
+<v Hou, Eric>So then if you add more variables,
+the R square could keep increasing.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5350-0
+00:50:15.218 --> 00:50:18.970
+<v Hou, Eric>So the question is so yeah,
+so this will observe what we just</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5350-1
+00:50:18.970 --> 00:50:22.178
+<v Hou, Eric>observed. The question will be,
+should I add more X?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5356-0
+00:50:26.028 --> 00:50:26.708
+<v Hou, Eric>Is that Patrick?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5360-0
+00:50:26.708 --> 00:50:28.188
+<v Hou, Eric>You answer the question, yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5362-0
+00:50:26.778 --> 00:50:28.858
+<v Hollenbach, Patrick>That. Yeah, that's Patrick.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5378-0
+00:50:29.218 --> 00:50:34.553
+<v Hollenbach, Patrick>Yeah. For this one, I would say no,
+because the P value is saying these are</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5369-0
+00:50:31.248 --> 00:50:31.448
+<v Hou, Eric>Mm hmm.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5378-1
+00:50:34.553 --> 00:50:36.378
+<v Hollenbach, Patrick>not significant variables.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5390-0
+00:50:37.568 --> 00:50:41.408
+<v Hou, Eric>Yeah. So it's sort of like,
+thank you so much, Patrick.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5393-0
+00:50:41.408 --> 00:50:42.608
+<v Hou, Eric>I I think you're absolutely right.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5417-0
+00:50:42.608 --> 00:50:48.174
+<v Hou, Eric>So then the answer of Q1 is really coming
+back to that causalization and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5417-1
+00:50:48.174 --> 00:50:52.368
+<v Hou, Eric>correlation kind of thing kind of
+conversation, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5429-0
+00:50:52.368 --> 00:50:56.025
+<v Hou, Eric>So then whenever you add more information,
+some of our ability of the Y can be</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5429-1
+00:50:56.025 --> 00:50:56.488
+<v Hou, Eric>explained.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5433-0
+00:50:56.808 --> 00:50:58.888
+<v Hou, Eric>Yes or no coincidence.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5441-0
+00:50:58.888 --> 00:51:02.088
+<v Hou, Eric>So then you whenever you add more and
+more and more information.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5453-0
+00:51:02.888 --> 00:51:05.441
+<v Hou, Eric>You your Y,
+your variability of the Y can be</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5453-1
+00:51:05.441 --> 00:51:06.008
+<v Hou, Eric>explained.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5460-0
+00:51:06.008 --> 00:51:08.808
+<v Hou, Eric>So then it can be explained why by by the
+RR square.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5473-0
+00:51:09.338 --> 00:51:15.298
+<v Hou, Eric>And you can ask experiment.
+You just add random data X1X200.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5478-0
+00:51:16.848 --> 00:51:18.048
+<v Hou, Eric>You only have how many?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5481-0
+00:51:19.728 --> 00:51:21.208
+<v Hou, Eric>9 numbers.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5486-0
+00:51:22.848 --> 00:51:24.368
+<v Hou, Eric>And then you cannot use.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5494-0
+00:51:26.128 --> 00:51:27.568
+<v Hou, Eric>You cannot use more.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5507-0
+00:51:27.568 --> 00:51:32.208
+<v Hou, Eric>You're basically using like two strings
+to explain those 9 numbers.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5515-0
+00:51:32.208 --> 00:51:34.850
+<v Hou, Eric>You have a 10 numbers to explain those
+numbers,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5515-1
+00:51:34.850 --> 00:51:38.208
+<v Hou, Eric>you're definitely gonna have more
+information than you need.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5533-0
+00:51:39.108 --> 00:51:44.628
+<v Hou, Eric>So you will increase the R square by
+adding more and more and more variables.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5544-0
+00:51:44.628 --> 00:51:47.766
+<v Hou, Eric>That questions, yes.
+And then you should not be doing that</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5544-1
+00:51:47.766 --> 00:51:49.468
+<v Hou, Eric>because there is a term of that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5546-0
+00:51:49.468 --> 00:51:50.828
+<v Hou, Eric>This is called overfeeding.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5552-0
+00:51:52.688 --> 00:51:54.848
+<v Hou, Eric>This is leading to overfitting.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5564-0
+00:51:57.528 --> 00:52:00.328
+<v Hou, Eric>So what's the bad thing of Patrick?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5566-0
+00:52:00.328 --> 00:52:02.808
+<v Hou, Eric>Have you heard overfeeding as a concept?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5568-0
+00:52:05.128 --> 00:52:05.328
+<v Hollenbach, Patrick>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5580-0
+00:52:06.298 --> 00:52:09.535
+<v Hou, Eric>Yeah. So.
+So overfeeding is something that you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5580-1
+00:52:09.535 --> 00:52:12.978
+<v Hou, Eric>definitely gonna avoid because it's sort
+of like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5594-0
+00:52:14.528 --> 00:52:21.808
+<v Hou, Eric>You know, whatever happened perfectly.
+You know the history perfectly.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5611-0
+00:52:23.488 --> 00:52:27.100
+<v Hou, Eric>Does not mean you know whatever happened
+in the future.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5611-1
+00:52:27.100 --> 00:52:29.808
+<v Hou, Eric>Let me just give you a really bad example.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5627-0
+00:52:30.048 --> 00:52:37.027
+<v Hou, Eric>You're using this X2 data.
+This X2 data is sort of like whether or</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5627-1
+00:52:37.027 --> 00:52:40.048
+<v Hou, Eric>not the CEO of the company's.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5630-0
+00:52:40.318 --> 00:52:41.278
+<v Hou, Eric>The worrying.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5637-0
+00:52:41.398 --> 00:52:44.318
+<v Hou, Eric>What kind of color of shoes that Co is
+wearing?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5642-0
+00:52:45.578 --> 00:52:48.298
+<v Hou, Eric>This Y is the stock price.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5657-0
+00:52:49.848 --> 00:52:57.448
+<v Hou, Eric>Having this color of shoes or color of
+socks of the CEO is wearing at the day.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5686-0
+00:52:59.088 --> 00:53:04.449
+<v Hou, Eric>Somewhat, maybe explain the why,
+but that is definitely not the causation</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5686-1
+00:53:04.449 --> 00:53:08.867
+<v Hou, Eric>of the stock price.
+Unless you believe that you know the the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5686-2
+00:53:08.867 --> 00:53:13.648
+<v Hou, Eric>the the shoe color or stock color really
+changed the stock price.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5688-0
+00:53:13.888 --> 00:53:15.008
+<v Hou, Eric>It it should not.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5737-0
+00:53:16.078 --> 00:53:21.090
+<v Hou, Eric>But As for the data,
+it definitely increase R square and as if</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5737-1
+00:53:21.090 --> 00:53:27.454
+<v Hou, Eric>you know that you create a a a impression
+that the suck Toler really change the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5737-2
+00:53:27.454 --> 00:53:31.431
+<v Hou, Eric>stock price.
+You can explain all historical price</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5737-3
+00:53:31.431 --> 00:53:35.250
+<v Hou, Eric>perfectly,
+because that spike of stock price is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5737-4
+00:53:35.250 --> 00:53:37.318
+<v Hou, Eric>because that CEO they are.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5752-0
+00:53:37.318 --> 00:53:42.382
+<v Hou, Eric>Wearing a blue sock and another day is
+it's a deep it's just because the CEO is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5752-1
+00:53:42.382 --> 00:53:43.838
+<v Hou, Eric>wearing some red socks.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5757-0
+00:53:46.878 --> 00:53:47.678
+<v Hou, Eric>In the future.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5765-0
+00:53:48.078 --> 00:53:52.438
+<v Hou, Eric>So then that's that's the harm of
+overfeeding your data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5784-0
+00:53:52.878 --> 00:53:59.320
+<v Hou, Eric>So that is the reason people invented
+another thing that you can find right</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5784-1
+00:53:59.320 --> 00:54:03.558
+<v Hou, Eric>below our square is called adjusted R
+square, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5793-0
+00:54:03.678 --> 00:54:08.438
+<v Hou, Eric>So you see R square,
+you see adjusted R square, the R square.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5800-0
+00:54:10.008 --> 00:54:12.488
+<v Hou, Eric>Is increasing by adding more.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5805-0
+00:54:14.208 --> 00:54:16.008
+<v Hou, Eric>Independent variables, however.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5816-0
+00:54:16.798 --> 00:54:23.998
+<v Hou, Eric>This adjusted R square will analyze the
+more variables you are adding.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5837-0
+00:54:25.568 --> 00:54:29.828
+<v Hou, Eric>You, you, you,
+you won't feel the same benefit about any</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5837-1
+00:54:29.828 --> 00:54:34.087
+<v Hou, Eric>more variable,
+especially when those those variables are</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5837-2
+00:54:34.087 --> 00:54:35.208
+<v Hou, Eric>not correlated.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5846-0
+00:54:35.728 --> 00:54:41.168
+<v Hou, Eric>So even though this R square increase
+from this experiment, one to experiment 2.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5854-0
+00:54:42.888 --> 00:54:45.448
+<v Hou, Eric>You know you move from .25 to .30.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5868-0
+00:54:45.918 --> 00:54:51.572
+<v Hou, Eric>This adjusted R square decrease because
+this adjusted R square realized that man,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5868-1
+00:54:51.572 --> 00:54:53.158
+<v Hou, Eric>you're just adding one.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5870-0
+00:54:53.158 --> 00:54:53.758
+<v Hou, Eric>Use this variable.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5889-0
+00:54:55.128 --> 00:54:59.608
+<v Hou, Eric>So if I were you,
+I will rely on this adjusted R square</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5889-1
+00:54:59.608 --> 00:55:03.688
+<v Hou, Eric>more than R-squared because you'll be
+overfitting.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5901-0
+00:55:04.198 --> 00:55:08.118
+<v Hou, Eric>Here and there,
+there's there's any real practice.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5911-0
+00:55:08.118 --> 00:55:13.946
+<v Hou, Eric>You cannot avoid overfeeding,
+but always focus on the one line one row</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5911-1
+00:55:13.946 --> 00:55:14.438
+<v Hou, Eric>below.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5915-0
+00:55:14.438 --> 00:55:15.198
+<v Hou, Eric>That's adjusted.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5923-0
+00:55:15.278 --> 00:55:17.798
+<v Hou, Eric>R Square and see whether or not that
+number is increased.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5925-0
+00:55:18.118 --> 00:55:19.078
+<v Hou, Eric>If not.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5947-0
+00:55:20.848 --> 00:55:24.766
+<v Hou, Eric>Likely you're overfeeding,
+and I'll tell you a more different</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5947-1
+00:55:24.766 --> 00:55:28.368
+<v Hou, Eric>technique to avoid overfeeding,
+but this is one of them.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5950-0
+00:55:28.648 --> 00:55:32.368
+<v Hou, Eric>Adjusters elsewhere. OK. Any questions?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5962-0
+00:55:38.558 --> 00:55:43.592
+<v Hou, Eric>So adjust the R square Pyu.
+Those are the things that you need to</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5962-1
+00:55:43.592 --> 00:55:44.278
+<v Hou, Eric>focus on.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5967-0
+00:55:46.128 --> 00:55:47.688
+<v Hou, Eric>OK, go back to slides.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5969-0
+00:55:49.368 --> 00:55:49.528
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5978-0
+00:55:49.528 --> 00:55:51.608
+<v Hou, Eric>So now, now we have a single variable.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5996-0
+00:55:51.928 --> 00:55:57.272
+<v Hou, Eric>Now we have multiple variable that's sort
+of like generalize of of the single</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/5996-1
+00:55:57.272 --> 00:55:57.888
+<v Hou, Eric>variable.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6002-0
+00:55:57.888 --> 00:55:59.888
+<v Hou, Eric>Same idea. You have alpha over betas.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6016-0
+00:55:59.888 --> 00:56:03.720
+<v Hou, Eric>You have more than you have still 1A.
+However you have more than one beta,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6016-1
+00:56:03.720 --> 00:56:05.048
+<v Hou, Eric>so you have so many betas.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6018-0
+00:56:05.328 --> 00:56:07.568
+<v Hou, Eric>So this is basically.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6027-0
+00:56:09.238 --> 00:56:12.038
+<v Hou, Eric>A multi variable regression.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6041-0
+00:56:12.838 --> 00:56:17.598
+<v Hou, Eric>So now it's already I'm talking about the
+P value T value fyu R square.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6047-0
+00:56:17.598 --> 00:56:20.118
+<v Hou, Eric>So then this is something we talk about
+Pyu.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6065-0
+00:56:20.638 --> 00:56:25.448
+<v Hou, Eric>And after that so you can read this
+introduction after class.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6065-1
+00:56:25.448 --> 00:56:28.318
+<v Hou, Eric>But I'm not going to dive into those.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6081-0
+00:56:29.038 --> 00:56:33.450
+<v Hou, Eric>Those are cool things that you wanna
+learn but not necessary.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6081-1
+00:56:33.450 --> 00:56:35.798
+<v Hou, Eric>You have to handle those. OK. OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6086-0
+00:56:35.798 --> 00:56:38.918
+<v Hou, Eric>Let me talk about this right so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6102-0
+00:56:40.488 --> 00:56:46.088
+<v Hou, Eric>You may not have to remember all those
+specific metrics names.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6108-0
+00:56:46.088 --> 00:56:48.128
+<v Hou, Eric>For example, there is a thing called Mae.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6112-0
+00:56:48.328 --> 00:56:49.768
+<v Hou, Eric>There is a thing called mape.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6123-0
+00:56:49.768 --> 00:56:54.328
+<v Hou, Eric>Mape is mean absolute percentage error,
+so you have to understand one thing is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6134-0
+00:56:55.118 --> 00:56:57.278
+<v Hou, Eric>We build a model for some purpose.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6138-0
+00:56:57.278 --> 00:56:58.478
+<v Hou, Eric>We build a model want.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6144-0
+00:56:58.478 --> 00:57:01.718
+<v Hou, Eric>We we want to use a model to predict
+future.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6154-0
+00:57:03.288 --> 00:57:05.968
+<v Hou, Eric>Right. So then I I, I I learn.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6158-0
+00:57:06.048 --> 00:57:08.488
+<v Hou, Eric>I learned historical stock prices.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6181-0
+00:57:08.928 --> 00:57:14.270
+<v Hou, Eric>I want to use whenever I learn to predict
+tomorrow's stock price to to to to</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6181-1
+00:57:14.270 --> 00:57:17.808
+<v Hou, Eric>predict next year stock price,
+for example NVIDIA.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6202-0
+00:57:17.808 --> 00:57:21.572
+<v Hou, Eric>So then I can make the decision whether
+or not I gonna I gonna buy NVIDIA. Oh,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6202-1
+00:57:21.572 --> 00:57:24.097
+<v Hou, Eric>by the way,
+do you guys still believe that NVIDIA is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6202-2
+00:57:24.097 --> 00:57:25.288
+<v Hou, Eric>a good stock to purchase?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6205-0
+00:57:30.338 --> 00:57:30.578
+<v Matt Benbenek>Replay.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6207-0
+00:57:30.558 --> 00:57:31.478
+<v Hou, Eric>Yes or no, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6210-0
+00:57:32.088 --> 00:57:32.648
+<v Matt Benbenek>No.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6213-0
+00:57:33.048 --> 00:57:33.728
+<v Hou, Eric>No. OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6218-0
+00:57:34.528 --> 00:57:36.368
+<v Hou, Eric>Let's use a model to verify that man.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6221-0
+00:57:38.598 --> 00:57:38.998
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6228-0
+00:57:38.998 --> 00:57:41.049
+<v Hou, Eric>So.
+So you you wanna build a model to predict</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6228-1
+00:57:41.049 --> 00:57:41.718
+<v Hou, Eric>the future, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6250-0
+00:57:41.718 --> 00:57:51.829
+<v Hou, Eric>So one way to gauge whether or not your
+model works is called a back test back as</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6250-1
+00:57:51.829 --> 00:57:55.158
+<v Hou, Eric>back, BACK or holdout test.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6260-0
+00:57:55.518 --> 00:57:59.958
+<v Hou, Eric>So the idea is you need to run a
+simulation, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6267-0
+00:58:00.238 --> 00:58:04.918
+<v Hou, Eric>So as if you are taking a time machine,
+you go back to one year ago.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6274-0
+00:58:05.848 --> 00:58:07.248
+<v Hou, Eric>Right. You go back to one year ago.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6280-0
+00:58:08.278 --> 00:58:10.398
+<v Hou, Eric>You you have the model over there.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6286-0
+00:58:11.968 --> 00:58:14.728
+<v Hou, Eric>You're predicting, for example,
+NVIDIA stock price.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6322-0
+00:58:16.328 --> 00:58:22.094
+<v Hou, Eric>And then you want to use that stock
+prices based upon your model and compared</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6322-1
+00:58:22.094 --> 00:58:28.156
+<v Hou, Eric>against the real actual stock price you
+want to compare to your prediction versus</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6322-2
+00:58:28.156 --> 00:58:32.887
+<v Hou, Eric>the actual stock price.
+Do you hope that the gap between those,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6322-3
+00:58:32.887 --> 00:58:33.848
+<v Hou, Eric>those prices?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6331-0
+00:58:35.568 --> 00:58:37.728
+<v Hou, Eric>As narrow as possible or as big as
+possible.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6334-0
+00:58:40.598 --> 00:58:41.718
+<v Hou, Eric>If you do have a model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6337-0
+00:58:44.078 --> 00:58:44.998
+<v Halm, William>As narrow as possible.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6348-0
+00:58:45.588 --> 00:58:48.908
+<v Hou, Eric>Exactly because you want to hope that the
+gap is as narrow as possible.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6361-0
+00:58:48.908 --> 00:58:53.908
+<v Hou, Eric>Because not if if the if you're spot on.
+There's two cases that will happen.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6396-0
+00:58:54.068 --> 00:58:59.341
+<v Hou, Eric>Number one is there are some knowledge
+leakage in your model or #2 is you really</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6396-1
+00:58:59.341 --> 00:59:02.857
+<v Hou, Eric>build a really,
+really good you know price prediction</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6396-2
+00:59:02.857 --> 00:59:07.414
+<v Hou, Eric>model. You should rely on that.
+You should buy some money on that and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6396-3
+00:59:07.414 --> 00:59:10.148
+<v Hou, Eric>then you can earn a fortune. Right? So so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6400-0
+00:59:11.008 --> 00:59:11.328
+<v Hou, Eric>You hope.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6408-0
+00:59:11.328 --> 00:59:14.288
+<v Hou, Eric>The gap is as narrow as possible. However,
+you have to know that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6443-0
+00:59:14.798 --> 00:59:20.554
+<v Hou, Eric>Your prediction of the the NVIDIA stock
+could be higher than this NVIDIA stock or</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6443-1
+00:59:20.554 --> 00:59:26.030
+<v Hou, Eric>could be lower in this lower than the
+Nvidia's actual actual price. And then,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6443-2
+00:59:26.030 --> 00:59:29.118
+<v Hou, Eric>but the gap could be as narrow as
+possible.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6452-0
+00:59:29.118 --> 00:59:34.409
+<v Hou, Eric>So that's why we are using a concept
+called. You know the absolute value,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6452-1
+00:59:34.409 --> 00:59:34.838
+<v Hou, Eric>right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6467-0
+00:59:34.838 --> 00:59:39.514
+<v Hou, Eric>So then you want to consider your
+prediction is getting the range a</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6467-1
+00:59:39.514 --> 00:59:40.958
+<v Hou, Eric>neighborhood of that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6474-0
+00:59:41.768 --> 00:59:43.928
+<v Hou, Eric>Actual stock price as as narrow as
+possible.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6507-0
+00:59:44.758 --> 00:59:48.884
+<v Hou, Eric>Now will be a good performance of your
+model,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6507-1
+00:59:48.884 --> 00:59:55.253
+<v Hou, Eric>so that's why we're using this mean
+absolute error or or mean absolute</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6507-2
+00:59:55.253 --> 00:59:59.558
+<v Hou, Eric>percentage error to to to to assess your
+model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6531-0
+01:00:00.158 --> 01:00:06.871
+<v Hou, Eric>So we are hoping that this Mae number is
+as small as possible and this may number</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6531-1
+01:00:06.871 --> 01:00:12.438
+<v Hou, Eric>is as small as possible so that you can
+have a best model and then?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6538-0
+01:00:13.248 --> 01:00:15.408
+<v Hou, Eric>Whatever model give you the lowest Mae or.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6548-0
+01:00:15.798 --> 01:00:16.798
+<v Hou, Eric>Our lowest Mae.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6564-0
+01:00:16.988 --> 01:00:21.346
+<v Hou, Eric>You are considered as the best model you
+can rely on and then and then you can</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6564-1
+01:00:21.346 --> 01:00:25.428
+<v Hou, Eric>make some decisions, for example,
+whether or not if you buy NVIDIA stock.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6596-0
+01:00:26.348 --> 01:00:32.607
+<v Hou, Eric>So then that's gonna give you a way to
+tell you whether or not that model is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6596-1
+01:00:32.607 --> 01:00:38.378
+<v Hou, Eric>great. And we gonna use this, Mae,
+we gonna use this map to assess the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6596-2
+01:00:38.378 --> 01:00:41.548
+<v Hou, Eric>linear linear model performance versus.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6610-0
+01:00:42.358 --> 01:00:45.102
+<v Hou, Eric>Neural network model performance versus
+LLM.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6610-1
+01:00:45.102 --> 01:00:48.638
+<v Hou, Eric>Model performance versus all different
+model performance.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6624-0
+01:00:48.988 --> 01:00:53.068
+<v Hou, Eric>So you're building a system to have an
+apple to Apple.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6631-0
+01:00:53.068 --> 01:00:56.428
+<v Hou, Eric>Apples to apples comparison,
+we have a model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6656-0
+01:00:56.428 --> 01:01:01.638
+<v Hou, Eric>Apply the model on the same set of data
+predicting future and then we compare the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6656-1
+01:01:01.638 --> 01:01:06.593
+<v Hou, Eric>future versus the actual what actually
+has what actually happened and then we</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6656-2
+01:01:06.593 --> 01:01:08.308
+<v Hou, Eric>based upon the same metric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6665-0
+01:01:08.428 --> 01:01:13.788
+<v Hou, Eric>So then we can tell whether a newer
+network or large anchor model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6672-0
+01:01:14.598 --> 01:01:16.358
+<v Hou, Eric>Or whatever AI we're gonna build in the
+future.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6680-0
+01:01:16.358 --> 01:01:18.693
+<v Hou, Eric>Why?
+Are they really better than a linear</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6680-1
+01:01:18.693 --> 01:01:19.638
+<v Hou, Eric>regression model?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6683-0
+01:01:20.928 --> 01:01:21.448
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6688-0
+01:01:21.608 --> 01:01:22.608
+<v Hou, Eric>So that is the.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6693-0
+01:01:23.008 --> 01:01:25.168
+<v Hou, Eric>That is the foundation we are building.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6698-0
+01:01:25.528 --> 01:01:27.328
+<v Hou, Eric>We will apply the model on the same data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6702-0
+01:01:27.448 --> 01:01:28.928
+<v Hou, Eric>We apply the same metric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6713-0
+01:01:29.048 --> 01:01:31.488
+<v Hou, Eric>So then we'll make sure the models are
+comparable.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6749-0
+01:01:31.488 --> 01:01:37.012
+<v Hou, Eric>So that's why I'm introducing those
+metrics so that although we're going to</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6749-1
+01:01:37.012 --> 01:01:42.390
+<v Hou, Eric>talk about really fancy models,
+but that the metrics are still based upon</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6749-2
+01:01:42.390 --> 01:01:46.968
+<v Hou, Eric>Mae and Mae or or or RMSE or or or MSE,
+those kind of concept.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6758-0
+01:01:47.838 --> 01:01:51.078
+<v Hou, Eric>You do not have to remember those formula.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6761-0
+01:01:51.348 --> 01:01:52.508
+<v Hou, Eric>You just have to remember.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6787-0
+01:01:54.078 --> 01:01:59.374
+<v Hou, Eric>We gonna recalculate the prediction
+versus actual amount different models</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6787-1
+01:01:59.374 --> 01:02:04.956
+<v Hou, Eric>going forward and those are the metrics
+that we can compare one model against</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6787-2
+01:02:04.956 --> 01:02:05.958
+<v Hou, Eric>another model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6791-0
+01:02:06.438 --> 01:02:09.318
+<v Hou, Eric>That's it. OK. Any questions?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6794-0
+01:02:16.188 --> 01:02:16.748
+<v Hou, Eric>No. OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6796-0
+01:02:16.748 --> 01:02:17.388
+<v Hou, Eric>Let's keep going.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6807-0
+01:02:19.318 --> 01:02:20.838
+<v Hou, Eric>I think I copy this this OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6812-0
+01:02:20.838 --> 01:02:25.598
+<v Hou, Eric>So now let's just see a real live example.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6816-0
+01:02:29.158 --> 01:02:30.718
+<v Hou, Eric>Capital asset pricing model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6832-0
+01:02:32.758 --> 01:02:36.798
+<v Hou, Eric>Who I talked to the professor Wang.
+And then he said you guys should know it.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6838-0
+01:02:37.118 --> 01:02:39.678
+<v Hou, Eric>So should I give you a quiz that about
+this model?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6841-0
+01:02:42.348 --> 01:02:42.828
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6846-0
+01:02:42.828 --> 01:02:45.668
+<v Hou, Eric>Can someone talk about this Cam model?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6852-0
+01:02:48.588 --> 01:02:50.148
+<v Hou, Eric>Have you use it in real life?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6861-0
+01:02:52.988 --> 01:02:55.388
+<v Matt Benbenek>I've used it in the finance class.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6866-0
+01:02:55.858 --> 01:02:58.098
+<v Hou, Eric>OK, sure. Sounds good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6868-0
+01:02:58.258 --> 01:02:59.658
+<v Hou, Eric>You still remember this model at all.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6885-0
+01:03:01.878 --> 01:03:05.984
+<v Matt Benbenek>Yeah,
+I mean you you compare the the returns of</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6885-1
+01:03:05.984 --> 01:03:09.918
+<v Matt Benbenek>the company versus the market using the
+beta.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6888-0
+01:03:10.688 --> 01:03:11.128
+<v Hou, Eric>You're right.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6910-0
+01:03:12.648 --> 01:03:16.478
+<v Hou, Eric>Yeah.
+So so this model is a fundamental model</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6910-1
+01:03:16.478 --> 01:03:21.224
+<v Hou, Eric>like I, I hope you guys learn it.
+And then if you don't,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6910-2
+01:03:21.224 --> 01:03:24.888
+<v Hou, Eric>I actually uploaded a paper to the
+website.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6912-0
+01:03:28.788 --> 01:03:29.228
+<v Hou, Eric>Content.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6924-0
+01:03:31.948 --> 01:03:35.244
+<v Hou, Eric>OK,
+if you have not used this model before so</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6924-1
+01:03:35.244 --> 01:03:38.468
+<v Hou, Eric>then there is an article from Pharma
+French.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6945-0
+01:03:40.038 --> 01:03:43.838
+<v Hou, Eric>So this is really talking about the camp
+model,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6945-1
+01:03:43.838 --> 01:03:47.638
+<v Hou, Eric>the Eugene Pharma and this gentleman in
+French.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6956-0
+01:03:47.838 --> 01:03:52.713
+<v Hou, Eric>So those are the two guys really wanted
+discovered this model and designed this</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6956-1
+01:03:52.713 --> 01:03:53.078
+<v Hou, Eric>model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6969-0
+01:03:54.918 --> 01:03:59.005
+<v Hou, Eric>And and and then.
+How this is this is article how they find</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6969-1
+01:03:59.005 --> 01:03:59.958
+<v Hou, Eric>this model OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6996-0
+01:04:00.508 --> 01:04:06.668
+<v Hou, Eric>So you can definitely read this article
+and you can see there is a alpha there is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6996-1
+01:04:06.668 --> 01:04:12.453
+<v Hou, Eric>there is a free return and is a market
+return and the the formula looks like</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/6996-2
+01:04:12.453 --> 01:04:12.828
+<v Hou, Eric>this.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7015-0
+01:04:16.708 --> 01:04:20.936
+<v Hou, Eric>And then you do when you guys learn this
+model,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7015-1
+01:04:20.936 --> 01:04:26.308
+<v Hou, Eric>do you guys ask your question how they
+estimate beta at all?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7020-0
+01:04:30.898 --> 01:04:32.418
+<v Hou, Eric>If you compare this formula.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7034-0
+01:04:33.958 --> 01:04:37.718
+<v Hou, Eric>To the formula I introduced for the
+single variable model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7037-0
+01:04:37.958 --> 01:04:38.598
+<v Hou, Eric>Do you think?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7047-0
+01:04:38.598 --> 01:04:44.078
+<v Hou, Eric>Do you find any similarity between this
+formula versus the the model formula?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7056-0
+01:04:45.798 --> 01:04:48.918
+<v Hou, Eric>What is the alpha here in the in the
+model?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7059-0
+01:04:55.768 --> 01:04:56.808
+<v Hou, Eric>Let me copy here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7061-0
+01:04:58.608 --> 01:04:59.528
+<v Hou, Eric>You were to compare.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7063-0
+01:05:04.888 --> 01:05:05.608
+<v Hou, Eric>Right. So.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7071-0
+01:05:08.598 --> 01:05:12.798
+<v Hou, Eric>What? What is the alpha in this?
+Is the Cam model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7075-0
+01:05:17.028 --> 01:05:18.188
+<v Severin, Noah>That the risk free rate.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7086-0
+01:05:18.728 --> 01:05:23.448
+<v Hou, Eric>The rectal free rate and what is the ax
+in this Cam model?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7089-0
+01:05:26.568 --> 01:05:27.808
+<v Severin, Noah>The market risk premium.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7096-0
+01:05:28.708 --> 01:05:30.188
+<v Hou, Eric>The market risk premium.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7099-0
+01:05:30.188 --> 01:05:32.468
+<v Hou, Eric>So then and what is this? Why?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7106-0
+01:05:35.068 --> 01:05:36.868
+<v Severin, Noah>Be the expected return on equity.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7115-0
+01:05:37.328 --> 01:05:39.848
+<v Hou, Eric>Exactly this expected return of the
+equity.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7155-0
+01:05:40.008 --> 01:05:46.248
+<v Hou, Eric>So then now the question is if if you
+were Eugene Farmer and you were commits</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7155-1
+01:05:46.248 --> 01:05:49.768
+<v Hou, Eric>French,
+how do you estimate the beta if you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7155-2
+01:05:49.768 --> 01:05:56.008
+<v Hou, Eric>believe that the expected return is is a
+linear model on top of the risk free</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7155-3
+01:05:56.008 --> 01:05:59.928
+<v Hou, Eric>return and the market access return,
+how do you?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7157-0
+01:05:59.928 --> 01:06:00.288
+<v Hou, Eric>Access beta.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7164-0
+01:06:12.308 --> 01:06:14.228
+<v Hou, Eric>Let's say you have the data available.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7171-0
+01:06:21.958 --> 01:06:24.398
+<v Mertens, Aidric>Maybe the company's variance to the
+market?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7177-0
+01:06:25.608 --> 01:06:29.008
+<v Hou, Eric>Yeah, yeah. So exactly, exactly so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7187-0
+01:06:30.838 --> 01:06:32.398
+<v Hou, Eric>You, you,
+you have a lot of ways to do that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7195-0
+01:06:32.398 --> 01:06:35.798
+<v Hou, Eric>And then I I'm pretty sure I I know what
+you're talking about.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7233-0
+01:06:35.798 --> 01:06:39.595
+<v Hou, Eric>You're doing the the covariance and that
+kind of approach,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7233-1
+01:06:39.595 --> 01:06:43.649
+<v Hou, Eric>so as As for As for engineer the the the
+approach really like,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7233-2
+01:06:43.649 --> 01:06:48.282
+<v Hou, Eric>let's run the regression right?
+So then you can estimate that this beta</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7233-3
+01:06:48.282 --> 01:06:50.598
+<v Hou, Eric>so you can run a regression between.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7243-0
+01:06:52.358 --> 01:06:57.078
+<v Hou, Eric>Expected return minus the risk free
+return so that it'll be.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7263-0
+01:06:57.428 --> 01:07:04.483
+<v Hou, Eric>Your per equity access return on top of
+the risk free versus the market access</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7263-1
+01:07:04.483 --> 01:07:05.108
+<v Hou, Eric>return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7269-0
+01:07:05.468 --> 01:07:08.428
+<v Hou, Eric>So then you're really running a
+regression.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7271-0
+01:07:08.428 --> 01:07:09.748
+<v Hou, Eric>Let me just write in here.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7276-0
+01:07:16.558 --> 01:07:18.558
+<v Hou, Eric>Like re minus RF.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7278-0
+01:07:20.838 --> 01:07:21.398
+<v Hou, Eric>Versus.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7280-0
+01:07:23.158 --> 01:07:23.318
+<v Hou, Eric>This.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7288-0
+01:07:23.868 --> 01:07:27.388
+<v Hou, Eric>Right. So you can simply run a regression.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7312-0
+01:07:28.958 --> 01:07:34.063
+<v Hou, Eric>Your equity return minus a risk free
+return against your marketing access</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7312-1
+01:07:34.063 --> 01:07:37.305
+<v Hou, Eric>return.
+You can access what beta is associated</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7312-2
+01:07:37.305 --> 01:07:38.478
+<v Hou, Eric>with that equity.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7315-0
+01:07:40.198 --> 01:07:40.518
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7336-0
+01:07:40.678 --> 01:07:45.488
+<v Hou, Eric>So this is a really a linear regression
+or a linear model we're talking about</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7336-1
+01:07:45.488 --> 01:07:48.078
+<v Hou, Eric>problem and that's exactly how they do it.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7342-0
+01:07:48.078 --> 01:07:51.318
+<v Hou, Eric>Let me just show you one example using
+some real data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7352-0
+01:07:54.488 --> 01:07:59.088
+<v Hou, Eric>For the end of this class. OK,
+I do have acapm data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7355-0
+01:08:00.798 --> 01:08:01.758
+<v Hou, Eric>OK so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7363-0
+01:08:03.558 --> 01:08:05.158
+<v Hou, Eric>So here's a package that you can use.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7367-0
+01:08:05.158 --> 01:08:05.998
+<v Hou, Eric>It's a Google.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7371-0
+01:08:05.998 --> 01:08:08.358
+<v Hou, Eric>I'm sorry Google Yahoo finance, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7376-0
+01:08:08.358 --> 01:08:09.838
+<v Hou, Eric>So you have the Yahoo finance.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7381-0
+01:08:11.558 --> 01:08:12.238
+<v Hou, Eric>I pull the data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7385-0
+01:08:12.238 --> 01:08:14.758
+<v Hou, Eric>The Microsoft the data right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7393-0
+01:08:14.758 --> 01:08:18.238
+<v Hou, Eric>So then here and then this GSPC.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7403-0
+01:08:18.238 --> 01:08:24.078
+<v Hou, Eric>So this is the data for SP500 and you can
+consider as the market.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7435-0
+01:08:25.828 --> 01:08:29.081
+<v Hou, Eric>So you can you can.
+You can put this ticker on Google and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7435-1
+01:08:29.081 --> 01:08:33.063
+<v Hou, Eric>then you can see this SP500 data and then
+you can track the five year,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7435-2
+01:08:33.063 --> 01:08:36.988
+<v Hou, Eric>you can track all you can even download
+data from from Yahoo Finance.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7464-0
+01:08:38.558 --> 01:08:44.230
+<v Hou, Eric>And and and where is it and and this
+Yahoo Finance API or this package is is</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7464-1
+01:08:44.230 --> 01:08:49.607
+<v Hou, Eric>is built for you to download the data so
+you can consider this a market,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7464-2
+01:08:49.607 --> 01:08:50.638
+<v Hou, Eric>right so then.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7476-0
+01:08:52.278 --> 01:08:55.078
+<v Hou, Eric>As you you have spui 500 data you have
+market data.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7501-0
+01:08:55.988 --> 01:09:03.003
+<v Hou, Eric>So then you can calculate for Microsoft
+what's the daily return you can calculate</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7501-1
+01:09:03.003 --> 01:09:07.708
+<v Hou, Eric>based upon 5SP500 was the daily return,
+so then sorry.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7503-0
+01:09:08.148 --> 01:09:09.988
+<v Hou, Eric>So then you have those, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7505-0
+01:09:13.338 --> 01:09:13.738
+<v Hou, Eric>There's a.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7527-0
+01:09:24.788 --> 01:09:31.355
+<v Hou, Eric>So that you can quickly run regression
+like Microsoft versus market return like</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7527-1
+01:09:31.355 --> 01:09:34.228
+<v Hou, Eric>this. So you could market a return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7566-0
+01:09:34.228 --> 01:09:39.686
+<v Hou, Eric>As for the X and then you could put the
+Microsoft As for the Y so you can have</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7566-1
+01:09:39.686 --> 01:09:45.490
+<v Hou, Eric>this so they can give you some slope than
+like this and then alpha like this so you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7566-2
+01:09:45.490 --> 01:09:48.668
+<v Hou, Eric>can consider this as a restricted
+regression.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7572-0
+01:09:48.668 --> 01:09:51.228
+<v Hou, Eric>Let me show you this three factor model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7588-0
+01:09:54.228 --> 01:10:00.228
+<v Hou, Eric>And then and then and then as I mentioned,
+we are actually using free.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7600-0
+01:10:00.228 --> 01:10:05.708
+<v Hou, Eric>So then in this data I'm using this
+treasure yield as a risk free rate.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7607-0
+01:10:06.148 --> 01:10:08.428
+<v Hou, Eric>So then I can do Apple.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7608-0
+01:10:08.428 --> 01:10:09.548
+<v Hou, Eric>I can do Microsoft.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7624-0
+01:10:09.548 --> 01:10:12.200
+<v Hou, Eric>I can do different things,
+different models,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7624-1
+01:10:12.200 --> 01:10:15.028
+<v Hou, Eric>and you can actually subtract the risk of
+free.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7625-0
+01:10:15.028 --> 01:10:17.148
+<v Hou, Eric>So then you can do.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7634-0
+01:10:18.118 --> 01:10:20.918
+<v Hou, Eric>Do the alpha initial view whereas alpha
+is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7644-0
+01:10:26.958 --> 01:10:30.318
+<v Hou, Eric>So you can have the market return,
+you have the stock return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7651-0
+01:10:31.878 --> 01:10:34.358
+<v Hou, Eric>And this is the three factor model.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7654-0
+01:10:39.508 --> 01:10:40.388
+<v Hou, Eric>Let me see.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7658-0
+01:10:44.028 --> 01:10:45.548
+<v Hou, Eric>Yeah. I apologize, maybe.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7667-0
+01:10:47.518 --> 01:10:52.158
+<v Hou, Eric>Here is the camp.
+So I'm showing you for Apple.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7689-0
+01:10:53.758 --> 01:10:58.621
+<v Hou, Eric>I'm really calculating the market access
+return versus the the stock,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7689-1
+01:10:58.621 --> 01:11:00.358
+<v Hou, Eric>the equity access return.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7695-0
+01:11:00.358 --> 01:11:04.878
+<v Hou, Eric>So then you can actually gauge that you
+know for Apple.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7710-0
+01:11:06.518 --> 01:11:13.158
+<v Hou, Eric>What the beta is and then what return
+from this CAPM model is so then?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7722-0
+01:11:13.588 --> 01:11:15.308
+<v Hou, Eric>This is going to be your result.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7733-0
+01:11:15.788 --> 01:11:20.297
+<v Hou, Eric>I'll clean U this Cam model Jupiter
+notebook a little bit to show you the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7733-1
+01:11:20.297 --> 01:11:21.028
+<v Hou, Eric>chart again.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7778-0
+01:11:22.678 --> 01:11:27.682
+<v Hou, Eric>But next time we can touch base on this,
+I create this state Jubilee book,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7778-1
+01:11:27.682 --> 01:11:33.020
+<v Hou, Eric>Jubilee notebook to show you that there
+is a three factor model versus the CAPN</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7778-2
+01:11:33.020 --> 01:11:38.558
+<v Hou, Eric>which is A1 factor model Y-3 factor model
+is performing better and then we can use</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7778-3
+01:11:38.558 --> 01:11:39.158
+<v Hou, Eric>those ma.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7783-0
+01:11:39.518 --> 01:11:41.398
+<v Hou, Eric>Those metrics to show that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7790-0
+01:11:44.228 --> 01:11:47.508
+<v Hou, Eric>I think that'll be it for today.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7794-0
+01:11:49.078 --> 01:11:49.958
+<v Hou, Eric>If you do have time.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7812-0
+01:11:52.958 --> 01:11:57.263
+<v Hou, Eric>Go to the week one.
+I do have the article about the farm of</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7812-1
+01:11:57.263 --> 01:11:59.918
+<v Hou, Eric>French three factor model over there.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7847-0
+01:12:01.598 --> 01:12:06.140
+<v Hou, Eric>You can definitely read through that
+article and see how they come out the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7847-1
+01:12:06.140 --> 01:12:10.925
+<v Hou, Eric>thought and then and experiment to test
+the three factor model and which we're</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7847-2
+01:12:10.925 --> 01:12:14.558
+<v Hou, Eric>gonna talk in the coming week.
+So that is definitely using.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7867-0
+01:12:14.988 --> 01:12:20.015
+<v Hou, Eric>Multi variable regression model,
+which as a real life example we're gonna</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7867-1
+01:12:20.015 --> 01:12:22.188
+<v Hou, Eric>talk in a in a in a coming week.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7870-0
+01:12:22.748 --> 01:12:22.908
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7876-0
+01:12:23.588 --> 01:12:27.388
+<v Hou, Eric>So the finish is we're gonna talk about
+that later.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7878-0
+01:12:28.918 --> 01:12:29.238
+<v Hou, Eric>Any questions?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7880-0
+01:12:31.348 --> 01:12:32.148
+<v Capozzoli, Jay>Last next Monday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7889-0
+01:12:33.948 --> 01:12:36.468
+<v Hou, Eric>Oh yeah, so is there any issue on Monday?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7891-0
+01:12:36.748 --> 01:12:37.668
+<v Hou, Eric>Is there a holiday?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7895-0
+01:12:38.348 --> 01:12:39.468
+<v Capozzoli, Jay>Yeah, it's a holiday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7896-0
+01:12:39.508 --> 01:12:40.228
+<v Capozzoli, Jay>It's a break.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7897-0
+01:12:39.838 --> 01:12:40.358
+<v Hou, Eric>Is a holiday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7903-0
+01:12:41.228 --> 01:12:42.268
+<v Capozzoli, Jay>Yeah, we have it off.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7906-0
+01:12:42.268 --> 01:12:43.588
+<v Capozzoli, Jay>I think undergraduate has it all.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7910-0
+01:12:44.148 --> 01:12:45.948
+<v Hou, Eric>Really. Oh my God.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7911-0
+01:12:45.318 --> 01:12:45.718
+<v Capozzoli, Jay>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7919-0
+01:12:47.558 --> 01:12:49.078
+<v Hou, Eric>Is that Martin Luther King?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7918-0
+01:12:47.918 --> 01:12:48.758
+<v Mizwicki, Andrew>Yeah, we have it off.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7925-0
+01:12:51.598 --> 01:12:52.078
+<v Hou, Eric>Oh, bummer.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7939-0
+01:12:52.078 --> 01:12:56.798
+<v Hou, Eric>OK, I'll I'll contact the department.
+No one next Monday is a holiday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7942-0
+01:12:56.998 --> 01:12:58.038
+<v Hou, Eric>I didn't know that, OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7954-0
+01:12:58.998 --> 01:13:03.090
+<v Hou, Eric>All right. So, OK,
+I'll I'll contact to contact the the</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7954-1
+01:13:03.090 --> 01:13:04.478
+<v Hou, Eric>finance department.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7959-0
+01:13:05.038 --> 01:13:07.318
+<v Hou, Eric>So maybe we gonna change it.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7962-0
+01:13:07.398 --> 01:13:08.958
+<v Hou, Eric>I will send you guys an e-mail, OK?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7968-0
+01:13:09.618 --> 01:13:12.418
+<v Capozzoli, Jay>And then what do we have a is assignment
+due or?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7998-0
+01:13:13.188 --> 01:13:16.450
+<v Hou, Eric>No,
+we have no assignment due and I'll upload</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7998-1
+01:13:16.450 --> 01:13:22.052
+<v Hou, Eric>those Jupiter notebooks that you can
+experiment on either GitHub or collab and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/7998-2
+01:13:22.052 --> 01:13:24.108
+<v Hou, Eric>then or Kaggle and try those.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8035-0
+01:13:24.708 --> 01:13:27.544
+<v Hou, Eric>Other than that,
+I don't think there's any homework due</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8035-1
+01:13:27.544 --> 01:13:30.076
+<v Hou, Eric>and in case that we don't have class next
+Monday,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8035-2
+01:13:30.076 --> 01:13:33.672
+<v Hou, Eric>so then I will push back all the
+assignments one week back so that you</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8035-3
+01:13:33.672 --> 01:13:35.748
+<v Hou, Eric>have enough time to finish your homework.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8039-0
+01:13:37.148 --> 01:13:37.708
+<v Capozzoli, Jay>Sounds good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8071-0
+01:13:37.828 --> 01:13:40.824
+<v Hou, Eric>Well, oh oh,
+just keep in mind you just signed up for,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8071-1
+01:13:40.824 --> 01:13:43.547
+<v Hou, Eric>you know,
+socialize with your peers in this class</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8071-2
+01:13:43.547 --> 01:13:48.013
+<v Hou, Eric>and then create those groups if that you
+consider that assignment and then that's</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8071-3
+01:13:48.013 --> 01:13:51.880
+<v Hou, Eric>something that maybe you're gonna do
+before the before the next class,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8071-4
+01:13:51.880 --> 01:13:52.588
+<v Hou, Eric>no matter is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8077-0
+01:13:52.588 --> 01:13:54.068
+<v Hou, Eric>This next week or or week after.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8078-0
+01:13:54.978 --> 01:13:55.418
+<v Capozzoli, Jay>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8085-0
+01:13:56.558 --> 01:13:57.478
+<v Hou, Eric>OK, sounds good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8089-0
+01:13:58.118 --> 01:14:00.358
+<v Hou, Eric>Sorry,
+I didn't realize next Monday is a holiday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8091-0
+01:14:02.648 --> 01:14:03.088
+<v Weidner, Declan>All good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8096-0
+01:14:03.628 --> 01:14:05.468
+<v Hou, Eric>Oh, good. OK, sorry about that.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8105-0
+01:14:06.148 --> 01:14:08.548
+<v Hou, Eric>The reason is we don't have a holiday
+next Monday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8108-0
+01:14:08.588 --> 01:14:10.148
+<v Hou, Eric>We have to go work so.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8117-0
+01:14:12.478 --> 01:14:17.278
+<v Hou, Eric>But anyways OK.
+But thank you for reminding me.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8124-0
+01:14:17.278 --> 01:14:19.358
+<v Hou, Eric>I'll contact and I'll send an e-mail to
+you guys.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8126-0
+01:14:19.998 --> 01:14:21.998
+<v Hou, Eric>Other than that, good week.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8146-0
+01:14:22.238 --> 01:14:27.082
+<v Hou, Eric>Have a good week and then enjoy the
+weekend in case we don't meet on Monday.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8146-1
+01:14:27.082 --> 01:14:30.478
+<v Hou, Eric>Enjoy the enjoy the long weekend next
+week this week.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8149-0
+01:14:30.158 --> 01:14:30.558
+<v Capozzoli, Jay>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8151-0
+01:14:30.638 --> 01:14:30.998
+<v Weidner, Declan>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8153-0
+01:14:30.998 --> 01:14:31.558
+<v Weidner, Declan>Have a good one.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8181-0
+01:14:31.998 --> 01:14:33.198
+<v Mertens, Aidric>Thank you, professor. You too.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8176-0
+01:14:32.038 --> 01:14:33.518
+<v Capozzoli, Jay>Thanks. Have a good weekend.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8182-0
+01:14:32.188 --> 01:14:35.308
+<v Hou, Eric>Yeah. Yeah. Talk to you guys next time.
+Thank you. Bye.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8166-0
+01:14:32.208 --> 01:14:32.648
+<v Bodine, Will>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8177-0
+01:14:33.408 --> 01:14:33.768
+<v Carone, Matt>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8183-0
+01:14:33.478 --> 01:14:34.158
+<v Hollenbach, Patrick>Thanks Eric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8189-0
+01:14:35.038 --> 01:14:35.358
+<v Severin, Noah>Thanks Eric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8193-0
+01:14:35.118 --> 01:14:35.798
+<v Hollenbach, Patrick>Yep, sale.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8196-0
+01:14:36.588 --> 01:14:37.188
+<v Teske, Benjamin>Thanks Eric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8211-0
+01:14:36.828 --> 01:14:39.828
+<v Guiter, Sophia>I have a quick question,
+if that's alright.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8209-0
+01:14:38.768 --> 01:14:39.648
+<v Hou, Eric>Oh, go ahead.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8213-0
+01:14:39.648 --> 01:14:40.888
+<v Hou, Eric>What's a quick question I'm leaving.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8215-0
+01:14:41.798 --> 01:14:42.518
+<v Guiter, Sophia>Will you?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8238-0
+01:14:42.518 --> 01:14:47.851
+<v Guiter, Sophia>Will you post the video recordings onto
+D12, or do you have like a syllabusual?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8238-1
+01:14:47.851 --> 01:14:49.318
+<v Guiter, Sophia>Be posting on the D12.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8269-0
+01:14:50.728 --> 01:14:53.695
+<v Hou, Eric>OK,
+I'll need to find where the recording is.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8255-0
+01:14:53.498 --> 01:14:54.018
+<v Guiter, Sophia>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8269-1
+01:14:53.695 --> 01:14:59.048
+<v Hou, Eric>If I just receive the recording and then
+I'll, I'll post it on D2L and I honestly.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8279-0
+01:15:00.798 --> 01:15:02.945
+<v Hou, Eric>Gosh,
+this is the first time I'm using D2L in</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8279-1
+01:15:02.945 --> 01:15:03.318
+<v Hou, Eric>Chicago.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8320-0
+01:15:03.318 --> 01:15:08.039
+<v Hou, Eric>We are using like the blackboard kind of
+thing and then here is using D2L.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8284-0
+01:15:03.788 --> 01:15:03.988
+<v Guiter, Sophia>Mm hmm.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8292-0
+01:15:05.788 --> 01:15:06.268
+<v Guiter, Sophia>Yeah.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8320-1
+01:15:08.039 --> 01:15:12.633
+<v Hou, Eric>I do not know if there is any like
+maximum of the size of the file I can</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8320-2
+01:15:12.633 --> 01:15:16.158
+<v Hou, Eric>upload to DTL or or recording is really
+like sensitive.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8323-0
+01:15:16.158 --> 01:15:17.158
+<v Hou, Eric>I cannot upload.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8336-0
+01:15:17.398 --> 01:15:21.838
+<v Hou, Eric>I will explore and then if I am able to
+upload the recording.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8332-0
+01:15:19.168 --> 01:15:19.648
+<v Guiter, Sophia>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8341-0
+01:15:22.228 --> 01:15:22.548
+<v Hou, Eric>2T2L.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8344-0
+01:15:22.548 --> 01:15:23.668
+<v Hou, Eric>I will let you guys know.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8389-0
+01:15:23.668 --> 01:15:28.216
+<v Hou, Eric>I will send you guys the link so that you
+can always go back and I haven't</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8389-1
+01:15:28.216 --> 01:15:31.429
+<v Hou, Eric>determined the the office hour yet,
+so just for now,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8369-0
+01:15:31.368 --> 01:15:31.848
+<v Guiter, Sophia>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8389-2
+01:15:31.429 --> 01:15:35.067
+<v Hou, Eric>whenever you have a question,
+you have teams to contact me.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8389-3
+01:15:35.067 --> 01:15:37.068
+<v Hou, Eric>You have my e-mail to contact me.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8388-0
+01:15:37.188 --> 01:15:37.388
+<v Guiter, Sophia>Mm hmm.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8397-0
+01:15:38.678 --> 01:15:40.838
+<v Hou, Eric>I'm I'm I'm working like.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8413-0
+01:15:40.838 --> 01:15:45.283
+<v Hou, Eric>I hope you know I I'm consulting
+background so I work like 12 hours or</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8413-1
+01:15:45.283 --> 01:15:46.598
+<v Hou, Eric>more than that a day.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8422-0
+01:15:46.598 --> 01:15:51.038
+<v Hou, Eric>So then send me e-mail any day,
+so I'll reply as soon as possible.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8425-0
+01:15:50.708 --> 01:15:51.068
+<v Guiter, Sophia>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8428-0
+01:15:51.068 --> 01:15:51.508
+<v Guiter, Sophia>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8434-0
+01:15:52.058 --> 01:15:53.578
+<v Hou, Eric>Yeah. So then any question, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8451-0
+01:15:53.578 --> 01:15:56.688
+<v Hou, Eric>So then I mean,
+this is a really a period of time that we</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8451-1
+01:15:56.688 --> 01:15:58.458
+<v Hou, Eric>will building foundations, right?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8472-0
+01:15:58.458 --> 01:16:01.653
+<v Hou, Eric>So then I'm pretty sure it is a
+straightforward for you guys,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8472-1
+01:16:01.653 --> 01:16:05.518
+<v Hou, Eric>but however when we entered a newer
+network, those kind of models it will.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8472-2
+01:16:05.518 --> 01:16:07.218
+<v Hou, Eric>It may not be as straightforward.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8476-0
+01:16:07.378 --> 01:16:09.538
+<v Hou, Eric>So that any question please ask now.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8478-0
+01:16:10.958 --> 01:16:11.198
+<v Guiter, Sophia>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8481-0
+01:16:11.198 --> 01:16:11.758
+<v Guiter, Sophia>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8502-0
+01:16:12.088 --> 01:16:16.467
+<v Hou, Eric>And and I I don't like the online kind of
+version because I don't see you guys,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8496-0
+01:16:15.748 --> 01:16:15.948
+<v Guiter, Sophia>Mm hmm.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8502-1
+01:16:16.467 --> 01:16:18.328
+<v Hou, Eric>you know in person will be better.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8544-0
+01:16:19.878 --> 01:16:23.152
+<v Hou, Eric>So send me e-mail,
+send me message on teams and then I'll</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8544-1
+01:16:23.152 --> 01:16:27.725
+<v Hou, Eric>reply, OK and then and then recording.
+I'll upload and I'll I'll explore whether</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8522-0
+01:16:25.268 --> 01:16:25.868
+<v Guiter, Sophia>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8544-2
+01:16:27.725 --> 01:16:30.321
+<v Hou, Eric>or not we have class on Monday.
+If you don't,</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8544-3
+01:16:30.321 --> 01:16:32.918
+<v Hou, Eric>I mean we have one one week free.
+Oh my gosh.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8549-0
+01:16:34.598 --> 01:16:35.078
+<v Hou, Eric>This is good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8554-0
+01:16:35.238 --> 01:16:36.038
+<v Hou, Eric>I mean, this is good.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8555-0
+01:16:35.798 --> 01:16:37.278
+<v Guiter, Sophia>Perfect. Yes.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8579-0
+01:16:36.558 --> 01:16:40.078
+<v Hou, Eric>Yeah,
+I will send a survey to you guys and</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8579-1
+01:16:40.078 --> 01:16:46.789
+<v Hou, Eric>hopefully you you can tell me whether or
+not this is too much math or is too fuel</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8579-2
+01:16:46.789 --> 01:16:47.198
+<v Hou, Eric>math.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8581-0
+01:16:47.198 --> 01:16:48.238
+<v Hou, Eric>I feel not.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8584-0
+01:16:49.628 --> 01:16:50.748
+<v Hou, Eric>Tell me your feedback.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8590-0
+01:16:51.408 --> 01:16:52.928
+<v Guiter, Sophia>Great. I appreciate it. Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8588-0
+01:16:53.168 --> 01:16:53.408
+<v Hou, Eric>OK.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8591-0
+01:16:53.408 --> 01:16:53.728
+<v Hou, Eric>Thank you.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8594-0
+01:16:55.238 --> 01:16:56.198
+<v Hou, Eric>Any other questions folks?</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8598-0
+01:17:01.178 --> 01:17:01.698
+<v Teske, Benjamin>Thanks Eric.</v>
+
+e3693b7d-e102-4ff4-94de-c45c4a3a1e14/8600-0
+01:17:02.258 --> 01:17:02.778
+<v Hou, Eric>Oh, thank you.</v>
