@@ -32,9 +32,47 @@ if not OPENAI_API_KEY:
 
 
 class EnhancedPricePredictionSignature(dspy.Signature):
-    """Enhanced prediction signature with industry classification."""
+    """
+    You are a senior finance analyst. Analyze the news content and predict stock price impact.
+    
+    IMPORTANT: You must return ONLY a valid JSON array. No explanations, no additional text.
+    
+    For each company mentioned in the news, provide a prediction object with these exact fields:
+    - company: string (company name, never leave empty)
+    - ticker: string (stock ticker symbol like "AAPL", "MSFT", never leave empty)
+    - industry: string (e.g., "Technology", "Healthcare", "Finance", "Energy", "Consumer Goods", "Other")
+    - industry_subcategory: string (specific sector within the industry)
+    - sentiment: string ("Positive", "Negative", or "Neutral")
+    - ai_comments: string (brief analysis of expected impact)
+    - short_run_days: number (integer, days for short-term prediction, typically 1-30)
+    - short_run_range_low_percent: number (float, lowest expected percentage change, can be negative)
+    - short_run_range_high_percent: number (float, highest expected percentage change)  
+    - long_run_range_percent: number (float, long-term percentage change prediction for 6-12 months)
+    - confidence_score: number (0-100, your confidence in this prediction)
+    
+    Example format:
+    [
+      {
+        "company": "Apple Inc",
+        "ticker": "AAPL",
+        "industry": "Technology",
+        "industry_subcategory": "Consumer Electronics",
+        "sentiment": "Positive",
+        "ai_comments": "Positive earnings report likely to drive stock up 5-8% in next 2 weeks",
+        "short_run_days": 10,
+        "short_run_range_low_percent": 2.5,
+        "short_run_range_high_percent": 7.8,
+        "long_run_range_percent": 12.5,
+        "confidence_score": 85
+      }
+    ]
+    
+    If no companies with clear stock impact are mentioned, return: []
+    
+    CRITICAL: Return ONLY the JSON array, nothing else. All numeric fields must have values.
+    """
     text: str = dspy.InputField(desc="news content to analyze")
-    records_json: str = dspy.OutputField(desc="JSON array of predictions with industry, sentiment, confidence")
+    records_json: str = dspy.OutputField(desc="JSON array of predictions with all required fields")
 
 
 class StockPriceAPI:
@@ -465,15 +503,15 @@ class DeepDiveAnalyzer:
         avg_actual = np.mean(actual_growths)
         
         summary = f"""
-Deep Dive Analysis for {ticker}:
-- Total news items: {len(predictions_df)}
-- Valid pairs: {len(actual_growths)}
-- Avg predicted growth: {avg_predicted:.2f}%
-- Avg actual growth (30d): {avg_actual:.2f}%
-- Correlation: {correlation:.3f} (p={p_value:.4f})
-- Prediction accuracy: {accuracy:.1f}%
-- Bias: {avg_predicted - avg_actual:.2f}%
-"""
+                    Deep Dive Analysis for {ticker}:
+                    - Total news items: {len(predictions_df)}
+                    - Valid pairs: {len(actual_growths)}
+                    - Avg predicted growth: {avg_predicted:.2f}%
+                    - Avg actual growth (30d): {avg_actual:.2f}%
+                    - Correlation: {correlation:.3f} (p={p_value:.4f})
+                    - Prediction accuracy: {accuracy:.1f}%
+                    - Bias: {avg_predicted - avg_actual:.2f}%
+                    """
         
         analysis_result = {
             'ticker': ticker,

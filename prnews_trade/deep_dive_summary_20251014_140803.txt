@@ -1,0 +1,82 @@
+================================================================================
+DEEP DIVE ANALYSIS SUMMARY REPORT
+Generated: 2025-10-14 14:08:03
+================================================================================
+
+
+--------------------------------------------------------------------------------
+Deep Dive Analysis for GTBP:
+                    - Total news items: 3
+                    - Valid pairs: 3
+                    - Avg predicted growth: 25.00%
+                    - Avg actual growth (30d): -35.64%
+                    - Correlation: nan (p=nan)
+                    - Prediction accuracy: 39.4%
+                    - Bias: 60.64%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Deep Dive Analysis for APLD:
+                    - Total news items: 3
+                    - Valid pairs: 3
+                    - Avg predicted growth: 17.67%
+                    - Avg actual growth (30d): 26.27%
+                    - Correlation: nan (p=nan)
+                    - Prediction accuracy: 91.4%
+                    - Bias: -8.60%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Deep Dive Analysis for LXEO:
+                    - Total news items: 3
+                    - Valid pairs: 3
+                    - Avg predicted growth: 20.00%
+                    - Avg actual growth (30d): 2.49%
+                    - Correlation: nan (p=nan)
+                    - Prediction accuracy: 82.5%
+                    - Bias: 17.51%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Deep Dive Analysis for OPEN:
+                    - Total news items: 3
+                    - Valid pairs: 3
+                    - Avg predicted growth: 16.67%
+                    - Avg actual growth (30d): -15.55%
+                    - Correlation: nan (p=nan)
+                    - Prediction accuracy: 67.8%
+                    - Bias: 32.21%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Deep Dive Analysis for POM:
+                    - Total news items: 3
+                    - Valid pairs: 3
+                    - Avg predicted growth: 20.00%
+                    - Avg actual growth (30d): 0.00%
+                    - Correlation: nan (p=nan)
+                    - Prediction accuracy: 80.0%
+                    - Bias: 20.00%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Deep Dive Analysis for SCGX:
+                    - Total news items: 3
+                    - Valid pairs: 3
+                    - Avg predicted growth: 16.67%
+                    - Avg actual growth (30d): 0.00%
+                    - Correlation: nan (p=nan)
+                    - Prediction accuracy: 83.3%
+                    - Bias: 16.67%
+--------------------------------------------------------------------------------
+
+
+================================================================================
+OVERALL STATISTICS
+================================================================================
+Total stocks analyzed: 6
+Average correlation: nan
+Average prediction accuracy: 74.1%
+
+Best correlation: GTBP (nan)
+Worst correlation: GTBP (nan)
